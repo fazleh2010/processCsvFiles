@@ -1,0 +1,46 @@
+[ {
+  "id" : 4,
+  "pattern" : "appeared",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:television @en", "AllConf=0.0504201680672269", "triple=e dbp:television @en", "class=Chef", "{AllConf=0.0504201680672269 condAB=0.545454545454545 condBA=0.0504201680672269 supA=11.0 supB=119.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/television", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 6,
+  "pattern" : "best_known",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:restaurants @en", "AllConf=0.0294117647058824", "triple=e dbp:restaurants @en", "class=Chef", "{AllConf=0.0294117647058824 condAB=0.857142857142857 condBA=0.0294117647058824 supA=7.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/restaurants", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 7,
+  "pattern" : "born",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Spain", "AllConf=0.0279329608938547", "triple=e dbo:birthPlace Spain", "class=Chef", "{AllConf=0.0279329608938547 condAB=0.0279329608938547 condBA=0.454545454545455 supA=179.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Spain" ],
+    "1" : [ "kb=dbo:birthPlace India", "AllConf=0.0446927374301676", "triple=e dbo:birthPlace India", "class=Chef", "{AllConf=0.0446927374301676 condAB=0.0446927374301676 condBA=0.533333333333333 supA=179.0 supB=15.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/India" ],
+    "2" : [ "kb=dbo:birthPlace France", "AllConf=0.212290502793296", "triple=e dbo:birthPlace France", "class=Chef", "{AllConf=0.212290502793296 condAB=0.212290502793296 condBA=0.716981132075472 supA=179.0 supB=53.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/France" ],
+    "3" : [ "kb=dbo:birthPlace United_States", "AllConf=0.0335195530726257", "triple=e dbo:birthPlace United_States", "class=Chef", "{AllConf=0.0335195530726257 condAB=0.0335195530726257 condBA=0.260869565217391 supA=179.0 supB=23.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "4" : [ "kb=dbo:birthPlace Italy", "AllConf=0.0446927374301676", "triple=e dbo:birthPlace Italy", "class=Chef", "{AllConf=0.0446927374301676 condAB=0.0446927374301676 condBA=0.533333333333333 supA=179.0 supB=15.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Italy" ],
+    "5" : [ "kb=dbp:ratings Michelin stars@en", "AllConf=0.0352112676056338", "triple=e dbp:ratings Michelin stars@en", "class=Chef", "{AllConf=0.0352112676056338 condAB=0.833333333333333 condBA=0.0352112676056338 supA=6.0 supB=142.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/ratings", "object=\"\"\"Michelin stars\"\"@en\"" ],
+    "6" : [ "kb=dbp:style Indian_cuisine", "AllConf=0.10958904109589", "triple=e dbp:style Indian_cuisine", "class=Chef", "{AllConf=0.10958904109589 condAB=0.10958904109589 condBA=0.363636363636364 supA=73.0 supB=22.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/style", "object=http://dbpedia.org/resource/Indian_cuisine" ],
+    "7" : [ "kb=dbp:style Italian_cuisine", "AllConf=0.10958904109589", "triple=e dbp:style Italian_cuisine", "class=Chef", "{AllConf=0.10958904109589 condAB=0.10958904109589 condBA=0.205128205128205 supA=73.0 supB=39.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/style", "object=http://dbpedia.org/resource/Italian_cuisine" ],
+    "8" : [ "kb=dbp:style Japanese_cuisine", "AllConf=0.0821917808219178", "triple=e dbp:style Japanese_cuisine", "class=Chef", "{AllConf=0.0821917808219178 condAB=0.0821917808219178 condBA=0.545454545454545 supA=73.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/style", "object=http://dbpedia.org/resource/Japanese_cuisine" ],
+    "9" : [ "kb=dbp:style French_cuisine", "AllConf=0.26027397260274", "triple=e dbp:style French_cuisine", "class=Chef", "{AllConf=0.26027397260274 condAB=0.26027397260274 condBA=0.296875 supA=73.0 supB=64.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/style", "object=http://dbpedia.org/resource/French_cuisine" ],
+    "10" : [ "kb=dbp:restaurants @en", "AllConf=0.0735294117647059", "triple=e dbp:restaurants @en", "class=Chef", "{AllConf=0.0735294117647059 condAB=0.46875 condBA=0.0735294117647059 supA=32.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/restaurants", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 29,
+  "pattern" : "known",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:restaurants @en", "AllConf=0.0294117647058824", "triple=e dbp:restaurants @en", "class=Chef", "{AllConf=0.0294117647058824 condAB=1.0 condBA=0.0294117647058824 supA=6.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/restaurants", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 58,
+  "pattern" : "won",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:award James_Beard_Foundation_Award", "AllConf=0.225806451612903", "triple=e dbo:award James_Beard_Foundation_Award", "class=Chef", "{AllConf=0.225806451612903 condAB=0.875 condBA=0.225806451612903 supA=8.0 supB=31.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/award", "object=http://dbpedia.org/resource/James_Beard_Foundation_Award" ]
+  }
+} ]
