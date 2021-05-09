@@ -1,0 +1,699 @@
+[ {
+  "id" : 1,
+  "pattern" : "$_",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.05", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.05 condAB=0.785714285714286 condBA=0.05 supA=14.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=0.227272727272727 condBA=0.0480769230769231 supA=22.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 4,
+  "pattern" : "1_world",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=1.0 condBA=0.0318181818181818 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 5,
+  "pattern" : "1_world_series",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=1.0 condBA=0.0318181818181818 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 6,
+  "pattern" : "1_world_series_poker",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=1.0 condBA=0.0318181818181818 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 7,
+  "pattern" : "20",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0409090909090909", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0409090909090909 condAB=1.0 condBA=0.0409090909090909 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 8,
+  "pattern" : "2008",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.857142857142857 condBA=0.0272727272727273 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 9,
+  "pattern" : "201",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.857142857142857 condBA=0.0272727272727273 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 10,
+  "pattern" : "2_",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 0^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.153846153846154", "triple=e dbp:wsopBraceletCount 0^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.153846153846154 condAB=1.0 condBA=0.153846153846154 supA=6.0 supB=39.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"0\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 11,
+  "pattern" : "account",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.75 condBA=0.0272727272727273 supA=8.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 12,
+  "pattern" : "also",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0545454545454545", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0545454545454545 condAB=0.571428571428571 condBA=0.0545454545454545 supA=21.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0576923076923077", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0576923076923077 condAB=0.285714285714286 condBA=0.0576923076923077 supA=21.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 13,
+  "pattern" : "american",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.113636363636364", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.113636363636364 condAB=0.757575757575758 condBA=0.113636363636364 supA=33.0 supB=220.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 14,
+  "pattern" : "american_poker",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0409090909090909", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0409090909090909 condAB=1.0 condBA=0.0409090909090909 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 15,
+  "pattern" : "american_poker_player",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0409090909090909", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0409090909090909 condAB=0.9 condBA=0.0409090909090909 supA=10.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 17,
+  "pattern" : "american_professional_poker",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0636363636363636", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0636363636363636 condAB=0.666666666666667 condBA=0.0636363636363636 supA=21.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 18,
+  "pattern" : "american_professional_poker_player",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.857142857142857 condBA=0.0272727272727273 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 19,
+  "pattern" : "april",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0363636363636364", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0363636363636364 condAB=0.666666666666667 condBA=0.0363636363636364 supA=12.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 20,
+  "pattern" : "august",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=1.0 condBA=0.0272727272727273 supA=6.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 22,
+  "pattern" : "born_august",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=1.0 condBA=0.0227272727272727 supA=5.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 23,
+  "pattern" : "born_c",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=0.833333333333333 condBA=0.0227272727272727 supA=6.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 24,
+  "pattern" : "born_july",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.75 condBA=0.0272727272727273 supA=8.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 25,
+  "pattern" : "born_june",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=1.0 condBA=0.0227272727272727 supA=5.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 26,
+  "pattern" : "bracelet",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=0.555555555555556 condBA=0.0227272727272727 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0673076923076923", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0673076923076923 condAB=0.318181818181818 condBA=0.0673076923076923 supA=22.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 28,
+  "pattern" : "bracelet_20",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=1.0 condBA=0.0318181818181818 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 29,
+  "pattern" : "bracelet_201",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=1.0 condBA=0.0272727272727273 supA=6.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 30,
+  "pattern" : "cash",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.857142857142857 condBA=0.0272727272727273 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 31,
+  "pattern" : "cashes",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0545454545454545", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0545454545454545 condAB=0.857142857142857 condBA=0.0545454545454545 supA=14.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopMainEventBestFinishRank 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.166666666666667", "triple=e dbp:wsopMainEventBestFinishRank 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.166666666666667 condAB=0.625 condBA=0.166666666666667 supA=8.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMainEventBestFinishRank", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 32,
+  "pattern" : "champion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0727272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0727272727272727 condAB=1.0 condBA=0.0727272727272727 supA=16.0 supB=220.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 33,
+  "pattern" : "december",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=0.7 condBA=0.0318181818181818 supA=10.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 34,
+  "pattern" : "event",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0363636363636364", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0363636363636364 condAB=0.533333333333333 condBA=0.0363636363636364 supA=15.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0673076923076923", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0673076923076923 condAB=0.233333333333333 condBA=0.0673076923076923 supA=30.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.2", "triple=e dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.2 condAB=0.214285714285714 condBA=0.2 supA=28.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMainEventBestFinishYear", "object=\"\"\"2008\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 36,
+  "pattern" : "february",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=0.875 condBA=0.0318181818181818 supA=8.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 38,
+  "pattern" : "final_tables",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.75 condBA=0.0272727272727273 supA=8.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 40,
+  "pattern" : "finished_money",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=0.777777777777778 condBA=0.0318181818181818 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 41,
+  "pattern" : "first",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=0.555555555555556 condBA=0.0227272727272727 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0769230769230769", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0769230769230769 condAB=0.242424242424242 condBA=0.0769230769230769 supA=33.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 42,
+  "pattern" : "first_world",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.857142857142857 condBA=0.0272727272727273 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 43,
+  "pattern" : "first_world_series",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.75 condBA=0.0272727272727273 supA=8.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 44,
+  "pattern" : "first_world_series_poker",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.75 condBA=0.0272727272727273 supA=8.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 47,
+  "pattern" : "german_professional_poker",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace Germany", "AllConf=0.833333333333333", "triple=e dbp:birthPlace Germany", "class=PokerPlayer", "{AllConf=0.833333333333333 condAB=0.833333333333333 condBA=1.0 supA=6.0 supB=5.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Germany" ]
+  }
+}, {
+  "id" : 48,
+  "pattern" : "german_professional_poker_player",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace Germany", "AllConf=0.833333333333333", "triple=e dbp:birthPlace Germany", "class=PokerPlayer", "{AllConf=0.833333333333333 condAB=0.833333333333333 condBA=1.0 supA=6.0 supB=5.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Germany" ]
+  }
+}, {
+  "id" : 50,
+  "pattern" : "hold'em_event",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=0.777777777777778 condBA=0.0318181818181818 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 51,
+  "pattern" : "july",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0454545454545455", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0454545454545455 condAB=0.666666666666667 condBA=0.0454545454545455 supA=15.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 52,
+  "pattern" : "june",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=1.0 condBA=0.0318181818181818 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 53,
+  "pattern" : "limit",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=0.714285714285714 condBA=0.0227272727272727 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopMoneyFinishes 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.142857142857143", "triple=e dbp:wsopMoneyFinishes 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.142857142857143 condAB=0.625 condBA=0.142857142857143 supA=8.0 supB=35.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMoneyFinishes", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 55,
+  "pattern" : "live_tournament",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=0.555555555555556 condBA=0.0480769230769231 supA=9.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0588235294117647", "triple=e dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0588235294117647 condAB=0.714285714285714 condBA=0.0588235294117647 supA=7.0 supB=85.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 56,
+  "pattern" : "live_tournament_winnings",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0588235294117647", "triple=e dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0588235294117647 condAB=0.833333333333333 condBA=0.0588235294117647 supA=6.0 supB=85.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wptFinalTables 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0923076923076923", "triple=e dbp:wptFinalTables 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0923076923076923 condAB=0.5 condBA=0.0923076923076923 supA=12.0 supB=65.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptFinalTables", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 57,
+  "pattern" : "live_tournament_winnings_exceed",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0588235294117647", "triple=e dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0588235294117647 condAB=0.833333333333333 condBA=0.0588235294117647 supA=6.0 supB=85.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wptFinalTables 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0923076923076923", "triple=e dbp:wptFinalTables 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0923076923076923 condAB=0.6 condBA=0.0923076923076923 supA=10.0 supB=65.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptFinalTables", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 59,
+  "pattern" : "main",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=0.5 condBA=0.0318181818181818 supA=14.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=0.357142857142857 condBA=0.0480769230769231 supA=14.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.2", "triple=e dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.2 condAB=0.214285714285714 condBA=0.2 supA=28.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMainEventBestFinishYear", "object=\"\"\"2008\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 60,
+  "pattern" : "main_event",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=0.5 condBA=0.0318181818181818 supA=14.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=0.357142857142857 condBA=0.0480769230769231 supA=14.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.2", "triple=e dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.2 condAB=0.214285714285714 condBA=0.2 supA=28.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMainEventBestFinishYear", "object=\"\"\"2008\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 61,
+  "pattern" : "money",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=0.777777777777778 condBA=0.0318181818181818 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 62,
+  "pattern" : "nevada",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=1.0 condBA=0.0318181818181818 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 63,
+  "pattern" : "october",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=1.0 condBA=0.0272727272727273 supA=6.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 64,
+  "pattern" : "place",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=0.777777777777778 condBA=0.0318181818181818 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wptMoneyFinishes 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0609756097560976", "triple=e dbp:wptMoneyFinishes 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0609756097560976 condAB=0.357142857142857 condBA=0.0609756097560976 supA=14.0 supB=82.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptMoneyFinishes", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 65,
+  "pattern" : "player",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.236363636363636", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.236363636363636 condAB=0.776119402985075 condBA=0.236363636363636 supA=67.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0673076923076923", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0673076923076923 condAB=0.104477611940299 condBA=0.0673076923076923 supA=67.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wsopMoneyFinishes 9^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.178571428571429", "triple=e dbp:wsopMoneyFinishes 9^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.178571428571429 condAB=0.178571428571429 condBA=0.217391304347826 supA=28.0 supB=23.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMoneyFinishes", "object=\"\"\"9\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbp:birthPlace Germany", "AllConf=0.217391304347826", "triple=e dbp:birthPlace Germany", "class=PokerPlayer", "{AllConf=0.217391304347826 condAB=0.217391304347826 condBA=1.0 supA=23.0 supB=5.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Germany" ]
+  }
+}, {
+  "id" : 66,
+  "pattern" : "player_won",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=0.714285714285714 condBA=0.0227272727272727 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 68,
+  "pattern" : "poker",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 0^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.128205128205128", "triple=e dbp:wsopBraceletCount 0^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.128205128205128 condAB=0.131578947368421 condBA=0.128205128205128 supA=38.0 supB=39.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"0\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.122727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.122727272727273 condAB=0.5625 condBA=0.122727272727273 supA=48.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.115384615384615", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.115384615384615 condAB=0.285714285714286 condBA=0.115384615384615 supA=42.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbp:wsopMoneyFinishes 5^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.161290322580645", "triple=e dbp:wsopMoneyFinishes 5^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.161290322580645 condAB=0.161290322580645 condBA=0.166666666666667 supA=31.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMoneyFinishes", "object=\"\"\"5\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "4" : [ "kb=dbp:wsopMoneyFinishes 19^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.172413793103448", "triple=e dbp:wsopMoneyFinishes 19^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.172413793103448 condAB=0.172413793103448 condBA=0.416666666666667 supA=29.0 supB=12.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMoneyFinishes", "object=\"\"\"19\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "5" : [ "kb=dbp:wsopMoneyFinishes 9^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.172413793103448", "triple=e dbp:wsopMoneyFinishes 9^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.172413793103448 condAB=0.172413793103448 condBA=0.217391304347826 supA=29.0 supB=23.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMoneyFinishes", "object=\"\"\"9\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "6" : [ "kb=dbp:birthPlace Germany", "AllConf=0.208333333333333", "triple=e dbp:birthPlace Germany", "class=PokerPlayer", "{AllConf=0.208333333333333 condAB=0.208333333333333 condBA=1.0 supA=24.0 supB=5.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Germany" ],
+    "7" : [ "kb=dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.125", "triple=e dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.125 condAB=0.125 condBA=0.166666666666667 supA=40.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMainEventBestFinishYear", "object=\"\"\"2008\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 69,
+  "pattern" : "poker_bracelet",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.857142857142857 condBA=0.0272727272727273 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 70,
+  "pattern" : "poker_bracelet_20",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=1.0 condBA=0.0272727272727273 supA=6.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 71,
+  "pattern" : "poker_bracelet_201",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=1.0 condBA=0.0272727272727273 supA=6.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 72,
+  "pattern" : "poker_champion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0727272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0727272727272727 condAB=1.0 condBA=0.0727272727272727 supA=16.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 73,
+  "pattern" : "poker_player",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0772727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0772727272727273 condAB=0.85 condBA=0.0772727272727273 supA=20.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0673076923076923", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0673076923076923 condAB=0.106060606060606 condBA=0.0673076923076923 supA=66.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wsopMoneyFinishes 9^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.185185185185185", "triple=e dbp:wsopMoneyFinishes 9^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.185185185185185 condAB=0.185185185185185 condBA=0.217391304347826 supA=27.0 supB=23.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMoneyFinishes", "object=\"\"\"9\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbp:birthPlace Germany", "AllConf=0.217391304347826", "triple=e dbp:birthPlace Germany", "class=PokerPlayer", "{AllConf=0.217391304347826 condAB=0.217391304347826 condBA=1.0 supA=23.0 supB=5.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Germany" ]
+  }
+}, {
+  "id" : 74,
+  "pattern" : "poker_player_won",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=0.714285714285714 condBA=0.0227272727272727 supA=7.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 76,
+  "pattern" : "professional_poker",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0409090909090909", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0409090909090909 condAB=0.818181818181818 condBA=0.0409090909090909 supA=11.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=0.116279069767442 condBA=0.0480769230769231 supA=43.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:birthPlace Germany", "AllConf=0.238095238095238", "triple=e dbp:birthPlace Germany", "class=PokerPlayer", "{AllConf=0.238095238095238 condAB=0.238095238095238 condBA=1.0 supA=21.0 supB=5.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Germany" ]
+  }
+}, {
+  "id" : 77,
+  "pattern" : "professional_poker_player",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.145454545454545", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.145454545454545 condAB=0.744186046511628 condBA=0.145454545454545 supA=43.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=0.116279069767442 condBA=0.0480769230769231 supA=43.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:birthPlace Germany", "AllConf=0.238095238095238", "triple=e dbp:birthPlace Germany", "class=PokerPlayer", "{AllConf=0.238095238095238 condAB=0.238095238095238 condBA=1.0 supA=21.0 supB=5.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Germany" ]
+  }
+}, {
+  "id" : 79,
+  "pattern" : "second_bracelet",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=1.0 condBA=0.0480769230769231 supA=5.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 80,
+  "pattern" : "september",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.545454545454545 condBA=0.0272727272727273 supA=11.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 81,
+  "pattern" : "series",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.104545454545455", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.104545454545455 condAB=0.560975609756098 condBA=0.104545454545455 supA=41.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.115384615384615", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.115384615384615 condAB=0.292682926829268 condBA=0.115384615384615 supA=41.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wsopMoneyFinishes 5^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.166666666666667", "triple=e dbp:wsopMoneyFinishes 5^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.166666666666667 condAB=0.192307692307692 condBA=0.166666666666667 supA=26.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMoneyFinishes", "object=\"\"\"5\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbp:wptTitles 0^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.175", "triple=e dbp:wptTitles 0^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.175 condAB=0.7 condBA=0.175 supA=10.0 supB=40.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"0\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "4" : [ "kb=dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.135135135135135", "triple=e dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.135135135135135 condAB=0.135135135135135 condBA=0.166666666666667 supA=37.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMainEventBestFinishYear", "object=\"\"\"2008\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 82,
+  "pattern" : "series_poker",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.104545454545455", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.104545454545455 condAB=0.560975609756098 condBA=0.104545454545455 supA=41.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.115384615384615", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.115384615384615 condAB=0.292682926829268 condBA=0.115384615384615 supA=41.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wptTitles 0^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.175", "triple=e dbp:wptTitles 0^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.175 condAB=0.7 condBA=0.175 supA=10.0 supB=40.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"0\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.135135135135135", "triple=e dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.135135135135135 condAB=0.135135135135135 condBA=0.166666666666667 supA=37.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMainEventBestFinishYear", "object=\"\"\"2008\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 83,
+  "pattern" : "series_poker_bracelet",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0727272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0727272727272727 condAB=0.842105263157895 condBA=0.0727272727272727 supA=19.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 84,
+  "pattern" : "series_poker_champion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0727272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0727272727272727 condAB=1.0 condBA=0.0727272727272727 supA=16.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 85,
+  "pattern" : "tables",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.75 condBA=0.0272727272727273 supA=8.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 86,
+  "pattern" : "total",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=0.454545454545455 condBA=0.0227272727272727 supA=11.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=0.555555555555556 condBA=0.0480769230769231 supA=9.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 88,
+  "pattern" : "total_live_tournament",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=0.555555555555556 condBA=0.0480769230769231 supA=9.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0588235294117647", "triple=e dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0588235294117647 condAB=0.714285714285714 condBA=0.0588235294117647 supA=7.0 supB=85.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 89,
+  "pattern" : "total_live_tournament_winnings",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0588235294117647", "triple=e dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0588235294117647 condAB=0.833333333333333 condBA=0.0588235294117647 supA=6.0 supB=85.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wptFinalTables 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0769230769230769", "triple=e dbp:wptFinalTables 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0769230769230769 condAB=0.555555555555556 condBA=0.0769230769230769 supA=9.0 supB=65.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptFinalTables", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 90,
+  "pattern" : "total_live_tournament_winnings_exceed",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0588235294117647", "triple=e dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0588235294117647 condAB=0.833333333333333 condBA=0.0588235294117647 supA=6.0 supB=85.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wptFinalTables 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0923076923076923", "triple=e dbp:wptFinalTables 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0923076923076923 condAB=0.666666666666667 condBA=0.0923076923076923 supA=9.0 supB=65.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptFinalTables", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 91,
+  "pattern" : "tournament",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.05", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.05 condAB=0.55 condBA=0.05 supA=20.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0769230769230769", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0769230769230769 condAB=0.4 condBA=0.0769230769230769 supA=20.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 92,
+  "pattern" : "tournament_winnings",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.461538461538462 condBA=0.0272727272727273 supA=13.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0673076923076923", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0673076923076923 condAB=0.538461538461538 condBA=0.0673076923076923 supA=13.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 93,
+  "pattern" : "tournament_winnings_exceed",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=0.625 condBA=0.0480769230769231 supA=8.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0588235294117647", "triple=e dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0588235294117647 condAB=0.833333333333333 condBA=0.0588235294117647 supA=6.0 supB=85.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 94,
+  "pattern" : "winnings",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0318181818181818", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0318181818181818 condAB=0.5 condBA=0.0318181818181818 supA=14.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0673076923076923", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0673076923076923 condAB=0.5 condBA=0.0673076923076923 supA=14.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 95,
+  "pattern" : "winnings_exceed",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0480769230769231", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0480769230769231 condAB=0.625 condBA=0.0480769230769231 supA=8.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0588235294117647", "triple=e dbp:wptTitles 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0588235294117647 condAB=0.833333333333333 condBA=0.0588235294117647 supA=6.0 supB=85.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 98,
+  "pattern" : "won_first_world",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=0.833333333333333 condBA=0.0227272727272727 supA=6.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 99,
+  "pattern" : "won_first_world_series",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=0.833333333333333 condBA=0.0227272727272727 supA=6.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 100,
+  "pattern" : "won_first_world_series_poker_bracelet_20",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=1.0 condBA=0.0227272727272727 supA=5.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 101,
+  "pattern" : "won_first_world_series_poker_bracelet_201",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0227272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0227272727272727 condAB=1.0 condBA=0.0227272727272727 supA=5.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 103,
+  "pattern" : "won_world",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0363636363636364", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0363636363636364 condAB=0.888888888888889 condBA=0.0363636363636364 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 104,
+  "pattern" : "won_world_series",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0363636363636364", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0363636363636364 condAB=0.888888888888889 condBA=0.0363636363636364 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 105,
+  "pattern" : "world",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.113636363636364", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.113636363636364 condAB=0.555555555555556 condBA=0.113636363636364 supA=45.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.115384615384615", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.115384615384615 condAB=0.266666666666667 condBA=0.115384615384615 supA=45.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wsopMoneyFinishes 5^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.2", "triple=e dbp:wsopMoneyFinishes 5^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.2 condAB=0.206896551724138 condBA=0.2 supA=29.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMoneyFinishes", "object=\"\"\"5\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbp:wptTitles 0^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.175", "triple=e dbp:wptTitles 0^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.175 condAB=0.583333333333333 condBA=0.175 supA=12.0 supB=40.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"0\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "4" : [ "kb=dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.128205128205128", "triple=e dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.128205128205128 condAB=0.128205128205128 condBA=0.166666666666667 supA=39.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMainEventBestFinishYear", "object=\"\"\"2008\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 106,
+  "pattern" : "world_series",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.104545454545455", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.104545454545455 condAB=0.560975609756098 condBA=0.104545454545455 supA=41.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.115384615384615", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.115384615384615 condAB=0.292682926829268 condBA=0.115384615384615 supA=41.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wsopMoneyFinishes 5^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.166666666666667", "triple=e dbp:wsopMoneyFinishes 5^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.166666666666667 condAB=0.192307692307692 condBA=0.166666666666667 supA=26.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMoneyFinishes", "object=\"\"\"5\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbp:wptTitles 0^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.175", "triple=e dbp:wptTitles 0^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.175 condAB=0.7 condBA=0.175 supA=10.0 supB=40.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"0\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "4" : [ "kb=dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.135135135135135", "triple=e dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.135135135135135 condAB=0.135135135135135 condBA=0.166666666666667 supA=37.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMainEventBestFinishYear", "object=\"\"\"2008\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 107,
+  "pattern" : "world_series_poker",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.104545454545455", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.104545454545455 condAB=0.560975609756098 condBA=0.104545454545455 supA=41.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.115384615384615", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.115384615384615 condAB=0.292682926829268 condBA=0.115384615384615 supA=41.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:wptTitles 0^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.175", "triple=e dbp:wptTitles 0^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.175 condAB=0.7 condBA=0.175 supA=10.0 supB=40.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wptTitles", "object=\"\"\"0\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.135135135135135", "triple=e dbp:wsopMainEventBestFinishYear 2008^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.135135135135135 condAB=0.135135135135135 condBA=0.166666666666667 supA=37.0 supB=30.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopMainEventBestFinishYear", "object=\"\"\"2008\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 108,
+  "pattern" : "world_series_poker_bracelet",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0727272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0727272727272727 condAB=0.842105263157895 condBA=0.0727272727272727 supA=19.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 109,
+  "pattern" : "world_series_poker_champion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0727272727272727", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0727272727272727 condAB=1.0 condBA=0.0727272727272727 supA=16.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 110,
+  "pattern" : "wsop",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0636363636363636", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0636363636363636 condAB=0.608695652173913 condBA=0.0636363636363636 supA=23.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0673076923076923", "triple=e dbp:wsopBraceletCount 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0673076923076923 condAB=0.304347826086957 condBA=0.0673076923076923 supA=23.0 supB=104.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 111,
+  "pattern" : "wsop_bracelet",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0272727272727273", "triple=e dbp:wsopBraceletCount 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=PokerPlayer", "{AllConf=0.0272727272727273 condAB=0.666666666666667 condBA=0.0272727272727273 supA=9.0 supB=220.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/wsopBraceletCount", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "id" : 3,
+  "pattern" : "azerbaijani",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:location Azerbaijan", "AllConf=0.243243243243243", "triple=e dbp:location Azerbaijan", "class=Monument", "{AllConf=0.243243243243243 condAB=0.9 condBA=0.243243243243243 supA=10.0 supB=37.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Azerbaijan" ]
+  }
+}, {
+  "id" : 19,
+  "pattern" : "located",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:location France", "AllConf=0.0869565217391304", "triple=e dbp:location France", "class=Monument", "{AllConf=0.0869565217391304 condAB=0.0869565217391304 condBA=0.333333333333333 supA=69.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/France" ],
+    "1" : [ "kb=dbp:location Pakistan", "AllConf=0.0508474576271186", "triple=e dbp:location Pakistan", "class=Monument", "{AllConf=0.0508474576271186 condAB=0.0508474576271186 condBA=0.222222222222222 supA=118.0 supB=27.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Pakistan" ],
+    "2" : [ "kb=dbo:location United_States", "AllConf=0.0304878048780488", "triple=e dbo:location United_States", "class=Monument", "{AllConf=0.0304878048780488 condAB=0.0304878048780488 condBA=0.333333333333333 supA=164.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "3" : [ "kb=dbo:location India", "AllConf=0.0365853658536585", "triple=e dbo:location India", "class=Monument", "{AllConf=0.0365853658536585 condAB=0.0365853658536585 condBA=0.193548387096774 supA=164.0 supB=31.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/India" ],
+    "4" : [ "kb=dbo:location Azerbaijan", "AllConf=0.0304878048780488", "triple=e dbo:location Azerbaijan", "class=Monument", "{AllConf=0.0304878048780488 condAB=0.0304878048780488 condBA=0.119047619047619 supA=164.0 supB=42.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Azerbaijan" ]
+  }
+}, {
+  "id" : 37,
+  "pattern" : "polish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:location Poland", "AllConf=0.277777777777778", "triple=e dbp:location Poland", "class=Monument", "{AllConf=0.277777777777778 condAB=0.833333333333333 condBA=0.277777777777778 supA=6.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Poland" ]
+  }
+}, {
+  "id" : 51,
+  "pattern" : "russian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Moscow@en", "AllConf=0.45", "triple=e dbp:mapName Moscow@en", "class=Monument", "{AllConf=0.45 condAB=0.9 condBA=0.45 supA=10.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Moscow\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Russia", "AllConf=0.116666666666667", "triple=e dbo:location Russia", "class=Monument", "{AllConf=0.116666666666667 condAB=0.170731707317073 condBA=0.116666666666667 supA=41.0 supB=60.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Russia" ],
+    "2" : [ "kb=dbo:location Taganrog", "AllConf=0.191489361702128", "triple=e dbo:location Taganrog", "class=Monument", "{AllConf=0.191489361702128 condAB=0.219512195121951 condBA=0.191489361702128 supA=41.0 supB=47.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Taganrog" ],
+    "3" : [ "kb=dbo:location Rostov-on-Don", "AllConf=0.395348837209302", "triple=e dbo:location Rostov-on-Don", "class=Monument", "{AllConf=0.395348837209302 condAB=0.414634146341463 condBA=0.395348837209302 supA=41.0 supB=43.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Rostov-on-Don" ],
+    "4" : [ "kb=dbo:location Moscow", "AllConf=0.219512195121951", "triple=e dbo:location Moscow", "class=Monument", "{AllConf=0.219512195121951 condAB=0.219512195121951 condBA=0.225 supA=41.0 supB=40.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Moscow" ],
+    "5" : [ "kb=dbp:nativeName @en", "AllConf=0.0884955752212389", "triple=e dbp:nativeName @en", "class=Monument", "{AllConf=0.0884955752212389 condAB=0.0884955752212389 condBA=0.192307692307692 supA=113.0 supB=52.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/nativeName", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 61,
+  "pattern" : "turkish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Turkey", "AllConf=0.352941176470588", "triple=e dbo:location Turkey", "class=Monument", "{AllConf=0.352941176470588 condAB=0.461538461538462 condBA=0.352941176470588 supA=13.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Turkey" ]
+  }
+} ]

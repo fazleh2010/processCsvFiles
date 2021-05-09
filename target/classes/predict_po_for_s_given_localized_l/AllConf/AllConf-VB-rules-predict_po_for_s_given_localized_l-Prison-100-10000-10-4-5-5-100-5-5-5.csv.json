@@ -1,0 +1,61 @@
+[ {
+  "id" : 28,
+  "pattern" : "constructed",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:status open@en", "AllConf=0.016025641025641", "triple=e dbp:status open@en", "class=Prison", "{AllConf=0.016025641025641 condAB=1.0 condBA=0.016025641025641 supA=5.0 supB=312.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=\"\"\"open\"\"@en\"" ]
+  }
+}, {
+  "id" : 50,
+  "pattern" : "ed",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:status open@en", "AllConf=0.0608974358974359", "triple=e dbp:status open@en", "class=Prison", "{AllConf=0.0608974358974359 condAB=1.0 condBA=0.0608974358974359 supA=19.0 supB=312.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=\"\"\"open\"\"@en\"" ]
+  }
+}, {
+  "id" : 122,
+  "pattern" : "operated",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:managedBy GEO_Group", "AllConf=0.0253623188405797", "triple=e dbp:managedBy GEO_Group", "class=Prison", "{AllConf=0.0253623188405797 condAB=0.0253623188405797 condBA=0.225806451612903 supA=276.0 supB=31.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/GEO_Group" ],
+    "1" : [ "kb=dbp:managedBy Michigan_Department_of_Corrections", "AllConf=0.0326086956521739", "triple=e dbp:managedBy Michigan_Department_of_Corrections", "class=Prison", "{AllConf=0.0326086956521739 condAB=0.0326086956521739 condBA=0.236842105263158 supA=276.0 supB=38.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Michigan_Department_of_Corrections" ],
+    "2" : [ "kb=dbp:managedBy Ohio_Department_of_Rehabilitation_and_Correction", "AllConf=0.0217391304347826", "triple=e dbp:managedBy Ohio_Department_of_Rehabilitation_and_Correction", "class=Prison", "{AllConf=0.0217391304347826 condAB=0.0217391304347826 condBA=0.25 supA=276.0 supB=24.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Ohio_Department_of_Rehabilitation_and_Correction" ],
+    "3" : [ "kb=dbp:managedBy New_York_State_Department_of_Corrections_and_Community_Supervision", "AllConf=0.0217391304347826", "triple=e dbp:managedBy New_York_State_Department_of_Corrections_and_Community_Supervision", "class=Prison", "{AllConf=0.0217391304347826 condAB=0.0217391304347826 condBA=0.133333333333333 supA=276.0 supB=45.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/New_York_State_Department_of_Corrections_and_Community_Supervision" ],
+    "4" : [ "kb=dbp:managedBy Federal_Bureau_of_Prisons", "AllConf=0.704918032786885", "triple=e dbp:managedBy Federal_Bureau_of_Prisons", "class=Prison", "{AllConf=0.704918032786885 condAB=0.843137254901961 condBA=0.704918032786885 supA=102.0 supB=122.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Federal_Bureau_of_Prisons" ],
+    "5" : [ "kb=dbp:managedBy Florida_Department_of_Corrections", "AllConf=0.0579710144927536", "triple=e dbp:managedBy Florida_Department_of_Corrections", "class=Prison", "{AllConf=0.0579710144927536 condAB=0.0579710144927536 condBA=0.390243902439024 supA=276.0 supB=41.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Florida_Department_of_Corrections" ],
+    "6" : [ "kb=dbp:managedBy CoreCivic", "AllConf=0.0216606498194946", "triple=e dbp:managedBy CoreCivic", "class=Prison", "{AllConf=0.0216606498194946 condAB=0.0216606498194946 condBA=0.176470588235294 supA=277.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/CoreCivic" ],
+    "7" : [ "kb=dbp:managedBy Tennessee_Department_of_Correction", "AllConf=0.0211864406779661", "triple=e dbp:managedBy Tennessee_Department_of_Correction", "class=Prison", "{AllConf=0.0211864406779661 condAB=0.0211864406779661 condBA=0.555555555555556 supA=236.0 supB=9.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Tennessee_Department_of_Correction" ],
+    "8" : [ "kb=dbp:managedBy Arizona_Department_of_Corrections", "AllConf=0.0324909747292419", "triple=e dbp:managedBy Arizona_Department_of_Corrections", "class=Prison", "{AllConf=0.0324909747292419 condAB=0.0324909747292419 condBA=0.9 supA=277.0 supB=10.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Arizona_Department_of_Corrections" ],
+    "9" : [ "kb=dbp:managedBy Her_Majesty's_Prison_Service", "AllConf=0.0985915492957746", "triple=e dbp:managedBy Her_Majesty's_Prison_Service", "class=Prison", "{AllConf=0.0985915492957746 condAB=0.0985915492957746 condBA=0.111111111111111 supA=142.0 supB=126.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Her_Majesty's_Prison_Service" ],
+    "10" : [ "kb=dbp:managedBy Maryland_Department_of_Public_Safety_and_Correctional_Services", "AllConf=0.0211864406779661", "triple=e dbp:managedBy Maryland_Department_of_Public_Safety_and_Correctional_Services", "class=Prison", "{AllConf=0.0211864406779661 condAB=0.0211864406779661 condBA=0.384615384615385 supA=236.0 supB=13.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Maryland_Department_of_Public_Safety_and_Correctional_Services" ],
+    "11" : [ "kb=dbp:managedBy Texas_Department_of_Criminal_Justice", "AllConf=0.036231884057971", "triple=e dbp:managedBy Texas_Department_of_Criminal_Justice", "class=Prison", "{AllConf=0.036231884057971 condAB=0.036231884057971 condBA=0.192307692307692 supA=276.0 supB=52.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Texas_Department_of_Criminal_Justice" ]
+  }
+}, {
+  "id" : 127,
+  "pattern" : "owned",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:managedBy GEO_Group", "AllConf=0.087719298245614", "triple=e dbp:managedBy GEO_Group", "class=Prison", "{AllConf=0.087719298245614 condAB=0.087719298245614 condBA=0.161290322580645 supA=57.0 supB=31.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/GEO_Group" ],
+    "1" : [ "kb=dbp:managedBy Michigan_Department_of_Corrections", "AllConf=0.104166666666667", "triple=e dbp:managedBy Michigan_Department_of_Corrections", "class=Prison", "{AllConf=0.104166666666667 condAB=0.104166666666667 condBA=0.131578947368421 supA=48.0 supB=38.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Michigan_Department_of_Corrections" ],
+    "2" : [ "kb=dbp:managedBy Florida_Department_of_Corrections", "AllConf=0.3125", "triple=e dbp:managedBy Florida_Department_of_Corrections", "class=Prison", "{AllConf=0.3125 condAB=0.3125 condBA=0.365853658536585 supA=48.0 supB=41.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Florida_Department_of_Corrections" ],
+    "3" : [ "kb=dbp:managedBy CoreCivic", "AllConf=0.12280701754386", "triple=e dbp:managedBy CoreCivic", "class=Prison", "{AllConf=0.12280701754386 condAB=0.12280701754386 condBA=0.205882352941176 supA=57.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/CoreCivic" ],
+    "4" : [ "kb=dbp:managedBy Texas_Department_of_Criminal_Justice", "AllConf=0.0961538461538462", "triple=e dbp:managedBy Texas_Department_of_Criminal_Justice", "class=Prison", "{AllConf=0.0961538461538462 condAB=0.833333333333333 condBA=0.0961538461538462 supA=6.0 supB=52.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Texas_Department_of_Criminal_Justice" ]
+  }
+}, {
+  "id" : 128,
+  "pattern" : "owned_operated",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:managedBy Michigan_Department_of_Corrections", "AllConf=0.119047619047619", "triple=e dbp:managedBy Michigan_Department_of_Corrections", "class=Prison", "{AllConf=0.119047619047619 condAB=0.119047619047619 condBA=0.131578947368421 supA=42.0 supB=38.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Michigan_Department_of_Corrections" ],
+    "1" : [ "kb=dbp:managedBy Florida_Department_of_Corrections", "AllConf=0.357142857142857", "triple=e dbp:managedBy Florida_Department_of_Corrections", "class=Prison", "{AllConf=0.357142857142857 condAB=0.357142857142857 condBA=0.365853658536585 supA=42.0 supB=41.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Florida_Department_of_Corrections" ],
+    "2" : [ "kb=dbp:managedBy CoreCivic", "AllConf=0.125", "triple=e dbp:managedBy CoreCivic", "class=Prison", "{AllConf=0.125 condAB=0.125 condBA=0.176470588235294 supA=48.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/CoreCivic" ],
+    "3" : [ "kb=dbp:managedBy Texas_Department_of_Criminal_Justice", "AllConf=0.0961538461538462", "triple=e dbp:managedBy Texas_Department_of_Criminal_Justice", "class=Prison", "{AllConf=0.0961538461538462 condAB=1.0 condBA=0.0961538461538462 supA=5.0 supB=52.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/managedBy", "object=http://dbpedia.org/resource/Texas_Department_of_Criminal_Justice" ]
+  }
+}, {
+  "id" : 145,
+  "pattern" : "situated",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:location Pakistan", "AllConf=0.285714285714286", "triple=e dbo:location Pakistan", "class=Prison", "{AllConf=0.285714285714286 condAB=0.666666666666667 condBA=0.285714285714286 supA=9.0 supB=21.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Pakistan" ]
+  }
+} ]

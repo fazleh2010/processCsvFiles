@@ -1,0 +1,30 @@
+[ {
+  "id" : 4,
+  "pattern" : "building",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:location Rostov-on-Don", "AllConf=0.302325581395349", "triple=e dbo:location Rostov-on-Don", "class=Monument", "{AllConf=0.302325581395349 condAB=0.590909090909091 condBA=0.302325581395349 supA=22.0 supB=43.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Rostov-on-Don" ]
+  }
+}, {
+  "id" : 12,
+  "pattern" : "inscribed",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0806451612903226", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0806451612903226 condAB=1.0 condBA=0.0806451612903226 supA=5.0 supB=62.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 14,
+  "pattern" : "installed",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:location Boston", "AllConf=0.192307692307692", "triple=e dbo:location Boston", "class=Monument", "{AllConf=0.192307692307692 condAB=0.192307692307692 condBA=0.714285714285714 supA=26.0 supB=7.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Boston" ]
+  }
+}, {
+  "id" : 66,
+  "pattern" : "â",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:location Azerbaijan", "AllConf=0.166666666666667", "triple=e dbo:location Azerbaijan", "class=Monument", "{AllConf=0.166666666666667 condAB=0.875 condBA=0.166666666666667 supA=8.0 supB=42.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Azerbaijan" ]
+  }
+} ]

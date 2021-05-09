@@ -1,0 +1,1729 @@
+[ {
+  "id" : 1,
+  "pattern" : "'s_father",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.8 condBA=0.0140597539543058 supA=10.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 2,
+  "pattern" : "1898",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 3,
+  "pattern" : "1921",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 4,
+  "pattern" : "1936",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 5,
+  "pattern" : "1940",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 6,
+  "pattern" : "1964",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 7,
+  "pattern" : "1965",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 8,
+  "pattern" : "1967",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 9,
+  "pattern" : "1969",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=1.0 condBA=0.0123022847100176 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 10,
+  "pattern" : "1971",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 11,
+  "pattern" : "1976",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 12,
+  "pattern" : "1977",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 13,
+  "pattern" : "1979",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.625 condBA=0.00878734622144113 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 14,
+  "pattern" : "1980",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=0.875 condBA=0.0123022847100176 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 15,
+  "pattern" : "1983",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 16,
+  "pattern" : "1985",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=1.0 condBA=0.0140597539543058 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 17,
+  "pattern" : "1986",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.714285714285714 condBA=0.00878734622144113 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 18,
+  "pattern" : "1988",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 20,
+  "pattern" : "19th_century",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 21,
+  "pattern" : "2000",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 22,
+  "pattern" : "2008",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.714285714285714 condBA=0.00878734622144113 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 23,
+  "pattern" : "2009",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:occupation Jockey", "AllConf=0.0094876660341556", "triple=e dbp:occupation Jockey", "class=Jockey", "{AllConf=0.0094876660341556 condAB=0.833333333333333 condBA=0.0094876660341556 supA=6.0 supB=527.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 24,
+  "pattern" : "2019",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.714285714285714 condBA=0.00878734622144113 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 25,
+  "pattern" : "aboard",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race Belmont_Stakes", "AllConf=0.0537634408602151", "triple=e dbo:race Belmont_Stakes", "class=Jockey", "{AllConf=0.0537634408602151 condAB=0.454545454545455 condBA=0.0537634408602151 supA=11.0 supB=93.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Stakes" ],
+    "1" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.0434782608695652", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.0434782608695652 condAB=0.714285714285714 condBA=0.0434782608695652 supA=7.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ]
+  }
+}, {
+  "id" : 26,
+  "pattern" : "age",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=1.0 condBA=0.0123022847100176 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 27,
+  "pattern" : "also",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=1.0 condBA=0.0123022847100176 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0736196319018405", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0736196319018405 condAB=0.375 condBA=0.0736196319018405 supA=32.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "2" : [ "kb=dbo:race Champagne_Stakes_(United_States)", "AllConf=0.0909090909090909", "triple=e dbo:race Champagne_Stakes_(United_States)", "class=Jockey", "{AllConf=0.0909090909090909 condAB=0.217391304347826 condBA=0.0909090909090909 supA=23.0 supB=55.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Champagne_Stakes_(United_States)" ],
+    "3" : [ "kb=dbo:race Breeders'_Cup", "AllConf=0.0857142857142857", "triple=e dbo:race Breeders'_Cup", "class=Jockey", "{AllConf=0.0857142857142857 condAB=0.260869565217391 condBA=0.0857142857142857 supA=23.0 supB=70.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Breeders'_Cup" ],
+    "4" : [ "kb=dbo:race Suburban_Handicap", "AllConf=0.0793650793650794", "triple=e dbo:race Suburban_Handicap", "class=Jockey", "{AllConf=0.0793650793650794 condAB=0.217391304347826 condBA=0.0793650793650794 supA=23.0 supB=63.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Suburban_Handicap" ],
+    "5" : [ "kb=dbo:race Preakness_Stakes", "AllConf=0.0490196078431373", "triple=e dbo:race Preakness_Stakes", "class=Jockey", "{AllConf=0.0490196078431373 condAB=0.217391304347826 condBA=0.0490196078431373 supA=23.0 supB=102.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Preakness_Stakes" ],
+    "6" : [ "kb=dbo:race Santa_Anita_Derby", "AllConf=0.130434782608696", "triple=e dbo:race Santa_Anita_Derby", "class=Jockey", "{AllConf=0.130434782608696 condAB=0.260869565217391 condBA=0.130434782608696 supA=23.0 supB=46.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Santa_Anita_Derby" ],
+    "7" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.0592592592592593", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.0592592592592593 condAB=0.347826086956522 condBA=0.0592592592592593 supA=23.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "8" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.0695652173913043", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.0695652173913043 condAB=0.347826086956522 condBA=0.0695652173913043 supA=23.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ]
+  }
+}, {
+  "id" : 29,
+  "pattern" : "although",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 31,
+  "pattern" : "american_champion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 32,
+  "pattern" : "american_hall",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.888888888888889 condBA=0.0140597539543058 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 33,
+  "pattern" : "american_hall_fame",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.888888888888889 condBA=0.0140597539543058 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 34,
+  "pattern" : "american_jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.625 condBA=0.0352112676056338 supA=8.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=1.0 condBA=0.0306748466257669 supA=5.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 35,
+  "pattern" : "american_thoroughbred",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0633802816901408", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0633802816901408 condAB=0.428571428571429 condBA=0.0633802816901408 supA=21.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.625 condBA=0.0306748466257669 supA=8.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 36,
+  "pattern" : "american_thoroughbred_horse",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0492957746478873", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0492957746478873 condAB=0.368421052631579 condBA=0.0492957746478873 supA=19.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0228471001757469", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0228471001757469 condAB=0.8125 condBA=0.0228471001757469 supA=16.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 37,
+  "pattern" : "american_thoroughbred_horse_racing",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0492957746478873", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0492957746478873 condAB=0.368421052631579 condBA=0.0492957746478873 supA=19.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0263620386643234", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0263620386643234 condAB=0.882352941176471 condBA=0.0263620386643234 supA=17.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 38,
+  "pattern" : "american_thoroughbred_horse_racing.",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.888888888888889 condBA=0.0140597539543058 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 39,
+  "pattern" : "among",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=1.0 condBA=0.0123022847100176 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 40,
+  "pattern" : "apprentice",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0439367311072056", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0439367311072056 condAB=1.0 condBA=0.0439367311072056 supA=25.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 41,
+  "pattern" : "april",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.357142857142857 condBA=0.0352112676056338 supA=14.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0369068541300527", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0369068541300527 condAB=0.875 condBA=0.0369068541300527 supA=24.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0368098159509202", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0368098159509202 condAB=0.25 condBA=0.0368098159509202 supA=24.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 42,
+  "pattern" : "august",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0281195079086116", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0281195079086116 condAB=0.761904761904762 condBA=0.0281195079086116 supA=21.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0429447852760736", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0429447852760736 condAB=0.333333333333333 condBA=0.0429447852760736 supA=21.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 44,
+  "pattern" : "award",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0246045694200351", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0246045694200351 condAB=0.933333333333333 condBA=0.0246045694200351 supA=15.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 45,
+  "pattern" : "award_outstanding",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=0.9 condBA=0.015817223198594 supA=10.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 52,
+  "pattern" : "began_career",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 53,
+  "pattern" : "belmont",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race Preakness_Stakes", "AllConf=0.0490196078431373", "triple=e dbo:race Preakness_Stakes", "class=Jockey", "{AllConf=0.0490196078431373 condAB=0.714285714285714 condBA=0.0490196078431373 supA=7.0 supB=102.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Preakness_Stakes" ],
+    "1" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.037037037037037", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.037037037037037 condAB=0.714285714285714 condBA=0.037037037037037 supA=7.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "2" : [ "kb=dbo:race Belmont_Stakes", "AllConf=0.0645161290322581", "triple=e dbo:race Belmont_Stakes", "class=Jockey", "{AllConf=0.0645161290322581 condAB=0.857142857142857 condBA=0.0645161290322581 supA=7.0 supB=93.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Stakes" ]
+  }
+}, {
+  "id" : 54,
+  "pattern" : "belmont_stakes",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race Preakness_Stakes", "AllConf=0.0490196078431373", "triple=e dbo:race Preakness_Stakes", "class=Jockey", "{AllConf=0.0490196078431373 condAB=0.714285714285714 condBA=0.0490196078431373 supA=7.0 supB=102.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Preakness_Stakes" ],
+    "1" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.037037037037037", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.037037037037037 condAB=0.714285714285714 condBA=0.037037037037037 supA=7.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "2" : [ "kb=dbo:race Belmont_Stakes", "AllConf=0.0645161290322581", "triple=e dbo:race Belmont_Stakes", "class=Jockey", "{AllConf=0.0645161290322581 condAB=0.857142857142857 condBA=0.0645161290322581 supA=7.0 supB=93.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Stakes" ]
+  }
+}, {
+  "id" : 55,
+  "pattern" : "best",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0193321616871705", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0193321616871705 condAB=0.611111111111111 condBA=0.0193321616871705 supA=18.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0429447852760736", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0429447852760736 condAB=0.388888888888889 condBA=0.0429447852760736 supA=18.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 58,
+  "pattern" : "born_april",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 59,
+  "pattern" : "born_august",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.857142857142857 condBA=0.0105448154657293 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 60,
+  "pattern" : "born_december",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.888888888888889 condBA=0.0140597539543058 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 61,
+  "pattern" : "born_february",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 62,
+  "pattern" : "born_january",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 63,
+  "pattern" : "born_july",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.888888888888889 condBA=0.0140597539543058 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 64,
+  "pattern" : "born_june",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 65,
+  "pattern" : "born_march",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=1.0 condBA=0.015817223198594 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 66,
+  "pattern" : "born_may",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=1.0 condBA=0.0123022847100176 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 67,
+  "pattern" : "born_october",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=0.9 condBA=0.015817223198594 supA=10.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 68,
+  "pattern" : "born_september",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0492957746478873", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0492957746478873 condAB=0.636363636363636 condBA=0.0492957746478873 supA=11.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.666666666666667 condBA=0.0140597539543058 supA=12.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 69,
+  "pattern" : "breeders'",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race Breeders'_Cup", "AllConf=0.0857142857142857", "triple=e dbo:race Breeders'_Cup", "class=Jockey", "{AllConf=0.0857142857142857 condAB=0.75 condBA=0.0857142857142857 supA=8.0 supB=70.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Breeders'_Cup" ]
+  }
+}, {
+  "id" : 70,
+  "pattern" : "breeders'_cup",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race Breeders'_Cup", "AllConf=0.0857142857142857", "triple=e dbo:race Breeders'_Cup", "class=Jockey", "{AllConf=0.0857142857142857 condAB=0.75 condBA=0.0857142857142857 supA=8.0 supB=70.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Breeders'_Cup" ]
+  }
+}, {
+  "id" : 71,
+  "pattern" : "britain",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=1.0 condBA=0.0123022847100176 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 74,
+  "pattern" : "british_flat_racing",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=1.0 condBA=0.0123022847100176 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:award British_flat_racing_Champion_Jockey", "AllConf=0.142857142857143", "triple=e dbo:award British_flat_racing_Champion_Jockey", "class=Jockey", "{AllConf=0.142857142857143 condAB=0.714285714285714 condBA=0.142857142857143 supA=7.0 supB=35.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/award", "object=http://dbpedia.org/resource/British_flat_racing_Champion_Jockey" ]
+  }
+}, {
+  "id" : 75,
+  "pattern" : "brother",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.727272727272727 condBA=0.0140597539543058 supA=11.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 76,
+  "pattern" : "california",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.714285714285714 condBA=0.00878734622144113 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 78,
+  "pattern" : "canada",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.666666666666667 condBA=0.0105448154657293 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 80,
+  "pattern" : "canadian_horse",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:honours Canadian_Horse_Racing_Hall_of_Fame", "AllConf=0.157894736842105", "triple=e dbp:honours Canadian_Horse_Racing_Hall_of_Fame", "class=Jockey", "{AllConf=0.157894736842105 condAB=1.0 condBA=0.157894736842105 supA=6.0 supB=38.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/Canadian_Horse_Racing_Hall_of_Fame" ]
+  }
+}, {
+  "id" : 81,
+  "pattern" : "canadian_horse_racing",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:honours Canadian_Horse_Racing_Hall_of_Fame", "AllConf=0.157894736842105", "triple=e dbp:honours Canadian_Horse_Racing_Hall_of_Fame", "class=Jockey", "{AllConf=0.157894736842105 condAB=1.0 condBA=0.157894736842105 supA=6.0 supB=38.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/Canadian_Horse_Racing_Hall_of_Fame" ]
+  }
+}, {
+  "id" : 82,
+  "pattern" : "cannon",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 83,
+  "pattern" : "career",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.294117647058824 condBA=0.0352112676056338 supA=17.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.857142857142857 condBA=0.0105448154657293 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0368098159509202", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0368098159509202 condAB=0.352941176470588 condBA=0.0368098159509202 supA=17.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "3" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.037037037037037", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.037037037037037 condAB=0.357142857142857 condBA=0.037037037037037 supA=14.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ]
+  }
+}, {
+  "id" : 84,
+  "pattern" : "century",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=0.818181818181818 condBA=0.015817223198594 supA=11.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 85,
+  "pattern" : "champion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0790861159929701", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0790861159929701 condAB=0.957446808510638 condBA=0.0790861159929701 supA=47.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.2 condBA=0.0306748466257669 supA=25.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 86,
+  "pattern" : "champion_jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 89,
+  "pattern" : "crown",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0492957746478873", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0492957746478873 condAB=0.777777777777778 condBA=0.0492957746478873 supA=9.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=1.0 condBA=0.015817223198594 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 90,
+  "pattern" : "december",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0386643233743409", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0386643233743409 condAB=0.916666666666667 condBA=0.0386643233743409 supA=24.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:birthPlace United_States", "AllConf=0.0347222222222222", "triple=e dbo:birthPlace United_States", "class=Jockey", "{AllConf=0.0347222222222222 condAB=0.277777777777778 condBA=0.0347222222222222 supA=18.0 supB=144.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 91,
+  "pattern" : "derby",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=0.9 condBA=0.015817223198594 supA=10.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0368098159509202", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0368098159509202 condAB=0.260869565217391 condBA=0.0368098159509202 supA=23.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "2" : [ "kb=dbo:race Epsom_Derby", "AllConf=0.0777777777777778", "triple=e dbo:race Epsom_Derby", "class=Jockey", "{AllConf=0.0777777777777778 condAB=0.538461538461538 condBA=0.0777777777777778 supA=13.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Derby" ],
+    "3" : [ "kb=dbo:race British_Classic_Races", "AllConf=0.0923076923076923", "triple=e dbo:race British_Classic_Races", "class=Jockey", "{AllConf=0.0923076923076923 condAB=0.461538461538462 condBA=0.0923076923076923 supA=13.0 supB=65.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/British_Classic_Races" ],
+    "4" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.0434782608695652", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.0434782608695652 condAB=0.3125 condBA=0.0434782608695652 supA=16.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ],
+    "5" : [ "kb=dbp:race 2000^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0806451612903226", "triple=e dbp:race 2000^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Jockey", "{AllConf=0.0806451612903226 condAB=0.333333333333333 condBA=0.0806451612903226 supA=15.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"2000\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "6" : [ "kb=dbp:race @en", "AllConf=0.045045045045045", "triple=e dbp:race @en", "class=Jockey", "{AllConf=0.045045045045045 condAB=0.333333333333333 condBA=0.045045045045045 supA=15.0 supB=111.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 93,
+  "pattern" : "driver",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Harness_racing", "AllConf=0.384615384615385", "triple=e dbo:occupation Harness_racing", "class=Jockey", "{AllConf=0.384615384615385 condAB=0.909090909090909 condBA=0.384615384615385 supA=11.0 supB=26.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Harness_racing" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.454545454545455 condBA=0.0306748466257669 supA=11.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 96,
+  "pattern" : "eclipse",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=0.9 condBA=0.015817223198594 supA=10.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 97,
+  "pattern" : "eclipse_award",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.857142857142857 condBA=0.0105448154657293 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 98,
+  "pattern" : "eclipse_award_outstanding",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=0.875 condBA=0.0123022847100176 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 99,
+  "pattern" : "english",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Greyhound_trainer", "AllConf=0.25", "triple=e dbo:occupation Greyhound_trainer", "class=Jockey", "{AllConf=0.25 condAB=0.310344827586207 condBA=0.25 supA=29.0 supB=36.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Greyhound_trainer" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0175746924428823", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0175746924428823 condAB=0.526315789473684 condBA=0.0175746924428823 supA=19.0 supB=569.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 100,
+  "pattern" : "epsom",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race Epsom_Derby", "AllConf=0.0888888888888889", "triple=e dbo:race Epsom_Derby", "class=Jockey", "{AllConf=0.0888888888888889 condAB=1.0 condBA=0.0888888888888889 supA=8.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Derby" ]
+  }
+}, {
+  "id" : 101,
+  "pattern" : "fame",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.112676056338028", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.112676056338028 condAB=0.761904761904762 condBA=0.112676056338028 supA=21.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Harness_racing", "AllConf=0.192307692307692", "triple=e dbo:occupation Harness_racing", "class=Jockey", "{AllConf=0.192307692307692 condAB=0.277777777777778 condBA=0.192307692307692 supA=18.0 supB=26.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Harness_racing" ],
+    "2" : [ "kb=dbo:occupation Jockey", "AllConf=0.0421792618629174", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0421792618629174 condAB=0.75 condBA=0.0421792618629174 supA=32.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "3" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0613496932515337", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0613496932515337 condAB=0.3125 condBA=0.0613496932515337 supA=32.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 102,
+  "pattern" : "fame_jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=0.666666666666667 condBA=0.0422535211267606 supA=9.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 103,
+  "pattern" : "family",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 104,
+  "pattern" : "father",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0228471001757469", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0228471001757469 condAB=0.8125 condBA=0.0228471001757469 supA=16.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbp:occupation Horse_trainer", "AllConf=0.0373134328358209", "triple=e dbp:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0373134328358209 condAB=0.3125 condBA=0.0373134328358209 supA=16.0 supB=134.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 105,
+  "pattern" : "february",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0563380281690141", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0563380281690141 condAB=0.470588235294118 condBA=0.0563380281690141 supA=17.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0369068541300527", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0369068541300527 condAB=0.777777777777778 condBA=0.0369068541300527 supA=27.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0368098159509202", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0368098159509202 condAB=0.222222222222222 condBA=0.0368098159509202 supA=27.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 106,
+  "pattern" : "female",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 108,
+  "pattern" : "first",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=0.545454545454545 condBA=0.0422535211267606 supA=11.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.75 condBA=0.0105448154657293 supA=8.0 supB=569.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0429447852760736", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0429447852760736 condAB=0.333333333333333 condBA=0.0429447852760736 supA=21.0 supB=163.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "3" : [ "kb=dbo:race Epsom_Derby", "AllConf=0.0777777777777778", "triple=e dbo:race Epsom_Derby", "class=Jockey", "{AllConf=0.0777777777777778 condAB=0.291666666666667 condBA=0.0777777777777778 supA=24.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Derby" ],
+    "4" : [ "kb=dbo:race Breeders'_Cup", "AllConf=0.0857142857142857", "triple=e dbo:race Breeders'_Cup", "class=Jockey", "{AllConf=0.0857142857142857 condAB=0.25 condBA=0.0857142857142857 supA=24.0 supB=70.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Breeders'_Cup" ],
+    "5" : [ "kb=dbo:race Kentucky_Oaks", "AllConf=0.0847457627118644", "triple=e dbo:race Kentucky_Oaks", "class=Jockey", "{AllConf=0.0847457627118644 condAB=0.208333333333333 condBA=0.0847457627118644 supA=24.0 supB=59.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Oaks" ],
+    "6" : [ "kb=dbo:race Alabama_Stakes", "AllConf=0.0757575757575758", "triple=e dbo:race Alabama_Stakes", "class=Jockey", "{AllConf=0.0757575757575758 condAB=0.208333333333333 condBA=0.0757575757575758 supA=24.0 supB=66.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Alabama_Stakes" ],
+    "7" : [ "kb=dbo:race British_Classic_Races", "AllConf=0.107692307692308", "triple=e dbo:race British_Classic_Races", "class=Jockey", "{AllConf=0.107692307692308 condAB=0.291666666666667 condBA=0.107692307692308 supA=24.0 supB=65.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/British_Classic_Races" ],
+    "8" : [ "kb=dbo:race Preakness_Stakes", "AllConf=0.0588235294117647", "triple=e dbo:race Preakness_Stakes", "class=Jockey", "{AllConf=0.0588235294117647 condAB=0.25 condBA=0.0588235294117647 supA=24.0 supB=102.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Preakness_Stakes" ],
+    "9" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.0592592592592593", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.0592592592592593 condAB=0.333333333333333 condBA=0.0592592592592593 supA=24.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "10" : [ "kb=dbo:race St._Leger_Stakes", "AllConf=0.178571428571429", "triple=e dbo:race St._Leger_Stakes", "class=Jockey", "{AllConf=0.178571428571429 condAB=0.208333333333333 condBA=0.178571428571429 supA=24.0 supB=28.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/St._Leger_Stakes" ],
+    "11" : [ "kb=dbo:race Belmont_Stakes", "AllConf=0.10752688172043", "triple=e dbo:race Belmont_Stakes", "class=Jockey", "{AllConf=0.10752688172043 condAB=0.416666666666667 condBA=0.10752688172043 supA=24.0 supB=93.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Stakes" ],
+    "12" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.0521739130434783", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.0521739130434783 condAB=0.25 condBA=0.0521739130434783 supA=24.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ],
+    "13" : [ "kb=dbo:race Travers_Stakes", "AllConf=0.0666666666666667", "triple=e dbo:race Travers_Stakes", "class=Jockey", "{AllConf=0.0666666666666667 condAB=0.208333333333333 condBA=0.0666666666666667 supA=24.0 supB=75.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Travers_Stakes" ],
+    "14" : [ "kb=dbo:race Epsom_Oaks", "AllConf=0.0909090909090909", "triple=e dbo:race Epsom_Oaks", "class=Jockey", "{AllConf=0.0909090909090909 condAB=0.25 condBA=0.0909090909090909 supA=24.0 supB=66.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Oaks" ],
+    "15" : [ "kb=dbp:race St_Leger_Stakes", "AllConf=0.125", "triple=e dbp:race St_Leger_Stakes", "class=Jockey", "{AllConf=0.125 condAB=0.25 condBA=0.125 supA=20.0 supB=40.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=http://dbpedia.org/resource/St_Leger_Stakes" ]
+  }
+}, {
+  "id" : 109,
+  "pattern" : "first_race",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 111,
+  "pattern" : "flat_racing",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0333919156414763", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0333919156414763 condAB=1.0 condBA=0.0333919156414763 supA=19.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:award British_flat_racing_Champion_Jockey", "AllConf=0.142857142857143", "triple=e dbo:award British_flat_racing_Champion_Jockey", "class=Jockey", "{AllConf=0.142857142857143 condAB=0.714285714285714 condBA=0.142857142857143 supA=7.0 supB=35.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/award", "object=http://dbpedia.org/resource/British_flat_racing_Champion_Jockey" ]
+  }
+}, {
+  "id" : 112,
+  "pattern" : "flat_racing_champion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 113,
+  "pattern" : "flat_racing_jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 115,
+  "pattern" : "four",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.714285714285714 condBA=0.00878734622144113 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 116,
+  "pattern" : "france",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 117,
+  "pattern" : "george",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0210896309314587", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0210896309314587 condAB=0.923076923076923 condBA=0.0210896309314587 supA=13.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 118,
+  "pattern" : "great",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 119,
+  "pattern" : "great_britain",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 121,
+  "pattern" : "group",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 122,
+  "pattern" : "guineas",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 123,
+  "pattern" : "hall",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.112676056338028", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.112676056338028 condAB=0.761904761904762 condBA=0.112676056338028 supA=21.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0421792618629174", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0421792618629174 condAB=0.75 condBA=0.0421792618629174 supA=32.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0613496932515337", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0613496932515337 condAB=0.3125 condBA=0.0613496932515337 supA=32.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 124,
+  "pattern" : "hall_fame",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.112676056338028", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.112676056338028 condAB=0.761904761904762 condBA=0.112676056338028 supA=21.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0421792618629174", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0421792618629174 condAB=0.75 condBA=0.0421792618629174 supA=32.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0613496932515337", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0613496932515337 condAB=0.3125 condBA=0.0613496932515337 supA=32.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 125,
+  "pattern" : "hall_fame_jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=0.666666666666667 condBA=0.0422535211267606 supA=9.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 126,
+  "pattern" : "horse",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.246478873239437", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.246478873239437 condAB=0.448717948717949 condBA=0.246478873239437 supA=78.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:birthPlace Panama", "AllConf=0.0769230769230769", "triple=e dbp:birthPlace Panama", "class=Jockey", "{AllConf=0.0769230769230769 condAB=0.0769230769230769 condBA=0.352941176470588 supA=78.0 supB=17.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Panama" ],
+    "2" : [ "kb=dbo:occupation Jockey", "AllConf=0.0966608084358524", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0966608084358524 condAB=0.733333333333333 condBA=0.0966608084358524 supA=75.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "3" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.159509202453988", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.159509202453988 condAB=0.346666666666667 condBA=0.159509202453988 supA=75.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "4" : [ "kb=dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "AllConf=0.0555555555555556", "triple=e dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "class=Jockey", "{AllConf=0.0555555555555556 condAB=0.833333333333333 condBA=0.0555555555555556 supA=6.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/National_Museum_of_Racing_and_Hall_of_Fame" ],
+    "5" : [ "kb=dbp:honours Canadian_Horse_Racing_Hall_of_Fame", "AllConf=0.184210526315789", "triple=e dbp:honours Canadian_Horse_Racing_Hall_of_Fame", "class=Jockey", "{AllConf=0.184210526315789 condAB=0.7 condBA=0.184210526315789 supA=10.0 supB=38.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/Canadian_Horse_Racing_Hall_of_Fame" ],
+    "6" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.0521739130434783", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.0521739130434783 condAB=0.666666666666667 condBA=0.0521739130434783 supA=9.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ]
+  }
+}, {
+  "id" : 127,
+  "pattern" : "horse_racing",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.211267605633803", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.211267605633803 condAB=0.428571428571429 condBA=0.211267605633803 supA=70.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:birthPlace Panama", "AllConf=0.0857142857142857", "triple=e dbp:birthPlace Panama", "class=Jockey", "{AllConf=0.0857142857142857 condAB=0.0857142857142857 condBA=0.352941176470588 supA=70.0 supB=17.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Panama" ],
+    "2" : [ "kb=dbo:occupation Jockey", "AllConf=0.086115992970123", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.086115992970123 condAB=0.924528301886792 condBA=0.086115992970123 supA=53.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "3" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0429447852760736", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0429447852760736 condAB=0.132075471698113 condBA=0.0429447852760736 supA=53.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "4" : [ "kb=dbp:honours Canadian_Horse_Racing_Hall_of_Fame", "AllConf=0.184210526315789", "triple=e dbp:honours Canadian_Horse_Racing_Hall_of_Fame", "class=Jockey", "{AllConf=0.184210526315789 condAB=0.777777777777778 condBA=0.184210526315789 supA=9.0 supB=38.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/Canadian_Horse_Racing_Hall_of_Fame" ]
+  }
+}, {
+  "id" : 128,
+  "pattern" : "horse_racing_jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0985915492957746", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0985915492957746 condAB=0.608695652173913 condBA=0.0985915492957746 supA=23.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 129,
+  "pattern" : "horse_trainer",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.727272727272727 condBA=0.0140597539543058 supA=11.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0429447852760736", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0429447852760736 condAB=0.636363636363636 condBA=0.0429447852760736 supA=11.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 130,
+  "pattern" : "horses",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.625 condBA=0.00878734622144113 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.625 condBA=0.0306748466257669 supA=8.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 131,
+  "pattern" : "hunt",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0228471001757469", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0228471001757469 condAB=0.928571428571429 condBA=0.0228471001757469 supA=14.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 135,
+  "pattern" : "irish_national",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 136,
+  "pattern" : "irish_national_hunt",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 137,
+  "pattern" : "january",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.454545454545455 condBA=0.0352112676056338 supA=11.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0351493848857645", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0351493848857645 condAB=0.869565217391304 condBA=0.0351493848857645 supA=23.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 138,
+  "pattern" : "jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace France", "AllConf=0.04", "triple=e dbp:birthPlace France", "class=Jockey", "{AllConf=0.04 condAB=0.04 condBA=0.384615384615385 supA=125.0 supB=13.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/France" ],
+    "1" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0704225352112676", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0704225352112676 condAB=0.232558139534884 condBA=0.0704225352112676 supA=43.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "2" : [ "kb=dbp:birthPlace Panama", "AllConf=0.116279069767442", "triple=e dbp:birthPlace Panama", "class=Jockey", "{AllConf=0.116279069767442 condAB=0.116279069767442 condBA=0.294117647058824 supA=43.0 supB=17.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Panama" ],
+    "3" : [ "kb=dbp:birthPlace Ireland", "AllConf=0.048", "triple=e dbp:birthPlace Ireland", "class=Jockey", "{AllConf=0.048 condAB=0.048 condBA=0.315789473684211 supA=125.0 supB=19.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Ireland" ],
+    "4" : [ "kb=dbp:birthPlace Lima", "AllConf=0.04", "triple=e dbp:birthPlace Lima", "class=Jockey", "{AllConf=0.04 condAB=0.04 condBA=1.0 supA=125.0 supB=5.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Lima" ],
+    "5" : [ "kb=dbp:birthPlace Peru", "AllConf=0.048", "triple=e dbp:birthPlace Peru", "class=Jockey", "{AllConf=0.048 condAB=0.048 condBA=0.857142857142857 supA=125.0 supB=7.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Peru" ],
+    "6" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=1.0 condBA=0.0123022847100176 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "7" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.625 condBA=0.0306748466257669 supA=8.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "8" : [ "kb=dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "AllConf=0.0555555555555556", "triple=e dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "class=Jockey", "{AllConf=0.0555555555555556 condAB=0.5 condBA=0.0555555555555556 supA=10.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/National_Museum_of_Racing_and_Hall_of_Fame" ],
+    "9" : [ "kb=dbo:race Triple_Crown_of_Thoroughbred_Racing_(United_States)", "AllConf=0.0961538461538462", "triple=e dbo:race Triple_Crown_of_Thoroughbred_Racing_(United_States)", "class=Jockey", "{AllConf=0.0961538461538462 condAB=0.0961538461538462 condBA=0.138888888888889 supA=52.0 supB=36.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Triple_Crown_of_Thoroughbred_Racing_(United_States)" ],
+    "10" : [ "kb=dbo:race Epsom_Derby", "AllConf=0.144444444444444", "triple=e dbo:race Epsom_Derby", "class=Jockey", "{AllConf=0.144444444444444 condAB=0.52 condBA=0.144444444444444 supA=25.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Derby" ],
+    "11" : [ "kb=dbo:race Champagne_Stakes_(United_States)", "AllConf=0.0909090909090909", "triple=e dbo:race Champagne_Stakes_(United_States)", "class=Jockey", "{AllConf=0.0909090909090909 condAB=0.0961538461538462 condBA=0.0909090909090909 supA=52.0 supB=55.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Champagne_Stakes_(United_States)" ],
+    "12" : [ "kb=dbo:race Breeders'_Cup", "AllConf=0.0857142857142857", "triple=e dbo:race Breeders'_Cup", "class=Jockey", "{AllConf=0.0857142857142857 condAB=0.115384615384615 condBA=0.0857142857142857 supA=52.0 supB=70.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Breeders'_Cup" ],
+    "13" : [ "kb=dbo:race Huron_Handicap", "AllConf=0.0961538461538462", "triple=e dbo:race Huron_Handicap", "class=Jockey", "{AllConf=0.0961538461538462 condAB=0.0961538461538462 condBA=0.227272727272727 supA=52.0 supB=22.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Huron_Handicap" ],
+    "14" : [ "kb=dbo:race Saratoga_Cup", "AllConf=0.0961538461538462", "triple=e dbo:race Saratoga_Cup", "class=Jockey", "{AllConf=0.0961538461538462 condAB=0.0961538461538462 condBA=0.116279069767442 supA=52.0 supB=43.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Saratoga_Cup" ],
+    "15" : [ "kb=dbo:race Kentucky_Oaks", "AllConf=0.101694915254237", "triple=e dbo:race Kentucky_Oaks", "class=Jockey", "{AllConf=0.101694915254237 condAB=0.115384615384615 condBA=0.101694915254237 supA=52.0 supB=59.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Oaks" ],
+    "16" : [ "kb=dbo:race Tremont_Stakes", "AllConf=0.0862068965517241", "triple=e dbo:race Tremont_Stakes", "class=Jockey", "{AllConf=0.0862068965517241 condAB=0.0961538461538462 condBA=0.0862068965517241 supA=52.0 supB=58.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Tremont_Stakes" ],
+    "17" : [ "kb=dbo:race Alabama_Stakes", "AllConf=0.0757575757575758", "triple=e dbo:race Alabama_Stakes", "class=Jockey", "{AllConf=0.0757575757575758 condAB=0.0961538461538462 condBA=0.0757575757575758 supA=52.0 supB=66.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Alabama_Stakes" ],
+    "18" : [ "kb=dbo:race Withers_Stakes", "AllConf=0.0847457627118644", "triple=e dbo:race Withers_Stakes", "class=Jockey", "{AllConf=0.0847457627118644 condAB=0.0961538461538462 condBA=0.0847457627118644 supA=52.0 supB=59.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Withers_Stakes" ],
+    "19" : [ "kb=dbo:race British_Classic_Races", "AllConf=0.169230769230769", "triple=e dbo:race British_Classic_Races", "class=Jockey", "{AllConf=0.169230769230769 condAB=0.211538461538462 condBA=0.169230769230769 supA=52.0 supB=65.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/British_Classic_Races" ],
+    "20" : [ "kb=dbo:race Preakness_Stakes", "AllConf=0.107843137254902", "triple=e dbo:race Preakness_Stakes", "class=Jockey", "{AllConf=0.107843137254902 condAB=0.211538461538462 condBA=0.107843137254902 supA=52.0 supB=102.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Preakness_Stakes" ],
+    "21" : [ "kb=dbo:race Santa_Anita_Derby", "AllConf=0.0961538461538462", "triple=e dbo:race Santa_Anita_Derby", "class=Jockey", "{AllConf=0.0961538461538462 condAB=0.0961538461538462 condBA=0.108695652173913 supA=52.0 supB=46.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Santa_Anita_Derby" ],
+    "22" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.0888888888888889", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.0888888888888889 condAB=0.230769230769231 condBA=0.0888888888888889 supA=52.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "23" : [ "kb=dbo:race St._Leger_Stakes", "AllConf=0.0961538461538462", "triple=e dbo:race St._Leger_Stakes", "class=Jockey", "{AllConf=0.0961538461538462 condAB=0.0961538461538462 condBA=0.178571428571429 supA=52.0 supB=28.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/St._Leger_Stakes" ],
+    "24" : [ "kb=dbo:race Empire_City_Handicap", "AllConf=0.0961538461538462", "triple=e dbo:race Empire_City_Handicap", "class=Jockey", "{AllConf=0.0961538461538462 condAB=0.0961538461538462 condBA=0.238095238095238 supA=52.0 supB=21.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Empire_City_Handicap" ],
+    "25" : [ "kb=dbo:race Belmont_Stakes", "AllConf=0.118279569892473", "triple=e dbo:race Belmont_Stakes", "class=Jockey", "{AllConf=0.118279569892473 condAB=0.211538461538462 condBA=0.118279569892473 supA=52.0 supB=93.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Stakes" ],
+    "26" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.11304347826087", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.11304347826087 condAB=0.25 condBA=0.11304347826087 supA=52.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ],
+    "27" : [ "kb=dbo:race Travers_Stakes", "AllConf=0.0933333333333333", "triple=e dbo:race Travers_Stakes", "class=Jockey", "{AllConf=0.0933333333333333 condAB=0.134615384615385 condBA=0.0933333333333333 supA=52.0 supB=75.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Travers_Stakes" ],
+    "28" : [ "kb=dbo:race St_Leger_Stakes", "AllConf=0.0961538461538462", "triple=e dbo:race St_Leger_Stakes", "class=Jockey", "{AllConf=0.0961538461538462 condAB=0.0961538461538462 condBA=0.25 supA=52.0 supB=20.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/St_Leger_Stakes" ],
+    "29" : [ "kb=dbo:race Breeders'_Cup_Juvenile", "AllConf=0.0961538461538462", "triple=e dbo:race Breeders'_Cup_Juvenile", "class=Jockey", "{AllConf=0.0961538461538462 condAB=0.0961538461538462 condBA=0.172413793103448 supA=52.0 supB=29.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Breeders'_Cup_Juvenile" ],
+    "30" : [ "kb=dbo:race Epsom_Oaks", "AllConf=0.136363636363636", "triple=e dbo:race Epsom_Oaks", "class=Jockey", "{AllConf=0.136363636363636 condAB=0.173076923076923 condBA=0.136363636363636 supA=52.0 supB=66.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Oaks" ],
+    "31" : [ "kb=dbo:award British_flat_racing_Champion_Jockey", "AllConf=0.171428571428571", "triple=e dbo:award British_flat_racing_Champion_Jockey", "class=Jockey", "{AllConf=0.171428571428571 condAB=0.375 condBA=0.171428571428571 supA=16.0 supB=35.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/award", "object=http://dbpedia.org/resource/British_flat_racing_Champion_Jockey" ],
+    "32" : [ "kb=dbp:race 2000^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0967741935483871", "triple=e dbp:race 2000^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Jockey", "{AllConf=0.0967741935483871 condAB=0.157894736842105 condBA=0.0967741935483871 supA=38.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"2000\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "33" : [ "kb=dbp:race Major races@en", "AllConf=0.150943396226415", "triple=e dbp:race Major races@en", "class=Jockey", "{AllConf=0.150943396226415 condAB=0.210526315789474 condBA=0.150943396226415 supA=38.0 supB=53.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"Major races\"\"@en\"" ],
+    "34" : [ "kb=dbp:race @en", "AllConf=0.0630630630630631", "triple=e dbp:race @en", "class=Jockey", "{AllConf=0.0630630630630631 condAB=0.4375 condBA=0.0630630630630631 supA=16.0 supB=111.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"\"\"@en\"" ],
+    "35" : [ "kb=dbo:birthPlace England", "AllConf=0.0364963503649635", "triple=e dbo:birthPlace England", "class=Jockey", "{AllConf=0.0364963503649635 condAB=0.0364963503649635 condBA=0.294117647058824 supA=137.0 supB=17.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/England" ]
+  }
+}, {
+  "id" : 139,
+  "pattern" : "jockey)'s",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 140,
+  "pattern" : "jockey.",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "AllConf=0.0777777777777778", "triple=e dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "class=Jockey", "{AllConf=0.0777777777777778 condAB=0.777777777777778 condBA=0.0777777777777778 supA=9.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/National_Museum_of_Racing_and_Hall_of_Fame" ]
+  }
+}, {
+  "id" : 141,
+  "pattern" : "jockey_born",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=1.0 condBA=0.0352112676056338 supA=5.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 142,
+  "pattern" : "jockey_rode",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=1.0 condBA=0.0123022847100176 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 143,
+  "pattern" : "jockey_thoroughbred",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.3125 condBA=0.0352112676056338 supA=16.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 144,
+  "pattern" : "jockey_won",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=1.0 condBA=0.015817223198594 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 145,
+  "pattern" : "jockeys",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 146,
+  "pattern" : "john",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.857142857142857 condBA=0.0105448154657293 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 147,
+  "pattern" : "july",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.416666666666667 condBA=0.0352112676056338 supA=12.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0456942003514939", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0456942003514939 condAB=0.928571428571429 condBA=0.0456942003514939 supA=28.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0429447852760736", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0429447852760736 condAB=0.25 condBA=0.0429447852760736 supA=28.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 148,
+  "pattern" : "jump",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 149,
+  "pattern" : "june",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.263157894736842 condBA=0.0352112676056338 supA=19.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0333919156414763", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0333919156414763 condAB=0.703703703703704 condBA=0.0333919156414763 supA=27.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0613496932515337", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0613496932515337 condAB=0.37037037037037 condBA=0.0613496932515337 supA=27.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 150,
+  "pattern" : "kentucky",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0228471001757469", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0228471001757469 condAB=0.764705882352941 condBA=0.0228471001757469 supA=17.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.294117647058824 condBA=0.0306748466257669 supA=17.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 151,
+  "pattern" : "kentucky_derby",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=0.692307692307692 condBA=0.015817223198594 supA=13.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.384615384615385 condBA=0.0306748466257669 supA=13.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 155,
+  "pattern" : "louisiana",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 156,
+  "pattern" : "march",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.333333333333333 condBA=0.0352112676056338 supA=15.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0404217926186292", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0404217926186292 condAB=0.851851851851852 condBA=0.0404217926186292 supA=27.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0429447852760736", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0429447852760736 condAB=0.259259259259259 condBA=0.0429447852760736 supA=27.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 157,
+  "pattern" : "museum",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "AllConf=0.0666666666666667", "triple=e dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "class=Jockey", "{AllConf=0.0666666666666667 condAB=1.0 condBA=0.0666666666666667 supA=6.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/National_Museum_of_Racing_and_Hall_of_Fame" ]
+  }
+}, {
+  "id" : 158,
+  "pattern" : "museum_racing",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "AllConf=0.0666666666666667", "triple=e dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "class=Jockey", "{AllConf=0.0666666666666667 condAB=1.0 condBA=0.0666666666666667 supA=6.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/National_Museum_of_Racing_and_Hall_of_Fame" ]
+  }
+}, {
+  "id" : 159,
+  "pattern" : "n_jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.133802816901408", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.133802816901408 condAB=0.904761904761905 condBA=0.133802816901408 supA=21.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 160,
+  "pattern" : "n_jockey_thoroughbred",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=1.0 condBA=0.0352112676056338 supA=5.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 161,
+  "pattern" : "n_thoroughbred",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=1.0 condBA=0.0422535211267606 supA=6.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 162,
+  "pattern" : "n_thoroughbred_horse",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0915492957746479", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0915492957746479 condAB=1.0 condBA=0.0915492957746479 supA=13.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 163,
+  "pattern" : "n_thoroughbred_horse_racing",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0915492957746479", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0915492957746479 condAB=1.0 condBA=0.0915492957746479 supA=13.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 164,
+  "pattern" : "n_thoroughbred_horse_racing_jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0563380281690141", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0563380281690141 condAB=1.0 condBA=0.0563380281690141 supA=8.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 165,
+  "pattern" : "national",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.031634446397188", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.031634446397188 condAB=0.9 condBA=0.031634446397188 supA=20.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0368098159509202", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0368098159509202 condAB=0.3 condBA=0.0368098159509202 supA=20.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "2" : [ "kb=dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "AllConf=0.0888888888888889", "triple=e dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "class=Jockey", "{AllConf=0.0888888888888889 condAB=0.8 condBA=0.0888888888888889 supA=10.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/National_Museum_of_Racing_and_Hall_of_Fame" ]
+  }
+}, {
+  "id" : 166,
+  "pattern" : "national_hunt",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0210896309314587", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0210896309314587 condAB=0.923076923076923 condBA=0.0210896309314587 supA=13.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 167,
+  "pattern" : "national_museum",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "AllConf=0.0666666666666667", "triple=e dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "class=Jockey", "{AllConf=0.0666666666666667 condAB=1.0 condBA=0.0666666666666667 supA=6.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/National_Museum_of_Racing_and_Hall_of_Fame" ]
+  }
+}, {
+  "id" : 168,
+  "pattern" : "national_museum_racing",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "AllConf=0.0666666666666667", "triple=e dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "class=Jockey", "{AllConf=0.0666666666666667 condAB=1.0 condBA=0.0666666666666667 supA=6.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/National_Museum_of_Racing_and_Hall_of_Fame" ]
+  }
+}, {
+  "id" : 170,
+  "pattern" : "new",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0563380281690141", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0563380281690141 condAB=0.727272727272727 condBA=0.0563380281690141 supA=11.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:birthPlace New_York_(state)", "AllConf=0.357142857142857", "triple=e dbp:birthPlace New_York_(state)", "class=Jockey", "{AllConf=0.357142857142857 condAB=0.454545454545455 condBA=0.357142857142857 supA=11.0 supB=14.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/New_York_(state)" ],
+    "2" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 171,
+  "pattern" : "new_york",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=0.6 condBA=0.0422535211267606 supA=10.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:birthPlace New_York_(state)", "AllConf=0.357142857142857", "triple=e dbp:birthPlace New_York_(state)", "class=Jockey", "{AllConf=0.357142857142857 condAB=0.5 condBA=0.357142857142857 supA=10.0 supB=14.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/New_York_(state)" ],
+    "2" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.857142857142857 condBA=0.0105448154657293 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 172,
+  "pattern" : "newmarket",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 173,
+  "pattern" : "north",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 174,
+  "pattern" : "november",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=0.333333333333333 condBA=0.0422535211267606 supA=18.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0439367311072056", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0439367311072056 condAB=0.862068965517241 condBA=0.0439367311072056 supA=29.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0368098159509202", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0368098159509202 condAB=0.206896551724138 condBA=0.0368098159509202 supA=29.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 175,
+  "pattern" : "number",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 176,
+  "pattern" : "october",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=0.4 condBA=0.0422535211267606 supA=15.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0386643233743409", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0386643233743409 condAB=0.846153846153846 condBA=0.0386643233743409 supA=26.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.192307692307692 condBA=0.0306748466257669 supA=26.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 177,
+  "pattern" : "ohio",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace United_States", "AllConf=0.0347222222222222", "triple=e dbo:birthPlace United_States", "class=Jockey", "{AllConf=0.0347222222222222 condAB=1.0 condBA=0.0347222222222222 supA=5.0 supB=144.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 178,
+  "pattern" : "one",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=0.6 condBA=0.0422535211267606 supA=10.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0281195079086116", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0281195079086116 condAB=0.8 condBA=0.0281195079086116 supA=20.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0429447852760736", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0429447852760736 condAB=0.21875 condBA=0.0429447852760736 supA=32.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 179,
+  "pattern" : "one_top",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 180,
+  "pattern" : "ontario",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Ontario", "AllConf=0.416666666666667", "triple=e dbo:birthPlace Ontario", "class=Jockey", "{AllConf=0.416666666666667 condAB=0.5 condBA=0.416666666666667 supA=10.0 supB=12.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Ontario" ]
+  }
+}, {
+  "id" : 182,
+  "pattern" : "outstanding_apprentice",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 183,
+  "pattern" : "owner",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=1.0 condBA=0.0306748466257669 supA=5.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 184,
+  "pattern" : "panama",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=1.0 condBA=0.015817223198594 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 185,
+  "pattern" : "park",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 186,
+  "pattern" : "peru",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 187,
+  "pattern" : "preakness",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race Preakness_Stakes", "AllConf=0.0490196078431373", "triple=e dbo:race Preakness_Stakes", "class=Jockey", "{AllConf=0.0490196078431373 condAB=0.833333333333333 condBA=0.0490196078431373 supA=6.0 supB=102.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Preakness_Stakes" ],
+    "1" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.037037037037037", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.037037037037037 condAB=0.833333333333333 condBA=0.037037037037037 supA=6.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "2" : [ "kb=dbo:race Belmont_Stakes", "AllConf=0.0537634408602151", "triple=e dbo:race Belmont_Stakes", "class=Jockey", "{AllConf=0.0537634408602151 condAB=0.833333333333333 condBA=0.0537634408602151 supA=6.0 supB=93.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Stakes" ],
+    "3" : [ "kb=dbo:race Jockey_Club_Gold_Cup", "AllConf=0.087719298245614", "triple=e dbo:race Jockey_Club_Gold_Cup", "class=Jockey", "{AllConf=0.087719298245614 condAB=0.833333333333333 condBA=0.087719298245614 supA=6.0 supB=57.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Jockey_Club_Gold_Cup" ]
+  }
+}, {
+  "id" : 188,
+  "pattern" : "preakness_stakes",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.037037037037037", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.037037037037037 condAB=1.0 condBA=0.037037037037037 supA=5.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "1" : [ "kb=dbo:race Belmont_Stakes", "AllConf=0.0537634408602151", "triple=e dbo:race Belmont_Stakes", "class=Jockey", "{AllConf=0.0537634408602151 condAB=1.0 condBA=0.0537634408602151 supA=5.0 supB=93.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Stakes" ],
+    "2" : [ "kb=dbo:race Jockey_Club_Gold_Cup", "AllConf=0.087719298245614", "triple=e dbo:race Jockey_Club_Gold_Cup", "class=Jockey", "{AllConf=0.087719298245614 condAB=1.0 condBA=0.087719298245614 supA=5.0 supB=57.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Jockey_Club_Gold_Cup" ]
+  }
+}, {
+  "id" : 191,
+  "pattern" : "puerto",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=1.0 condBA=0.0140597539543058 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 192,
+  "pattern" : "puerto_rican",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 193,
+  "pattern" : "race",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0281195079086116", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0281195079086116 condAB=0.533333333333333 condBA=0.0281195079086116 supA=30.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.110429447852761", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.110429447852761 condAB=0.6 condBA=0.110429447852761 supA=30.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "2" : [ "kb=dbo:race Canadian_Classic_Races", "AllConf=0.128205128205128", "triple=e dbo:race Canadian_Classic_Races", "class=Jockey", "{AllConf=0.128205128205128 condAB=0.357142857142857 condBA=0.128205128205128 supA=14.0 supB=39.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Canadian_Classic_Races" ],
+    "3" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.037037037037037", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.037037037037037 condAB=0.333333333333333 condBA=0.037037037037037 supA=15.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ]
+  }
+}, {
+  "id" : 194,
+  "pattern" : "racehorse",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=0.666666666666667 condBA=0.0422535211267606 supA=9.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.380952380952381 condBA=0.0140597539543058 supA=21.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.104294478527607", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.104294478527607 condAB=0.80952380952381 condBA=0.104294478527607 supA=21.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 195,
+  "pattern" : "racehorses",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0674846625766871", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0674846625766871 condAB=0.916666666666667 condBA=0.0674846625766871 supA=12.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 196,
+  "pattern" : "races",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=0.75 condBA=0.0422535211267606 supA=8.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0210896309314587", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0210896309314587 condAB=1.0 condBA=0.0210896309314587 supA=12.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:race Epsom_Derby", "AllConf=0.0555555555555556", "triple=e dbo:race Epsom_Derby", "class=Jockey", "{AllConf=0.0555555555555556 condAB=0.714285714285714 condBA=0.0555555555555556 supA=7.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Derby" ],
+    "3" : [ "kb=dbo:race Breeders'_Cup", "AllConf=0.0714285714285714", "triple=e dbo:race Breeders'_Cup", "class=Jockey", "{AllConf=0.0714285714285714 condAB=0.333333333333333 condBA=0.0714285714285714 supA=15.0 supB=70.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Breeders'_Cup" ],
+    "4" : [ "kb=dbo:race British_Classic_Races", "AllConf=0.0769230769230769", "triple=e dbo:race British_Classic_Races", "class=Jockey", "{AllConf=0.0769230769230769 condAB=0.714285714285714 condBA=0.0769230769230769 supA=7.0 supB=65.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/British_Classic_Races" ],
+    "5" : [ "kb=dbo:race Del_Mar_Futurity", "AllConf=0.192307692307692", "triple=e dbo:race Del_Mar_Futurity", "class=Jockey", "{AllConf=0.192307692307692 condAB=0.333333333333333 condBA=0.192307692307692 supA=15.0 supB=26.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Del_Mar_Futurity" ],
+    "6" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.037037037037037", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.037037037037037 condAB=0.333333333333333 condBA=0.037037037037037 supA=15.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "7" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.0434782608695652", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.0434782608695652 condAB=0.333333333333333 condBA=0.0434782608695652 supA=15.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ]
+  }
+}, {
+  "id" : 198,
+  "pattern" : "racing_champion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=1.0 condBA=0.0105448154657293 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 199,
+  "pattern" : "racing_driver",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Harness_racing", "AllConf=0.269230769230769", "triple=e dbo:occupation Harness_racing", "class=Jockey", "{AllConf=0.269230769230769 condAB=1.0 condBA=0.269230769230769 supA=7.0 supB=26.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Harness_racing" ]
+  }
+}, {
+  "id" : 200,
+  "pattern" : "racing_hall",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.714285714285714 condBA=0.0352112676056338 supA=7.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.545454545454545 condBA=0.0105448154657293 supA=11.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.454545454545455 condBA=0.0306748466257669 supA=11.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 201,
+  "pattern" : "racing_hall_fame",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.714285714285714 condBA=0.0352112676056338 supA=7.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.545454545454545 condBA=0.0105448154657293 supA=11.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.454545454545455 condBA=0.0306748466257669 supA=11.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 202,
+  "pattern" : "racing_jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0985915492957746", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0985915492957746 condAB=0.538461538461538 condBA=0.0985915492957746 supA=26.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=1.0 condBA=0.0140597539543058 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 208,
+  "pattern" : "ridden",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 209,
+  "pattern" : "ride",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=1.0 condBA=0.015817223198594 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 210,
+  "pattern" : "rider",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=0.875 condBA=0.0123022847100176 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 212,
+  "pattern" : "riding_career",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 215,
+  "pattern" : "school",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.857142857142857 condBA=0.0105448154657293 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 217,
+  "pattern" : "september",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0845070422535211", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0845070422535211 condAB=0.6 condBA=0.0845070422535211 supA=20.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0298769771528998", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0298769771528998 condAB=0.68 condBA=0.0298769771528998 supA=25.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0368098159509202", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0368098159509202 condAB=0.24 condBA=0.0368098159509202 supA=25.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 218,
+  "pattern" : "son",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 219,
+  "pattern" : "south",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 221,
+  "pattern" : "stakes",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.857142857142857 condBA=0.0105448154657293 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:race Juvenile_Stakes_(United_States)", "AllConf=0.0892857142857143", "triple=e dbo:race Juvenile_Stakes_(United_States)", "class=Jockey", "{AllConf=0.0892857142857143 condAB=0.142857142857143 condBA=0.0892857142857143 supA=35.0 supB=56.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Juvenile_Stakes_(United_States)" ],
+    "2" : [ "kb=dbo:race Whitney_Handicap", "AllConf=0.117647058823529", "triple=e dbo:race Whitney_Handicap", "class=Jockey", "{AllConf=0.117647058823529 condAB=0.171428571428571 condBA=0.117647058823529 supA=35.0 supB=51.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Whitney_Handicap" ],
+    "3" : [ "kb=dbo:race Cowdin_Stakes", "AllConf=0.171428571428571", "triple=e dbo:race Cowdin_Stakes", "class=Jockey", "{AllConf=0.171428571428571 condAB=0.171428571428571 condBA=0.176470588235294 supA=35.0 supB=34.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Cowdin_Stakes" ],
+    "4" : [ "kb=dbo:race Breeders'_Cup", "AllConf=0.0714285714285714", "triple=e dbo:race Breeders'_Cup", "class=Jockey", "{AllConf=0.0714285714285714 condAB=0.333333333333333 condBA=0.0714285714285714 supA=15.0 supB=70.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Breeders'_Cup" ],
+    "5" : [ "kb=dbo:race Suburban_Handicap", "AllConf=0.111111111111111", "triple=e dbo:race Suburban_Handicap", "class=Jockey", "{AllConf=0.111111111111111 condAB=0.2 condBA=0.111111111111111 supA=35.0 supB=63.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Suburban_Handicap" ],
+    "6" : [ "kb=dbo:race Kentucky_Oaks", "AllConf=0.0847457627118644", "triple=e dbo:race Kentucky_Oaks", "class=Jockey", "{AllConf=0.0847457627118644 condAB=0.333333333333333 condBA=0.0847457627118644 supA=15.0 supB=59.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Oaks" ],
+    "7" : [ "kb=dbo:race Belmont_Futurity_Stakes", "AllConf=0.1", "triple=e dbo:race Belmont_Futurity_Stakes", "class=Jockey", "{AllConf=0.1 condAB=0.333333333333333 condBA=0.1 supA=15.0 supB=50.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Futurity_Stakes" ],
+    "8" : [ "kb=dbo:race Remsen_Stakes", "AllConf=0.102040816326531", "triple=e dbo:race Remsen_Stakes", "class=Jockey", "{AllConf=0.102040816326531 condAB=0.142857142857143 condBA=0.102040816326531 supA=35.0 supB=49.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Remsen_Stakes" ],
+    "9" : [ "kb=dbo:race Saratoga_Special_Stakes", "AllConf=0.0943396226415094", "triple=e dbo:race Saratoga_Special_Stakes", "class=Jockey", "{AllConf=0.0943396226415094 condAB=0.142857142857143 condBA=0.0943396226415094 supA=35.0 supB=53.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Saratoga_Special_Stakes" ],
+    "10" : [ "kb=dbo:race Alabama_Stakes", "AllConf=0.106060606060606", "triple=e dbo:race Alabama_Stakes", "class=Jockey", "{AllConf=0.106060606060606 condAB=0.2 condBA=0.106060606060606 supA=35.0 supB=66.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Alabama_Stakes" ],
+    "11" : [ "kb=dbo:race Withers_Stakes", "AllConf=0.101694915254237", "triple=e dbo:race Withers_Stakes", "class=Jockey", "{AllConf=0.101694915254237 condAB=0.171428571428571 condBA=0.101694915254237 supA=35.0 supB=59.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Withers_Stakes" ],
+    "12" : [ "kb=dbo:race Hollywood_Derby", "AllConf=0.131578947368421", "triple=e dbo:race Hollywood_Derby", "class=Jockey", "{AllConf=0.131578947368421 condAB=0.142857142857143 condBA=0.131578947368421 supA=35.0 supB=38.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Hollywood_Derby" ],
+    "13" : [ "kb=dbo:race British_Classic_Races", "AllConf=0.0769230769230769", "triple=e dbo:race British_Classic_Races", "class=Jockey", "{AllConf=0.0769230769230769 condAB=0.142857142857143 condBA=0.0769230769230769 supA=35.0 supB=65.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/British_Classic_Races" ],
+    "14" : [ "kb=dbo:race Toboggan_Handicap", "AllConf=0.0909090909090909", "triple=e dbo:race Toboggan_Handicap", "class=Jockey", "{AllConf=0.0909090909090909 condAB=0.142857142857143 condBA=0.0909090909090909 supA=35.0 supB=55.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Toboggan_Handicap" ],
+    "15" : [ "kb=dbo:race Secretariat_Stakes", "AllConf=0.171428571428571", "triple=e dbo:race Secretariat_Stakes", "class=Jockey", "{AllConf=0.171428571428571 condAB=0.171428571428571 condBA=0.230769230769231 supA=35.0 supB=26.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Secretariat_Stakes" ],
+    "16" : [ "kb=dbo:race Del_Mar_Futurity", "AllConf=0.192307692307692", "triple=e dbo:race Del_Mar_Futurity", "class=Jockey", "{AllConf=0.192307692307692 condAB=0.333333333333333 condBA=0.192307692307692 supA=15.0 supB=26.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Del_Mar_Futurity" ],
+    "17" : [ "kb=dbo:race Wood_Memorial_Stakes", "AllConf=0.0925925925925926", "triple=e dbo:race Wood_Memorial_Stakes", "class=Jockey", "{AllConf=0.0925925925925926 condAB=0.333333333333333 condBA=0.0925925925925926 supA=15.0 supB=54.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Wood_Memorial_Stakes" ],
+    "18" : [ "kb=dbo:race Dwyer_Stakes", "AllConf=0.102040816326531", "triple=e dbo:race Dwyer_Stakes", "class=Jockey", "{AllConf=0.102040816326531 condAB=0.142857142857143 condBA=0.102040816326531 supA=35.0 supB=49.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Dwyer_Stakes" ],
+    "19" : [ "kb=dbo:race Preakness_Stakes", "AllConf=0.0882352941176471", "triple=e dbo:race Preakness_Stakes", "class=Jockey", "{AllConf=0.0882352941176471 condAB=0.6 condBA=0.0882352941176471 supA=15.0 supB=102.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Preakness_Stakes" ],
+    "20" : [ "kb=dbo:race Breeders'_Cup_Distaff", "AllConf=0.217391304347826", "triple=e dbo:race Breeders'_Cup_Distaff", "class=Jockey", "{AllConf=0.217391304347826 condAB=0.333333333333333 condBA=0.217391304347826 supA=15.0 supB=23.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Breeders'_Cup_Distaff" ],
+    "21" : [ "kb=dbo:race Santa_Anita_Derby", "AllConf=0.108695652173913", "triple=e dbo:race Santa_Anita_Derby", "class=Jockey", "{AllConf=0.108695652173913 condAB=0.333333333333333 condBA=0.108695652173913 supA=15.0 supB=46.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Santa_Anita_Derby" ],
+    "22" : [ "kb=dbo:race Brooklyn_Handicap", "AllConf=0.0847457627118644", "triple=e dbo:race Brooklyn_Handicap", "class=Jockey", "{AllConf=0.0847457627118644 condAB=0.142857142857143 condBA=0.0847457627118644 supA=35.0 supB=59.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Brooklyn_Handicap" ],
+    "23" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.0592592592592593", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.0592592592592593 condAB=0.533333333333333 condBA=0.0592592592592593 supA=15.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "24" : [ "kb=dbo:race Malibu_Stakes", "AllConf=0.142857142857143", "triple=e dbo:race Malibu_Stakes", "class=Jockey", "{AllConf=0.142857142857143 condAB=0.142857142857143 condBA=0.217391304347826 supA=35.0 supB=23.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Malibu_Stakes" ],
+    "25" : [ "kb=dbo:race Ladies_Handicap", "AllConf=0.1", "triple=e dbo:race Ladies_Handicap", "class=Jockey", "{AllConf=0.1 condAB=0.142857142857143 condBA=0.1 supA=35.0 supB=50.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Ladies_Handicap" ],
+    "26" : [ "kb=dbo:race Metropolitan_Handicap", "AllConf=0.09375", "triple=e dbo:race Metropolitan_Handicap", "class=Jockey", "{AllConf=0.09375 condAB=0.171428571428571 condBA=0.09375 supA=35.0 supB=64.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Metropolitan_Handicap" ],
+    "27" : [ "kb=dbo:race Belmont_Stakes", "AllConf=0.0860215053763441", "triple=e dbo:race Belmont_Stakes", "class=Jockey", "{AllConf=0.0860215053763441 condAB=0.533333333333333 condBA=0.0860215053763441 supA=15.0 supB=93.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Stakes" ],
+    "28" : [ "kb=dbo:race Carter_Handicap", "AllConf=0.166666666666667", "triple=e dbo:race Carter_Handicap", "class=Jockey", "{AllConf=0.166666666666667 condAB=0.257142857142857 condBA=0.166666666666667 supA=35.0 supB=54.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Carter_Handicap" ],
+    "29" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.0608695652173913", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.0608695652173913 condAB=0.466666666666667 condBA=0.0608695652173913 supA=15.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ],
+    "30" : [ "kb=dbo:race Personal_Ensign_Handicap", "AllConf=0.142857142857143", "triple=e dbo:race Personal_Ensign_Handicap", "class=Jockey", "{AllConf=0.142857142857143 condAB=0.142857142857143 condBA=0.227272727272727 supA=35.0 supB=22.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Personal_Ensign_Handicap" ],
+    "31" : [ "kb=dbo:race Jockey_Club_Gold_Cup", "AllConf=0.140350877192982", "triple=e dbo:race Jockey_Club_Gold_Cup", "class=Jockey", "{AllConf=0.140350877192982 condAB=0.533333333333333 condBA=0.140350877192982 supA=15.0 supB=57.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Jockey_Club_Gold_Cup" ],
+    "32" : [ "kb=dbo:race Travers_Stakes", "AllConf=0.12", "triple=e dbo:race Travers_Stakes", "class=Jockey", "{AllConf=0.12 condAB=0.257142857142857 condBA=0.12 supA=35.0 supB=75.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Travers_Stakes" ],
+    "33" : [ "kb=dbo:race Manhattan_Handicap", "AllConf=0.1", "triple=e dbo:race Manhattan_Handicap", "class=Jockey", "{AllConf=0.1 condAB=0.2 condBA=0.1 supA=35.0 supB=70.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Manhattan_Handicap" ],
+    "34" : [ "kb=dbo:race Del_Mar_Oaks", "AllConf=0.142857142857143", "triple=e dbo:race Del_Mar_Oaks", "class=Jockey", "{AllConf=0.142857142857143 condAB=0.142857142857143 condBA=0.172413793103448 supA=35.0 supB=29.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Del_Mar_Oaks" ],
+    "35" : [ "kb=dbo:race Arkansas_Derby", "AllConf=0.146341463414634", "triple=e dbo:race Arkansas_Derby", "class=Jockey", "{AllConf=0.146341463414634 condAB=0.171428571428571 condBA=0.146341463414634 supA=35.0 supB=41.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Arkansas_Derby" ],
+    "36" : [ "kb=dbp:race @en", "AllConf=0.045045045045045", "triple=e dbp:race @en", "class=Jockey", "{AllConf=0.045045045045045 condAB=0.192307692307692 condBA=0.045045045045045 supA=26.0 supB=111.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"\"\"@en\"" ],
+    "37" : [ "kb=dbp:race Brooklyn_Invitational_Stakes", "AllConf=0.0793650793650794", "triple=e dbp:race Brooklyn_Invitational_Stakes", "class=Jockey", "{AllConf=0.0793650793650794 condAB=0.192307692307692 condBA=0.0793650793650794 supA=26.0 supB=63.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=http://dbpedia.org/resource/Brooklyn_Invitational_Stakes" ]
+  }
+}, {
+  "id" : 222,
+  "pattern" : "states",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=0.777777777777778 condBA=0.0123022847100176 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.208333333333333 condBA=0.0306748466257669 supA=24.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "2" : [ "kb=dbo:birthPlace Canada", "AllConf=0.172413793103448", "triple=e dbo:birthPlace Canada", "class=Jockey", "{AllConf=0.172413793103448 condAB=0.172413793103448 condBA=0.294117647058824 supA=29.0 supB=17.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Canada" ]
+  }
+}, {
+  "id" : 223,
+  "pattern" : "states_champion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 224,
+  "pattern" : "success",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.714285714285714 condBA=0.00878734622144113 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 227,
+  "pattern" : "thoroughbred",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.3125 condBA=0.0352112676056338 supA=16.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0246045694200351", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0246045694200351 condAB=0.7 condBA=0.0246045694200351 supA=20.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0429447852760736", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0429447852760736 condAB=0.35 condBA=0.0429447852760736 supA=20.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "3" : [ "kb=dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "AllConf=0.0555555555555556", "triple=e dbp:honours National_Museum_of_Racing_and_Hall_of_Fame", "class=Jockey", "{AllConf=0.0555555555555556 condAB=1.0 condBA=0.0555555555555556 supA=5.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/honours", "object=http://dbpedia.org/resource/National_Museum_of_Racing_and_Hall_of_Fame" ]
+  }
+}, {
+  "id" : 228,
+  "pattern" : "thoroughbred_horse",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.133802816901408", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.133802816901408 condAB=0.38 condBA=0.133802816901408 supA=50.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.666666666666667 condBA=0.0140597539543058 supA=12.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.416666666666667 condBA=0.0306748466257669 supA=12.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 229,
+  "pattern" : "thoroughbred_horse_racing",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0563380281690141", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0563380281690141 condAB=0.533333333333333 condBA=0.0563380281690141 supA=15.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.8 condBA=0.0140597539543058 supA=10.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 230,
+  "pattern" : "thoroughbred_horse_racing.",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0193321616871705", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0193321616871705 condAB=1.0 condBA=0.0193321616871705 supA=11.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 231,
+  "pattern" : "thoroughbred_horse_racing_jockey",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0704225352112676", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0704225352112676 condAB=0.625 condBA=0.0704225352112676 supA=16.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 232,
+  "pattern" : "thoroughbred_racehorse",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.625 condBA=0.0352112676056338 supA=8.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 233,
+  "pattern" : "thoroughbred_racehorses",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=1.0 condBA=0.0306748466257669 supA=5.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 234,
+  "pattern" : "three",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0193321616871705", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0193321616871705 condAB=0.846153846153846 condBA=0.0193321616871705 supA=13.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:race Del_Mar_Futurity", "AllConf=0.192307692307692", "triple=e dbo:race Del_Mar_Futurity", "class=Jockey", "{AllConf=0.192307692307692 condAB=0.416666666666667 condBA=0.192307692307692 supA=12.0 supB=26.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Del_Mar_Futurity" ],
+    "2" : [ "kb=dbp:race @en", "AllConf=0.0540540540540541", "triple=e dbp:race @en", "class=Jockey", "{AllConf=0.0540540540540541 condAB=0.666666666666667 condBA=0.0540540540540541 supA=9.0 supB=111.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 235,
+  "pattern" : "three_times",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 236,
+  "pattern" : "time",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 237,
+  "pattern" : "times",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0123022847100176", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0123022847100176 condAB=0.7 condBA=0.0123022847100176 supA=10.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:race Laurels_(greyhounds)", "AllConf=0.428571428571429", "triple=e dbo:race Laurels_(greyhounds)", "class=Jockey", "{AllConf=0.428571428571429 condAB=0.5 condBA=0.428571428571429 supA=12.0 supB=14.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Laurels_(greyhounds)" ],
+    "2" : [ "kb=dbo:race Cesarewitch_(greyhounds)", "AllConf=0.277777777777778", "triple=e dbo:race Cesarewitch_(greyhounds)", "class=Jockey", "{AllConf=0.277777777777778 condAB=0.416666666666667 condBA=0.277777777777778 supA=12.0 supB=18.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Cesarewitch_(greyhounds)" ],
+    "3" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.037037037037037", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.037037037037037 condAB=0.384615384615385 condBA=0.037037037037037 supA=13.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "4" : [ "kb=dbo:race Oaks_(greyhounds)", "AllConf=0.357142857142857", "triple=e dbo:race Oaks_(greyhounds)", "class=Jockey", "{AllConf=0.357142857142857 condAB=0.416666666666667 condBA=0.357142857142857 supA=12.0 supB=14.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Oaks_(greyhounds)" ],
+    "5" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.0434782608695652", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.0434782608695652 condAB=0.384615384615385 condBA=0.0434782608695652 supA=13.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ],
+    "6" : [ "kb=dbp:race Classic/Feature wins:@en", "AllConf=0.205882352941176", "triple=e dbp:race Classic/Feature wins:@en", "class=Jockey", "{AllConf=0.205882352941176 condAB=0.583333333333333 condBA=0.205882352941176 supA=12.0 supB=34.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"Classic/Feature wins:\"\"@en\"" ],
+    "7" : [ "kb=dbp:race @en", "AllConf=0.0720720720720721", "triple=e dbp:race @en", "class=Jockey", "{AllConf=0.0720720720720721 condAB=0.666666666666667 condBA=0.0720720720720721 supA=12.0 supB=111.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 238,
+  "pattern" : "times_winner",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race Laurels_(greyhounds)", "AllConf=0.357142857142857", "triple=e dbo:race Laurels_(greyhounds)", "class=Jockey", "{AllConf=0.357142857142857 condAB=1.0 condBA=0.357142857142857 supA=5.0 supB=14.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Laurels_(greyhounds)" ],
+    "1" : [ "kb=dbo:race Cesarewitch_(greyhounds)", "AllConf=0.277777777777778", "triple=e dbo:race Cesarewitch_(greyhounds)", "class=Jockey", "{AllConf=0.277777777777778 condAB=1.0 condBA=0.277777777777778 supA=5.0 supB=18.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Cesarewitch_(greyhounds)" ],
+    "2" : [ "kb=dbp:race Classic/Feature wins:@en", "AllConf=0.147058823529412", "triple=e dbp:race Classic/Feature wins:@en", "class=Jockey", "{AllConf=0.147058823529412 condAB=1.0 condBA=0.147058823529412 supA=5.0 supB=34.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"Classic/Feature wins:\"\"@en\"" ],
+    "3" : [ "kb=dbp:race @en", "AllConf=0.045045045045045", "triple=e dbp:race @en", "class=Jockey", "{AllConf=0.045045045045045 condAB=1.0 condBA=0.045045045045045 supA=5.0 supB=111.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 239,
+  "pattern" : "title",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 240,
+  "pattern" : "top",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=1.0 condBA=0.0352112676056338 supA=5.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 242,
+  "pattern" : "trainer",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0845070422535211", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0845070422535211 condAB=0.444444444444444 condBA=0.0845070422535211 supA=27.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Ownership", "AllConf=0.1", "triple=e dbo:occupation Ownership", "class=Jockey", "{AllConf=0.1 condAB=0.1 condBA=0.333333333333333 supA=60.0 supB=18.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Ownership" ],
+    "2" : [ "kb=dbo:occupation Harness_racing", "AllConf=0.133333333333333", "triple=e dbo:occupation Harness_racing", "class=Jockey", "{AllConf=0.133333333333333 condAB=0.133333333333333 condBA=0.307692307692308 supA=60.0 supB=26.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Harness_racing" ],
+    "3" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=0.310344827586207 condBA=0.015817223198594 supA=29.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "4" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=1.0 condBA=0.0306748466257669 supA=5.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "5" : [ "kb=dbo:occupation Horse_breeding", "AllConf=0.1", "triple=e dbo:occupation Horse_breeding", "class=Jockey", "{AllConf=0.1 condAB=0.1 condBA=0.461538461538462 supA=60.0 supB=13.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_breeding" ],
+    "6" : [ "kb=dbo:race English_Greyhound_Derby", "AllConf=0.25", "triple=e dbo:race English_Greyhound_Derby", "class=Jockey", "{AllConf=0.25 condAB=0.294117647058824 condBA=0.25 supA=17.0 supB=20.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/English_Greyhound_Derby" ],
+    "7" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.037037037037037", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.037037037037037 condAB=0.294117647058824 condBA=0.037037037037037 supA=17.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "8" : [ "kb=dbp:race Classic/Feature wins:@en", "AllConf=0.176470588235294", "triple=e dbp:race Classic/Feature wins:@en", "class=Jockey", "{AllConf=0.176470588235294 condAB=0.461538461538462 condBA=0.176470588235294 supA=13.0 supB=34.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"Classic/Feature wins:\"\"@en\"" ],
+    "9" : [ "kb=dbp:race @en", "AllConf=0.0630630630630631", "triple=e dbp:race @en", "class=Jockey", "{AllConf=0.0630630630630631 condAB=0.538461538461538 condBA=0.0630630630630631 supA=13.0 supB=111.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 243,
+  "pattern" : "training",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=1.0 condBA=0.0306748466257669 supA=5.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ]
+  }
+}, {
+  "id" : 245,
+  "pattern" : "triple_crown",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0492957746478873", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0492957746478873 condAB=0.777777777777778 condBA=0.0492957746478873 supA=9.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=1.0 condBA=0.015817223198594 supA=9.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 246,
+  "pattern" : "u.s",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 247,
+  "pattern" : "united",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.105633802816901", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.105633802816901 condAB=0.9375 condBA=0.105633802816901 supA=16.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=0.8 condBA=0.0140597539543058 supA=10.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.178571428571429 condBA=0.0306748466257669 supA=28.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "3" : [ "kb=dbo:birthPlace Canada", "AllConf=0.192307692307692", "triple=e dbo:birthPlace Canada", "class=Jockey", "{AllConf=0.192307692307692 condAB=0.192307692307692 condBA=0.294117647058824 supA=26.0 supB=17.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Canada" ]
+  }
+}, {
+  "id" : 248,
+  "pattern" : "united_states",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.75 condBA=0.0105448154657293 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:occupation Horse_trainer", "AllConf=0.0306748466257669", "triple=e dbo:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0306748466257669 condAB=0.227272727272727 condBA=0.0306748466257669 supA=22.0 supB=163.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "2" : [ "kb=dbo:birthPlace Canada", "AllConf=0.172413793103448", "triple=e dbo:birthPlace Canada", "class=Jockey", "{AllConf=0.172413793103448 condAB=0.172413793103448 condBA=0.294117647058824 supA=29.0 supB=17.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Canada" ]
+  }
+}, {
+  "id" : 249,
+  "pattern" : "united_states_champion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 250,
+  "pattern" : "victory",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race Alabama_Stakes", "AllConf=0.0909090909090909", "triple=e dbo:race Alabama_Stakes", "class=Jockey", "{AllConf=0.0909090909090909 condAB=0.333333333333333 condBA=0.0909090909090909 supA=18.0 supB=66.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Alabama_Stakes" ],
+    "1" : [ "kb=dbo:race Withers_Stakes", "AllConf=0.0847457627118644", "triple=e dbo:race Withers_Stakes", "class=Jockey", "{AllConf=0.0847457627118644 condAB=0.238095238095238 condBA=0.0847457627118644 supA=21.0 supB=59.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Withers_Stakes" ],
+    "2" : [ "kb=dbo:race Preakness_Stakes", "AllConf=0.0490196078431373", "triple=e dbo:race Preakness_Stakes", "class=Jockey", "{AllConf=0.0490196078431373 condAB=0.263157894736842 condBA=0.0490196078431373 supA=19.0 supB=102.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Preakness_Stakes" ],
+    "3" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.037037037037037", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.037037037037037 condAB=0.263157894736842 condBA=0.037037037037037 supA=19.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "4" : [ "kb=dbo:race Belmont_Stakes", "AllConf=0.0537634408602151", "triple=e dbo:race Belmont_Stakes", "class=Jockey", "{AllConf=0.0537634408602151 condAB=0.357142857142857 condBA=0.0537634408602151 supA=14.0 supB=93.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Stakes" ],
+    "5" : [ "kb=dbo:race Travers_Stakes", "AllConf=0.0666666666666667", "triple=e dbo:race Travers_Stakes", "class=Jockey", "{AllConf=0.0666666666666667 condAB=0.25 condBA=0.0666666666666667 supA=20.0 supB=75.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Travers_Stakes" ]
+  }
+}, {
+  "id" : 253,
+  "pattern" : "william",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=1.0 condBA=0.00878734622144113 supA=5.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 255,
+  "pattern" : "winner",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.833333333333333 condBA=0.00878734622144113 supA=6.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:race Epsom_Derby", "AllConf=0.0555555555555556", "triple=e dbo:race Epsom_Derby", "class=Jockey", "{AllConf=0.0555555555555556 condAB=0.5 condBA=0.0555555555555556 supA=10.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Derby" ],
+    "2" : [ "kb=dbo:race Laurels_(greyhounds)", "AllConf=0.4", "triple=e dbo:race Laurels_(greyhounds)", "class=Jockey", "{AllConf=0.4 condAB=0.4 condBA=0.428571428571429 supA=15.0 supB=14.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Laurels_(greyhounds)" ],
+    "3" : [ "kb=dbo:race Gold_Collar", "AllConf=0.333333333333333", "triple=e dbo:race Gold_Collar", "class=Jockey", "{AllConf=0.333333333333333 condAB=0.333333333333333 condBA=0.357142857142857 supA=15.0 supB=14.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Gold_Collar" ],
+    "4" : [ "kb=dbo:race English_Greyhound_Derby", "AllConf=0.35", "triple=e dbo:race English_Greyhound_Derby", "class=Jockey", "{AllConf=0.35 condAB=0.411764705882353 condBA=0.35 supA=17.0 supB=20.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/English_Greyhound_Derby" ],
+    "5" : [ "kb=dbo:race Cesarewitch_(greyhounds)", "AllConf=0.333333333333333", "triple=e dbo:race Cesarewitch_(greyhounds)", "class=Jockey", "{AllConf=0.333333333333333 condAB=0.352941176470588 condBA=0.333333333333333 supA=17.0 supB=18.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Cesarewitch_(greyhounds)" ],
+    "6" : [ "kb=dbo:race Oaks_(greyhounds)", "AllConf=0.333333333333333", "triple=e dbo:race Oaks_(greyhounds)", "class=Jockey", "{AllConf=0.333333333333333 condAB=0.333333333333333 condBA=0.357142857142857 supA=15.0 supB=14.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Oaks_(greyhounds)" ],
+    "7" : [ "kb=dbp:race Classic/Feature wins:@en", "AllConf=0.264705882352941", "triple=e dbp:race Classic/Feature wins:@en", "class=Jockey", "{AllConf=0.264705882352941 condAB=0.692307692307692 condBA=0.264705882352941 supA=13.0 supB=34.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"Classic/Feature wins:\"\"@en\"" ],
+    "8" : [ "kb=dbp:race @en", "AllConf=0.0900900900900901", "triple=e dbp:race @en", "class=Jockey", "{AllConf=0.0900900900900901 condAB=0.769230769230769 condBA=0.0900900900900901 supA=13.0 supB=111.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 256,
+  "pattern" : "winners",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.015817223198594", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.015817223198594 condAB=0.75 condBA=0.015817223198594 supA=12.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:race Epsom_Derby", "AllConf=0.0666666666666667", "triple=e dbo:race Epsom_Derby", "class=Jockey", "{AllConf=0.0666666666666667 condAB=0.545454545454545 condBA=0.0666666666666667 supA=11.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Derby" ],
+    "2" : [ "kb=dbo:race British_Classic_Races", "AllConf=0.0769230769230769", "triple=e dbo:race British_Classic_Races", "class=Jockey", "{AllConf=0.0769230769230769 condAB=0.833333333333333 condBA=0.0769230769230769 supA=6.0 supB=65.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/British_Classic_Races" ],
+    "3" : [ "kb=dbo:race 1000_Guineas", "AllConf=0.454545454545455", "triple=e dbo:race 1000_Guineas", "class=Jockey", "{AllConf=0.454545454545455 condAB=0.454545454545455 condBA=0.5 supA=11.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/1000_Guineas" ],
+    "4" : [ "kb=dbo:race 2000_Guineas", "AllConf=0.277777777777778", "triple=e dbo:race 2000_Guineas", "class=Jockey", "{AllConf=0.277777777777778 condAB=0.454545454545455 condBA=0.277777777777778 supA=11.0 supB=18.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/2000_Guineas" ],
+    "5" : [ "kb=dbo:race Epsom_Oaks", "AllConf=0.0757575757575758", "triple=e dbo:race Epsom_Oaks", "class=Jockey", "{AllConf=0.0757575757575758 condAB=0.833333333333333 condBA=0.0757575757575758 supA=6.0 supB=66.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Oaks" ]
+  }
+}, {
+  "id" : 258,
+  "pattern" : "winning_horse",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.0434782608695652", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.0434782608695652 condAB=1.0 condBA=0.0434782608695652 supA=5.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ]
+  }
+}, {
+  "id" : 259,
+  "pattern" : "wins",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0193321616871705", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0193321616871705 condAB=1.0 condBA=0.0193321616871705 supA=11.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "1" : [ "kb=dbo:race Epsom_Derby", "AllConf=0.0555555555555556", "triple=e dbo:race Epsom_Derby", "class=Jockey", "{AllConf=0.0555555555555556 condAB=0.416666666666667 condBA=0.0555555555555556 supA=12.0 supB=90.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Epsom_Derby" ],
+    "2" : [ "kb=dbp:race 2000^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0806451612903226", "triple=e dbp:race 2000^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Jockey", "{AllConf=0.0806451612903226 condAB=0.454545454545455 condBA=0.0806451612903226 supA=11.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/race", "object=\"\"\"2000\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 262,
+  "pattern" : "would",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.857142857142857 condBA=0.0105448154657293 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 263,
+  "pattern" : "year",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=1.0 condBA=0.0352112676056338 supA=5.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=1.0 condBA=0.0140597539543058 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ],
+    "2" : [ "kb=dbp:occupation Horse_trainer", "AllConf=0.0373134328358209", "triple=e dbp:occupation Horse_trainer", "class=Jockey", "{AllConf=0.0373134328358209 condAB=0.238095238095238 condBA=0.0373134328358209 supA=21.0 supB=134.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/occupation", "object=http://dbpedia.org/resource/Horse_trainer" ],
+    "3" : [ "kb=dbo:race American_Classic_Races", "AllConf=0.0444444444444444", "triple=e dbo:race American_Classic_Races", "class=Jockey", "{AllConf=0.0444444444444444 condAB=0.5 condBA=0.0444444444444444 supA=12.0 supB=135.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/American_Classic_Races" ],
+    "4" : [ "kb=dbo:race Belmont_Stakes", "AllConf=0.0537634408602151", "triple=e dbo:race Belmont_Stakes", "class=Jockey", "{AllConf=0.0537634408602151 condAB=0.416666666666667 condBA=0.0537634408602151 supA=12.0 supB=93.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Belmont_Stakes" ],
+    "5" : [ "kb=dbo:race Kentucky_Derby", "AllConf=0.0434782608695652", "triple=e dbo:race Kentucky_Derby", "class=Jockey", "{AllConf=0.0434782608695652 condAB=0.416666666666667 condBA=0.0434782608695652 supA=12.0 supB=115.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/race", "object=http://dbpedia.org/resource/Kentucky_Derby" ]
+  }
+}, {
+  "id" : 264,
+  "pattern" : "years",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0352112676056338", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0352112676056338 condAB=0.384615384615385 condBA=0.0352112676056338 supA=13.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbo:occupation Jockey", "AllConf=0.0140597539543058", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0140597539543058 condAB=1.0 condBA=0.0140597539543058 supA=8.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 265,
+  "pattern" : "york",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace United_States", "AllConf=0.0422535211267606", "triple=e dbp:birthPlace United_States", "class=Jockey", "{AllConf=0.0422535211267606 condAB=0.6 condBA=0.0422535211267606 supA=10.0 supB=142.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:birthPlace New_York_(state)", "AllConf=0.357142857142857", "triple=e dbp:birthPlace New_York_(state)", "class=Jockey", "{AllConf=0.357142857142857 condAB=0.5 condBA=0.357142857142857 supA=10.0 supB=14.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/New_York_(state)" ],
+    "2" : [ "kb=dbo:occupation Jockey", "AllConf=0.0105448154657293", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.0105448154657293 condAB=0.857142857142857 condBA=0.0105448154657293 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+}, {
+  "id" : 266,
+  "pattern" : "â_february",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Jockey", "AllConf=0.00878734622144113", "triple=e dbo:occupation Jockey", "class=Jockey", "{AllConf=0.00878734622144113 condAB=0.714285714285714 condBA=0.00878734622144113 supA=7.0 supB=569.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Jockey" ]
+  }
+} ]

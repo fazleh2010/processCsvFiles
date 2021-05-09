@@ -1,0 +1,8 @@
+[ {
+  "id" : 6,
+  "pattern" : "founded",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:location United_States", "AllConf=0.178571428571429", "triple=e dbp:location United_States", "class=Brewery", "{AllConf=0.178571428571429 condAB=0.454545454545455 condBA=0.178571428571429 supA=11.0 supB=28.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+} ]

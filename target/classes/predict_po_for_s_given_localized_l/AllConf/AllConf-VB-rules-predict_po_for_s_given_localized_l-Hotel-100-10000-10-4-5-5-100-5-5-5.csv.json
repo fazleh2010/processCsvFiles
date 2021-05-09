@@ -1,0 +1,27 @@
+[ {
+  "id" : 15,
+  "pattern" : "built",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:numberOfRestaurants 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0504201680672269", "triple=e dbp:numberOfRestaurants 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Hotel", "{AllConf=0.0504201680672269 condAB=0.923076923076923 condBA=0.0504201680672269 supA=13.0 supB=238.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/numberOfRestaurants", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbo:numberOfRestaurants 1^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>", "AllConf=0.029045643153527", "triple=e dbo:numberOfRestaurants 1^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>", "class=Hotel", "{AllConf=0.029045643153527 condAB=1.0 condBA=0.029045643153527 supA=7.0 supB=241.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/numberOfRestaurants", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>\"" ]
+  }
+}, {
+  "id" : 81,
+  "pattern" : "opened",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=foaf:name @en", "AllConf=0.0204918032786885", "triple=e foaf:name @en", "class=Hotel", "{AllConf=0.0204918032786885 condAB=0.161290322580645 condBA=0.0204918032786885 supA=31.0 supB=244.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "1" : [ "kb=dbp:numberOfRestaurants 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0336134453781513", "triple=e dbp:numberOfRestaurants 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Hotel", "{AllConf=0.0336134453781513 condAB=0.380952380952381 condBA=0.0336134453781513 supA=21.0 supB=238.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/numberOfRestaurants", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:numberOfRestaurants 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0846153846153846", "triple=e dbp:numberOfRestaurants 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Hotel", "{AllConf=0.0846153846153846 condAB=0.333333333333333 condBA=0.0846153846153846 supA=33.0 supB=130.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/numberOfRestaurants", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbo:numberOfRestaurants 1^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>", "AllConf=0.0622406639004149", "triple=e dbo:numberOfRestaurants 1^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>", "class=Hotel", "{AllConf=0.0622406639004149 condAB=0.454545454545455 condBA=0.0622406639004149 supA=33.0 supB=241.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/numberOfRestaurants", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>\"" ],
+    "4" : [ "kb=dbo:numberOfRestaurants 2^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>", "AllConf=0.0534351145038168", "triple=e dbo:numberOfRestaurants 2^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>", "class=Hotel", "{AllConf=0.0534351145038168 condAB=0.333333333333333 condBA=0.0534351145038168 supA=21.0 supB=131.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/numberOfRestaurants", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>\"" ]
+  }
+}, {
+  "id" : 90,
+  "pattern" : "situated",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:location United_Kingdom", "AllConf=0.104166666666667", "triple=e dbo:location United_Kingdom", "class=Hotel", "{AllConf=0.104166666666667 condAB=0.151515151515152 condBA=0.104166666666667 supA=33.0 supB=48.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_Kingdom" ]
+  }
+} ]

@@ -1,0 +1,76 @@
+[ {
+  "id" : 5,
+  "pattern" : "affiliated",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:party Popular_Democratic_Party_of_Puerto_Rico", "AllConf=0.40625", "triple=e dbo:party Popular_Democratic_Party_of_Puerto_Rico", "class=Mayor", "{AllConf=0.40625 condAB=0.481481481481481 condBA=0.40625 supA=27.0 supB=32.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/party", "object=http://dbpedia.org/resource/Popular_Democratic_Party_of_Puerto_Rico" ],
+    "1" : [ "kb=dbo:party New_Progressive_Party_of_Puerto_Rico", "AllConf=0.292682926829268", "triple=e dbo:party New_Progressive_Party_of_Puerto_Rico", "class=Mayor", "{AllConf=0.292682926829268 condAB=0.444444444444444 condBA=0.292682926829268 supA=27.0 supB=41.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/party", "object=http://dbpedia.org/resource/New_Progressive_Party_of_Puerto_Rico" ],
+    "2" : [ "kb=dbp:party Popular_Democratic_Party_(Puerto_Rico)", "AllConf=0.393939393939394", "triple=e dbp:party Popular_Democratic_Party_(Puerto_Rico)", "class=Mayor", "{AllConf=0.393939393939394 condAB=0.448275862068966 condBA=0.393939393939394 supA=29.0 supB=33.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/party", "object=http://dbpedia.org/resource/Popular_Democratic_Party_(Puerto_Rico)" ],
+    "3" : [ "kb=dbp:party New_Progressive_Party_(Puerto_Rico)", "AllConf=0.3", "triple=e dbp:party New_Progressive_Party_(Puerto_Rico)", "class=Mayor", "{AllConf=0.3 condAB=0.444444444444444 condBA=0.3 supA=27.0 supB=40.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/party", "object=http://dbpedia.org/resource/New_Progressive_Party_(Puerto_Rico)" ]
+  }
+}, {
+  "id" : 7,
+  "pattern" : "born",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:nationality Chile", "AllConf=0.161290322580645", "triple=e dbo:nationality Chile", "class=Mayor", "{AllConf=0.161290322580645 condAB=0.161290322580645 condBA=0.208333333333333 supA=31.0 supB=24.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/nationality", "object=http://dbpedia.org/resource/Chile" ],
+    "1" : [ "kb=dbo:nationality Norway", "AllConf=0.193548387096774", "triple=e dbo:nationality Norway", "class=Mayor", "{AllConf=0.193548387096774 condAB=0.193548387096774 condBA=0.5 supA=31.0 supB=12.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/nationality", "object=http://dbpedia.org/resource/Norway" ],
+    "2" : [ "kb=dbp:nationality Norwegian@en", "AllConf=0.225", "triple=e dbp:nationality Norwegian@en", "class=Mayor", "{AllConf=0.225 condAB=0.225 condBA=0.36 supA=40.0 supB=25.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/nationality", "object=\"\"\"Norwegian\"\"@en\"" ],
+    "3" : [ "kb=dbo:occupation Politician", "AllConf=0.2", "triple=e dbo:occupation Politician", "class=Mayor", "{AllConf=0.2 condAB=0.833333333333333 condBA=0.2 supA=6.0 supB=25.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Politician" ],
+    "4" : [ "kb=dbp:office Mayor", "AllConf=0.147058823529412", "triple=e dbp:office Mayor", "class=Mayor", "{AllConf=0.147058823529412 condAB=0.147058823529412 condBA=0.454545454545455 supA=34.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/office", "object=http://dbpedia.org/resource/Mayor" ],
+    "5" : [ "kb=dbp:office Storting", "AllConf=0.227272727272727", "triple=e dbp:office Storting", "class=Mayor", "{AllConf=0.227272727272727 condAB=0.714285714285714 condBA=0.227272727272727 supA=7.0 supB=22.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/office", "object=http://dbpedia.org/resource/Storting" ],
+    "6" : [ "kb=dbo:party Labour_Party_(Norway)", "AllConf=0.333333333333333", "triple=e dbo:party Labour_Party_(Norway)", "class=Mayor", "{AllConf=0.333333333333333 condAB=0.333333333333333 condBA=0.357142857142857 supA=15.0 supB=14.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/party", "object=http://dbpedia.org/resource/Labour_Party_(Norway)" ],
+    "7" : [ "kb=dbo:party Norwegian_Labour_Party", "AllConf=0.15625", "triple=e dbo:party Norwegian_Labour_Party", "class=Mayor", "{AllConf=0.15625 condAB=0.15625 condBA=0.714285714285714 supA=32.0 supB=7.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/party", "object=http://dbpedia.org/resource/Norwegian_Labour_Party" ],
+    "8" : [ "kb=dbp:party Conservative_Party_(Norway)", "AllConf=0.193548387096774", "triple=e dbp:party Conservative_Party_(Norway)", "class=Mayor", "{AllConf=0.193548387096774 condAB=0.193548387096774 condBA=0.461538461538462 supA=31.0 supB=13.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/party", "object=http://dbpedia.org/resource/Conservative_Party_(Norway)" ],
+    "9" : [ "kb=dbp:deathPlace Bucharest", "AllConf=0.3125", "triple=e dbp:deathPlace Bucharest", "class=Mayor", "{AllConf=0.3125 condAB=0.3125 condBA=0.714285714285714 supA=16.0 supB=7.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/deathPlace", "object=http://dbpedia.org/resource/Bucharest" ],
+    "10" : [ "kb=dbo:birthPlace Socialist_Republic_of_Croatia", "AllConf=0.0326797385620915", "triple=e dbo:birthPlace Socialist_Republic_of_Croatia", "class=Mayor", "{AllConf=0.0326797385620915 condAB=0.0326797385620915 condBA=0.833333333333333 supA=153.0 supB=6.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Socialist_Republic_of_Croatia" ],
+    "11" : [ "kb=dbo:birthPlace Socialist_Federal_Republic_of_Yugoslavia", "AllConf=0.0522875816993464", "triple=e dbo:birthPlace Socialist_Federal_Republic_of_Yugoslavia", "class=Mayor", "{AllConf=0.0522875816993464 condAB=0.0522875816993464 condBA=0.727272727272727 supA=153.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia" ],
+    "12" : [ "kb=dbp:birthPlace Union_between_Sweden_and_Norway", "AllConf=0.043859649122807", "triple=e dbp:birthPlace Union_between_Sweden_and_Norway", "class=Mayor", "{AllConf=0.043859649122807 condAB=0.043859649122807 condBA=0.625 supA=114.0 supB=8.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Union_between_Sweden_and_Norway" ],
+    "13" : [ "kb=dbo:deathPlace Ottawa", "AllConf=0.285714285714286", "triple=e dbo:deathPlace Ottawa", "class=Mayor", "{AllConf=0.285714285714286 condAB=0.533333333333333 condBA=0.285714285714286 supA=15.0 supB=28.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/deathPlace", "object=http://dbpedia.org/resource/Ottawa" ]
+  }
+}, {
+  "id" : 22,
+  "pattern" : "died",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:deathPlace Bucharest", "AllConf=0.277777777777778", "triple=e dbp:deathPlace Bucharest", "class=Mayor", "{AllConf=0.277777777777778 condAB=0.277777777777778 condBA=0.714285714285714 supA=18.0 supB=7.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/deathPlace", "object=http://dbpedia.org/resource/Bucharest" ],
+    "1" : [ "kb=dbo:deathPlace Ottawa", "AllConf=0.214285714285714", "triple=e dbo:deathPlace Ottawa", "class=Mayor", "{AllConf=0.214285714285714 condAB=0.5 condBA=0.214285714285714 supA=12.0 supB=28.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/deathPlace", "object=http://dbpedia.org/resource/Ottawa" ]
+  }
+}, {
+  "id" : 23,
+  "pattern" : "elected",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:nationality Norwegian@en", "AllConf=0.36", "triple=e dbp:nationality Norwegian@en", "class=Mayor", "{AllConf=0.36 condAB=0.75 condBA=0.36 supA=12.0 supB=25.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/nationality", "object=\"\"\"Norwegian\"\"@en\"" ],
+    "1" : [ "kb=dbp:office Storting", "AllConf=0.5", "triple=e dbp:office Storting", "class=Mayor", "{AllConf=0.5 condAB=0.916666666666667 condBA=0.5 supA=12.0 supB=22.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/office", "object=http://dbpedia.org/resource/Storting" ]
+  }
+}, {
+  "id" : 28,
+  "pattern" : "held",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:years 1935^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.172413793103448", "triple=e dbp:years 1935^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Mayor", "{AllConf=0.172413793103448 condAB=0.172413793103448 condBA=0.454545454545455 supA=29.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/years", "object=\"\"\"1935\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 74,
+  "pattern" : "re-elected",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:office Storting", "AllConf=0.227272727272727", "triple=e dbp:office Storting", "class=Mayor", "{AllConf=0.227272727272727 condAB=1.0 condBA=0.227272727272727 supA=5.0 supB=22.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/office", "object=http://dbpedia.org/resource/Storting" ]
+  }
+}, {
+  "id" : 82,
+  "pattern" : "served",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:office Mayor", "AllConf=0.0943396226415094", "triple=e dbp:office Mayor", "class=Mayor", "{AllConf=0.0943396226415094 condAB=0.0943396226415094 condBA=0.454545454545455 supA=53.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/office", "object=http://dbpedia.org/resource/Mayor" ],
+    "1" : [ "kb=dbp:office Storting", "AllConf=0.113207547169811", "triple=e dbp:office Storting", "class=Mayor", "{AllConf=0.113207547169811 condAB=0.113207547169811 condBA=0.272727272727273 supA=53.0 supB=22.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/office", "object=http://dbpedia.org/resource/Storting" ],
+    "2" : [ "kb=dbo:party Republican_Party_(United_States)", "AllConf=0.06", "triple=e dbo:party Republican_Party_(United_States)", "class=Mayor", "{AllConf=0.06 condAB=0.315789473684211 condBA=0.06 supA=19.0 supB=100.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/party", "object=http://dbpedia.org/resource/Republican_Party_(United_States)" ],
+    "3" : [ "kb=dbo:party New_Progressive_Party_of_Puerto_Rico", "AllConf=0.121951219512195", "triple=e dbo:party New_Progressive_Party_of_Puerto_Rico", "class=Mayor", "{AllConf=0.121951219512195 condAB=0.277777777777778 condBA=0.121951219512195 supA=18.0 supB=41.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/party", "object=http://dbpedia.org/resource/New_Progressive_Party_of_Puerto_Rico" ],
+    "4" : [ "kb=dbp:party Democratic_Party_(United_States)", "AllConf=0.029585798816568", "triple=e dbp:party Democratic_Party_(United_States)", "class=Mayor", "{AllConf=0.029585798816568 condAB=0.277777777777778 condBA=0.029585798816568 supA=18.0 supB=169.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/party", "object=http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "5" : [ "kb=dbp:party New_Progressive_Party_(Puerto_Rico)", "AllConf=0.125", "triple=e dbp:party New_Progressive_Party_(Puerto_Rico)", "class=Mayor", "{AllConf=0.125 condAB=0.294117647058824 condBA=0.125 supA=17.0 supB=40.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/party", "object=http://dbpedia.org/resource/New_Progressive_Party_(Puerto_Rico)" ],
+    "6" : [ "kb=dbp:termStart 1917^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0483870967741935", "triple=e dbp:termStart 1917^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Mayor", "{AllConf=0.0483870967741935 condAB=0.0483870967741935 condBA=0.0789473684210526 supA=124.0 supB=76.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/termStart", "object=\"\"\"1917\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "7" : [ "kb=dbp:children 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.172413793103448", "triple=e dbp:children 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Mayor", "{AllConf=0.172413793103448 condAB=0.5 condBA=0.172413793103448 supA=10.0 supB=29.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/children", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "8" : [ "kb=dbp:title List_of_mayors_of_Oslo", "AllConf=0.193548387096774", "triple=e dbp:title List_of_mayors_of_Oslo", "class=Mayor", "{AllConf=0.193548387096774 condAB=0.193548387096774 condBA=0.333333333333333 supA=31.0 supB=18.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/List_of_mayors_of_Oslo" ]
+  }
+} ]

@@ -1,0 +1,57 @@
+[ {
+  "id" : 1,
+  "pattern" : "acres",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:country United_States", "AllConf=0.0711462450592885", "triple=e dbo:country United_States", "class=Garden", "{AllConf=0.0711462450592885 condAB=1.0 condBA=0.0711462450592885 supA=18.0 supB=253.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 2,
+  "pattern" : "arboretum",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:country United_States", "AllConf=0.0632411067193676", "triple=e dbo:country United_States", "class=Garden", "{AllConf=0.0632411067193676 condAB=1.0 condBA=0.0632411067193676 supA=16.0 supB=253.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 3,
+  "pattern" : "arboretum_located",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:country United_States", "AllConf=0.0395256916996047", "triple=e dbo:country United_States", "class=Garden", "{AllConf=0.0395256916996047 condAB=1.0 condBA=0.0395256916996047 supA=10.0 supB=253.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 5,
+  "pattern" : "botanical_garden",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:country United_States", "AllConf=0.0197628458498024", "triple=e dbo:country United_States", "class=Garden", "{AllConf=0.0197628458498024 condAB=1.0 condBA=0.0197628458498024 supA=5.0 supB=253.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 6,
+  "pattern" : "garden",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:country United_States", "AllConf=0.0592885375494071", "triple=e dbo:country United_States", "class=Garden", "{AllConf=0.0592885375494071 condAB=1.0 condBA=0.0592885375494071 supA=15.0 supB=253.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 7,
+  "pattern" : "garden_located",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:country United_States", "AllConf=0.0197628458498024", "triple=e dbo:country United_States", "class=Garden", "{AllConf=0.0197628458498024 condAB=1.0 condBA=0.0197628458498024 supA=5.0 supB=253.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 8,
+  "pattern" : "gardens",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:country United_States", "AllConf=0.0276679841897233", "triple=e dbo:country United_States", "class=Garden", "{AllConf=0.0276679841897233 condAB=1.0 condBA=0.0276679841897233 supA=7.0 supB=253.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 10,
+  "pattern" : "united",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:country United_States", "AllConf=0.106719367588933", "triple=e dbo:country United_States", "class=Garden", "{AllConf=0.106719367588933 condAB=1.0 condBA=0.106719367588933 supA=27.0 supB=253.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ]
+  }
+} ]

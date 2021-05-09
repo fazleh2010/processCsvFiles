@@ -1,0 +1,8 @@
+[ {
+  "id" : 1,
+  "pattern" : "american",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:occupation Photographer", "AllConf=0.277777777777778", "triple=e dbo:occupation Photographer", "class=Photographer", "{AllConf=0.277777777777778 condAB=0.625 condBA=0.277777777777778 supA=8.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Photographer" ]
+  }
+} ]

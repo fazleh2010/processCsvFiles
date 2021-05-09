@@ -1,0 +1,387 @@
+[ {
+  "id" : 92,
+  "pattern" : "angolan",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Angola", "AllConf=0.777777777777778", "triple=e dbo:birthPlace Angola", "class=BeautyQueen", "{AllConf=0.777777777777778 condAB=1.0 condBA=0.777777777777778 supA=7.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Angola" ],
+    "1" : [ "kb=dbp:competitions @en", "AllConf=0.00638977635782748", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.00638977635782748 condAB=0.857142857142857 condBA=0.00638977635782748 supA=7.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ],
+    "2" : [ "kb=dbp:competitions Miss_Angola", "AllConf=0.857142857142857", "triple=e dbp:competitions Miss_Angola", "class=BeautyQueen", "{AllConf=0.857142857142857 condAB=0.857142857142857 condBA=1.0 supA=7.0 supB=6.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=http://dbpedia.org/resource/Miss_Angola" ]
+  }
+}, {
+  "id" : 97,
+  "pattern" : "arabic",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Egypt", "AllConf=0.304347826086957", "triple=e dbo:birthPlace Egypt", "class=BeautyQueen", "{AllConf=0.304347826086957 condAB=0.304347826086957 condBA=0.636363636363636 supA=23.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Egypt" ],
+    "1" : [ "kb=dbo:birthPlace Lebanon", "AllConf=0.565217391304348", "triple=e dbo:birthPlace Lebanon", "class=BeautyQueen", "{AllConf=0.565217391304348 condAB=0.565217391304348 condBA=0.866666666666667 supA=23.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Lebanon" ],
+    "2" : [ "kb=dbo:birthPlace Beirut", "AllConf=0.260869565217391", "triple=e dbo:birthPlace Beirut", "class=BeautyQueen", "{AllConf=0.260869565217391 condAB=0.260869565217391 condBA=1.0 supA=23.0 supB=6.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Beirut" ],
+    "3" : [ "kb=dbp:title Miss_Egypt", "AllConf=0.636363636363636", "triple=e dbp:title Miss_Egypt", "class=BeautyQueen", "{AllConf=0.636363636363636 condAB=0.636363636363636 condBA=0.636363636363636 supA=11.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Egypt" ]
+  }
+}, {
+  "id" : 120,
+  "pattern" : "belgian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Belgium", "AllConf=0.583333333333333", "triple=e dbo:birthPlace Belgium", "class=BeautyQueen", "{AllConf=0.583333333333333 condAB=1.0 condBA=0.583333333333333 supA=7.0 supB=12.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Belgium" ],
+    "1" : [ "kb=dbp:title Miss_Belgium", "AllConf=0.545454545454545", "triple=e dbp:title Miss_Belgium", "class=BeautyQueen", "{AllConf=0.545454545454545 condAB=0.857142857142857 condBA=0.545454545454545 supA=7.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Belgium" ]
+  }
+}, {
+  "id" : 129,
+  "pattern" : "bolivian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Bolivia", "AllConf=0.454545454545455", "triple=e dbo:birthPlace Bolivia", "class=BeautyQueen", "{AllConf=0.454545454545455 condAB=1.0 condBA=0.454545454545455 supA=5.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Bolivia" ],
+    "1" : [ "kb=dbp:competitions Miss_Bolivia", "AllConf=0.714285714285714", "triple=e dbp:competitions Miss_Bolivia", "class=BeautyQueen", "{AllConf=0.714285714285714 condAB=0.714285714285714 condBA=0.714285714285714 supA=7.0 supB=7.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=http://dbpedia.org/resource/Miss_Bolivia" ]
+  }
+}, {
+  "id" : 158,
+  "pattern" : "bulgarian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Bulgaria", "AllConf=0.454545454545455", "triple=e dbo:birthPlace Bulgaria", "class=BeautyQueen", "{AllConf=0.454545454545455 condAB=1.0 condBA=0.454545454545455 supA=5.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Bulgaria" ]
+  }
+}, {
+  "id" : 164,
+  "pattern" : "chinese",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace China", "AllConf=0.571428571428571", "triple=e dbo:birthPlace China", "class=BeautyQueen", "{AllConf=0.571428571428571 condAB=0.571428571428571 condBA=0.727272727272727 supA=14.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/China" ]
+  }
+}, {
+  "id" : 166,
+  "pattern" : "classified_top",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Venezuela", "AllConf=0.0598802395209581", "triple=e dbo:birthPlace Venezuela", "class=BeautyQueen", "{AllConf=0.0598802395209581 condAB=1.0 condBA=0.0598802395209581 supA=10.0 supB=167.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Venezuela" ],
+    "1" : [ "kb=dbp:title Miss_Venezuela", "AllConf=0.0680272108843537", "triple=e dbp:title Miss_Venezuela", "class=BeautyQueen", "{AllConf=0.0680272108843537 condAB=1.0 condBA=0.0680272108843537 supA=10.0 supB=147.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Venezuela" ]
+  }
+}, {
+  "id" : 167,
+  "pattern" : "classified_top_15",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Venezuela", "AllConf=0.0538922155688623", "triple=e dbo:birthPlace Venezuela", "class=BeautyQueen", "{AllConf=0.0538922155688623 condAB=1.0 condBA=0.0538922155688623 supA=9.0 supB=167.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Venezuela" ],
+    "1" : [ "kb=dbp:title Miss_Venezuela", "AllConf=0.0612244897959184", "triple=e dbp:title Miss_Venezuela", "class=BeautyQueen", "{AllConf=0.0612244897959184 condAB=1.0 condBA=0.0612244897959184 supA=9.0 supB=147.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Venezuela" ]
+  }
+}, {
+  "id" : 169,
+  "pattern" : "colombian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:title Miss_Colombia", "AllConf=0.208333333333333", "triple=e dbp:title Miss_Colombia", "class=BeautyQueen", "{AllConf=0.208333333333333 condAB=0.833333333333333 condBA=0.208333333333333 supA=6.0 supB=24.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Colombia" ]
+  }
+}, {
+  "id" : 176,
+  "pattern" : "competed_national",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Venezuela", "AllConf=0.0898203592814371", "triple=e dbo:birthPlace Venezuela", "class=BeautyQueen", "{AllConf=0.0898203592814371 condAB=0.9375 condBA=0.0898203592814371 supA=16.0 supB=167.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Venezuela" ],
+    "1" : [ "kb=dbp:title Miss_Venezuela", "AllConf=0.102040816326531", "triple=e dbp:title Miss_Venezuela", "class=BeautyQueen", "{AllConf=0.102040816326531 condAB=0.9375 condBA=0.102040816326531 supA=16.0 supB=147.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Venezuela" ]
+  }
+}, {
+  "id" : 185,
+  "pattern" : "croatian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:title Miss_Universe_Croatia", "AllConf=0.5", "triple=e dbp:title Miss_Universe_Croatia", "class=BeautyQueen", "{AllConf=0.5 condAB=0.833333333333333 condBA=0.5 supA=6.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Universe_Croatia" ]
+  }
+}, {
+  "id" : 198,
+  "pattern" : "danish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Denmark", "AllConf=0.5", "triple=e dbo:birthPlace Denmark", "class=BeautyQueen", "{AllConf=0.5 condAB=1.0 condBA=0.5 supA=5.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Denmark" ]
+  }
+}, {
+  "id" : 207,
+  "pattern" : "egyptian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Egypt", "AllConf=0.454545454545455", "triple=e dbo:birthPlace Egypt", "class=BeautyQueen", "{AllConf=0.454545454545455 condAB=1.0 condBA=0.454545454545455 supA=5.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Egypt" ]
+  }
+}, {
+  "id" : 220,
+  "pattern" : "finnish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:competitions @en", "AllConf=0.00638977635782748", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.00638977635782748 condAB=1.0 condBA=0.00638977635782748 supA=6.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ],
+    "1" : [ "kb=dbp:competitions Miss_Finland", "AllConf=0.777777777777778", "triple=e dbp:competitions Miss_Finland", "class=BeautyQueen", "{AllConf=0.777777777777778 condAB=1.0 condBA=0.777777777777778 supA=7.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=http://dbpedia.org/resource/Miss_Finland" ]
+  }
+}, {
+  "id" : 222,
+  "pattern" : "first_runner-up",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:competitions @en", "AllConf=0.00745473908413206", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.00745473908413206 condAB=0.875 condBA=0.00745473908413206 supA=8.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 224,
+  "pattern" : "former",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:competitions @en", "AllConf=0.00958466453674121", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.00958466453674121 condAB=0.75 condBA=0.00958466453674121 supA=12.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ],
+    "1" : [ "kb=dbp:title Femina_Miss_India", "AllConf=0.0769230769230769", "triple=e dbp:title Femina_Miss_India", "class=BeautyQueen", "{AllConf=0.0769230769230769 condAB=0.263157894736842 condBA=0.0769230769230769 supA=19.0 supB=65.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Femina_Miss_India" ],
+    "2" : [ "kb=dbp:occupation model@en", "AllConf=0.151515151515152", "triple=e dbp:occupation model@en", "class=BeautyQueen", "{AllConf=0.151515151515152 condAB=0.555555555555556 condBA=0.151515151515152 supA=9.0 supB=33.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/occupation", "object=\"\"\"model\"\"@en\"" ]
+  }
+}, {
+  "id" : 226,
+  "pattern" : "french",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:title Miss_France", "AllConf=0.275862068965517", "triple=e dbp:title Miss_France", "class=BeautyQueen", "{AllConf=0.275862068965517 condAB=1.0 condBA=0.275862068965517 supA=8.0 supB=29.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_France" ]
+  }
+}, {
+  "id" : 231,
+  "pattern" : "georgian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Georgia_(country)", "AllConf=1.0", "triple=e dbo:birthPlace Georgia_(country)", "class=BeautyQueen", "{AllConf=1.0 condAB=1.0 condBA=1.0 supA=6.0 supB=6.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "1" : [ "kb=dbp:competitions @en", "AllConf=0.00638977635782748", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.00638977635782748 condAB=0.857142857142857 condBA=0.00638977635782748 supA=7.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ],
+    "2" : [ "kb=dbp:competitions Miss_Georgia_(country)", "AllConf=1.0", "triple=e dbp:competitions Miss_Georgia_(country)", "class=BeautyQueen", "{AllConf=1.0 condAB=1.0 condBA=1.0 supA=7.0 supB=7.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=http://dbpedia.org/resource/Miss_Georgia_(country)" ]
+  }
+}, {
+  "id" : 232,
+  "pattern" : "german",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:title Miss_Universe_Germany", "AllConf=0.714285714285714", "triple=e dbp:title Miss_Universe_Germany", "class=BeautyQueen", "{AllConf=0.714285714285714 condAB=0.714285714285714 condBA=0.714285714285714 supA=7.0 supB=7.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Universe_Germany" ]
+  }
+}, {
+  "id" : 235,
+  "pattern" : "global",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:competitions @en", "AllConf=0.0053248136315229", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.0053248136315229 condAB=1.0 condBA=0.0053248136315229 supA=5.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 238,
+  "pattern" : "greek",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Greece", "AllConf=0.545454545454545", "triple=e dbo:birthPlace Greece", "class=BeautyQueen", "{AllConf=0.545454545454545 condAB=0.545454545454545 condBA=0.75 supA=11.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Greece" ]
+  }
+}, {
+  "id" : 240,
+  "pattern" : "hebrew",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Israel", "AllConf=0.727272727272727", "triple=e dbo:birthPlace Israel", "class=BeautyQueen", "{AllConf=0.727272727272727 condAB=1.0 condBA=0.727272727272727 supA=8.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Israel" ],
+    "1" : [ "kb=dbp:title Miss_Israel", "AllConf=0.666666666666667", "triple=e dbp:title Miss_Israel", "class=BeautyQueen", "{AllConf=0.666666666666667 condAB=1.0 condBA=0.666666666666667 supA=8.0 supB=12.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Israel" ]
+  }
+}, {
+  "id" : 254,
+  "pattern" : "indian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Maharashtra", "AllConf=0.189189189189189", "triple=e dbo:birthPlace Maharashtra", "class=BeautyQueen", "{AllConf=0.189189189189189 condAB=0.189189189189189 condBA=0.4375 supA=37.0 supB=16.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Maharashtra" ],
+    "1" : [ "kb=dbo:birthPlace India", "AllConf=0.415730337078652", "triple=e dbo:birthPlace India", "class=BeautyQueen", "{AllConf=0.415730337078652 condAB=1.0 condBA=0.415730337078652 supA=37.0 supB=89.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/India" ],
+    "2" : [ "kb=dbp:competitions Femina_Miss_India", "AllConf=0.558139534883721", "triple=e dbp:competitions Femina_Miss_India", "class=BeautyQueen", "{AllConf=0.558139534883721 condAB=0.631578947368421 condBA=0.558139534883721 supA=38.0 supB=43.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=http://dbpedia.org/resource/Femina_Miss_India" ],
+    "3" : [ "kb=dbp:competitions @en", "AllConf=0.0308839190628328", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.0308839190628328 condAB=0.783783783783784 condBA=0.0308839190628328 supA=37.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ],
+    "4" : [ "kb=dbp:title Miss_Diva", "AllConf=0.0909090909090909", "triple=e dbp:title Miss_Diva", "class=BeautyQueen", "{AllConf=0.0909090909090909 condAB=0.0909090909090909 condBA=0.454545454545455 supA=55.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Diva" ],
+    "5" : [ "kb=dbp:title Miss_Earth_India", "AllConf=0.111111111111111", "triple=e dbp:title Miss_Earth_India", "class=BeautyQueen", "{AllConf=0.111111111111111 condAB=0.111111111111111 condBA=0.545454545454545 supA=54.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Earth_India" ],
+    "6" : [ "kb=dbp:occupation Actor", "AllConf=0.175", "triple=e dbp:occupation Actor", "class=BeautyQueen", "{AllConf=0.175 condAB=0.538461538461538 condBA=0.175 supA=13.0 supB=40.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/occupation", "object=http://dbpedia.org/resource/Actor" ],
+    "7" : [ "kb=dbp:occupation Model_(person)", "AllConf=0.122448979591837", "triple=e dbp:occupation Model_(person)", "class=BeautyQueen", "{AllConf=0.122448979591837 condAB=0.923076923076923 condBA=0.122448979591837 supA=13.0 supB=98.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/occupation", "object=http://dbpedia.org/resource/Model_(person)" ],
+    "8" : [ "kb=dbo:occupation Actress", "AllConf=0.142857142857143", "triple=e dbo:occupation Actress", "class=BeautyQueen", "{AllConf=0.142857142857143 condAB=0.466666666666667 condBA=0.142857142857143 supA=15.0 supB=49.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Actress" ],
+    "9" : [ "kb=dbo:occupation Model_(profession)", "AllConf=0.192307692307692", "triple=e dbo:occupation Model_(profession)", "class=BeautyQueen", "{AllConf=0.192307692307692 condAB=0.192307692307692 condBA=0.714285714285714 supA=52.0 supB=14.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/occupation", "object=http://dbpedia.org/resource/Model_(profession)" ]
+  }
+}, {
+  "id" : 264,
+  "pattern" : "indonesian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Indonesia", "AllConf=0.157894736842105", "triple=e dbo:birthPlace Indonesia", "class=BeautyQueen", "{AllConf=0.157894736842105 condAB=0.75 condBA=0.157894736842105 supA=8.0 supB=38.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Indonesia" ],
+    "1" : [ "kb=dbp:competitions @en", "AllConf=0.0053248136315229", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.0053248136315229 condAB=1.0 condBA=0.0053248136315229 supA=5.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 269,
+  "pattern" : "italian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Italy", "AllConf=0.25", "triple=e dbo:birthPlace Italy", "class=BeautyQueen", "{AllConf=0.25 condAB=1.0 condBA=0.25 supA=5.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Italy" ],
+    "1" : [ "kb=dbp:title Miss_Universo_Italia", "AllConf=0.625", "triple=e dbp:title Miss_Universo_Italia", "class=BeautyQueen", "{AllConf=0.625 condAB=0.714285714285714 condBA=0.625 supA=7.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Universo_Italia" ]
+  }
+}, {
+  "id" : 287,
+  "pattern" : "korean",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Seoul", "AllConf=0.454545454545455", "triple=e dbo:birthPlace Seoul", "class=BeautyQueen", "{AllConf=0.454545454545455 condAB=0.625 condBA=0.454545454545455 supA=8.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Seoul" ],
+    "1" : [ "kb=dbo:birthPlace South_Korea", "AllConf=0.538461538461538", "triple=e dbo:birthPlace South_Korea", "class=BeautyQueen", "{AllConf=0.538461538461538 condAB=0.875 condBA=0.538461538461538 supA=8.0 supB=13.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/South_Korea" ],
+    "2" : [ "kb=dbp:competitions Miss_Korea", "AllConf=0.625", "triple=e dbp:competitions Miss_Korea", "class=BeautyQueen", "{AllConf=0.625 condAB=0.833333333333333 condBA=0.625 supA=6.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=http://dbpedia.org/resource/Miss_Korea" ],
+    "3" : [ "kb=dbp:competitions @en", "AllConf=0.0053248136315229", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.0053248136315229 condAB=0.833333333333333 condBA=0.0053248136315229 supA=6.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 305,
+  "pattern" : "malaysian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Malaysia", "AllConf=0.208333333333333", "triple=e dbo:birthPlace Malaysia", "class=BeautyQueen", "{AllConf=0.208333333333333 condAB=0.833333333333333 condBA=0.208333333333333 supA=6.0 supB=24.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Malaysia" ],
+    "1" : [ "kb=dbp:competitions @en", "AllConf=0.00958466453674121", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.00958466453674121 condAB=1.0 condBA=0.00958466453674121 supA=9.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ],
+    "2" : [ "kb=dbp:title Miss_Malaysia", "AllConf=0.333333333333333", "triple=e dbp:title Miss_Malaysia", "class=BeautyQueen", "{AllConf=0.333333333333333 condAB=0.5 condBA=0.333333333333333 supA=10.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Malaysia" ],
+    "3" : [ "kb=dbp:occupation Model_(person)", "AllConf=0.0510204081632653", "triple=e dbp:occupation Model_(person)", "class=BeautyQueen", "{AllConf=0.0510204081632653 condAB=0.625 condBA=0.0510204081632653 supA=8.0 supB=98.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/occupation", "object=http://dbpedia.org/resource/Model_(person)" ],
+    "4" : [ "kb=dbp:occupation beauty pageant titleholder@en", "AllConf=0.142857142857143", "triple=e dbp:occupation beauty pageant titleholder@en", "class=BeautyQueen", "{AllConf=0.142857142857143 condAB=0.625 condBA=0.142857142857143 supA=8.0 supB=35.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/occupation", "object=\"\"\"beauty pageant titleholder\"\"@en\"" ]
+  }
+}, {
+  "id" : 312,
+  "pattern" : "mauritian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Mauritius", "AllConf=1.0", "triple=e dbo:birthPlace Mauritius", "class=BeautyQueen", "{AllConf=1.0 condAB=1.0 condBA=1.0 supA=9.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Mauritius" ],
+    "1" : [ "kb=dbp:title Miss_Mauritius", "AllConf=0.75", "triple=e dbp:title Miss_Mauritius", "class=BeautyQueen", "{AllConf=0.75 condAB=0.75 condBA=1.0 supA=8.0 supB=6.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Mauritius" ]
+  }
+}, {
+  "id" : 399,
+  "pattern" : "national",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Venezuela", "AllConf=0.0898203592814371", "triple=e dbo:birthPlace Venezuela", "class=BeautyQueen", "{AllConf=0.0898203592814371 condAB=0.5 condBA=0.0898203592814371 supA=30.0 supB=167.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Venezuela" ],
+    "1" : [ "kb=dbp:title Miss_Philippines_Earth", "AllConf=0.172413793103448", "triple=e dbp:title Miss_Philippines_Earth", "class=BeautyQueen", "{AllConf=0.172413793103448 condAB=0.172413793103448 condBA=0.217391304347826 supA=29.0 supB=23.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Philippines_Earth" ],
+    "2" : [ "kb=dbp:title Miss_Venezuela", "AllConf=0.102040816326531", "triple=e dbp:title Miss_Venezuela", "class=BeautyQueen", "{AllConf=0.102040816326531 condAB=0.555555555555556 condBA=0.102040816326531 supA=27.0 supB=147.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Venezuela" ],
+    "3" : [ "kb=dbp:birthPlace Mexico", "AllConf=0.15", "triple=e dbp:birthPlace Mexico", "class=BeautyQueen", "{AllConf=0.15 condAB=0.1875 condBA=0.15 supA=32.0 supB=40.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Mexico" ]
+  }
+}, {
+  "id" : 405,
+  "pattern" : "nepali",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Kathmandu", "AllConf=0.5", "triple=e dbo:birthPlace Kathmandu", "class=BeautyQueen", "{AllConf=0.5 condAB=0.5 condBA=0.666666666666667 supA=16.0 supB=12.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Kathmandu" ],
+    "1" : [ "kb=dbo:birthPlace Nepal", "AllConf=0.666666666666667", "triple=e dbo:birthPlace Nepal", "class=BeautyQueen", "{AllConf=0.666666666666667 condAB=1.0 condBA=0.666666666666667 supA=16.0 supB=24.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Nepal" ],
+    "2" : [ "kb=dbp:title Miss_Nepal", "AllConf=0.772727272727273", "triple=e dbp:title Miss_Nepal", "class=BeautyQueen", "{AllConf=0.772727272727273 condAB=0.944444444444444 condBA=0.772727272727273 supA=18.0 supB=22.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Nepal" ]
+  }
+}, {
+  "id" : 408,
+  "pattern" : "nian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Panama_City", "AllConf=0.352941176470588", "triple=e dbo:birthPlace Panama_City", "class=BeautyQueen", "{AllConf=0.352941176470588 condAB=0.6 condBA=0.352941176470588 supA=10.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Panama_City" ],
+    "1" : [ "kb=dbo:birthPlace Panama", "AllConf=0.346153846153846", "triple=e dbo:birthPlace Panama", "class=BeautyQueen", "{AllConf=0.346153846153846 condAB=0.9 condBA=0.346153846153846 supA=10.0 supB=26.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Panama" ],
+    "2" : [ "kb=dbp:title SeÃ±orita_PanamÃ¡", "AllConf=0.225806451612903", "triple=e dbp:title SeÃ±orita_PanamÃ¡", "class=BeautyQueen", "{AllConf=0.225806451612903 condAB=1.0 condBA=0.225806451612903 supA=14.0 supB=62.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/SeÃ±orita_PanamÃ¡" ]
+  }
+}, {
+  "id" : 421,
+  "pattern" : "official",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Venezuela", "AllConf=0.245508982035928", "triple=e dbo:birthPlace Venezuela", "class=BeautyQueen", "{AllConf=0.245508982035928 condAB=0.803921568627451 condBA=0.245508982035928 supA=51.0 supB=167.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Venezuela" ],
+    "1" : [ "kb=dbo:birthPlace Caracas", "AllConf=0.296296296296296", "triple=e dbo:birthPlace Caracas", "class=BeautyQueen", "{AllConf=0.296296296296296 condAB=0.326530612244898 condBA=0.296296296296296 supA=49.0 supB=54.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Caracas" ],
+    "2" : [ "kb=dbp:title Miss_Venezuela", "AllConf=0.258503401360544", "triple=e dbp:title Miss_Venezuela", "class=BeautyQueen", "{AllConf=0.258503401360544 condAB=0.904761904761905 condBA=0.258503401360544 supA=42.0 supB=147.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Venezuela" ],
+    "3" : [ "kb=dbp:birthPlace Panama", "AllConf=0.0961538461538462", "triple=e dbp:birthPlace Panama", "class=BeautyQueen", "{AllConf=0.0961538461538462 condAB=0.1 condBA=0.0961538461538462 supA=50.0 supB=52.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Panama" ]
+  }
+}, {
+  "id" : 444,
+  "pattern" : "panamanian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Panama", "AllConf=0.192307692307692", "triple=e dbo:birthPlace Panama", "class=BeautyQueen", "{AllConf=0.192307692307692 condAB=0.833333333333333 condBA=0.192307692307692 supA=6.0 supB=26.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Panama" ],
+    "1" : [ "kb=dbp:title SeÃ±orita_PanamÃ¡", "AllConf=0.0806451612903226", "triple=e dbp:title SeÃ±orita_PanamÃ¡", "class=BeautyQueen", "{AllConf=0.0806451612903226 condAB=1.0 condBA=0.0806451612903226 supA=5.0 supB=62.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/SeÃ±orita_PanamÃ¡" ]
+  }
+}, {
+  "id" : 453,
+  "pattern" : "placed_top",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:competitions @en", "AllConf=0.0053248136315229", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.0053248136315229 condAB=0.833333333333333 condBA=0.0053248136315229 supA=6.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 454,
+  "pattern" : "polish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:competitions @en", "AllConf=0.00638977635782748", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.00638977635782748 condAB=0.857142857142857 condBA=0.00638977635782748 supA=7.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ],
+    "1" : [ "kb=dbp:title Miss_Polonia", "AllConf=0.5", "triple=e dbp:title Miss_Polonia", "class=BeautyQueen", "{AllConf=0.5 condAB=0.714285714285714 condBA=0.5 supA=7.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Polonia" ]
+  }
+}, {
+  "id" : 495,
+  "pattern" : "rican",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:title Miss_Puerto_Rico", "AllConf=0.18", "triple=e dbp:title Miss_Puerto_Rico", "class=BeautyQueen", "{AllConf=0.18 condAB=0.75 condBA=0.18 supA=12.0 supB=50.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Puerto_Rico" ]
+  }
+}, {
+  "id" : 508,
+  "pattern" : "russian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Russia", "AllConf=0.368421052631579", "triple=e dbo:birthPlace Russia", "class=BeautyQueen", "{AllConf=0.368421052631579 condAB=0.5 condBA=0.368421052631579 supA=14.0 supB=19.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Russia" ],
+    "1" : [ "kb=dbp:title Miss_Russia", "AllConf=0.318181818181818", "triple=e dbp:title Miss_Russia", "class=BeautyQueen", "{AllConf=0.318181818181818 condAB=0.636363636363636 condBA=0.318181818181818 supA=11.0 supB=22.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Russia" ]
+  }
+}, {
+  "id" : 512,
+  "pattern" : "second",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:competitions @en", "AllConf=0.0138445154419595", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.0138445154419595 condAB=0.928571428571429 condBA=0.0138445154419595 supA=14.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ],
+    "1" : [ "kb=dbp:title Miss_Universe", "AllConf=0.0833333333333333", "triple=e dbp:title Miss_Universe", "class=BeautyQueen", "{AllConf=0.0833333333333333 condAB=0.181818181818182 condBA=0.0833333333333333 supA=33.0 supB=72.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Universe" ],
+    "2" : [ "kb=dbp:title Miss_World", "AllConf=0.0609756097560976", "triple=e dbp:title Miss_World", "class=BeautyQueen", "{AllConf=0.0609756097560976 condAB=0.151515151515152 condBA=0.0609756097560976 supA=33.0 supB=82.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_World" ]
+  }
+}, {
+  "id" : 517,
+  "pattern" : "serbian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:title Miss_Serbia", "AllConf=0.625", "triple=e dbp:title Miss_Serbia", "class=BeautyQueen", "{AllConf=0.625 condAB=1.0 condBA=0.625 supA=5.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Serbia" ]
+  }
+}, {
+  "id" : 524,
+  "pattern" : "simplified_chinese",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace China", "AllConf=0.545454545454545", "triple=e dbo:birthPlace China", "class=BeautyQueen", "{AllConf=0.545454545454545 condAB=0.857142857142857 condBA=0.545454545454545 supA=7.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/China" ]
+  }
+}, {
+  "id" : 528,
+  "pattern" : "south_african",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:title Miss_South_Africa", "AllConf=0.277777777777778", "triple=e dbp:title Miss_South_Africa", "class=BeautyQueen", "{AllConf=0.277777777777778 condAB=1.0 condBA=0.277777777777778 supA=5.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_South_Africa" ]
+  }
+}, {
+  "id" : 547,
+  "pattern" : "third",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:competitions @en", "AllConf=0.0053248136315229", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.0053248136315229 condAB=0.833333333333333 condBA=0.0053248136315229 supA=6.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 571,
+  "pattern" : "top",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Venezuela", "AllConf=0.0598802395209581", "triple=e dbo:birthPlace Venezuela", "class=BeautyQueen", "{AllConf=0.0598802395209581 condAB=0.588235294117647 condBA=0.0598802395209581 supA=17.0 supB=167.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Venezuela" ],
+    "1" : [ "kb=dbp:competitions @en", "AllConf=0.0106496272630458", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.0106496272630458 condAB=0.909090909090909 condBA=0.0106496272630458 supA=11.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ],
+    "2" : [ "kb=dbp:years 2012^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0314465408805031", "triple=e dbp:years 2012^^<http://www.w3.org/2001/XMLSchema#integer>", "class=BeautyQueen", "{AllConf=0.0314465408805031 condAB=0.357142857142857 condBA=0.0314465408805031 supA=14.0 supB=159.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/years", "object=\"\"\"2012\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbp:title Miss_Venezuela", "AllConf=0.0680272108843537", "triple=e dbp:title Miss_Venezuela", "class=BeautyQueen", "{AllConf=0.0680272108843537 condAB=0.5 condBA=0.0680272108843537 supA=20.0 supB=147.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Venezuela" ]
+  }
+}, {
+  "id" : 572,
+  "pattern" : "top_15",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Venezuela", "AllConf=0.0538922155688623", "triple=e dbo:birthPlace Venezuela", "class=BeautyQueen", "{AllConf=0.0538922155688623 condAB=0.642857142857143 condBA=0.0538922155688623 supA=14.0 supB=167.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Venezuela" ],
+    "1" : [ "kb=dbp:title Miss_Venezuela", "AllConf=0.0612244897959184", "triple=e dbp:title Miss_Venezuela", "class=BeautyQueen", "{AllConf=0.0612244897959184 condAB=0.642857142857143 condBA=0.0612244897959184 supA=14.0 supB=147.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Venezuela" ]
+  }
+}, {
+  "id" : 574,
+  "pattern" : "traditional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace China", "AllConf=0.545454545454545", "triple=e dbo:birthPlace China", "class=BeautyQueen", "{AllConf=0.545454545454545 condAB=0.857142857142857 condBA=0.545454545454545 supA=7.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/China" ]
+  }
+}, {
+  "id" : 599,
+  "pattern" : "unplaced",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:competitions @en", "AllConf=0.0053248136315229", "triple=e dbp:competitions @en", "class=BeautyQueen", "{AllConf=0.0053248136315229 condAB=0.833333333333333 condBA=0.0053248136315229 supA=6.0 supB=939.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/competitions", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 611,
+  "pattern" : "venezuelan",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Venezuela", "AllConf=0.131736526946108", "triple=e dbo:birthPlace Venezuela", "class=BeautyQueen", "{AllConf=0.131736526946108 condAB=1.0 condBA=0.131736526946108 supA=22.0 supB=167.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Venezuela" ],
+    "1" : [ "kb=dbo:birthPlace Caracas", "AllConf=0.111111111111111", "triple=e dbo:birthPlace Caracas", "class=BeautyQueen", "{AllConf=0.111111111111111 condAB=0.272727272727273 condBA=0.111111111111111 supA=22.0 supB=54.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Caracas" ],
+    "2" : [ "kb=dbp:nationalcompetition @en", "AllConf=0.0245700245700246", "triple=e dbp:nationalcompetition @en", "class=BeautyQueen", "{AllConf=0.0245700245700246 condAB=0.909090909090909 condBA=0.0245700245700246 supA=11.0 supB=407.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/nationalcompetition", "object=\"\"\"\"\"@en\"" ],
+    "3" : [ "kb=dbp:title Miss_Venezuela", "AllConf=0.0408163265306122", "triple=e dbp:title Miss_Venezuela", "class=BeautyQueen", "{AllConf=0.0408163265306122 condAB=1.0 condBA=0.0408163265306122 supA=6.0 supB=147.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Miss_Venezuela" ]
+  }
+} ]

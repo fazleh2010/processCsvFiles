@@ -1,0 +1,99 @@
+[ {
+  "id" : 4,
+  "pattern" : "amateur",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0609137055837563", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0609137055837563 condAB=1.0 condBA=0.0609137055837563 supA=12.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 8,
+  "pattern" : "annual",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0253807106598985", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0253807106598985 condAB=0.714285714285714 condBA=0.0253807106598985 supA=7.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 13,
+  "pattern" : "french",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0304568527918782", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0304568527918782 condAB=0.857142857142857 condBA=0.0304568527918782 supA=7.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 14,
+  "pattern" : "german",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0253807106598985", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0253807106598985 condAB=1.0 condBA=0.0253807106598985 supA=5.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 15,
+  "pattern" : "highest",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0253807106598985", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0253807106598985 condAB=1.0 condBA=0.0253807106598985 supA=5.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 23,
+  "pattern" : "independent",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0253807106598985", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0253807106598985 condAB=1.0 condBA=0.0253807106598985 supA=5.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 36,
+  "pattern" : "minor",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0406091370558376", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0406091370558376 condAB=1.0 condBA=0.0406091370558376 supA=8.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 37,
+  "pattern" : "minor_professional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0456852791878173", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0456852791878173 condAB=1.0 condBA=0.0456852791878173 supA=9.0 supB=197.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 39,
+  "pattern" : "national",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0304568527918782", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0304568527918782 condAB=1.0 condBA=0.0304568527918782 supA=6.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 43,
+  "pattern" : "professional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0456852791878173", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0456852791878173 condAB=1.0 condBA=0.0456852791878173 supA=9.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 47,
+  "pattern" : "second",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0609137055837563", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0609137055837563 condAB=1.0 condBA=0.0609137055837563 supA=12.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 50,
+  "pattern" : "semi-professional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0253807106598985", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0253807106598985 condAB=1.0 condBA=0.0253807106598985 supA=5.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 55,
+  "pattern" : "third",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.0253807106598985", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.0253807106598985 condAB=1.0 condBA=0.0253807106598985 supA=5.0 supB=197.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+}, {
+  "id" : 59,
+  "pattern" : "top",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:sport Ice_hockey", "AllConf=0.065989847715736", "triple=e dbp:sport Ice_hockey", "class=IceHockeyLeague", "{AllConf=0.065989847715736 condAB=1.0 condBA=0.065989847715736 supA=13.0 supB=197.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/sport", "object=http://dbpedia.org/resource/Ice_hockey" ]
+  }
+} ]

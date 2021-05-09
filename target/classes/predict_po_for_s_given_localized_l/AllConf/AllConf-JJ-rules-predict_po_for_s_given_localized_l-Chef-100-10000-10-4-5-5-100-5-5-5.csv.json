@@ -1,0 +1,33 @@
+[ {
+  "id" : 2,
+  "pattern" : "american",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:award James_Beard_Foundation_Award", "AllConf=0.193548387096774", "triple=e dbo:award James_Beard_Foundation_Award", "class=Chef", "{AllConf=0.193548387096774 condAB=1.0 condBA=0.193548387096774 supA=6.0 supB=31.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/award", "object=http://dbpedia.org/resource/James_Beard_Foundation_Award" ],
+    "1" : [ "kb=dbp:restaurants @en", "AllConf=0.0441176470588235", "triple=e dbp:restaurants @en", "class=Chef", "{AllConf=0.0441176470588235 condAB=0.818181818181818 condBA=0.0441176470588235 supA=11.0 supB=204.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/restaurants", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 8,
+  "pattern" : "british",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:restaurants @en", "AllConf=0.0245098039215686", "triple=e dbp:restaurants @en", "class=Chef", "{AllConf=0.0245098039215686 condAB=0.625 condBA=0.0245098039215686 supA=8.0 supB=204.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/restaurants", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 21,
+  "pattern" : "french",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace France", "AllConf=0.188679245283019", "triple=e dbo:birthPlace France", "class=Chef", "{AllConf=0.188679245283019 condAB=0.714285714285714 condBA=0.188679245283019 supA=14.0 supB=53.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/France" ],
+    "1" : [ "kb=dbp:ratings Michelin stars@en", "AllConf=0.0422535211267606", "triple=e dbp:ratings Michelin stars@en", "class=Chef", "{AllConf=0.0422535211267606 condAB=1.0 condBA=0.0422535211267606 supA=6.0 supB=142.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/ratings", "object=\"\"\"Michelin stars\"\"@en\"" ],
+    "2" : [ "kb=dbp:style French_cuisine", "AllConf=0.078125", "triple=e dbp:style French_cuisine", "class=Chef", "{AllConf=0.078125 condAB=1.0 condBA=0.078125 supA=5.0 supB=64.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/style", "object=http://dbpedia.org/resource/French_cuisine" ],
+    "3" : [ "kb=dbp:restaurants @en", "AllConf=0.0245098039215686", "triple=e dbp:restaurants @en", "class=Chef", "{AllConf=0.0245098039215686 condAB=0.714285714285714 condBA=0.0245098039215686 supA=7.0 supB=204.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/restaurants", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 30,
+  "pattern" : "located",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace France", "AllConf=0.104166666666667", "triple=e dbp:birthPlace France", "class=Chef", "{AllConf=0.104166666666667 condAB=1.0 condBA=0.104166666666667 supA=5.0 supB=48.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/France" ]
+  }
+} ]

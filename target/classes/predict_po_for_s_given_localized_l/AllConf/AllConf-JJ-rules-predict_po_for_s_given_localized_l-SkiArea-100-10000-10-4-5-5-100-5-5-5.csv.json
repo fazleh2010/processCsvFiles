@@ -1,0 +1,127 @@
+[ {
+  "id" : 11,
+  "pattern" : "central",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:location United_States", "AllConf=0.0693069306930693", "triple=e dbp:location United_States", "class=SkiArea", "{AllConf=0.0693069306930693 condAB=0.5 condBA=0.0693069306930693 supA=14.0 supB=101.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:location Idaho", "AllConf=0.533333333333333", "triple=e dbp:location Idaho", "class=SkiArea", "{AllConf=0.533333333333333 condAB=0.571428571428571 condBA=0.533333333333333 supA=14.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Idaho" ]
+  }
+}, {
+  "id" : 16,
+  "pattern" : "eastern",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:location United_States", "AllConf=0.0495049504950495", "triple=e dbp:location United_States", "class=SkiArea", "{AllConf=0.0495049504950495 condAB=0.416666666666667 condBA=0.0495049504950495 supA=12.0 supB=101.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 20,
+  "pattern" : "french",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:pushpinMap Alps@en", "AllConf=0.315789473684211", "triple=e dbp:pushpinMap Alps@en", "class=SkiArea", "{AllConf=0.315789473684211 condAB=0.666666666666667 condBA=0.315789473684211 supA=9.0 supB=19.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/pushpinMap", "object=\"\"\"Alps\"\"@en\"" ]
+  }
+}, {
+  "id" : 25,
+  "pattern" : "largest",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:location United_States", "AllConf=0.0594059405940594", "triple=e dbp:location United_States", "class=SkiArea", "{AllConf=0.0594059405940594 condAB=0.4 condBA=0.0594059405940594 supA=15.0 supB=101.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 26,
+  "pattern" : "located",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:pushpinRelief 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0662983425414365", "triple=e dbp:pushpinRelief 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=SkiArea", "{AllConf=0.0662983425414365 condAB=1.0 condBA=0.0662983425414365 supA=12.0 supB=181.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/pushpinRelief", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbo:nearestCity Colorado", "AllConf=0.0381679389312977", "triple=e dbo:nearestCity Colorado", "class=SkiArea", "{AllConf=0.0381679389312977 condAB=0.0381679389312977 condBA=0.384615384615385 supA=131.0 supB=13.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/nearestCity", "object=http://dbpedia.org/resource/Colorado" ],
+    "2" : [ "kb=dbo:nearestCity Catalonia", "AllConf=0.0847457627118644", "triple=e dbo:nearestCity Catalonia", "class=SkiArea", "{AllConf=0.0847457627118644 condAB=0.0847457627118644 condBA=0.5 supA=59.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/nearestCity", "object=http://dbpedia.org/resource/Catalonia" ],
+    "3" : [ "kb=dbp:liftsystem 7^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.15625", "triple=e dbp:liftsystem 7^^<http://www.w3.org/2001/XMLSchema#integer>", "class=SkiArea", "{AllConf=0.15625 condAB=0.166666666666667 condBA=0.15625 supA=30.0 supB=32.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/liftsystem", "object=\"\"\"7\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "4" : [ "kb=dbp:liftsystem 4^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0609756097560976", "triple=e dbp:liftsystem 4^^<http://www.w3.org/2001/XMLSchema#integer>", "class=SkiArea", "{AllConf=0.0609756097560976 condAB=0.166666666666667 condBA=0.0609756097560976 supA=30.0 supB=82.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/liftsystem", "object=\"\"\"4\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "5" : [ "kb=dbp:liftsystem 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.09375", "triple=e dbp:liftsystem 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=SkiArea", "{AllConf=0.09375 condAB=0.3 condBA=0.09375 supA=30.0 supB=96.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/liftsystem", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "6" : [ "kb=dbp:location United_States", "AllConf=0.0693069306930693", "triple=e dbp:location United_States", "class=SkiArea", "{AllConf=0.0693069306930693 condAB=0.259259259259259 condBA=0.0693069306930693 supA=27.0 supB=101.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/United_States" ],
+    "7" : [ "kb=dbp:location New_Hampshire", "AllConf=0.192307692307692", "triple=e dbp:location New_Hampshire", "class=SkiArea", "{AllConf=0.192307692307692 condAB=0.192307692307692 condBA=0.357142857142857 supA=26.0 supB=14.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/New_Hampshire" ],
+    "8" : [ "kb=dbp:location Idaho", "AllConf=0.0394736842105263", "triple=e dbp:location Idaho", "class=SkiArea", "{AllConf=0.0394736842105263 condAB=0.0394736842105263 condBA=0.4 supA=152.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Idaho" ],
+    "9" : [ "kb=dbp:location British_Columbia", "AllConf=0.0328947368421053", "triple=e dbp:location British_Columbia", "class=SkiArea", "{AllConf=0.0328947368421053 condAB=0.0328947368421053 condBA=0.357142857142857 supA=152.0 supB=14.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/British_Columbia" ],
+    "10" : [ "kb=dbp:location Vermont", "AllConf=0.0328947368421053", "triple=e dbp:location Vermont", "class=SkiArea", "{AllConf=0.0328947368421053 condAB=0.0328947368421053 condBA=0.384615384615385 supA=152.0 supB=13.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Vermont" ],
+    "11" : [ "kb=dbp:location Mount_Hood", "AllConf=0.0328947368421053", "triple=e dbp:location Mount_Hood", "class=SkiArea", "{AllConf=0.0328947368421053 condAB=0.0328947368421053 condBA=1.0 supA=152.0 supB=5.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Mount_Hood" ],
+    "12" : [ "kb=dbp:location Quebec", "AllConf=0.0460526315789474", "triple=e dbp:location Quebec", "class=SkiArea", "{AllConf=0.0460526315789474 condAB=0.0460526315789474 condBA=0.466666666666667 supA=152.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Quebec" ],
+    "13" : [ "kb=dbp:location Canada", "AllConf=0.15", "triple=e dbp:location Canada", "class=SkiArea", "{AllConf=0.15 condAB=0.222222222222222 condBA=0.15 supA=27.0 supB=40.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Canada" ],
+    "14" : [ "kb=dbp:location Washington_(state)", "AllConf=0.0460526315789474", "triple=e dbp:location Washington_(state)", "class=SkiArea", "{AllConf=0.0460526315789474 condAB=0.0460526315789474 condBA=0.7 supA=152.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Washington_(state)" ],
+    "15" : [ "kb=dbo:location Slovenia", "AllConf=0.0515463917525773", "triple=e dbo:location Slovenia", "class=SkiArea", "{AllConf=0.0515463917525773 condAB=0.0515463917525773 condBA=0.625 supA=194.0 supB=16.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Slovenia" ],
+    "16" : [ "kb=dbo:location Pennsylvania", "AllConf=0.0257731958762887", "triple=e dbo:location Pennsylvania", "class=SkiArea", "{AllConf=0.0257731958762887 condAB=0.0257731958762887 condBA=0.625 supA=194.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Pennsylvania" ],
+    "17" : [ "kb=dbo:location Maine", "AllConf=0.0257731958762887", "triple=e dbo:location Maine", "class=SkiArea", "{AllConf=0.0257731958762887 condAB=0.0257731958762887 condBA=0.416666666666667 supA=194.0 supB=12.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Maine" ]
+  }
+}, {
+  "id" : 30,
+  "pattern" : "modest",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Idaho", "AllConf=0.3", "triple=e dbo:location Idaho", "class=SkiArea", "{AllConf=0.3 condAB=0.666666666666667 condBA=0.3 supA=9.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Idaho" ],
+    "1" : [ "kb=dbo:location United_States", "AllConf=0.0441176470588235", "triple=e dbo:location United_States", "class=SkiArea", "{AllConf=0.0441176470588235 condAB=0.75 condBA=0.0441176470588235 supA=8.0 supB=136.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 45,
+  "pattern" : "northeastern",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.0441176470588235", "triple=e dbo:location United_States", "class=SkiArea", "{AllConf=0.0441176470588235 condAB=0.6 condBA=0.0441176470588235 supA=10.0 supB=136.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 57,
+  "pattern" : "ski",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:pushpinRelief 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0497237569060773", "triple=e dbp:pushpinRelief 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=SkiArea", "{AllConf=0.0497237569060773 condAB=1.0 condBA=0.0497237569060773 supA=9.0 supB=181.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/pushpinRelief", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "1" : [ "kb=dbo:nearestCity Colorado", "AllConf=0.06", "triple=e dbo:nearestCity Colorado", "class=SkiArea", "{AllConf=0.06 condAB=0.06 condBA=0.461538461538462 supA=100.0 supB=13.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/nearestCity", "object=http://dbpedia.org/resource/Colorado" ],
+    "2" : [ "kb=dbo:nearestCity Quebec_City", "AllConf=0.0631578947368421", "triple=e dbo:nearestCity Quebec_City", "class=SkiArea", "{AllConf=0.0631578947368421 condAB=0.0631578947368421 condBA=1.0 supA=95.0 supB=6.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/nearestCity", "object=http://dbpedia.org/resource/Quebec_City" ],
+    "3" : [ "kb=dbp:liftsystem 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0625", "triple=e dbp:liftsystem 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=SkiArea", "{AllConf=0.0625 condAB=0.285714285714286 condBA=0.0625 supA=21.0 supB=96.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/liftsystem", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "4" : [ "kb=dbp:location United_States", "AllConf=0.282442748091603", "triple=e dbp:location United_States", "class=SkiArea", "{AllConf=0.282442748091603 condAB=0.282442748091603 condBA=0.366336633663366 supA=131.0 supB=101.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/United_States" ],
+    "5" : [ "kb=dbp:location France", "AllConf=0.0507246376811594", "triple=e dbp:location France", "class=SkiArea", "{AllConf=0.0507246376811594 condAB=0.0507246376811594 condBA=0.411764705882353 supA=138.0 supB=17.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/France" ],
+    "6" : [ "kb=dbp:location New_Hampshire", "AllConf=0.0434782608695652", "triple=e dbp:location New_Hampshire", "class=SkiArea", "{AllConf=0.0434782608695652 condAB=0.0434782608695652 condBA=0.428571428571429 supA=138.0 supB=14.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/New_Hampshire" ],
+    "7" : [ "kb=dbp:location British_Columbia", "AllConf=0.0381679389312977", "triple=e dbp:location British_Columbia", "class=SkiArea", "{AllConf=0.0381679389312977 condAB=0.0381679389312977 condBA=0.357142857142857 supA=131.0 supB=14.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/British_Columbia" ],
+    "8" : [ "kb=dbp:location Vermont", "AllConf=0.0507246376811594", "triple=e dbp:location Vermont", "class=SkiArea", "{AllConf=0.0507246376811594 condAB=0.0507246376811594 condBA=0.538461538461538 supA=138.0 supB=13.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Vermont" ],
+    "9" : [ "kb=dbp:location Spain", "AllConf=0.0381679389312977", "triple=e dbp:location Spain", "class=SkiArea", "{AllConf=0.0381679389312977 condAB=0.0381679389312977 condBA=0.555555555555556 supA=131.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Spain" ],
+    "10" : [ "kb=dbp:location Quebec", "AllConf=0.0687022900763359", "triple=e dbp:location Quebec", "class=SkiArea", "{AllConf=0.0687022900763359 condAB=0.0687022900763359 condBA=0.6 supA=131.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Quebec" ],
+    "11" : [ "kb=dbp:location Canada", "AllConf=0.129770992366412", "triple=e dbp:location Canada", "class=SkiArea", "{AllConf=0.129770992366412 condAB=0.129770992366412 condBA=0.425 supA=131.0 supB=40.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Canada" ],
+    "12" : [ "kb=dbp:location Washington_(state)", "AllConf=0.036231884057971", "triple=e dbp:location Washington_(state)", "class=SkiArea", "{AllConf=0.036231884057971 condAB=0.036231884057971 condBA=0.5 supA=138.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Washington_(state)" ],
+    "13" : [ "kb=dbo:location Idaho", "AllConf=0.029940119760479", "triple=e dbo:location Idaho", "class=SkiArea", "{AllConf=0.029940119760479 condAB=0.029940119760479 condBA=0.25 supA=167.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Idaho" ],
+    "14" : [ "kb=dbo:location Utah", "AllConf=0.0359281437125748", "triple=e dbo:location Utah", "class=SkiArea", "{AllConf=0.0359281437125748 condAB=0.0359281437125748 condBA=0.666666666666667 supA=167.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Utah" ]
+  }
+}, {
+  "id" : 66,
+  "pattern" : "slovenian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Slovenia", "AllConf=0.4375", "triple=e dbo:location Slovenia", "class=SkiArea", "{AllConf=0.4375 condAB=1.0 condBA=0.4375 supA=7.0 supB=16.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Slovenia" ]
+  }
+}, {
+  "id" : 70,
+  "pattern" : "small",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:location United_States", "AllConf=0.108910891089109", "triple=e dbp:location United_States", "class=SkiArea", "{AllConf=0.108910891089109 condAB=0.6875 condBA=0.108910891089109 supA=16.0 supB=101.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 74,
+  "pattern" : "south_central",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.0367647058823529", "triple=e dbo:location United_States", "class=SkiArea", "{AllConf=0.0367647058823529 condAB=1.0 condBA=0.0367647058823529 supA=5.0 supB=136.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 86,
+  "pattern" : "vertical",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:pushpinRelief 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0331491712707182", "triple=e dbp:pushpinRelief 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=SkiArea", "{AllConf=0.0331491712707182 condAB=1.0 condBA=0.0331491712707182 supA=6.0 supB=181.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/pushpinRelief", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 89,
+  "pattern" : "western",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:location United_States", "AllConf=0.108910891089109", "triple=e dbp:location United_States", "class=SkiArea", "{AllConf=0.108910891089109 condAB=0.5 condBA=0.108910891089109 supA=22.0 supB=101.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:location Idaho", "AllConf=0.24", "triple=e dbp:location Idaho", "class=SkiArea", "{AllConf=0.24 condAB=0.24 condBA=0.4 supA=25.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Idaho" ],
+    "2" : [ "kb=dbo:location Canada", "AllConf=0.0892857142857143", "triple=e dbo:location Canada", "class=SkiArea", "{AllConf=0.0892857142857143 condAB=0.119047619047619 condBA=0.0892857142857143 supA=42.0 supB=56.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Canada" ]
+  }
+} ]

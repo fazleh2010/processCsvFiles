@@ -1,0 +1,584 @@
+[ {
+  "id" : 7,
+  "pattern" : "-born",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Soviet_Union", "AllConf=0.0343137254901961", "triple=e dbo:birthPlace Soviet_Union", "class=ChessPlayer", "{AllConf=0.0343137254901961 condAB=0.333333333333333 condBA=0.0343137254901961 supA=21.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Soviet_Union" ]
+  }
+}, {
+  "id" : 90,
+  "pattern" : "achieve",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00785854616895874", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00785854616895874 condAB=0.888888888888889 condBA=0.00785854616895874 supA=9.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 92,
+  "pattern" : "achieved",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0157170923379175", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0157170923379175 condAB=0.8 condBA=0.0157170923379175 supA=20.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 122,
+  "pattern" : "awarded",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:title International Master@en", "AllConf=0.11214953271028", "triple=e dbo:title International Master@en", "class=ChessPlayer", "{AllConf=0.11214953271028 condAB=0.48 condBA=0.11214953271028 supA=25.0 supB=107.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"International Master\"\"@en\"" ],
+    "1" : [ "kb=dbo:title Grandmaster@en", "AllConf=0.0434782608695652", "triple=e dbo:title Grandmaster@en", "class=ChessPlayer", "{AllConf=0.0434782608695652 condAB=0.44 condBA=0.0434782608695652 supA=25.0 supB=253.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"Grandmaster\"\"@en\"" ],
+    "2" : [ "kb=dbo:birthPlace Soviet_Union", "AllConf=0.0343137254901961", "triple=e dbo:birthPlace Soviet_Union", "class=ChessPlayer", "{AllConf=0.0343137254901961 condAB=0.28 condBA=0.0343137254901961 supA=25.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Soviet_Union" ],
+    "3" : [ "kb=dbo:country Georgia_(country)", "AllConf=0.125", "triple=e dbo:country Georgia_(country)", "class=ChessPlayer", "{AllConf=0.125 condAB=0.131578947368421 condBA=0.125 supA=38.0 supB=40.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "4" : [ "kb=dbo:country United_States", "AllConf=0.0595238095238095", "triple=e dbo:country United_States", "class=ChessPlayer", "{AllConf=0.0595238095238095 condAB=0.106382978723404 condBA=0.0595238095238095 supA=47.0 supB=84.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ],
+    "5" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0816993464052288", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0816993464052288 condAB=0.303643724696356 condBA=0.0816993464052288 supA=247.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "6" : [ "kb=dbp:title World_Blitz_Chess_Championship", "AllConf=0.01953125", "triple=e dbp:title World_Blitz_Chess_Championship", "class=ChessPlayer", "{AllConf=0.01953125 condAB=0.01953125 condBA=0.625 supA=256.0 supB=8.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/World_Blitz_Chess_Championship" ],
+    "7" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00589390962671906", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00589390962671906 condAB=0.857142857142857 condBA=0.00589390962671906 supA=7.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 134,
+  "pattern" : "became",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:title International Master@en", "AllConf=0.0560747663551402", "triple=e dbo:title International Master@en", "class=ChessPlayer", "{AllConf=0.0560747663551402 condAB=0.428571428571429 condBA=0.0560747663551402 supA=14.0 supB=107.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"International Master\"\"@en\"" ],
+    "1" : [ "kb=dbo:title Grandmaster@en", "AllConf=0.0237154150197628", "triple=e dbo:title Grandmaster@en", "class=ChessPlayer", "{AllConf=0.0237154150197628 condAB=0.428571428571429 condBA=0.0237154150197628 supA=14.0 supB=253.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"Grandmaster\"\"@en\"" ],
+    "2" : [ "kb=dbo:birthPlace China", "AllConf=0.25", "triple=e dbo:birthPlace China", "class=ChessPlayer", "{AllConf=0.25 condAB=0.666666666666667 condBA=0.25 supA=12.0 supB=32.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/China" ],
+    "3" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0174291938997821", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0174291938997821 condAB=0.235294117647059 condBA=0.0174291938997821 supA=68.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "4" : [ "kb=dbp:title Chinese_Chess_Championship", "AllConf=0.132352941176471", "triple=e dbp:title Chinese_Chess_Championship", "class=ChessPlayer", "{AllConf=0.132352941176471 condAB=0.132352941176471 condBA=0.290322580645161 supA=68.0 supB=31.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Chinese_Chess_Championship" ],
+    "5" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0520628683693517", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0520628683693517 condAB=0.779411764705882 condBA=0.0520628683693517 supA=68.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 139,
+  "pattern" : "become",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0068762278978389", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0068762278978389 condAB=1.0 condBA=0.0068762278978389 supA=7.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 141,
+  "pattern" : "born",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:nationality Spain", "AllConf=0.3125", "triple=e dbo:nationality Spain", "class=ChessPlayer", "{AllConf=0.3125 condAB=0.3125 condBA=0.625 supA=16.0 supB=8.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/nationality", "object=http://dbpedia.org/resource/Spain" ],
+    "1" : [ "kb=dbo:nationality Norway", "AllConf=0.238095238095238", "triple=e dbo:nationality Norway", "class=ChessPlayer", "{AllConf=0.238095238095238 condAB=0.3125 condBA=0.238095238095238 supA=16.0 supB=21.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/nationality", "object=http://dbpedia.org/resource/Norway" ],
+    "2" : [ "kb=dbo:title Woman FIDE Master@en", "AllConf=0.0555555555555556", "triple=e dbo:title Woman FIDE Master@en", "class=ChessPlayer", "{AllConf=0.0555555555555556 condAB=0.0555555555555556 condBA=0.533333333333333 supA=144.0 supB=15.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"Woman FIDE Master\"\"@en\"" ],
+    "3" : [ "kb=dbo:title International Master@en", "AllConf=0.201388888888889", "triple=e dbo:title International Master@en", "class=ChessPlayer", "{AllConf=0.201388888888889 condAB=0.201388888888889 condBA=0.271028037383178 supA=144.0 supB=107.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"International Master\"\"@en\"" ],
+    "4" : [ "kb=dbo:title FIDE Master (FM)@en", "AllConf=0.0625", "triple=e dbo:title FIDE Master (FM)@en", "class=ChessPlayer", "{AllConf=0.0625 condAB=0.0625 condBA=0.818181818181818 supA=144.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"FIDE Master (FM)\"\"@en\"" ],
+    "5" : [ "kb=dbo:title Woman Grandmaster@en", "AllConf=0.125", "triple=e dbo:title Woman Grandmaster@en", "class=ChessPlayer", "{AllConf=0.125 condAB=0.125 condBA=0.36734693877551 supA=144.0 supB=49.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"Woman Grandmaster\"\"@en\"" ],
+    "6" : [ "kb=dbo:title Woman International Master@en", "AllConf=0.0972222222222222", "triple=e dbo:title Woman International Master@en", "class=ChessPlayer", "{AllConf=0.0972222222222222 condAB=0.0972222222222222 condBA=0.388888888888889 supA=144.0 supB=36.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"Woman International Master\"\"@en\"" ],
+    "7" : [ "kb=dbo:title Grandmaster@en", "AllConf=0.24901185770751", "triple=e dbo:title Grandmaster@en", "class=ChessPlayer", "{AllConf=0.24901185770751 condAB=0.4375 condBA=0.24901185770751 supA=144.0 supB=253.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"Grandmaster\"\"@en\"" ],
+    "8" : [ "kb=dbo:birthPlace Iceland", "AllConf=0.0119760479041916", "triple=e dbo:birthPlace Iceland", "class=ChessPlayer", "{AllConf=0.0119760479041916 condAB=0.0119760479041916 condBA=0.666666666666667 supA=835.0 supB=15.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Iceland" ],
+    "9" : [ "kb=dbo:birthPlace ReykjavÃ­k", "AllConf=0.0107784431137725", "triple=e dbo:birthPlace ReykjavÃ­k", "class=ChessPlayer", "{AllConf=0.0107784431137725 condAB=0.0107784431137725 condBA=0.692307692307692 supA=835.0 supB=13.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/ReykjavÃ­k" ],
+    "10" : [ "kb=dbo:birthPlace Uzbek_Soviet_Socialist_Republic", "AllConf=0.00598802395209581", "triple=e dbo:birthPlace Uzbek_Soviet_Socialist_Republic", "class=ChessPlayer", "{AllConf=0.00598802395209581 condAB=0.00598802395209581 condBA=0.625 supA=835.0 supB=8.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Uzbek_Soviet_Socialist_Republic" ],
+    "11" : [ "kb=dbo:birthPlace Argentina", "AllConf=0.00838323353293413", "triple=e dbo:birthPlace Argentina", "class=ChessPlayer", "{AllConf=0.00838323353293413 condAB=0.00838323353293413 condBA=0.4375 supA=835.0 supB=16.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Argentina" ],
+    "12" : [ "kb=dbo:birthPlace Moscow", "AllConf=0.0155688622754491", "triple=e dbo:birthPlace Moscow", "class=ChessPlayer", "{AllConf=0.0155688622754491 condAB=0.0155688622754491 condBA=0.30952380952381 supA=835.0 supB=42.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Moscow" ],
+    "13" : [ "kb=dbo:birthPlace Barcelona", "AllConf=0.00598802395209581", "triple=e dbo:birthPlace Barcelona", "class=ChessPlayer", "{AllConf=0.00598802395209581 condAB=0.00598802395209581 condBA=0.454545454545455 supA=835.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Barcelona" ],
+    "14" : [ "kb=dbo:birthPlace Tashkent", "AllConf=0.00718562874251497", "triple=e dbo:birthPlace Tashkent", "class=ChessPlayer", "{AllConf=0.00718562874251497 condAB=0.00718562874251497 condBA=0.545454545454545 supA=835.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Tashkent" ],
+    "15" : [ "kb=dbo:birthPlace Czechoslovakia", "AllConf=0.0155688622754491", "triple=e dbo:birthPlace Czechoslovakia", "class=ChessPlayer", "{AllConf=0.0155688622754491 condAB=0.0155688622754491 condBA=0.8125 supA=835.0 supB=16.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Czechoslovakia" ],
+    "16" : [ "kb=dbo:birthPlace Kutaisi", "AllConf=0.00598802395209581", "triple=e dbo:birthPlace Kutaisi", "class=ChessPlayer", "{AllConf=0.00598802395209581 condAB=0.00598802395209581 condBA=1.0 supA=835.0 supB=5.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Kutaisi" ],
+    "17" : [ "kb=dbo:birthPlace Slovenia", "AllConf=0.00598802395209581", "triple=e dbo:birthPlace Slovenia", "class=ChessPlayer", "{AllConf=0.00598802395209581 condAB=0.00598802395209581 condBA=0.833333333333333 supA=835.0 supB=6.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Slovenia" ],
+    "18" : [ "kb=dbo:birthPlace Ukraine", "AllConf=0.0227544910179641", "triple=e dbo:birthPlace Ukraine", "class=ChessPlayer", "{AllConf=0.0227544910179641 condAB=0.0227544910179641 condBA=0.558823529411765 supA=835.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Ukraine" ],
+    "19" : [ "kb=dbo:birthPlace WrocÅaw", "AllConf=0.00718562874251497", "triple=e dbo:birthPlace WrocÅaw", "class=ChessPlayer", "{AllConf=0.00718562874251497 condAB=0.00718562874251497 condBA=0.666666666666667 supA=835.0 supB=9.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=\"http://dbpedia.org/resource/WrocÅaw\"" ],
+    "20" : [ "kb=dbo:birthPlace Estonia", "AllConf=0.0215568862275449", "triple=e dbo:birthPlace Estonia", "class=ChessPlayer", "{AllConf=0.0215568862275449 condAB=0.0215568862275449 condBA=0.529411764705882 supA=835.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Estonia" ],
+    "21" : [ "kb=dbo:birthPlace Finland", "AllConf=0.00598802395209581", "triple=e dbo:birthPlace Finland", "class=ChessPlayer", "{AllConf=0.00598802395209581 condAB=0.00598802395209581 condBA=0.277777777777778 supA=835.0 supB=18.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Finland" ],
+    "22" : [ "kb=dbo:birthPlace Netherlands", "AllConf=0.0323353293413174", "triple=e dbo:birthPlace Netherlands", "class=ChessPlayer", "{AllConf=0.0323353293413174 condAB=0.0323353293413174 condBA=0.627906976744186 supA=835.0 supB=43.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Netherlands" ],
+    "23" : [ "kb=dbo:birthPlace Greece", "AllConf=0.00598802395209581", "triple=e dbo:birthPlace Greece", "class=ChessPlayer", "{AllConf=0.00598802395209581 condAB=0.00598802395209581 condBA=0.714285714285714 supA=835.0 supB=7.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Greece" ],
+    "24" : [ "kb=dbo:birthPlace Kazakhstan", "AllConf=0.00958083832335329", "triple=e dbo:birthPlace Kazakhstan", "class=ChessPlayer", "{AllConf=0.00958083832335329 condAB=0.00958083832335329 condBA=0.888888888888889 supA=835.0 supB=9.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Kazakhstan" ],
+    "25" : [ "kb=dbo:birthPlace Ukrainian_Soviet_Socialist_Republic", "AllConf=0.00598802395209581", "triple=e dbo:birthPlace Ukrainian_Soviet_Socialist_Republic", "class=ChessPlayer", "{AllConf=0.00598802395209581 condAB=0.00598802395209581 condBA=0.384615384615385 supA=835.0 supB=13.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Ukrainian_Soviet_Socialist_Republic" ],
+    "26" : [ "kb=dbo:birthPlace Czech_Republic", "AllConf=0.0119760479041916", "triple=e dbo:birthPlace Czech_Republic", "class=ChessPlayer", "{AllConf=0.0119760479041916 condAB=0.0119760479041916 condBA=1.0 supA=835.0 supB=10.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Czech_Republic" ],
+    "27" : [ "kb=dbo:birthPlace Hungary", "AllConf=0.0215568862275449", "triple=e dbo:birthPlace Hungary", "class=ChessPlayer", "{AllConf=0.0215568862275449 condAB=0.0215568862275449 condBA=0.545454545454545 supA=835.0 supB=33.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Hungary" ],
+    "28" : [ "kb=dbo:birthPlace West_Germany", "AllConf=0.00718562874251497", "triple=e dbo:birthPlace West_Germany", "class=ChessPlayer", "{AllConf=0.00718562874251497 condAB=0.00718562874251497 condBA=1.0 supA=835.0 supB=6.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/West_Germany" ],
+    "29" : [ "kb=dbo:birthPlace Tallinn", "AllConf=0.0119760479041916", "triple=e dbo:birthPlace Tallinn", "class=ChessPlayer", "{AllConf=0.0119760479041916 condAB=0.0119760479041916 condBA=0.526315789473684 supA=835.0 supB=19.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Tallinn" ],
+    "30" : [ "kb=dbo:birthPlace Tehran", "AllConf=0.00718562874251497", "triple=e dbo:birthPlace Tehran", "class=ChessPlayer", "{AllConf=0.00718562874251497 condAB=0.00718562874251497 condBA=0.545454545454545 supA=835.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Tehran" ],
+    "31" : [ "kb=dbo:birthPlace Baku", "AllConf=0.00958083832335329", "triple=e dbo:birthPlace Baku", "class=ChessPlayer", "{AllConf=0.00958083832335329 condAB=0.00958083832335329 condBA=0.347826086956522 supA=835.0 supB=23.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Baku" ],
+    "32" : [ "kb=dbo:birthPlace Belarus", "AllConf=0.0107784431137725", "triple=e dbo:birthPlace Belarus", "class=ChessPlayer", "{AllConf=0.0107784431137725 condAB=0.0107784431137725 condBA=0.5 supA=835.0 supB=18.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Belarus" ],
+    "33" : [ "kb=dbo:birthPlace Poland", "AllConf=0.081437125748503", "triple=e dbo:birthPlace Poland", "class=ChessPlayer", "{AllConf=0.081437125748503 condAB=0.081437125748503 condBA=0.731182795698925 supA=835.0 supB=93.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Poland" ],
+    "34" : [ "kb=dbo:birthPlace Armenia", "AllConf=0.0143712574850299", "triple=e dbo:birthPlace Armenia", "class=ChessPlayer", "{AllConf=0.0143712574850299 condAB=0.0143712574850299 condBA=0.923076923076923 supA=835.0 supB=13.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Armenia" ],
+    "35" : [ "kb=dbo:birthPlace Riga", "AllConf=0.0155688622754491", "triple=e dbo:birthPlace Riga", "class=ChessPlayer", "{AllConf=0.0155688622754491 condAB=0.0155688622754491 condBA=0.419354838709677 supA=835.0 supB=31.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Riga" ],
+    "36" : [ "kb=dbo:birthPlace Tbilisi", "AllConf=0.0131736526946108", "triple=e dbo:birthPlace Tbilisi", "class=ChessPlayer", "{AllConf=0.0131736526946108 condAB=0.0131736526946108 condBA=0.611111111111111 supA=835.0 supB=18.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Tbilisi" ],
+    "37" : [ "kb=dbo:birthPlace Cuba", "AllConf=0.0131736526946108", "triple=e dbo:birthPlace Cuba", "class=ChessPlayer", "{AllConf=0.0131736526946108 condAB=0.0131736526946108 condBA=0.733333333333333 supA=835.0 supB=15.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Cuba" ],
+    "38" : [ "kb=dbo:birthPlace Azerbaijan", "AllConf=0.0107784431137725", "triple=e dbo:birthPlace Azerbaijan", "class=ChessPlayer", "{AllConf=0.0107784431137725 condAB=0.0107784431137725 condBA=0.6 supA=835.0 supB=15.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Azerbaijan" ],
+    "39" : [ "kb=dbo:birthPlace Ukrainian_SSR", "AllConf=0.0131736526946108", "triple=e dbo:birthPlace Ukrainian_SSR", "class=ChessPlayer", "{AllConf=0.0131736526946108 condAB=0.0131736526946108 condBA=0.34375 supA=835.0 supB=32.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Ukrainian_SSR" ],
+    "40" : [ "kb=dbo:birthPlace China", "AllConf=0.0275449101796407", "triple=e dbo:birthPlace China", "class=ChessPlayer", "{AllConf=0.0275449101796407 condAB=0.0275449101796407 condBA=0.71875 supA=835.0 supB=32.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/China" ],
+    "41" : [ "kb=dbo:birthPlace Philippines", "AllConf=0.00598802395209581", "triple=e dbo:birthPlace Philippines", "class=ChessPlayer", "{AllConf=0.00598802395209581 condAB=0.00598802395209581 condBA=0.625 supA=835.0 supB=8.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Philippines" ],
+    "42" : [ "kb=dbo:birthPlace Buenos_Aires", "AllConf=0.00718562874251497", "triple=e dbo:birthPlace Buenos_Aires", "class=ChessPlayer", "{AllConf=0.00718562874251497 condAB=0.00718562874251497 condBA=0.666666666666667 supA=835.0 supB=9.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Buenos_Aires" ],
+    "43" : [ "kb=dbo:birthPlace Georgian_SSR", "AllConf=0.0131736526946108", "triple=e dbo:birthPlace Georgian_SSR", "class=ChessPlayer", "{AllConf=0.0131736526946108 condAB=0.0131736526946108 condBA=0.6875 supA=835.0 supB=16.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Georgian_SSR" ],
+    "44" : [ "kb=dbo:birthPlace Germany", "AllConf=0.0287425149700599", "triple=e dbo:birthPlace Germany", "class=ChessPlayer", "{AllConf=0.0287425149700599 condAB=0.0287425149700599 condBA=0.571428571428571 supA=835.0 supB=42.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Germany" ],
+    "45" : [ "kb=dbo:birthPlace Prague", "AllConf=0.00958083832335329", "triple=e dbo:birthPlace Prague", "class=ChessPlayer", "{AllConf=0.00958083832335329 condAB=0.00958083832335329 condBA=0.666666666666667 supA=835.0 supB=12.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Prague" ],
+    "46" : [ "kb=dbo:birthPlace Italy", "AllConf=0.0143712574850299", "triple=e dbo:birthPlace Italy", "class=ChessPlayer", "{AllConf=0.0143712574850299 condAB=0.0143712574850299 condBA=0.48 supA=835.0 supB=25.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Italy" ],
+    "47" : [ "kb=dbo:birthPlace Russia", "AllConf=0.0287425149700599", "triple=e dbo:birthPlace Russia", "class=ChessPlayer", "{AllConf=0.0287425149700599 condAB=0.0287425149700599 condBA=0.358208955223881 supA=835.0 supB=67.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Russia" ],
+    "48" : [ "kb=dbo:birthPlace USSR", "AllConf=0.00718562874251497", "triple=e dbo:birthPlace USSR", "class=ChessPlayer", "{AllConf=0.00718562874251497 condAB=0.00718562874251497 condBA=0.333333333333333 supA=835.0 supB=18.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/USSR" ],
+    "49" : [ "kb=dbo:birthPlace Sweden", "AllConf=0.0119760479041916", "triple=e dbo:birthPlace Sweden", "class=ChessPlayer", "{AllConf=0.0119760479041916 condAB=0.0119760479041916 condBA=0.416666666666667 supA=835.0 supB=24.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Sweden" ],
+    "50" : [ "kb=dbo:birthPlace Georgia_(country)", "AllConf=0.00958083832335329", "triple=e dbo:birthPlace Georgia_(country)", "class=ChessPlayer", "{AllConf=0.00958083832335329 condAB=0.00958083832335329 condBA=0.727272727272727 supA=835.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "51" : [ "kb=dbo:birthPlace Denmark", "AllConf=0.0107784431137725", "triple=e dbo:birthPlace Denmark", "class=ChessPlayer", "{AllConf=0.0107784431137725 condAB=0.0107784431137725 condBA=0.75 supA=835.0 supB=12.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Denmark" ],
+    "52" : [ "kb=dbo:birthPlace England", "AllConf=0.00958083832335329", "triple=e dbo:birthPlace England", "class=ChessPlayer", "{AllConf=0.00958083832335329 condAB=0.00958083832335329 condBA=0.205128205128205 supA=835.0 supB=39.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/England" ],
+    "53" : [ "kb=dbo:birthPlace Saint_Petersburg", "AllConf=0.00958083832335329", "triple=e dbo:birthPlace Saint_Petersburg", "class=ChessPlayer", "{AllConf=0.00958083832335329 condAB=0.00958083832335329 condBA=0.333333333333333 supA=835.0 supB=24.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Saint_Petersburg" ],
+    "54" : [ "kb=dbo:birthPlace Iran", "AllConf=0.00958083832335329", "triple=e dbo:birthPlace Iran", "class=ChessPlayer", "{AllConf=0.00958083832335329 condAB=0.00958083832335329 condBA=0.615384615384615 supA=835.0 supB=13.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Iran" ],
+    "55" : [ "kb=dbo:birthPlace Lithuania", "AllConf=0.00958083832335329", "triple=e dbo:birthPlace Lithuania", "class=ChessPlayer", "{AllConf=0.00958083832335329 condAB=0.00958083832335329 condBA=0.727272727272727 supA=835.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Lithuania" ],
+    "56" : [ "kb=dbo:birthPlace India", "AllConf=0.0323353293413174", "triple=e dbo:birthPlace India", "class=ChessPlayer", "{AllConf=0.0323353293413174 condAB=0.0323353293413174 condBA=0.794117647058823 supA=835.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/India" ],
+    "57" : [ "kb=dbo:birthPlace Russian_SFSR", "AllConf=0.0131736526946108", "triple=e dbo:birthPlace Russian_SFSR", "class=ChessPlayer", "{AllConf=0.0131736526946108 condAB=0.0131736526946108 condBA=0.366666666666667 supA=835.0 supB=30.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Russian_SFSR" ],
+    "58" : [ "kb=dbo:birthPlace Yerevan", "AllConf=0.0191616766467066", "triple=e dbo:birthPlace Yerevan", "class=ChessPlayer", "{AllConf=0.0191616766467066 condAB=0.0191616766467066 condBA=0.592592592592593 supA=835.0 supB=27.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Yerevan" ],
+    "59" : [ "kb=dbo:birthPlace Sofia", "AllConf=0.00958083832335329", "triple=e dbo:birthPlace Sofia", "class=ChessPlayer", "{AllConf=0.00958083832335329 condAB=0.00958083832335329 condBA=0.727272727272727 supA=835.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Sofia" ],
+    "60" : [ "kb=dbo:birthPlace Russian_Soviet_Federative_Socialist_Republic", "AllConf=0.0287425149700599", "triple=e dbo:birthPlace Russian_Soviet_Federative_Socialist_Republic", "class=ChessPlayer", "{AllConf=0.0287425149700599 condAB=0.0287425149700599 condBA=0.444444444444444 supA=835.0 supB=54.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic" ],
+    "61" : [ "kb=dbo:birthPlace Kolkata", "AllConf=0.00598802395209581", "triple=e dbo:birthPlace Kolkata", "class=ChessPlayer", "{AllConf=0.00598802395209581 condAB=0.00598802395209581 condBA=1.0 supA=835.0 supB=5.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Kolkata" ],
+    "62" : [ "kb=dbo:birthPlace Serbia", "AllConf=0.0107784431137725", "triple=e dbo:birthPlace Serbia", "class=ChessPlayer", "{AllConf=0.0107784431137725 condAB=0.0107784431137725 condBA=0.642857142857143 supA=835.0 supB=14.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Serbia" ],
+    "63" : [ "kb=dbo:birthPlace Romania", "AllConf=0.0227544910179641", "triple=e dbo:birthPlace Romania", "class=ChessPlayer", "{AllConf=0.0227544910179641 condAB=0.0227544910179641 condBA=0.633333333333333 supA=835.0 supB=30.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Romania" ],
+    "64" : [ "kb=dbo:birthPlace Budapest", "AllConf=0.0131736526946108", "triple=e dbo:birthPlace Budapest", "class=ChessPlayer", "{AllConf=0.0131736526946108 condAB=0.0131736526946108 condBA=0.379310344827586 supA=835.0 supB=29.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Budapest" ],
+    "65" : [ "kb=dbo:birthPlace Warsaw", "AllConf=0.0143712574850299", "triple=e dbo:birthPlace Warsaw", "class=ChessPlayer", "{AllConf=0.0143712574850299 condAB=0.0143712574850299 condBA=0.545454545454545 supA=835.0 supB=22.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Warsaw" ],
+    "66" : [ "kb=dbo:birthPlace France", "AllConf=0.0191616766467066", "triple=e dbo:birthPlace France", "class=ChessPlayer", "{AllConf=0.0191616766467066 condAB=0.0191616766467066 condBA=0.727272727272727 supA=835.0 supB=22.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/France" ],
+    "67" : [ "kb=dbo:birthPlace United_States", "AllConf=0.00598802395209581", "triple=e dbo:birthPlace United_States", "class=ChessPlayer", "{AllConf=0.00598802395209581 condAB=0.00598802395209581 condBA=0.357142857142857 supA=835.0 supB=14.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/United_States" ],
+    "68" : [ "kb=dbo:birthPlace Lviv", "AllConf=0.00958083832335329", "triple=e dbo:birthPlace Lviv", "class=ChessPlayer", "{AllConf=0.00958083832335329 condAB=0.00958083832335329 condBA=0.470588235294118 supA=835.0 supB=17.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Lviv" ],
+    "69" : [ "kb=dbo:birthPlace Bulgaria", "AllConf=0.0335329341317365", "triple=e dbo:birthPlace Bulgaria", "class=ChessPlayer", "{AllConf=0.0335329341317365 condAB=0.0335329341317365 condBA=0.756756756756757 supA=835.0 supB=37.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Bulgaria" ],
+    "70" : [ "kb=dbo:birthPlace Latvia", "AllConf=0.0167664670658683", "triple=e dbo:birthPlace Latvia", "class=ChessPlayer", "{AllConf=0.0167664670658683 condAB=0.0167664670658683 condBA=0.411764705882353 supA=835.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Latvia" ],
+    "71" : [ "kb=dbo:birthPlace Soviet_Union", "AllConf=0.127450980392157", "triple=e dbo:birthPlace Soviet_Union", "class=ChessPlayer", "{AllConf=0.127450980392157 condAB=0.30952380952381 condBA=0.127450980392157 supA=84.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Soviet_Union" ],
+    "72" : [ "kb=dbo:birthPlace Turkey", "AllConf=0.00838323353293413", "triple=e dbo:birthPlace Turkey", "class=ChessPlayer", "{AllConf=0.00838323353293413 condAB=0.00838323353293413 condBA=0.875 supA=835.0 supB=8.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Turkey" ],
+    "73" : [ "kb=dbo:birthPlace Tamil_Nadu", "AllConf=0.00718562874251497", "triple=e dbo:birthPlace Tamil_Nadu", "class=ChessPlayer", "{AllConf=0.00718562874251497 condAB=0.00718562874251497 condBA=0.75 supA=835.0 supB=8.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Tamil_Nadu" ],
+    "74" : [ "kb=dbp:country Austria", "AllConf=0.00658616904500549", "triple=e dbp:country Austria", "class=ChessPlayer", "{AllConf=0.00658616904500549 condAB=0.00658616904500549 condBA=0.3 supA=911.0 supB=20.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Austria" ],
+    "75" : [ "kb=dbp:country Israel", "AllConf=0.0164654226125137", "triple=e dbp:country Israel", "class=ChessPlayer", "{AllConf=0.0164654226125137 condAB=0.0164654226125137 condBA=0.681818181818182 supA=911.0 supB=22.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Israel" ],
+    "76" : [ "kb=dbp:country United_Kingdom", "AllConf=0.00768386388583974", "triple=e dbp:country United_Kingdom", "class=ChessPlayer", "{AllConf=0.00768386388583974 condAB=0.00768386388583974 condBA=0.318181818181818 supA=911.0 supB=22.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/United_Kingdom" ],
+    "77" : [ "kb=dbp:country Germany@en", "AllConf=0.00878155872667398", "triple=e dbp:country Germany@en", "class=ChessPlayer", "{AllConf=0.00878155872667398 condAB=0.00878155872667398 condBA=0.216216216216216 supA=911.0 supB=37.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"Germany\"\"@en\"" ],
+    "78" : [ "kb=dbp:country United States@en", "AllConf=0.0197585071350165", "triple=e dbp:country United States@en", "class=ChessPlayer", "{AllConf=0.0197585071350165 condAB=0.0197585071350165 condBA=0.168224299065421 supA=911.0 supB=107.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"United States\"\"@en\"" ],
+    "79" : [ "kb=dbp:country Croatia", "AllConf=0.00768386388583974", "triple=e dbp:country Croatia", "class=ChessPlayer", "{AllConf=0.00768386388583974 condAB=0.00768386388583974 condBA=0.636363636363636 supA=911.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Croatia" ],
+    "80" : [ "kb=dbp:country Czech Republic@en", "AllConf=0.00658616904500549", "triple=e dbp:country Czech Republic@en", "class=ChessPlayer", "{AllConf=0.00658616904500549 condAB=0.00658616904500549 condBA=0.375 supA=911.0 supB=16.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"Czech Republic\"\"@en\"" ],
+    "81" : [ "kb=dbp:country Bosnia_and_Herzegovina", "AllConf=0.00548847420417124", "triple=e dbp:country Bosnia_and_Herzegovina", "class=ChessPlayer", "{AllConf=0.00548847420417124 condAB=0.00548847420417124 condBA=0.833333333333333 supA=911.0 supB=6.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Bosnia_and_Herzegovina" ],
+    "82" : [ "kb=dbp:country France@en", "AllConf=0.00548847420417124", "triple=e dbp:country France@en", "class=ChessPlayer", "{AllConf=0.00548847420417124 condAB=0.00548847420417124 condBA=0.217391304347826 supA=911.0 supB=23.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"France\"\"@en\"" ],
+    "83" : [ "kb=dbp:country Switzerland", "AllConf=0.00548847420417124", "triple=e dbp:country Switzerland", "class=ChessPlayer", "{AllConf=0.00548847420417124 condAB=0.00548847420417124 condBA=0.416666666666667 supA=911.0 supB=12.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Switzerland" ],
+    "84" : [ "kb=dbp:country Australia@en", "AllConf=0.00548847420417124", "triple=e dbp:country Australia@en", "class=ChessPlayer", "{AllConf=0.00548847420417124 condAB=0.00548847420417124 condBA=0.416666666666667 supA=911.0 supB=12.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"Australia\"\"@en\"" ],
+    "85" : [ "kb=dbp:country Georgia@en", "AllConf=0.00548847420417124", "triple=e dbp:country Georgia@en", "class=ChessPlayer", "{AllConf=0.00548847420417124 condAB=0.00548847420417124 condBA=0.833333333333333 supA=911.0 supB=6.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"Georgia\"\"@en\"" ],
+    "86" : [ "kb=dbp:country Slovakia", "AllConf=0.00658616904500549", "triple=e dbp:country Slovakia", "class=ChessPlayer", "{AllConf=0.00658616904500549 condAB=0.00658616904500549 condBA=0.857142857142857 supA=911.0 supB=7.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Slovakia" ],
+    "87" : [ "kb=dbp:country Vietnam", "AllConf=0.013172338090011", "triple=e dbp:country Vietnam", "class=ChessPlayer", "{AllConf=0.013172338090011 condAB=0.013172338090011 condBA=0.923076923076923 supA=911.0 supB=13.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Vietnam" ],
+    "88" : [ "kb=dbp:country Scotland", "AllConf=0.00658616904500549", "triple=e dbp:country Scotland", "class=ChessPlayer", "{AllConf=0.00658616904500549 condAB=0.00658616904500549 condBA=0.75 supA=911.0 supB=8.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Scotland" ],
+    "89" : [ "kb=dbp:country Canada", "AllConf=0.0120746432491767", "triple=e dbp:country Canada", "class=ChessPlayer", "{AllConf=0.0120746432491767 condAB=0.0120746432491767 condBA=0.647058823529412 supA=911.0 supB=17.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Canada" ],
+    "90" : [ "kb=dbp:country Brazil", "AllConf=0.00658616904500549", "triple=e dbp:country Brazil", "class=ChessPlayer", "{AllConf=0.00658616904500549 condAB=0.00658616904500549 condBA=0.428571428571429 supA=911.0 supB=14.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Brazil" ],
+    "91" : [ "kb=dbp:country Armenia@en", "AllConf=0.00878155872667398", "triple=e dbp:country Armenia@en", "class=ChessPlayer", "{AllConf=0.00878155872667398 condAB=0.00878155872667398 condBA=0.615384615384615 supA=911.0 supB=13.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"Armenia\"\"@en\"" ],
+    "92" : [ "kb=dbp:country Cuba@en", "AllConf=0.00658616904500549", "triple=e dbp:country Cuba@en", "class=ChessPlayer", "{AllConf=0.00658616904500549 condAB=0.00658616904500549 condBA=1.0 supA=911.0 supB=6.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"Cuba\"\"@en\"" ],
+    "93" : [ "kb=dbp:country East_Germany", "AllConf=0.00548847420417124", "triple=e dbp:country East_Germany", "class=ChessPlayer", "{AllConf=0.00548847420417124 condAB=0.00548847420417124 condBA=0.833333333333333 supA=911.0 supB=6.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/East_Germany" ],
+    "94" : [ "kb=dbp:country Israel@en", "AllConf=0.00768386388583974", "triple=e dbp:country Israel@en", "class=ChessPlayer", "{AllConf=0.00768386388583974 condAB=0.00768386388583974 condBA=0.466666666666667 supA=911.0 supB=15.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"Israel\"\"@en\"" ],
+    "95" : [ "kb=dbp:country Algeria", "AllConf=0.00658616904500549", "triple=e dbp:country Algeria", "class=ChessPlayer", "{AllConf=0.00658616904500549 condAB=0.00658616904500549 condBA=0.857142857142857 supA=911.0 supB=7.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Algeria" ],
+    "96" : [ "kb=dbp:country South_Africa", "AllConf=0.00658616904500549", "triple=e dbp:country South_Africa", "class=ChessPlayer", "{AllConf=0.00658616904500549 condAB=0.00658616904500549 condBA=0.857142857142857 supA=911.0 supB=7.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/South_Africa" ],
+    "97" : [ "kb=dbp:country Indonesia", "AllConf=0.00878155872667398", "triple=e dbp:country Indonesia", "class=ChessPlayer", "{AllConf=0.00878155872667398 condAB=0.00878155872667398 condBA=1.0 supA=911.0 supB=8.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Indonesia" ],
+    "98" : [ "kb=dbp:country Yugoslavia", "AllConf=0.017563117453348", "triple=e dbp:country Yugoslavia", "class=ChessPlayer", "{AllConf=0.017563117453348 condAB=0.017563117453348 condBA=0.695652173913043 supA=911.0 supB=23.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Yugoslavia" ],
+    "99" : [ "kb=dbp:country Uzbekistan", "AllConf=0.0109769484083425", "triple=e dbp:country Uzbekistan", "class=ChessPlayer", "{AllConf=0.0109769484083425 condAB=0.0109769484083425 condBA=0.909090909090909 supA=911.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Uzbekistan" ],
+    "100" : [ "kb=dbp:country Egypt", "AllConf=0.013172338090011", "triple=e dbp:country Egypt", "class=ChessPlayer", "{AllConf=0.013172338090011 condAB=0.013172338090011 condBA=1.0 supA=911.0 supB=12.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Egypt" ],
+    "101" : [ "kb=dbp:country Russia@en", "AllConf=0.133333333333333", "triple=e dbp:country Russia@en", "class=ChessPlayer", "{AllConf=0.133333333333333 condAB=0.133333333333333 condBA=0.170212765957447 supA=60.0 supB=47.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"Russia\"\"@en\"" ],
+    "102" : [ "kb=dbp:country Australia", "AllConf=0.00658616904500549", "triple=e dbp:country Australia", "class=ChessPlayer", "{AllConf=0.00658616904500549 condAB=0.00658616904500549 condBA=0.428571428571429 supA=911.0 supB=14.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Australia" ],
+    "103" : [ "kb=dbp:country India@en", "AllConf=0.0153677277716795", "triple=e dbp:country India@en", "class=ChessPlayer", "{AllConf=0.0153677277716795 condAB=0.0153677277716795 condBA=0.823529411764706 supA=911.0 supB=17.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"India\"\"@en\"" ],
+    "104" : [ "kb=dbp:country Serbia_and_Montenegro", "AllConf=0.0109769484083425", "triple=e dbp:country Serbia_and_Montenegro", "class=ChessPlayer", "{AllConf=0.0109769484083425 condAB=0.0109769484083425 condBA=1.0 supA=911.0 supB=10.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Serbia_and_Montenegro" ],
+    "105" : [ "kb=dbp:nationality Norwegian@en", "AllConf=0.625", "triple=e dbp:nationality Norwegian@en", "class=ChessPlayer", "{AllConf=0.625 condAB=0.625 condBA=0.833333333333333 supA=8.0 supB=6.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/nationality", "object=\"\"\"Norwegian\"\"@en\"" ],
+    "106" : [ "kb=dbp:birthPlace Minsk", "AllConf=0.00856164383561644", "triple=e dbp:birthPlace Minsk", "class=ChessPlayer", "{AllConf=0.00856164383561644 condAB=0.00856164383561644 condBA=0.416666666666667 supA=584.0 supB=12.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Minsk" ],
+    "107" : [ "kb=dbp:birthPlace Socialist_Federal_Republic_of_Yugoslavia", "AllConf=0.00856164383561644", "triple=e dbp:birthPlace Socialist_Federal_Republic_of_Yugoslavia", "class=ChessPlayer", "{AllConf=0.00856164383561644 condAB=0.00856164383561644 condBA=0.454545454545455 supA=584.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia" ],
+    "108" : [ "kb=dbp:birthPlace Georgian_Soviet_Socialist_Republic", "AllConf=0.0222602739726027", "triple=e dbp:birthPlace Georgian_Soviet_Socialist_Republic", "class=ChessPlayer", "{AllConf=0.0222602739726027 condAB=0.0222602739726027 condBA=0.65 supA=584.0 supB=20.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Georgian_Soviet_Socialist_Republic" ],
+    "109" : [ "kb=dbo:country Mongolia", "AllConf=0.00497512437810945", "triple=e dbo:country Mongolia", "class=ChessPlayer", "{AllConf=0.00497512437810945 condAB=0.00497512437810945 condBA=0.857142857142857 supA=1206.0 supB=7.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Mongolia" ],
+    "110" : [ "kb=dbo:country Bangladesh", "AllConf=0.00580431177446103", "triple=e dbo:country Bangladesh", "class=ChessPlayer", "{AllConf=0.00580431177446103 condAB=0.00580431177446103 condBA=0.583333333333333 supA=1206.0 supB=12.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Bangladesh" ],
+    "111" : [ "kb=dbo:country New_Zealand", "AllConf=0.00414593698175788", "triple=e dbo:country New_Zealand", "class=ChessPlayer", "{AllConf=0.00414593698175788 condAB=0.00414593698175788 condBA=0.3125 supA=1206.0 supB=16.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/New_Zealand" ],
+    "112" : [ "kb=dbo:country Colombia", "AllConf=0.00497512437810945", "triple=e dbo:country Colombia", "class=ChessPlayer", "{AllConf=0.00497512437810945 condAB=0.00497512437810945 condBA=0.75 supA=1206.0 supB=8.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Colombia" ],
+    "113" : [ "kb=dbo:country Peru", "AllConf=0.00497512437810945", "triple=e dbo:country Peru", "class=ChessPlayer", "{AllConf=0.00497512437810945 condAB=0.00497512437810945 condBA=0.461538461538462 supA=1206.0 supB=13.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Peru" ],
+    "114" : [ "kb=dbp:birthDate 1999^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.00368731563421829", "triple=e dbp:birthDate 1999^^<http://www.w3.org/2001/XMLSchema#integer>", "class=ChessPlayer", "{AllConf=0.00368731563421829 condAB=0.00368731563421829 condBA=1.0 supA=1356.0 supB=5.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthDate", "object=\"\"\"1999\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "115" : [ "kb=dbp:title International_Correspondence_Chess_Grandmaster", "AllConf=0.0153172866520788", "triple=e dbp:title International_Correspondence_Chess_Grandmaster", "class=ChessPlayer", "{AllConf=0.0153172866520788 condAB=0.0153172866520788 condBA=0.368421052631579 supA=914.0 supB=38.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/International_Correspondence_Chess_Grandmaster" ],
+    "116" : [ "kb=dbp:title World_Correspondence_Chess_Championship", "AllConf=0.0087527352297593", "triple=e dbp:title World_Correspondence_Chess_Championship", "class=ChessPlayer", "{AllConf=0.0087527352297593 condAB=0.0087527352297593 condBA=0.307692307692308 supA=914.0 supB=26.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/World_Correspondence_Chess_Championship" ],
+    "117" : [ "kb=dbp:title FIDE_titles", "AllConf=0.42156862745098", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.42156862745098 condAB=0.423413566739606 condBA=0.42156862745098 supA=914.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "118" : [ "kb=dbp:title Chinese_Chess_Championship", "AllConf=0.00984682713347921", "triple=e dbp:title Chinese_Chess_Championship", "class=ChessPlayer", "{AllConf=0.00984682713347921 condAB=0.00984682713347921 condBA=0.290322580645161 supA=914.0 supB=31.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Chinese_Chess_Championship" ],
+    "119" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.491159135559921", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.491159135559921 condAB=0.547045951859956 condBA=0.491159135559921 supA=914.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 142,
+  "pattern" : "born_1",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00871459694989107", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00871459694989107 condAB=0.307692307692308 condBA=0.00871459694989107 supA=26.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0176817288801572", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0176817288801572 condAB=0.692307692307692 condBA=0.0176817288801572 supA=26.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 143,
+  "pattern" : "born_10",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:country India@en", "AllConf=0.121951219512195", "triple=e dbp:country India@en", "class=ChessPlayer", "{AllConf=0.121951219512195 condAB=0.121951219512195 condBA=0.294117647058824 supA=41.0 supB=17.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=\"\"\"India\"\"@en\"" ],
+    "1" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0163398692810458", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0163398692810458 condAB=0.428571428571429 condBA=0.0163398692810458 supA=35.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "2" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0196463654223969", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0196463654223969 condAB=0.571428571428571 condBA=0.0196463654223969 supA=35.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 145,
+  "pattern" : "born_11",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Soviet_Union", "AllConf=0.0245098039215686", "triple=e dbo:birthPlace Soviet_Union", "class=ChessPlayer", "{AllConf=0.0245098039215686 condAB=0.238095238095238 condBA=0.0245098039215686 supA=21.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Soviet_Union" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0117878192534381", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0117878192534381 condAB=0.8 condBA=0.0117878192534381 supA=15.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 146,
+  "pattern" : "born_12",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0108932461873638", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0108932461873638 condAB=0.4 condBA=0.0108932461873638 supA=25.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0147347740667976", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0147347740667976 condAB=0.6 condBA=0.0147347740667976 supA=25.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 147,
+  "pattern" : "born_13",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0108932461873638", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0108932461873638 condAB=0.4 condBA=0.0108932461873638 supA=25.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0147347740667976", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0147347740667976 condAB=0.6 condBA=0.0147347740667976 supA=25.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 148,
+  "pattern" : "born_14",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00980392156862745", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00980392156862745 condAB=0.45 condBA=0.00980392156862745 supA=20.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0108055009823183", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0108055009823183 condAB=0.55 condBA=0.0108055009823183 supA=20.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 149,
+  "pattern" : "born_15",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00871459694989107", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00871459694989107 condAB=0.347826086956522 condBA=0.00871459694989107 supA=23.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.012770137524558", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.012770137524558 condAB=0.565217391304348 condBA=0.012770137524558 supA=23.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 150,
+  "pattern" : "born_16",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.014161220043573", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.014161220043573 condAB=0.481481481481481 condBA=0.014161220043573 supA=27.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0117878192534381", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0117878192534381 condAB=0.444444444444444 condBA=0.0117878192534381 supA=27.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 151,
+  "pattern" : "born_17",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Soviet_Union", "AllConf=0.0245098039215686", "triple=e dbo:birthPlace Soviet_Union", "class=ChessPlayer", "{AllConf=0.0245098039215686 condAB=0.227272727272727 condBA=0.0245098039215686 supA=22.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Soviet_Union" ],
+    "1" : [ "kb=dbo:country Russia", "AllConf=0.0285714285714286", "triple=e dbo:country Russia", "class=ChessPlayer", "{AllConf=0.0285714285714286 condAB=0.142857142857143 condBA=0.0285714285714286 supA=35.0 supB=175.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Russia" ],
+    "2" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0108932461873638", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0108932461873638 condAB=0.4 condBA=0.0108932461873638 supA=25.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "3" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0137524557956778", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0137524557956778 condAB=0.56 condBA=0.0137524557956778 supA=25.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 152,
+  "pattern" : "born_18",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0108932461873638", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0108932461873638 condAB=0.476190476190476 condBA=0.0108932461873638 supA=21.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0108055009823183", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0108055009823183 condAB=0.523809523809524 condBA=0.0108055009823183 supA=21.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 153,
+  "pattern" : "born_19",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0108932461873638", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0108932461873638 condAB=0.454545454545455 condBA=0.0108932461873638 supA=22.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0108055009823183", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0108055009823183 condAB=0.5 condBA=0.0108055009823183 supA=22.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 154,
+  "pattern" : "born_2",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.014161220043573", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.014161220043573 condAB=0.541666666666667 condBA=0.014161220043573 supA=24.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0108055009823183", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0108055009823183 condAB=0.458333333333333 condBA=0.0108055009823183 supA=24.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 155,
+  "pattern" : "born_20",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0065359477124183", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0065359477124183 condAB=0.4 condBA=0.0065359477124183 supA=15.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00884086444007859", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00884086444007859 condAB=0.6 condBA=0.00884086444007859 supA=15.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 156,
+  "pattern" : "born_21",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0130718954248366", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0130718954248366 condAB=0.48 condBA=0.0130718954248366 supA=25.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.012770137524558", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.012770137524558 condAB=0.52 condBA=0.012770137524558 supA=25.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 157,
+  "pattern" : "born_22",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:country Ukraine", "AllConf=0.0649350649350649", "triple=e dbo:country Ukraine", "class=ChessPlayer", "{AllConf=0.0649350649350649 condAB=0.227272727272727 condBA=0.0649350649350649 supA=22.0 supB=77.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Ukraine" ],
+    "1" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00980392156862745", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00980392156862745 condAB=0.473684210526316 condBA=0.00980392156862745 supA=19.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "2" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0108055009823183", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0108055009823183 condAB=0.578947368421053 condBA=0.0108055009823183 supA=19.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 158,
+  "pattern" : "born_23",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0174291938997821", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0174291938997821 condAB=0.695652173913043 condBA=0.0174291938997821 supA=23.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0068762278978389", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0068762278978389 condAB=0.304347826086957 condBA=0.0068762278978389 supA=23.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 160,
+  "pattern" : "born_24",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0119825708061002", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0119825708061002 condAB=0.55 condBA=0.0119825708061002 supA=20.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00884086444007859", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00884086444007859 condAB=0.45 condBA=0.00884086444007859 supA=20.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 161,
+  "pattern" : "born_25",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.014161220043573", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.014161220043573 condAB=0.464285714285714 condBA=0.014161220043573 supA=28.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0137524557956778", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0137524557956778 condAB=0.5 condBA=0.0137524557956778 supA=28.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 162,
+  "pattern" : "born_26",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Soviet_Union", "AllConf=0.0245098039215686", "triple=e dbo:birthPlace Soviet_Union", "class=ChessPlayer", "{AllConf=0.0245098039215686 condAB=0.208333333333333 condBA=0.0245098039215686 supA=24.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Soviet_Union" ],
+    "1" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0130718954248366", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0130718954248366 condAB=0.413793103448276 condBA=0.0130718954248366 supA=29.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "2" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0166994106090373", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0166994106090373 condAB=0.586206896551724 condBA=0.0166994106090373 supA=29.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 164,
+  "pattern" : "born_27",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0108932461873638", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0108932461873638 condAB=0.526315789473684 condBA=0.0108932461873638 supA=19.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00884086444007859", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00884086444007859 condAB=0.473684210526316 condBA=0.00884086444007859 supA=19.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 165,
+  "pattern" : "born_28",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00762527233115468", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00762527233115468 condAB=0.388888888888889 condBA=0.00762527233115468 supA=18.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0108055009823183", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0108055009823183 condAB=0.611111111111111 condBA=0.0108055009823183 supA=18.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 166,
+  "pattern" : "born_29",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00871459694989107", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00871459694989107 condAB=0.5 condBA=0.00871459694989107 supA=16.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00884086444007859", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00884086444007859 condAB=0.5625 condBA=0.00884086444007859 supA=16.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 167,
+  "pattern" : "born_3",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Poland", "AllConf=0.0860215053763441", "triple=e dbo:birthPlace Poland", "class=ChessPlayer", "{AllConf=0.0860215053763441 condAB=0.275862068965517 condBA=0.0860215053763441 supA=29.0 supB=93.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Poland" ],
+    "1" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0108932461873638", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0108932461873638 condAB=0.37037037037037 condBA=0.0108932461873638 supA=27.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "2" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0166994106090373", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0166994106090373 condAB=0.62962962962963 condBA=0.0166994106090373 supA=27.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 168,
+  "pattern" : "born_30",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00762527233115468", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00762527233115468 condAB=0.35 condBA=0.00762527233115468 supA=20.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0117878192534381", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0117878192534381 condAB=0.6 condBA=0.0117878192534381 supA=20.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 169,
+  "pattern" : "born_31",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00491159135559921", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00491159135559921 condAB=0.555555555555556 condBA=0.00491159135559921 supA=9.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 170,
+  "pattern" : "born_4",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0152505446623094", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0152505446623094 condAB=0.451612903225806 condBA=0.0152505446623094 supA=31.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0147347740667976", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0147347740667976 condAB=0.483870967741935 condBA=0.0147347740667976 supA=31.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 171,
+  "pattern" : "born_5",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:country Russia", "AllConf=0.0342857142857143", "triple=e dbo:country Russia", "class=ChessPlayer", "{AllConf=0.0342857142857143 condAB=0.181818181818182 condBA=0.0342857142857143 supA=33.0 supB=175.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Russia" ],
+    "1" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0108932461873638", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0108932461873638 condAB=0.5 condBA=0.0108932461873638 supA=20.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "2" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00884086444007859", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00884086444007859 condAB=0.45 condBA=0.00884086444007859 supA=20.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 172,
+  "pattern" : "born_6",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00762527233115468", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00762527233115468 condAB=0.388888888888889 condBA=0.00762527233115468 supA=18.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0108055009823183", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0108055009823183 condAB=0.611111111111111 condBA=0.0108055009823183 supA=18.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 173,
+  "pattern" : "born_7",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0119825708061002", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0119825708061002 condAB=0.523809523809524 condBA=0.0119825708061002 supA=21.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00982318271119843", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00982318271119843 condAB=0.476190476190476 condBA=0.00982318271119843 supA=21.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 174,
+  "pattern" : "born_8",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:country Hungary", "AllConf=0.0892857142857143", "triple=e dbo:country Hungary", "class=ChessPlayer", "{AllConf=0.0892857142857143 condAB=0.151515151515152 condBA=0.0892857142857143 supA=33.0 supB=56.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Hungary" ],
+    "1" : [ "kb=dbp:title FIDE_titles", "AllConf=0.014161220043573", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.014161220043573 condAB=0.448275862068966 condBA=0.014161220043573 supA=29.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "2" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0157170923379175", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0157170923379175 condAB=0.551724137931034 condBA=0.0157170923379175 supA=29.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 175,
+  "pattern" : "born_9",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0152505446623094", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0152505446623094 condAB=0.608695652173913 condBA=0.0152505446623094 supA=23.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00884086444007859", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00884086444007859 condAB=0.391304347826087 condBA=0.00884086444007859 supA=23.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 232,
+  "pattern" : "competed",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00982318271119843", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00982318271119843 condAB=0.833333333333333 condBA=0.00982318271119843 supA=12.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 235,
+  "pattern" : "completed",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00491159135559921", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00491159135559921 condAB=1.0 condBA=0.00491159135559921 supA=5.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 254,
+  "pattern" : "earn",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00589390962671906", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00589390962671906 condAB=1.0 condBA=0.00589390962671906 supA=6.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 255,
+  "pattern" : "earned",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00871459694989107", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00871459694989107 condAB=0.275862068965517 condBA=0.00871459694989107 supA=29.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "1" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0225933202357564", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0225933202357564 condAB=0.793103448275862 condBA=0.0225933202357564 supA=29.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 310,
+  "pattern" : "held",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00871459694989107", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00871459694989107 condAB=1.0 condBA=0.00871459694989107 supA=8.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ]
+  }
+}, {
+  "id" : 312,
+  "pattern" : "hold",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00980392156862745", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00980392156862745 condAB=1.0 condBA=0.00980392156862745 supA=9.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ]
+  }
+}, {
+  "id" : 314,
+  "pattern" : "holding",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:birthPlace Soviet_Union", "AllConf=0.0259067357512953", "triple=e dbp:birthPlace Soviet_Union", "class=ChessPlayer", "{AllConf=0.0259067357512953 condAB=0.384615384615385 condBA=0.0259067357512953 supA=13.0 supB=193.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Soviet_Union" ],
+    "1" : [ "kb=dbp:title FIDE_titles", "AllConf=0.0185185185185185", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.0185185185185185 condAB=0.80952380952381 condBA=0.0185185185185185 supA=21.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ]
+  }
+}, {
+  "id" : 316,
+  "pattern" : "holds",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:title Woman Grandmaster@en", "AllConf=0.204081632653061", "triple=e dbo:title Woman Grandmaster@en", "class=ChessPlayer", "{AllConf=0.204081632653061 condAB=0.714285714285714 condBA=0.204081632653061 supA=14.0 supB=49.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"Woman Grandmaster\"\"@en\"" ],
+    "1" : [ "kb=dbo:birthPlace Soviet_Union", "AllConf=0.0392156862745098", "triple=e dbo:birthPlace Soviet_Union", "class=ChessPlayer", "{AllConf=0.0392156862745098 condAB=0.137931034482759 condBA=0.0392156862745098 supA=58.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Soviet_Union" ],
+    "2" : [ "kb=dbo:country Hungary", "AllConf=0.0555555555555556", "triple=e dbo:country Hungary", "class=ChessPlayer", "{AllConf=0.0555555555555556 condAB=0.0555555555555556 condBA=0.0892857142857143 supA=90.0 supB=56.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Hungary" ],
+    "3" : [ "kb=dbo:country Czech_Republic", "AllConf=0.0555555555555556", "triple=e dbo:country Czech_Republic", "class=ChessPlayer", "{AllConf=0.0555555555555556 condAB=0.0555555555555556 condBA=0.125 supA=90.0 supB=40.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Czech_Republic" ],
+    "4" : [ "kb=dbo:country China", "AllConf=0.0555555555555556", "triple=e dbo:country China", "class=ChessPlayer", "{AllConf=0.0555555555555556 condAB=0.0555555555555556 condBA=0.0892857142857143 supA=90.0 supB=56.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/China" ],
+    "5" : [ "kb=dbo:country Germany", "AllConf=0.0630630630630631", "triple=e dbo:country Germany", "class=ChessPlayer", "{AllConf=0.0630630630630631 condAB=0.074468085106383 condBA=0.0630630630630631 supA=94.0 supB=111.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Germany" ],
+    "6" : [ "kb=dbo:country Russia", "AllConf=0.0285714285714286", "triple=e dbo:country Russia", "class=ChessPlayer", "{AllConf=0.0285714285714286 condAB=0.0531914893617021 condBA=0.0285714285714286 supA=94.0 supB=175.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Russia" ],
+    "7" : [ "kb=dbo:country Serbia", "AllConf=0.0638297872340425", "triple=e dbo:country Serbia", "class=ChessPlayer", "{AllConf=0.0638297872340425 condAB=0.0638297872340425 condBA=0.176470588235294 supA=94.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Serbia" ],
+    "8" : [ "kb=dbp:title FIDE_titles", "AllConf=0.105664488017429", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.105664488017429 condAB=0.889908256880734 condBA=0.105664488017429 supA=109.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "9" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0108055009823183", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0108055009823183 condAB=0.100917431192661 condBA=0.0108055009823183 supA=109.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 382,
+  "pattern" : "married",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00589390962671906", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00589390962671906 condAB=0.666666666666667 condBA=0.00589390962671906 supA=9.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 424,
+  "pattern" : "open",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00785854616895874", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00785854616895874 condAB=1.0 condBA=0.00785854616895874 supA=8.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 432,
+  "pattern" : "played",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:birthPlace Latvia", "AllConf=0.0833333333333333", "triple=e dbo:birthPlace Latvia", "class=ChessPlayer", "{AllConf=0.0833333333333333 condAB=0.0833333333333333 condBA=0.147058823529412 supA=60.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Latvia" ],
+    "1" : [ "kb=dbo:birthPlace Soviet_Union", "AllConf=0.0245098039215686", "triple=e dbo:birthPlace Soviet_Union", "class=ChessPlayer", "{AllConf=0.0245098039215686 condAB=0.113636363636364 condBA=0.0245098039215686 supA=44.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Soviet_Union" ],
+    "2" : [ "kb=dbp:country China", "AllConf=0.0735294117647059", "triple=e dbp:country China", "class=ChessPlayer", "{AllConf=0.0735294117647059 condAB=0.0735294117647059 condBA=0.217391304347826 supA=68.0 supB=23.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/China" ],
+    "3" : [ "kb=dbo:country Ukraine", "AllConf=0.0813953488372093", "triple=e dbo:country Ukraine", "class=ChessPlayer", "{AllConf=0.0813953488372093 condAB=0.0813953488372093 condBA=0.0909090909090909 supA=86.0 supB=77.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Ukraine" ],
+    "4" : [ "kb=dbo:country Poland", "AllConf=0.0495049504950495", "triple=e dbo:country Poland", "class=ChessPlayer", "{AllConf=0.0495049504950495 condAB=0.0581395348837209 condBA=0.0495049504950495 supA=86.0 supB=101.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Poland" ],
+    "5" : [ "kb=dbo:country United_States", "AllConf=0.0476190476190476", "triple=e dbo:country United_States", "class=ChessPlayer", "{AllConf=0.0476190476190476 condAB=0.0476190476190476 condBA=0.0595238095238095 supA=105.0 supB=84.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ],
+    "6" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00544662309368192", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00544662309368192 condAB=0.714285714285714 condBA=0.00544662309368192 supA=7.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "7" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0068762278978389", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0068762278978389 condAB=0.583333333333333 condBA=0.0068762278978389 supA=12.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 454,
+  "pattern" : "qualify",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.00491159135559921", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.00491159135559921 condAB=0.714285714285714 condBA=0.00491159135559921 supA=7.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+}, {
+  "id" : 455,
+  "pattern" : "ranked",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:country Germany", "AllConf=0.045045045045045", "triple=e dbo:country Germany", "class=ChessPlayer", "{AllConf=0.045045045045045 condAB=0.131578947368421 condBA=0.045045045045045 supA=38.0 supB=111.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Germany" ],
+    "1" : [ "kb=dbo:country Turkey", "AllConf=0.131578947368421", "triple=e dbo:country Turkey", "class=ChessPlayer", "{AllConf=0.131578947368421 condAB=0.131578947368421 condBA=0.277777777777778 supA=38.0 supB=18.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Turkey" ]
+  }
+}, {
+  "id" : 478,
+  "pattern" : "simplified",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:country China", "AllConf=0.0892857142857143", "triple=e dbo:country China", "class=ChessPlayer", "{AllConf=0.0892857142857143 condAB=1.0 condBA=0.0892857142857143 supA=5.0 supB=56.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/China" ]
+  }
+}, {
+  "id" : 564,
+  "pattern" : "won",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbo:title International Master@en", "AllConf=0.0560747663551402", "triple=e dbo:title International Master@en", "class=ChessPlayer", "{AllConf=0.0560747663551402 condAB=0.428571428571429 condBA=0.0560747663551402 supA=14.0 supB=107.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"International Master\"\"@en\"" ],
+    "1" : [ "kb=dbo:title Grandmaster@en", "AllConf=0.0197628458498024", "triple=e dbo:title Grandmaster@en", "class=ChessPlayer", "{AllConf=0.0197628458498024 condAB=0.357142857142857 condBA=0.0197628458498024 supA=14.0 supB=253.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/title", "object=\"\"\"Grandmaster\"\"@en\"" ],
+    "2" : [ "kb=dbp:deathPlace Poland", "AllConf=0.411764705882353", "triple=e dbp:deathPlace Poland", "class=ChessPlayer", "{AllConf=0.411764705882353 condAB=0.411764705882353 condBA=0.636363636363636 supA=17.0 supB=11.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/deathPlace", "object=http://dbpedia.org/resource/Poland" ],
+    "3" : [ "kb=dbo:birthPlace Estonia", "AllConf=0.2", "triple=e dbo:birthPlace Estonia", "class=ChessPlayer", "{AllConf=0.2 condAB=0.2 condBA=0.235294117647059 supA=40.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Estonia" ],
+    "4" : [ "kb=dbo:birthPlace Netherlands", "AllConf=0.038961038961039", "triple=e dbo:birthPlace Netherlands", "class=ChessPlayer", "{AllConf=0.038961038961039 condAB=0.038961038961039 condBA=0.13953488372093 supA=154.0 supB=43.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Netherlands" ],
+    "5" : [ "kb=dbo:birthPlace Tallinn", "AllConf=0.038961038961039", "triple=e dbo:birthPlace Tallinn", "class=ChessPlayer", "{AllConf=0.038961038961039 condAB=0.038961038961039 condBA=0.315789473684211 supA=154.0 supB=19.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Tallinn" ],
+    "6" : [ "kb=dbo:birthPlace Riga", "AllConf=0.0324675324675325", "triple=e dbo:birthPlace Riga", "class=ChessPlayer", "{AllConf=0.0324675324675325 condAB=0.0324675324675325 condBA=0.161290322580645 supA=154.0 supB=31.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Riga" ],
+    "7" : [ "kb=dbo:birthPlace Yerevan", "AllConf=0.0324675324675325", "triple=e dbo:birthPlace Yerevan", "class=ChessPlayer", "{AllConf=0.0324675324675325 condAB=0.0324675324675325 condBA=0.185185185185185 supA=154.0 supB=27.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Yerevan" ],
+    "8" : [ "kb=dbo:birthPlace Warsaw", "AllConf=0.038961038961039", "triple=e dbo:birthPlace Warsaw", "class=ChessPlayer", "{AllConf=0.038961038961039 condAB=0.038961038961039 condBA=0.272727272727273 supA=154.0 supB=22.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Warsaw" ],
+    "9" : [ "kb=dbo:birthPlace Latvia", "AllConf=0.140350877192982", "triple=e dbo:birthPlace Latvia", "class=ChessPlayer", "{AllConf=0.140350877192982 condAB=0.140350877192982 condBA=0.235294117647059 supA=57.0 supB=34.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Latvia" ],
+    "10" : [ "kb=dbo:birthPlace Soviet_Union", "AllConf=0.0441176470588235", "triple=e dbo:birthPlace Soviet_Union", "class=ChessPlayer", "{AllConf=0.0441176470588235 condAB=0.157894736842105 condBA=0.0441176470588235 supA=57.0 supB=204.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/birthPlace", "object=http://dbpedia.org/resource/Soviet_Union" ],
+    "11" : [ "kb=dbp:country United_States", "AllConf=0.032051282051282", "triple=e dbp:country United_States", "class=ChessPlayer", "{AllConf=0.032051282051282 condAB=0.032051282051282 condBA=0.1 supA=156.0 supB=50.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/United_States" ],
+    "12" : [ "kb=dbp:country Russia", "AllConf=0.0641025641025641", "triple=e dbp:country Russia", "class=ChessPlayer", "{AllConf=0.0641025641025641 condAB=0.0641025641025641 condBA=0.0854700854700855 supA=156.0 supB=117.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/country", "object=http://dbpedia.org/resource/Russia" ],
+    "13" : [ "kb=dbp:birthPlace Russian_Soviet_Federative_Socialist_Republic", "AllConf=0.0625", "triple=e dbp:birthPlace Russian_Soviet_Federative_Socialist_Republic", "class=ChessPlayer", "{AllConf=0.0625 condAB=0.0625 condBA=0.109375 supA=112.0 supB=64.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/birthPlace", "object=http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic" ],
+    "14" : [ "kb=dbo:country Slovenia", "AllConf=0.0225225225225225", "triple=e dbo:country Slovenia", "class=ChessPlayer", "{AllConf=0.0225225225225225 condAB=0.0225225225225225 condBA=0.384615384615385 supA=222.0 supB=13.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Slovenia" ],
+    "15" : [ "kb=dbo:country Ukraine", "AllConf=0.027027027027027", "triple=e dbo:country Ukraine", "class=ChessPlayer", "{AllConf=0.027027027027027 condAB=0.027027027027027 condBA=0.0779220779220779 supA=222.0 supB=77.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Ukraine" ],
+    "16" : [ "kb=dbo:country Armenia", "AllConf=0.027027027027027", "triple=e dbo:country Armenia", "class=ChessPlayer", "{AllConf=0.027027027027027 condAB=0.027027027027027 condBA=0.12 supA=222.0 supB=50.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Armenia" ],
+    "17" : [ "kb=dbo:country Israel", "AllConf=0.0225225225225225", "triple=e dbo:country Israel", "class=ChessPlayer", "{AllConf=0.0225225225225225 condAB=0.0225225225225225 condBA=0.111111111111111 supA=222.0 supB=45.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Israel" ],
+    "18" : [ "kb=dbo:country Australia", "AllConf=0.027027027027027", "triple=e dbo:country Australia", "class=ChessPlayer", "{AllConf=0.027027027027027 condAB=0.027027027027027 condBA=0.1875 supA=222.0 supB=32.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Australia" ],
+    "19" : [ "kb=dbo:country South_Africa", "AllConf=0.036036036036036", "triple=e dbo:country South_Africa", "class=ChessPlayer", "{AllConf=0.036036036036036 condAB=0.036036036036036 condBA=0.4 supA=222.0 supB=20.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/South_Africa" ],
+    "20" : [ "kb=dbo:country Georgia_(country)", "AllConf=0.0225225225225225", "triple=e dbo:country Georgia_(country)", "class=ChessPlayer", "{AllConf=0.0225225225225225 condAB=0.0225225225225225 condBA=0.125 supA=222.0 supB=40.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "21" : [ "kb=dbo:country France", "AllConf=0.027027027027027", "triple=e dbo:country France", "class=ChessPlayer", "{AllConf=0.027027027027027 condAB=0.027027027027027 condBA=0.127659574468085 supA=222.0 supB=47.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/France" ],
+    "22" : [ "kb=dbo:country India", "AllConf=0.027027027027027", "triple=e dbo:country India", "class=ChessPlayer", "{AllConf=0.027027027027027 condAB=0.027027027027027 condBA=0.125 supA=222.0 supB=48.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/India" ],
+    "23" : [ "kb=dbp:title FIDE_titles", "AllConf=0.00762527233115468", "triple=e dbp:title FIDE_titles", "class=ChessPlayer", "{AllConf=0.00762527233115468 condAB=0.304347826086957 condBA=0.00762527233115468 supA=23.0 supB=918.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/FIDE_titles" ],
+    "24" : [ "kb=dbp:title Grandmaster_(chess)", "AllConf=0.0147347740667976", "triple=e dbp:title Grandmaster_(chess)", "class=ChessPlayer", "{AllConf=0.0147347740667976 condAB=0.652173913043478 condBA=0.0147347740667976 supA=23.0 supB=1018.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/title", "object=http://dbpedia.org/resource/Grandmaster_(chess)" ]
+  }
+} ]

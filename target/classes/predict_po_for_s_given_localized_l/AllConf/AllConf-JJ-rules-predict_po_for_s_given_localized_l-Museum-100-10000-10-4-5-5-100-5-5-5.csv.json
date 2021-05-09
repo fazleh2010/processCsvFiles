@@ -1,0 +1,789 @@
+[ {
+  "id" : 4,
+  "pattern" : "(armenian:",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=foaf:name @en", "AllConf=0.00318979266347687", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00318979266347687 condAB=0.857142857142857 condBA=0.00318979266347687 supA=7.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 6,
+  "pattern" : "(greek:",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=foaf:name @en", "AllConf=0.00318979266347687", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00318979266347687 condAB=0.5 condBA=0.00318979266347687 supA=12.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 7,
+  "pattern" : "(italian:",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=foaf:name @en", "AllConf=0.00318979266347687", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00318979266347687 condAB=0.3 condBA=0.00318979266347687 supA=20.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 12,
+  "pattern" : "(turkish:",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Istanbul", "AllConf=0.2", "triple=e dbo:location Istanbul", "class=Museum", "{AllConf=0.2 condAB=0.206896551724138 condBA=0.2 supA=29.0 supB=30.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Istanbul" ],
+    "1" : [ "kb=dbo:location Turkey", "AllConf=0.228915662650602", "triple=e dbo:location Turkey", "class=Museum", "{AllConf=0.228915662650602 condAB=0.655172413793103 condBA=0.228915662650602 supA=29.0 supB=83.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Turkey" ]
+  }
+}, {
+  "id" : 13,
+  "pattern" : "a.k.a",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:language Turkish_language", "AllConf=0.0632911392405063", "triple=e dbo:language Turkish_language", "class=Museum", "{AllConf=0.0632911392405063 condAB=1.0 condBA=0.0632911392405063 supA=5.0 supB=79.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/language", "object=http://dbpedia.org/resource/Turkish_language" ]
+  }
+}, {
+  "id" : 23,
+  "pattern" : "american",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.0298507462686567", "triple=e dbo:location United_States", "class=Museum", "{AllConf=0.0298507462686567 condAB=0.173913043478261 condBA=0.0298507462686567 supA=46.0 supB=268.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=foaf:name @en", "AllConf=0.0026581605528974", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.0026581605528974 condAB=0.357142857142857 condBA=0.0026581605528974 supA=14.0 supB=1881.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "2" : [ "kb=dbp:type List_of_halls_and_walks_of_fame", "AllConf=0.1375", "triple=e dbp:type List_of_halls_and_walks_of_fame", "class=Museum", "{AllConf=0.1375 condAB=0.578947368421053 condBA=0.1375 supA=19.0 supB=80.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/List_of_halls_and_walks_of_fame" ],
+    "3" : [ "kb=dbp:type Art_museum", "AllConf=0.00680272108843537", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00680272108843537 condAB=0.714285714285714 condBA=0.00680272108843537 supA=7.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "4" : [ "kb=dbp:type Museum", "AllConf=0.0126126126126126", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0126126126126126 condAB=0.134615384615385 condBA=0.0126126126126126 supA=52.0 supB=555.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ],
+    "5" : [ "kb=dbp:type Professional_sports", "AllConf=0.409090909090909", "triple=e dbp:type Professional_sports", "class=Museum", "{AllConf=0.409090909090909 condAB=0.529411764705882 condBA=0.409090909090909 supA=17.0 supB=22.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Professional_sports" ]
+  }
+}, {
+  "id" : 32,
+  "pattern" : "arabic",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Syria", "AllConf=0.263157894736842", "triple=e dbo:location Syria", "class=Museum", "{AllConf=0.263157894736842 condAB=0.263157894736842 condBA=0.833333333333333 supA=19.0 supB=6.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Syria" ],
+    "1" : [ "kb=foaf:name @en", "AllConf=0.0026581605528974", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.0026581605528974 condAB=0.227272727272727 condBA=0.0026581605528974 supA=22.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 33,
+  "pattern" : "archaeological",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Tunisia", "AllConf=0.294117647058824", "triple=e dbo:location Tunisia", "class=Museum", "{AllConf=0.294117647058824 condAB=0.3125 condBA=0.294117647058824 supA=16.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Tunisia" ],
+    "1" : [ "kb=dbo:location Libya", "AllConf=0.102040816326531", "triple=e dbo:location Libya", "class=Museum", "{AllConf=0.102040816326531 condAB=0.102040816326531 condBA=0.357142857142857 supA=49.0 supB=14.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Libya" ],
+    "2" : [ "kb=foaf:name @en", "AllConf=0.00425305688463583", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00425305688463583 condAB=0.285714285714286 condBA=0.00425305688463583 supA=28.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "3" : [ "kb=dbp:type Museum", "AllConf=0.0126126126126126", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0126126126126126 condAB=0.875 condBA=0.0126126126126126 supA=8.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 40,
+  "pattern" : "armenian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=foaf:name @en", "AllConf=0.00318979266347687", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00318979266347687 condAB=0.545454545454545 condBA=0.00318979266347687 supA=11.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 50,
+  "pattern" : "asian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.00816326530612245", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00816326530612245 condAB=1.0 condBA=0.00816326530612245 supA=6.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 56,
+  "pattern" : "australian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Australia", "AllConf=0.0757575757575758", "triple=e dbo:location Australia", "class=Museum", "{AllConf=0.0757575757575758 condAB=0.833333333333333 condBA=0.0757575757575758 supA=6.0 supB=66.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Australia" ],
+    "1" : [ "kb=dbp:type Art_museum", "AllConf=0.00816326530612245", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00816326530612245 condAB=0.75 condBA=0.00816326530612245 supA=8.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 62,
+  "pattern" : "azerbaijani",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Baku", "AllConf=0.166666666666667", "triple=e dbo:location Baku", "class=Museum", "{AllConf=0.166666666666667 condAB=0.555555555555556 condBA=0.166666666666667 supA=9.0 supB=30.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Baku" ],
+    "1" : [ "kb=dbo:location Azerbaijan", "AllConf=0.205128205128205", "triple=e dbo:location Azerbaijan", "class=Museum", "{AllConf=0.205128205128205 condAB=0.888888888888889 condBA=0.205128205128205 supA=9.0 supB=39.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Azerbaijan" ]
+  }
+}, {
+  "id" : 74,
+  "pattern" : "belgian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Belgium", "AllConf=0.113636363636364", "triple=e dbo:location Belgium", "class=Museum", "{AllConf=0.113636363636364 condAB=0.714285714285714 condBA=0.113636363636364 supA=7.0 supB=44.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Belgium" ]
+  }
+}, {
+  "id" : 83,
+  "pattern" : "british",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Vancouver", "AllConf=0.25", "triple=e dbo:location Vancouver", "class=Museum", "{AllConf=0.25 condAB=0.25 condBA=0.333333333333333 supA=24.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Vancouver" ],
+    "1" : [ "kb=dbo:location British_Columbia", "AllConf=0.2", "triple=e dbo:location British_Columbia", "class=Museum", "{AllConf=0.2 condAB=0.285714285714286 condBA=0.2 supA=21.0 supB=30.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/British_Columbia" ],
+    "2" : [ "kb=dbp:location Canada", "AllConf=0.0476190476190476", "triple=e dbp:location Canada", "class=Museum", "{AllConf=0.0476190476190476 condAB=0.454545454545455 condBA=0.0476190476190476 supA=11.0 supB=105.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Canada" ]
+  }
+}, {
+  "id" : 99,
+  "pattern" : "canadian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Canada", "AllConf=0.0352112676056338", "triple=e dbo:location Canada", "class=Museum", "{AllConf=0.0352112676056338 condAB=0.25 condBA=0.0352112676056338 supA=20.0 supB=142.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Canada" ],
+    "1" : [ "kb=dbo:location Ontario", "AllConf=0.0416666666666667", "triple=e dbo:location Ontario", "class=Museum", "{AllConf=0.0416666666666667 condAB=0.25 condBA=0.0416666666666667 supA=20.0 supB=120.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Ontario" ]
+  }
+}, {
+  "id" : 102,
+  "pattern" : "catalan",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Spain", "AllConf=0.0760869565217391", "triple=e dbo:location Spain", "class=Museum", "{AllConf=0.0760869565217391 condAB=0.538461538461538 condBA=0.0760869565217391 supA=13.0 supB=92.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Spain" ],
+    "1" : [ "kb=dbo:location Barcelona", "AllConf=0.5625", "triple=e dbo:location Barcelona", "class=Museum", "{AllConf=0.5625 condAB=0.692307692307692 condBA=0.5625 supA=13.0 supB=16.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Barcelona" ]
+  }
+}, {
+  "id" : 105,
+  "pattern" : "central",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location London", "AllConf=0.0666666666666667", "triple=e dbo:location London", "class=Museum", "{AllConf=0.0666666666666667 condAB=0.161290322580645 condBA=0.0666666666666667 supA=31.0 supB=75.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/London" ],
+    "1" : [ "kb=foaf:name @en", "AllConf=0.0026581605528974", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.0026581605528974 condAB=0.277777777777778 condBA=0.0026581605528974 supA=18.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "2" : [ "kb=dbp:type Art_museum", "AllConf=0.00952380952380952", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00952380952380952 condAB=0.875 condBA=0.00952380952380952 supA=8.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 112,
+  "pattern" : "chinese",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Taiwan", "AllConf=0.373684210526316", "triple=e dbo:location Taiwan", "class=Museum", "{AllConf=0.373684210526316 condAB=0.563492063492063 condBA=0.373684210526316 supA=126.0 supB=190.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Taiwan" ],
+    "1" : [ "kb=dbo:location Taichung", "AllConf=0.0476190476190476", "triple=e dbo:location Taichung", "class=Museum", "{AllConf=0.0476190476190476 condAB=0.0476190476190476 condBA=0.461538461538462 supA=126.0 supB=13.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Taichung" ],
+    "2" : [ "kb=dbo:location Tainan", "AllConf=0.0396825396825397", "triple=e dbo:location Tainan", "class=Museum", "{AllConf=0.0396825396825397 condAB=0.0396825396825397 condBA=0.277777777777778 supA=126.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Tainan" ],
+    "3" : [ "kb=dbo:location Shanghai", "AllConf=0.0555555555555556", "triple=e dbo:location Shanghai", "class=Museum", "{AllConf=0.0555555555555556 condAB=0.0555555555555556 condBA=0.538461538461538 supA=126.0 supB=13.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shanghai" ],
+    "4" : [ "kb=dbo:location Hunan", "AllConf=0.0396825396825397", "triple=e dbo:location Hunan", "class=Museum", "{AllConf=0.0396825396825397 condAB=0.0396825396825397 condBA=1.0 supA=126.0 supB=5.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Hunan" ],
+    "5" : [ "kb=dbo:location Beijing", "AllConf=0.0952380952380952", "triple=e dbo:location Beijing", "class=Museum", "{AllConf=0.0952380952380952 condAB=0.0952380952380952 condBA=0.48 supA=126.0 supB=25.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Beijing" ],
+    "6" : [ "kb=dbo:location Taipei", "AllConf=0.134920634920635", "triple=e dbo:location Taipei", "class=Museum", "{AllConf=0.134920634920635 condAB=0.134920634920635 condBA=0.386363636363636 supA=126.0 supB=44.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Taipei" ],
+    "7" : [ "kb=dbo:location China", "AllConf=0.26984126984127", "triple=e dbo:location China", "class=Museum", "{AllConf=0.26984126984127 condAB=0.26984126984127 condBA=0.68 supA=126.0 supB=50.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/China" ],
+    "8" : [ "kb=dbo:location Kaohsiung", "AllConf=0.0714285714285714", "triple=e dbo:location Kaohsiung", "class=Museum", "{AllConf=0.0714285714285714 condAB=0.0714285714285714 condBA=0.409090909090909 supA=126.0 supB=22.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Kaohsiung" ],
+    "9" : [ "kb=foaf:name @en", "AllConf=0.00425305688463583", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00425305688463583 condAB=0.036697247706422 condBA=0.00425305688463583 supA=218.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "10" : [ "kb=dbp:type Art_museum", "AllConf=0.0272108843537415", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0272108843537415 condAB=0.16 condBA=0.0272108843537415 supA=125.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "11" : [ "kb=dbp:type Museum", "AllConf=0.181981981981982", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.181981981981982 condAB=0.808 condBA=0.181981981981982 supA=125.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 127,
+  "pattern" : "contemporary",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location London", "AllConf=0.0367647058823529", "triple=e dbo:location London", "class=Museum", "{AllConf=0.0367647058823529 condAB=0.0367647058823529 condBA=0.0666666666666667 supA=136.0 supB=75.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/London" ],
+    "1" : [ "kb=dbo:location United_States", "AllConf=0.0335820895522388", "triple=e dbo:location United_States", "class=Museum", "{AllConf=0.0335820895522388 condAB=0.0661764705882353 condBA=0.0335820895522388 supA=136.0 supB=268.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "2" : [ "kb=dbo:location Germany", "AllConf=0.0514705882352941", "triple=e dbo:location Germany", "class=Museum", "{AllConf=0.0514705882352941 condAB=0.0514705882352941 condBA=0.0813953488372093 supA=136.0 supB=86.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Germany" ],
+    "3" : [ "kb=foaf:name @en", "AllConf=0.0026581605528974", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.0026581605528974 condAB=0.1 condBA=0.0026581605528974 supA=50.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "4" : [ "kb=dbp:type Art_museum", "AllConf=0.0149659863945578", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0149659863945578 condAB=0.916666666666667 condBA=0.0149659863945578 supA=12.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "5" : [ "kb=dbp:type Art_gallery", "AllConf=0.0777777777777778", "triple=e dbp:type Art_gallery", "class=Museum", "{AllConf=0.0777777777777778 condAB=0.0777777777777778 condBA=0.148936170212766 supA=90.0 supB=47.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_gallery" ],
+    "6" : [ "kb=dbp:type Contemporary_art", "AllConf=0.0555555555555556", "triple=e dbp:type Contemporary_art", "class=Museum", "{AllConf=0.0555555555555556 condAB=0.0555555555555556 condBA=0.119047619047619 supA=90.0 supB=42.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Contemporary_art" ]
+  }
+}, {
+  "id" : 138,
+  "pattern" : "croatian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Croatia", "AllConf=0.416666666666667", "triple=e dbo:location Croatia", "class=Museum", "{AllConf=0.416666666666667 condAB=0.769230769230769 condBA=0.416666666666667 supA=13.0 supB=24.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Croatia" ],
+    "1" : [ "kb=dbo:location Zagreb", "AllConf=0.375", "triple=e dbo:location Zagreb", "class=Museum", "{AllConf=0.375 condAB=0.461538461538462 condBA=0.375 supA=13.0 supB=16.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Zagreb" ]
+  }
+}, {
+  "id" : 140,
+  "pattern" : "cultural",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Manhattan", "AllConf=0.0549450549450549", "triple=e dbo:location Manhattan", "class=Museum", "{AllConf=0.0549450549450549 condAB=0.0549450549450549 condBA=0.128205128205128 supA=91.0 supB=39.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Manhattan" ],
+    "1" : [ "kb=dbp:type Art_museum", "AllConf=0.00680272108843537", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00680272108843537 condAB=0.625 condBA=0.00680272108843537 supA=8.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "2" : [ "kb=dbp:type Museum", "AllConf=0.0108108108108108", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0108108108108108 condAB=0.5 condBA=0.0108108108108108 supA=12.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 142,
+  "pattern" : "danish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Copenhagen", "AllConf=0.428571428571429", "triple=e dbo:location Copenhagen", "class=Museum", "{AllConf=0.428571428571429 condAB=0.45 condBA=0.428571428571429 supA=20.0 supB=21.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Copenhagen" ],
+    "1" : [ "kb=dbo:location Denmark", "AllConf=0.314814814814815", "triple=e dbo:location Denmark", "class=Museum", "{AllConf=0.314814814814815 condAB=0.85 condBA=0.314814814814815 supA=20.0 supB=54.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Denmark" ],
+    "2" : [ "kb=foaf:name @en", "AllConf=0.00425305688463583", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00425305688463583 condAB=0.615384615384615 condBA=0.00425305688463583 supA=13.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 146,
+  "pattern" : "decorative",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.00680272108843537", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00680272108843537 condAB=0.833333333333333 condBA=0.00680272108843537 supA=6.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 156,
+  "pattern" : "devoted",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=foaf:name @en", "AllConf=0.00372142477405635", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00372142477405635 condAB=0.4375 condBA=0.00372142477405635 supA=16.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "1" : [ "kb=dbp:type Art_museum", "AllConf=0.00680272108843537", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00680272108843537 condAB=0.416666666666667 condBA=0.00680272108843537 supA=12.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 174,
+  "pattern" : "estonian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Estonia", "AllConf=0.470588235294118", "triple=e dbo:location Estonia", "class=Museum", "{AllConf=0.470588235294118 condAB=0.888888888888889 condBA=0.470588235294118 supA=9.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Estonia" ],
+    "1" : [ "kb=dbo:location Tallinn", "AllConf=0.727272727272727", "triple=e dbo:location Tallinn", "class=Museum", "{AllConf=0.727272727272727 condAB=0.888888888888889 condBA=0.727272727272727 supA=9.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Tallinn" ]
+  }
+}, {
+  "id" : 176,
+  "pattern" : "european",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.0163265306122449", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0163265306122449 condAB=0.923076923076923 condBA=0.0163265306122449 supA=13.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 187,
+  "pattern" : "finnish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Finland", "AllConf=0.321428571428571", "triple=e dbo:location Finland", "class=Museum", "{AllConf=0.321428571428571 condAB=0.818181818181818 condBA=0.321428571428571 supA=11.0 supB=28.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Finland" ]
+  }
+}, {
+  "id" : 192,
+  "pattern" : "former",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location England", "AllConf=0.0390625", "triple=e dbo:location England", "class=Museum", "{AllConf=0.0390625 condAB=0.0480769230769231 condBA=0.0390625 supA=104.0 supB=128.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/England" ],
+    "1" : [ "kb=foaf:name @en", "AllConf=0.0026581605528974", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.0026581605528974 condAB=0.277777777777778 condBA=0.0026581605528974 supA=18.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "2" : [ "kb=dbp:type Art_museum", "AllConf=0.00952380952380952", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00952380952380952 condAB=0.583333333333333 condBA=0.00952380952380952 supA=12.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 199,
+  "pattern" : "french",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Montreal", "AllConf=0.08", "triple=e dbo:location Montreal", "class=Museum", "{AllConf=0.08 condAB=0.08 condBA=0.260869565217391 supA=75.0 supB=23.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Montreal" ],
+    "1" : [ "kb=dbo:location Paris", "AllConf=0.0933333333333333", "triple=e dbo:location Paris", "class=Museum", "{AllConf=0.0933333333333333 condAB=0.0933333333333333 condBA=0.241379310344828 supA=75.0 supB=29.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Paris" ],
+    "2" : [ "kb=dbo:location Canada", "AllConf=0.0492957746478873", "triple=e dbo:location Canada", "class=Museum", "{AllConf=0.0492957746478873 condAB=0.0933333333333333 condBA=0.0492957746478873 supA=75.0 supB=142.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Canada" ],
+    "3" : [ "kb=dbo:location Ontario", "AllConf=0.075", "triple=e dbo:location Ontario", "class=Museum", "{AllConf=0.075 condAB=0.12 condBA=0.075 supA=75.0 supB=120.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Ontario" ],
+    "4" : [ "kb=dbo:location Belgium", "AllConf=0.133333333333333", "triple=e dbo:location Belgium", "class=Museum", "{AllConf=0.133333333333333 condAB=0.133333333333333 condBA=0.227272727272727 supA=75.0 supB=44.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Belgium" ],
+    "5" : [ "kb=dbo:location France", "AllConf=0.197674418604651", "triple=e dbo:location France", "class=Museum", "{AllConf=0.197674418604651 condAB=0.226666666666667 condBA=0.197674418604651 supA=75.0 supB=86.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/France" ],
+    "6" : [ "kb=dbo:location Brussels-Capital_Region", "AllConf=0.08", "triple=e dbo:location Brussels-Capital_Region", "class=Museum", "{AllConf=0.08 condAB=0.08 condBA=0.428571428571429 supA=75.0 supB=14.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Brussels-Capital_Region" ],
+    "7" : [ "kb=dbo:location Quebec", "AllConf=0.133333333333333", "triple=e dbo:location Quebec", "class=Museum", "{AllConf=0.133333333333333 condAB=0.133333333333333 condBA=0.25 supA=75.0 supB=40.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Quebec" ],
+    "8" : [ "kb=foaf:name @en", "AllConf=0.00318979266347687", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00318979266347687 condAB=0.285714285714286 condBA=0.00318979266347687 supA=21.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "9" : [ "kb=dbp:type Art_museum", "AllConf=0.0285714285714286", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0285714285714286 condAB=0.488372093023256 condBA=0.0285714285714286 supA=43.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "10" : [ "kb=dbp:type Museum", "AllConf=0.0216216216216216", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0216216216216216 condAB=0.27906976744186 condBA=0.0216216216216216 supA=43.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 207,
+  "pattern" : "german",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Dresden", "AllConf=0.0952380952380952", "triple=e dbo:location Dresden", "class=Museum", "{AllConf=0.0952380952380952 condAB=0.0952380952380952 condBA=0.857142857142857 supA=63.0 supB=7.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Dresden" ],
+    "1" : [ "kb=dbo:location Germany", "AllConf=0.0581395348837209", "triple=e dbo:location Germany", "class=Museum", "{AllConf=0.0581395348837209 condAB=0.384615384615385 condBA=0.0581395348837209 supA=13.0 supB=86.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Germany" ],
+    "2" : [ "kb=foaf:name @en", "AllConf=0.00531632110579479", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00531632110579479 condAB=0.24390243902439 condBA=0.00531632110579479 supA=41.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "3" : [ "kb=dbp:type Art_museum", "AllConf=0.00952380952380952", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00952380952380952 condAB=0.333333333333333 condBA=0.00952380952380952 supA=21.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "4" : [ "kb=dbp:type Museum", "AllConf=0.0108108108108108", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0108108108108108 condAB=0.285714285714286 condBA=0.0108108108108108 supA=21.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 213,
+  "pattern" : "greek",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Greece", "AllConf=0.188405797101449", "triple=e dbo:location Greece", "class=Museum", "{AllConf=0.188405797101449 condAB=0.684210526315789 condBA=0.188405797101449 supA=19.0 supB=69.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Greece" ],
+    "1" : [ "kb=dbo:location Athens", "AllConf=0.189189189189189", "triple=e dbo:location Athens", "class=Museum", "{AllConf=0.189189189189189 condAB=0.368421052631579 condBA=0.189189189189189 supA=19.0 supB=37.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Athens" ],
+    "2" : [ "kb=foaf:name @en", "AllConf=0.00425305688463583", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00425305688463583 condAB=0.5 condBA=0.00425305688463583 supA=16.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 224,
+  "pattern" : "historic",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Canada", "AllConf=0.0422535211267606", "triple=e dbo:location Canada", "class=Museum", "{AllConf=0.0422535211267606 condAB=0.0566037735849057 condBA=0.0422535211267606 supA=106.0 supB=142.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Canada" ],
+    "1" : [ "kb=dbo:location Ontario", "AllConf=0.0416666666666667", "triple=e dbo:location Ontario", "class=Museum", "{AllConf=0.0416666666666667 condAB=0.172413793103448 condBA=0.0416666666666667 supA=29.0 supB=120.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Ontario" ],
+    "2" : [ "kb=foaf:name @en", "AllConf=0.00372142477405635", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00372142477405635 condAB=0.241379310344828 condBA=0.00372142477405635 supA=29.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "3" : [ "kb=dbp:type Art_museum", "AllConf=0.00680272108843537", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00680272108843537 condAB=0.138888888888889 condBA=0.00680272108843537 supA=36.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "4" : [ "kb=dbp:type Museum", "AllConf=0.0108108108108108", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0108108108108108 condAB=0.166666666666667 condBA=0.0108108108108108 supA=36.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ],
+    "5" : [ "kb=dbp:type Historic_house_museum", "AllConf=0.285714285714286", "triple=e dbp:type Historic_house_museum", "class=Museum", "{AllConf=0.285714285714286 condAB=0.555555555555556 condBA=0.285714285714286 supA=36.0 supB=70.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Historic_house_museum" ]
+  }
+}, {
+  "id" : 226,
+  "pattern" : "historical",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.0186567164179104", "triple=e dbo:location United_States", "class=Museum", "{AllConf=0.0186567164179104 condAB=0.166666666666667 condBA=0.0186567164179104 supA=30.0 supB=268.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:type Museum", "AllConf=0.0108108108108108", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0108108108108108 condAB=0.857142857142857 condBA=0.0108108108108108 supA=7.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 246,
+  "pattern" : "indonesian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Jakarta", "AllConf=0.461538461538462", "triple=e dbo:location Jakarta", "class=Museum", "{AllConf=0.461538461538462 condAB=0.6 condBA=0.461538461538462 supA=10.0 supB=13.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Jakarta" ],
+    "1" : [ "kb=dbo:location Indonesia", "AllConf=0.162162162162162", "triple=e dbo:location Indonesia", "class=Museum", "{AllConf=0.162162162162162 condAB=0.6 condBA=0.162162162162162 supA=10.0 supB=37.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Indonesia" ],
+    "2" : [ "kb=dbp:type Museum", "AllConf=0.00900900900900901", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.00900900900900901 condAB=0.833333333333333 condBA=0.00900900900900901 supA=6.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 249,
+  "pattern" : "interactive",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Science_museum", "AllConf=0.0655737704918033", "triple=e dbp:type Science_museum", "class=Museum", "{AllConf=0.0655737704918033 condAB=0.8 condBA=0.0655737704918033 supA=10.0 supB=122.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Science_museum" ]
+  }
+}, {
+  "id" : 250,
+  "pattern" : "international",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.00816326530612245", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00816326530612245 condAB=0.545454545454545 condBA=0.00816326530612245 supA=11.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 253,
+  "pattern" : "irish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:mapType Ireland@en", "AllConf=0.151515151515152", "triple=e dbp:mapType Ireland@en", "class=Museum", "{AllConf=0.151515151515152 condAB=0.833333333333333 condBA=0.151515151515152 supA=6.0 supB=33.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"Ireland\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Republic_of_Ireland", "AllConf=0.339622641509434", "triple=e dbo:location Republic_of_Ireland", "class=Museum", "{AllConf=0.339622641509434 condAB=0.666666666666667 condBA=0.339622641509434 supA=27.0 supB=53.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Republic_of_Ireland" ],
+    "2" : [ "kb=dbo:location Dublin", "AllConf=0.222222222222222", "triple=e dbo:location Dublin", "class=Museum", "{AllConf=0.222222222222222 condAB=0.222222222222222 condBA=0.272727272727273 supA=27.0 supB=22.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Dublin" ],
+    "3" : [ "kb=dbo:type Museum", "AllConf=0.0266666666666667", "triple=e dbo:type Museum", "class=Museum", "{AllConf=0.0266666666666667 condAB=0.666666666666667 condBA=0.0266666666666667 supA=15.0 supB=375.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 259,
+  "pattern" : "italian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:mapType Abruzzo@en", "AllConf=0.45", "triple=e dbp:mapType Abruzzo@en", "class=Museum", "{AllConf=0.45 condAB=1.0 condBA=0.45 supA=9.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"Abruzzo\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Italy", "AllConf=0.134020618556701", "triple=e dbo:location Italy", "class=Museum", "{AllConf=0.134020618556701 condAB=0.333333333333333 condBA=0.134020618556701 supA=39.0 supB=97.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Italy" ],
+    "2" : [ "kb=foaf:name @en", "AllConf=0.00478468899521531", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00478468899521531 condAB=0.272727272727273 condBA=0.00478468899521531 supA=33.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "3" : [ "kb=dbp:type Archaeology_museum", "AllConf=0.0631578947368421", "triple=e dbp:type Archaeology_museum", "class=Museum", "{AllConf=0.0631578947368421 condAB=0.4 condBA=0.0631578947368421 supA=15.0 supB=95.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Archaeology_museum" ],
+    "4" : [ "kb=dbp:type Art_museum", "AllConf=0.0149659863945578", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0149659863945578 condAB=0.354838709677419 condBA=0.0149659863945578 supA=31.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "5" : [ "kb=dbp:type Historic_site", "AllConf=0.111111111111111", "triple=e dbp:type Historic_site", "class=Museum", "{AllConf=0.111111111111111 condAB=0.161290322580645 condBA=0.111111111111111 supA=31.0 supB=45.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Historic_site" ],
+    "6" : [ "kb=dbp:type Religious_art", "AllConf=0.4", "triple=e dbp:type Religious_art", "class=Museum", "{AllConf=0.4 condAB=0.4 condBA=0.666666666666667 supA=15.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Religious_art" ]
+  }
+}, {
+  "id" : 264,
+  "pattern" : "japanese",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Japan", "AllConf=0.0531914893617021", "triple=e dbo:location Japan", "class=Museum", "{AllConf=0.0531914893617021 condAB=0.555555555555556 condBA=0.0531914893617021 supA=9.0 supB=94.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Japan" ],
+    "1" : [ "kb=dbp:type Museum", "AllConf=0.0108108108108108", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0108108108108108 condAB=0.6 condBA=0.0108108108108108 supA=10.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 282,
+  "pattern" : "largest",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.0261194029850746", "triple=e dbo:location United_States", "class=Museum", "{AllConf=0.0261194029850746 condAB=0.0945945945945946 condBA=0.0261194029850746 supA=74.0 supB=268.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=foaf:name @en", "AllConf=0.00372142477405635", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00372142477405635 condAB=0.170731707317073 condBA=0.00372142477405635 supA=41.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "2" : [ "kb=dbp:type Art_museum", "AllConf=0.0448979591836735", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0448979591836735 condAB=0.611111111111111 condBA=0.0448979591836735 supA=54.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "3" : [ "kb=dbp:type Museum", "AllConf=0.0162162162162162", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0162162162162162 condAB=0.12 condBA=0.0162162162162162 supA=75.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 286,
+  "pattern" : "lithuanian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Lithuania", "AllConf=0.833333333333333", "triple=e dbo:location Lithuania", "class=Museum", "{AllConf=0.833333333333333 condAB=0.833333333333333 condBA=0.833333333333333 supA=6.0 supB=6.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Lithuania" ]
+  }
+}, {
+  "id" : 287,
+  "pattern" : "local",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:mapType Somerset@en", "AllConf=0.162790697674419", "triple=e dbp:mapType Somerset@en", "class=Museum", "{AllConf=0.162790697674419 condAB=0.4375 condBA=0.162790697674419 supA=16.0 supB=43.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"Somerset\"\"@en\"" ],
+    "1" : [ "kb=dbo:location England", "AllConf=0.046875", "triple=e dbo:location England", "class=Museum", "{AllConf=0.046875 condAB=0.0645161290322581 condBA=0.046875 supA=93.0 supB=128.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/England" ],
+    "2" : [ "kb=dbo:location Somerset", "AllConf=0.0645161290322581", "triple=e dbo:location Somerset", "class=Museum", "{AllConf=0.0645161290322581 condAB=0.0645161290322581 condBA=0.176470588235294 supA=93.0 supB=34.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Somerset" ],
+    "3" : [ "kb=dbo:location Denmark", "AllConf=0.0537634408602151", "triple=e dbo:location Denmark", "class=Museum", "{AllConf=0.0537634408602151 condAB=0.0537634408602151 condBA=0.0925925925925926 supA=93.0 supB=54.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Denmark" ],
+    "4" : [ "kb=foaf:name @en", "AllConf=0.00425305688463583", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00425305688463583 condAB=0.25 condBA=0.00425305688463583 supA=32.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "5" : [ "kb=dbp:type Art_museum", "AllConf=0.00816326530612245", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00816326530612245 condAB=0.333333333333333 condBA=0.00816326530612245 supA=18.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "6" : [ "kb=dbp:type Museum", "AllConf=0.0144144144144144", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0144144144144144 condAB=0.444444444444444 condBA=0.0144144144144144 supA=18.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ],
+    "7" : [ "kb=dbo:type History_museum", "AllConf=0.0235849056603774", "triple=e dbo:type History_museum", "class=Museum", "{AllConf=0.0235849056603774 condAB=0.277777777777778 condBA=0.0235849056603774 supA=18.0 supB=212.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/History_museum" ]
+  }
+}, {
+  "id" : 291,
+  "pattern" : "located",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:mapType Kent@en", "AllConf=0.0238095238095238", "triple=e dbp:mapType Kent@en", "class=Museum", "{AllConf=0.0238095238095238 condAB=0.0238095238095238 condBA=0.333333333333333 supA=210.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"Kent\"\"@en\"" ],
+    "1" : [ "kb=dbp:mapType Pittsburgh@en", "AllConf=0.0285714285714286", "triple=e dbp:mapType Pittsburgh@en", "class=Museum", "{AllConf=0.0285714285714286 condAB=0.0285714285714286 condBA=0.6 supA=210.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"Pittsburgh\"\"@en\"" ],
+    "2" : [ "kb=dbp:mapType New York@en", "AllConf=0.0569105691056911", "triple=e dbp:mapType New York@en", "class=Museum", "{AllConf=0.0569105691056911 condAB=0.0569105691056911 condBA=0.411764705882353 supA=123.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"New York\"\"@en\"" ],
+    "3" : [ "kb=dbp:mapType Texas@en", "AllConf=0.0823529411764706", "triple=e dbp:mapType Texas@en", "class=Museum", "{AllConf=0.0823529411764706 condAB=0.0823529411764706 condBA=0.189189189189189 supA=85.0 supB=37.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"Texas\"\"@en\"" ],
+    "4" : [ "kb=dbp:mapType North Carolina@en", "AllConf=0.0428571428571429", "triple=e dbp:mapType North Carolina@en", "class=Museum", "{AllConf=0.0428571428571429 condAB=0.0428571428571429 condBA=0.6 supA=210.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"North Carolina\"\"@en\"" ],
+    "5" : [ "kb=dbp:mapType Florida@en", "AllConf=0.0894308943089431", "triple=e dbp:mapType Florida@en", "class=Museum", "{AllConf=0.0894308943089431 condAB=0.0894308943089431 condBA=0.117021276595745 supA=123.0 supB=94.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"Florida\"\"@en\"" ],
+    "6" : [ "kb=dbo:location Spain", "AllConf=0.0260869565217391", "triple=e dbo:location Spain", "class=Museum", "{AllConf=0.0260869565217391 condAB=0.0260869565217391 condBA=0.0978260869565217 supA=345.0 supB=92.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Spain" ],
+    "7" : [ "kb=dbo:location Telangana", "AllConf=0.00241080038572806", "triple=e dbo:location Telangana", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.5 supA=2074.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Telangana" ],
+    "8" : [ "kb=dbo:location Indianapolis", "AllConf=0.00241080038572806", "triple=e dbo:location Indianapolis", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.714285714285714 supA=2074.0 supB=7.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Indianapolis" ],
+    "9" : [ "kb=dbo:location Chicago", "AllConf=0.00417246175243394", "triple=e dbo:location Chicago", "class=Museum", "{AllConf=0.00417246175243394 condAB=0.00417246175243394 condBA=0.162162162162162 supA=1438.0 supB=37.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Chicago" ],
+    "10" : [ "kb=dbo:location Montreal", "AllConf=0.00289296046287367", "triple=e dbo:location Montreal", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.260869565217391 supA=2074.0 supB=23.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Montreal" ],
+    "11" : [ "kb=dbo:location Tripoli", "AllConf=0.00417246175243394", "triple=e dbo:location Tripoli", "class=Museum", "{AllConf=0.00417246175243394 condAB=0.00417246175243394 condBA=0.75 supA=1438.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Tripoli" ],
+    "12" : [ "kb=dbo:location Philadelphia", "AllConf=0.0062586926286509", "triple=e dbo:location Philadelphia", "class=Museum", "{AllConf=0.0062586926286509 condAB=0.0062586926286509 condBA=0.333333333333333 supA=1438.0 supB=27.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Philadelphia" ],
+    "13" : [ "kb=dbo:location Texas", "AllConf=0.0311526479750779", "triple=e dbo:location Texas", "class=Museum", "{AllConf=0.0311526479750779 condAB=0.0311526479750779 condBA=0.227272727272727 supA=321.0 supB=44.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Texas" ],
+    "14" : [ "kb=dbo:location Manitoba", "AllConf=0.0038572806171649", "triple=e dbo:location Manitoba", "class=Museum", "{AllConf=0.0038572806171649 condAB=0.0038572806171649 condBA=0.363636363636364 supA=2074.0 supB=22.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Manitoba" ],
+    "15" : [ "kb=dbo:location Pakistan", "AllConf=0.00695410292072323", "triple=e dbo:location Pakistan", "class=Museum", "{AllConf=0.00695410292072323 condAB=0.00695410292072323 condBA=0.476190476190476 supA=1438.0 supB=21.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Pakistan" ],
+    "16" : [ "kb=dbo:location Istanbul", "AllConf=0.00289296046287367", "triple=e dbo:location Istanbul", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.2 supA=2074.0 supB=30.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Istanbul" ],
+    "17" : [ "kb=dbo:location Michigan", "AllConf=0.00482160077145612", "triple=e dbo:location Michigan", "class=Museum", "{AllConf=0.00482160077145612 condAB=0.00482160077145612 condBA=0.5 supA=2074.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Michigan" ],
+    "18" : [ "kb=dbo:location Washington_(state)", "AllConf=0.00289296046287367", "triple=e dbo:location Washington_(state)", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.333333333333333 supA=2074.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Washington_(state)" ],
+    "19" : [ "kb=dbo:location Paris", "AllConf=0.00241080038572806", "triple=e dbo:location Paris", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.172413793103448 supA=2074.0 supB=29.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Paris" ],
+    "20" : [ "kb=dbo:location Taiwan", "AllConf=0.00417246175243394", "triple=e dbo:location Taiwan", "class=Museum", "{AllConf=0.00417246175243394 condAB=0.00417246175243394 condBA=0.0315789473684211 supA=1438.0 supB=190.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Taiwan" ],
+    "21" : [ "kb=dbo:location Seattle", "AllConf=0.00289296046287367", "triple=e dbo:location Seattle", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.545454545454545 supA=2074.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Seattle" ],
+    "22" : [ "kb=dbo:location Ghana", "AllConf=0.00337512054001929", "triple=e dbo:location Ghana", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.777777777777778 supA=2074.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Ghana" ],
+    "23" : [ "kb=dbo:location Virginia", "AllConf=0.0218068535825545", "triple=e dbo:location Virginia", "class=Museum", "{AllConf=0.0218068535825545 condAB=0.0218068535825545 condBA=0.35 supA=321.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Virginia" ],
+    "24" : [ "kb=dbo:location New_South_Wales", "AllConf=0.00486787204450626", "triple=e dbo:location New_South_Wales", "class=Museum", "{AllConf=0.00486787204450626 condAB=0.00486787204450626 condBA=0.28 supA=1438.0 supB=25.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/New_South_Wales" ],
+    "25" : [ "kb=dbo:location New_Mexico", "AllConf=0.00241080038572806", "triple=e dbo:location New_Mexico", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.625 supA=2074.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/New_Mexico" ],
+    "26" : [ "kb=dbo:location Colombia", "AllConf=0.00241080038572806", "triple=e dbo:location Colombia", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.416666666666667 supA=2074.0 supB=12.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Colombia" ],
+    "27" : [ "kb=dbo:location Republic_of_Ireland", "AllConf=0.00663129973474801", "triple=e dbo:location Republic_of_Ireland", "class=Museum", "{AllConf=0.00663129973474801 condAB=0.00663129973474801 condBA=0.0943396226415094 supA=754.0 supB=53.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Republic_of_Ireland" ],
+    "28" : [ "kb=dbo:location India", "AllConf=0.0118219749652295", "triple=e dbo:location India", "class=Museum", "{AllConf=0.0118219749652295 condAB=0.0118219749652295 condBA=0.177083333333333 supA=1438.0 supB=96.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/India" ],
+    "29" : [ "kb=dbo:location Amsterdam", "AllConf=0.00556328233657858", "triple=e dbo:location Amsterdam", "class=Museum", "{AllConf=0.00556328233657858 condAB=0.00556328233657858 condBA=0.195121951219512 supA=1438.0 supB=41.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Amsterdam" ],
+    "30" : [ "kb=dbo:location Tennessee", "AllConf=0.00337512054001929", "triple=e dbo:location Tennessee", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.538461538461538 supA=2074.0 supB=13.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Tennessee" ],
+    "31" : [ "kb=dbo:location New_York_City", "AllConf=0.00626808100289296", "triple=e dbo:location New_York_City", "class=Museum", "{AllConf=0.00626808100289296 condAB=0.00626808100289296 condBA=0.245283018867925 supA=2074.0 supB=53.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/New_York_City" ],
+    "32" : [ "kb=dbo:location Kenya", "AllConf=0.00417246175243394", "triple=e dbo:location Kenya", "class=Museum", "{AllConf=0.00417246175243394 condAB=0.00417246175243394 condBA=0.75 supA=1438.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Kenya" ],
+    "33" : [ "kb=dbo:location Vancouver", "AllConf=0.00347705146036161", "triple=e dbo:location Vancouver", "class=Museum", "{AllConf=0.00347705146036161 condAB=0.00347705146036161 condBA=0.277777777777778 supA=1438.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Vancouver" ],
+    "34" : [ "kb=dbo:location Hong_Kong", "AllConf=0.00289296046287367", "triple=e dbo:location Hong_Kong", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.4 supA=2074.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Hong_Kong" ],
+    "35" : [ "kb=dbo:location Maine", "AllConf=0.00241080038572806", "triple=e dbo:location Maine", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.625 supA=2074.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Maine" ],
+    "36" : [ "kb=dbo:location Pittsburgh", "AllConf=0.00289296046287367", "triple=e dbo:location Pittsburgh", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.545454545454545 supA=2074.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Pittsburgh" ],
+    "37" : [ "kb=dbo:location Canada", "AllConf=0.0238726790450928", "triple=e dbo:location Canada", "class=Museum", "{AllConf=0.0238726790450928 condAB=0.0238726790450928 condBA=0.126760563380282 supA=754.0 supB=142.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Canada" ],
+    "38" : [ "kb=dbo:location Norway", "AllConf=0.0038572806171649", "triple=e dbo:location Norway", "class=Museum", "{AllConf=0.0038572806171649 condAB=0.0038572806171649 condBA=0.296296296296296 supA=2074.0 supB=27.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Norway" ],
+    "39" : [ "kb=dbo:location Scotland", "AllConf=0.00337512054001929", "triple=e dbo:location Scotland", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.368421052631579 supA=2074.0 supB=19.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Scotland" ],
+    "40" : [ "kb=dbo:location SÃ£o_Paulo", "AllConf=0.00241080038572806", "triple=e dbo:location SÃ£o_Paulo", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.277777777777778 supA=2074.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/SÃ£o_Paulo" ],
+    "41" : [ "kb=dbo:location British_Columbia", "AllConf=0.00530376084860174", "triple=e dbo:location British_Columbia", "class=Museum", "{AllConf=0.00530376084860174 condAB=0.00530376084860174 condBA=0.366666666666667 supA=2074.0 supB=30.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/British_Columbia" ],
+    "42" : [ "kb=dbo:location Wisconsin", "AllConf=0.00337512054001929", "triple=e dbo:location Wisconsin", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.5 supA=2074.0 supB=14.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Wisconsin" ],
+    "43" : [ "kb=dbo:location Argentina", "AllConf=0.00486787204450626", "triple=e dbo:location Argentina", "class=Museum", "{AllConf=0.00486787204450626 condAB=0.00486787204450626 condBA=0.411764705882353 supA=1438.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Argentina" ],
+    "44" : [ "kb=dbo:location Portugal", "AllConf=0.00556328233657858", "triple=e dbo:location Portugal", "class=Museum", "{AllConf=0.00556328233657858 condAB=0.00556328233657858 condBA=0.333333333333333 supA=1438.0 supB=24.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Portugal" ],
+    "45" : [ "kb=dbo:location Kansas", "AllConf=0.00347705146036161", "triple=e dbo:location Kansas", "class=Museum", "{AllConf=0.00347705146036161 condAB=0.00347705146036161 condBA=0.5 supA=1438.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Kansas" ],
+    "46" : [ "kb=dbo:location Estonia", "AllConf=0.00337512054001929", "triple=e dbo:location Estonia", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.411764705882353 supA=2074.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Estonia" ],
+    "47" : [ "kb=dbo:location Queensland", "AllConf=0.00289296046287367", "triple=e dbo:location Queensland", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.666666666666667 supA=2074.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Queensland" ],
+    "48" : [ "kb=dbo:location Toronto", "AllConf=0.00289296046287367", "triple=e dbo:location Toronto", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.171428571428571 supA=2074.0 supB=35.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Toronto" ],
+    "49" : [ "kb=dbo:location Maryland", "AllConf=0.0038572806171649", "triple=e dbo:location Maryland", "class=Museum", "{AllConf=0.0038572806171649 condAB=0.0038572806171649 condBA=0.470588235294118 supA=2074.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Maryland" ],
+    "50" : [ "kb=dbo:location Louisiana", "AllConf=0.00241080038572806", "triple=e dbo:location Louisiana", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.454545454545455 supA=2074.0 supB=11.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Louisiana" ],
+    "51" : [ "kb=dbo:location Greece", "AllConf=0.0155763239875389", "triple=e dbo:location Greece", "class=Museum", "{AllConf=0.0155763239875389 condAB=0.0155763239875389 condBA=0.072463768115942 supA=321.0 supB=69.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Greece" ],
+    "52" : [ "kb=dbo:location Tunisia", "AllConf=0.0210084033613445", "triple=e dbo:location Tunisia", "class=Museum", "{AllConf=0.0210084033613445 condAB=0.0210084033613445 condBA=0.294117647058824 supA=238.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Tunisia" ],
+    "53" : [ "kb=dbo:location Berlin", "AllConf=0.00347705146036161", "triple=e dbo:location Berlin", "class=Museum", "{AllConf=0.00347705146036161 condAB=0.00347705146036161 condBA=0.227272727272727 supA=1438.0 supB=22.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Berlin" ],
+    "54" : [ "kb=dbo:location Suffolk", "AllConf=0.00241080038572806", "triple=e dbo:location Suffolk", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.833333333333333 supA=2074.0 supB=6.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Suffolk" ],
+    "55" : [ "kb=dbo:location Poland", "AllConf=0.00433944069431051", "triple=e dbo:location Poland", "class=Museum", "{AllConf=0.00433944069431051 condAB=0.00433944069431051 condBA=0.115384615384615 supA=2074.0 supB=78.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Poland" ],
+    "56" : [ "kb=dbo:location Baku", "AllConf=0.00337512054001929", "triple=e dbo:location Baku", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.233333333333333 supA=2074.0 supB=30.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Baku" ],
+    "57" : [ "kb=dbo:location Oman", "AllConf=0.00241080038572806", "triple=e dbo:location Oman", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.555555555555556 supA=2074.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Oman" ],
+    "58" : [ "kb=dbo:location United_Kingdom", "AllConf=0.00241080038572806", "triple=e dbo:location United_Kingdom", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.147058823529412 supA=2074.0 supB=34.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_Kingdom" ],
+    "59" : [ "kb=dbo:location Winnipeg", "AllConf=0.00347705146036161", "triple=e dbo:location Winnipeg", "class=Museum", "{AllConf=0.00347705146036161 condAB=0.00347705146036161 condBA=0.25 supA=1438.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Winnipeg" ],
+    "60" : [ "kb=dbo:location Pennsylvania", "AllConf=0.0119363395225464", "triple=e dbo:location Pennsylvania", "class=Museum", "{AllConf=0.0119363395225464 condAB=0.0119363395225464 condBA=0.155172413793103 supA=754.0 supB=58.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Pennsylvania" ],
+    "61" : [ "kb=dbo:location Jongno-gu", "AllConf=0.0038572806171649", "triple=e dbo:location Jongno-gu", "class=Museum", "{AllConf=0.0038572806171649 condAB=0.0038572806171649 condBA=0.4 supA=2074.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Jongno-gu" ],
+    "62" : [ "kb=dbo:location Italy", "AllConf=0.0155763239875389", "triple=e dbo:location Italy", "class=Museum", "{AllConf=0.0155763239875389 condAB=0.0155763239875389 condBA=0.0515463917525773 supA=321.0 supB=97.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Italy" ],
+    "63" : [ "kb=dbo:location Dublin", "AllConf=0.00337512054001929", "triple=e dbo:location Dublin", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.318181818181818 supA=2074.0 supB=22.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Dublin" ],
+    "64" : [ "kb=dbo:location England", "AllConf=0.0390625", "triple=e dbo:location England", "class=Museum", "{AllConf=0.0390625 condAB=0.0561797752808989 condBA=0.0390625 supA=89.0 supB=128.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/England" ],
+    "65" : [ "kb=dbo:location Nova_Scotia", "AllConf=0.00337512054001929", "triple=e dbo:location Nova_Scotia", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.5 supA=2074.0 supB=14.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Nova_Scotia" ],
+    "66" : [ "kb=dbo:location Alberta", "AllConf=0.00337512054001929", "triple=e dbo:location Alberta", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.2 supA=2074.0 supB=35.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Alberta" ],
+    "67" : [ "kb=dbo:location Nepal", "AllConf=0.00347705146036161", "triple=e dbo:location Nepal", "class=Museum", "{AllConf=0.00347705146036161 condAB=0.00347705146036161 condBA=0.625 supA=1438.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Nepal" ],
+    "68" : [ "kb=dbo:location Connecticut", "AllConf=0.00347705146036161", "triple=e dbo:location Connecticut", "class=Museum", "{AllConf=0.00347705146036161 condAB=0.00347705146036161 condBA=0.3125 supA=1438.0 supB=16.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Connecticut" ],
+    "69" : [ "kb=dbo:location Brazil", "AllConf=0.00626808100289296", "triple=e dbo:location Brazil", "class=Museum", "{AllConf=0.00626808100289296 condAB=0.00626808100289296 condBA=0.382352941176471 supA=2074.0 supB=34.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Brazil" ],
+    "70" : [ "kb=dbo:location Rio_Grande_do_Sul", "AllConf=0.00241080038572806", "triple=e dbo:location Rio_Grande_do_Sul", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.555555555555556 supA=2074.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Rio_Grande_do_Sul" ],
+    "71" : [ "kb=dbo:location Ohio", "AllConf=0.00241080038572806", "triple=e dbo:location Ohio", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.294117647058824 supA=2074.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Ohio" ],
+    "72" : [ "kb=dbo:location San_Diego", "AllConf=0.00241080038572806", "triple=e dbo:location San_Diego", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.384615384615385 supA=2074.0 supB=13.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/San_Diego" ],
+    "73" : [ "kb=dbo:location Seoul", "AllConf=0.00530376084860174", "triple=e dbo:location Seoul", "class=Museum", "{AllConf=0.00530376084860174 condAB=0.00530376084860174 condBA=0.297297297297297 supA=2074.0 supB=37.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Seoul" ],
+    "74" : [ "kb=dbo:location Florida", "AllConf=0.0155763239875389", "triple=e dbo:location Florida", "class=Museum", "{AllConf=0.0155763239875389 condAB=0.0155763239875389 condBA=0.104166666666667 supA=321.0 supB=48.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Florida" ],
+    "75" : [ "kb=dbo:location Illinois", "AllConf=0.00530376084860174", "triple=e dbo:location Illinois", "class=Museum", "{AllConf=0.00530376084860174 condAB=0.00530376084860174 condBA=0.297297297297297 supA=2074.0 supB=37.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Illinois" ],
+    "76" : [ "kb=dbo:location Japan", "AllConf=0.0125173852573018", "triple=e dbo:location Japan", "class=Museum", "{AllConf=0.0125173852573018 condAB=0.0125173852573018 condBA=0.191489361702128 supA=1438.0 supB=94.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Japan" ],
+    "77" : [ "kb=dbo:location Switzerland", "AllConf=0.00795755968169761", "triple=e dbo:location Switzerland", "class=Museum", "{AllConf=0.00795755968169761 condAB=0.00795755968169761 condBA=0.230769230769231 supA=754.0 supB=26.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Switzerland" ],
+    "78" : [ "kb=dbo:location Mexico", "AllConf=0.00556328233657858", "triple=e dbo:location Mexico", "class=Museum", "{AllConf=0.00556328233657858 condAB=0.00556328233657858 condBA=0.4 supA=1438.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Mexico" ],
+    "79" : [ "kb=dbo:location California", "AllConf=0.0101253616200579", "triple=e dbo:location California", "class=Museum", "{AllConf=0.0101253616200579 condAB=0.0101253616200579 condBA=0.318181818181818 supA=2074.0 supB=66.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/California" ],
+    "80" : [ "kb=dbo:location Netherlands", "AllConf=0.0155763239875389", "triple=e dbo:location Netherlands", "class=Museum", "{AllConf=0.0155763239875389 condAB=0.0155763239875389 condBA=0.0462962962962963 supA=321.0 supB=108.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Netherlands" ],
+    "81" : [ "kb=dbo:location Oregon", "AllConf=0.00241080038572806", "triple=e dbo:location Oregon", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.357142857142857 supA=2074.0 supB=14.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Oregon" ],
+    "82" : [ "kb=dbo:location Somerset", "AllConf=0.00347705146036161", "triple=e dbo:location Somerset", "class=Museum", "{AllConf=0.00347705146036161 condAB=0.00347705146036161 condBA=0.147058823529412 supA=1438.0 supB=34.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Somerset" ],
+    "83" : [ "kb=dbo:location Hungary", "AllConf=0.00241080038572806", "triple=e dbo:location Hungary", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.714285714285714 supA=2074.0 supB=7.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Hungary" ],
+    "84" : [ "kb=dbo:location Sri_Lanka", "AllConf=0.0186915887850467", "triple=e dbo:location Sri_Lanka", "class=Museum", "{AllConf=0.0186915887850467 condAB=0.0186915887850467 condBA=0.2 supA=321.0 supB=30.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Sri_Lanka" ],
+    "85" : [ "kb=dbo:location Ottawa", "AllConf=0.00289296046287367", "triple=e dbo:location Ottawa", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.352941176470588 supA=2074.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Ottawa" ],
+    "86" : [ "kb=dbo:location Kentucky", "AllConf=0.00337512054001929", "triple=e dbo:location Kentucky", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.7 supA=2074.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Kentucky" ],
+    "87" : [ "kb=dbo:location Indiana", "AllConf=0.00337512054001929", "triple=e dbo:location Indiana", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.7 supA=2074.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Indiana" ],
+    "88" : [ "kb=dbo:location Libya", "AllConf=0.00578592092574735", "triple=e dbo:location Libya", "class=Museum", "{AllConf=0.00578592092574735 condAB=0.00578592092574735 condBA=0.857142857142857 supA=2074.0 supB=14.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Libya" ],
+    "89" : [ "kb=dbo:location Ontario", "AllConf=0.0188042430086789", "triple=e dbo:location Ontario", "class=Museum", "{AllConf=0.0188042430086789 condAB=0.0188042430086789 condBA=0.325 supA=2074.0 supB=120.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Ontario" ],
+    "90" : [ "kb=dbo:location Belgium", "AllConf=0.00241080038572806", "triple=e dbo:location Belgium", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.113636363636364 supA=2074.0 supB=44.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Belgium" ],
+    "91" : [ "kb=dbo:location San_Francisco", "AllConf=0.00289296046287367", "triple=e dbo:location San_Francisco", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.193548387096774 supA=2074.0 supB=31.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/San_Francisco" ],
+    "92" : [ "kb=dbo:location Buenos_Aires", "AllConf=0.00241080038572806", "triple=e dbo:location Buenos_Aires", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.333333333333333 supA=2074.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Buenos_Aires" ],
+    "93" : [ "kb=dbo:location Arizona", "AllConf=0.00241080038572806", "triple=e dbo:location Arizona", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.5 supA=2074.0 supB=10.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Arizona" ],
+    "94" : [ "kb=dbo:location Indonesia", "AllConf=0.00723240115718419", "triple=e dbo:location Indonesia", "class=Museum", "{AllConf=0.00723240115718419 condAB=0.00723240115718419 condBA=0.405405405405405 supA=2074.0 supB=37.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Indonesia" ],
+    "95" : [ "kb=dbo:location South_Africa", "AllConf=0.00337512054001929", "triple=e dbo:location South_Africa", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.21875 supA=2074.0 supB=32.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/South_Africa" ],
+    "96" : [ "kb=dbo:location London", "AllConf=0.00530376084860174", "triple=e dbo:location London", "class=Museum", "{AllConf=0.00530376084860174 condAB=0.00530376084860174 condBA=0.146666666666667 supA=2074.0 supB=75.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/London" ],
+    "97" : [ "kb=dbo:location Manhattan", "AllConf=0.00347705146036161", "triple=e dbo:location Manhattan", "class=Museum", "{AllConf=0.00347705146036161 condAB=0.00347705146036161 condBA=0.128205128205128 supA=1438.0 supB=39.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Manhattan" ],
+    "98" : [ "kb=dbo:location Belgrade", "AllConf=0.00486787204450626", "triple=e dbo:location Belgrade", "class=Museum", "{AllConf=0.00486787204450626 condAB=0.00486787204450626 condBA=0.304347826086957 supA=1438.0 supB=23.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Belgrade" ],
+    "99" : [ "kb=dbo:location Atlanta", "AllConf=0.00556328233657858", "triple=e dbo:location Atlanta", "class=Museum", "{AllConf=0.00556328233657858 condAB=0.00556328233657858 condBA=0.533333333333333 supA=1438.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Atlanta" ],
+    "100" : [ "kb=dbo:location Colorado", "AllConf=0.00289296046287367", "triple=e dbo:location Colorado", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.461538461538462 supA=2074.0 supB=13.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Colorado" ],
+    "101" : [ "kb=dbo:location United_States", "AllConf=0.0223880597014925", "triple=e dbo:location United_States", "class=Museum", "{AllConf=0.0223880597014925 condAB=0.0252100840336134 condBA=0.0223880597014925 supA=238.0 supB=268.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "102" : [ "kb=dbo:location France", "AllConf=0.00916104146576664", "triple=e dbo:location France", "class=Museum", "{AllConf=0.00916104146576664 condAB=0.00916104146576664 condBA=0.22093023255814 supA=2074.0 supB=86.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/France" ],
+    "103" : [ "kb=dbo:location Turkey", "AllConf=0.00417246175243394", "triple=e dbo:location Turkey", "class=Museum", "{AllConf=0.00417246175243394 condAB=0.00417246175243394 condBA=0.072289156626506 supA=1438.0 supB=83.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Turkey" ],
+    "104" : [ "kb=dbo:location Massachusetts", "AllConf=0.00530376084860174", "triple=e dbo:location Massachusetts", "class=Museum", "{AllConf=0.00530376084860174 condAB=0.00530376084860174 condBA=0.407407407407407 supA=2074.0 supB=27.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Massachusetts" ],
+    "105" : [ "kb=dbo:location Barcelona", "AllConf=0.00241080038572806", "triple=e dbo:location Barcelona", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.3125 supA=2074.0 supB=16.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Barcelona" ],
+    "106" : [ "kb=dbo:location Helsinki", "AllConf=0.00241080038572806", "triple=e dbo:location Helsinki", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.555555555555556 supA=2074.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Helsinki" ],
+    "107" : [ "kb=dbo:location Finland", "AllConf=0.00482160077145612", "triple=e dbo:location Finland", "class=Museum", "{AllConf=0.00482160077145612 condAB=0.00482160077145612 condBA=0.357142857142857 supA=2074.0 supB=28.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Finland" ],
+    "108" : [ "kb=dbo:location Minnesota", "AllConf=0.00289296046287367", "triple=e dbo:location Minnesota", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.3 supA=2074.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Minnesota" ],
+    "109" : [ "kb=dbo:location Stockholm", "AllConf=0.00337512054001929", "triple=e dbo:location Stockholm", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.318181818181818 supA=2074.0 supB=22.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Stockholm" ],
+    "110" : [ "kb=dbo:location Czech_Republic", "AllConf=0.00241080038572806", "triple=e dbo:location Czech_Republic", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.333333333333333 supA=2074.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Czech_Republic" ],
+    "111" : [ "kb=dbo:location Armenia", "AllConf=0.00241080038572806", "triple=e dbo:location Armenia", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.238095238095238 supA=2074.0 supB=21.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Armenia" ],
+    "112" : [ "kb=dbo:location Khyber_Pakhtunkhwa", "AllConf=0.00337512054001929", "triple=e dbo:location Khyber_Pakhtunkhwa", "class=Museum", "{AllConf=0.00337512054001929 condAB=0.00337512054001929 condBA=0.777777777777778 supA=2074.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Khyber_Pakhtunkhwa" ],
+    "113" : [ "kb=dbo:location Kent", "AllConf=0.00289296046287367", "triple=e dbo:location Kent", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.352941176470588 supA=2074.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Kent" ],
+    "114" : [ "kb=dbo:location Azerbaijan", "AllConf=0.00663129973474801", "triple=e dbo:location Azerbaijan", "class=Museum", "{AllConf=0.00663129973474801 condAB=0.00663129973474801 condBA=0.128205128205128 supA=754.0 supB=39.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Azerbaijan" ],
+    "115" : [ "kb=dbo:location Cuba", "AllConf=0.0245901639344262", "triple=e dbo:location Cuba", "class=Museum", "{AllConf=0.0245901639344262 condAB=0.0245901639344262 condBA=0.910714285714286 supA=2074.0 supB=56.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Cuba" ],
+    "116" : [ "kb=dbo:location New_York_(state)", "AllConf=0.0898876404494382", "triple=e dbo:location New_York_(state)", "class=Museum", "{AllConf=0.0898876404494382 condAB=0.0898876404494382 condBA=0.0941176470588235 supA=89.0 supB=85.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/New_York_(state)" ],
+    "117" : [ "kb=dbo:location China", "AllConf=0.0119363395225464", "triple=e dbo:location China", "class=Museum", "{AllConf=0.0119363395225464 condAB=0.0119363395225464 condBA=0.18 supA=754.0 supB=50.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/China" ],
+    "118" : [ "kb=dbo:location Melbourne", "AllConf=0.00289296046287367", "triple=e dbo:location Melbourne", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=0.352941176470588 supA=2074.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Melbourne" ],
+    "119" : [ "kb=dbo:location Australia", "AllConf=0.0186915887850467", "triple=e dbo:location Australia", "class=Museum", "{AllConf=0.0186915887850467 condAB=0.0186915887850467 condBA=0.0909090909090909 supA=321.0 supB=66.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Australia" ],
+    "120" : [ "kb=dbo:location Philippines", "AllConf=0.00530376084860174", "triple=e dbo:location Philippines", "class=Museum", "{AllConf=0.00530376084860174 condAB=0.00530376084860174 condBA=0.423076923076923 supA=2074.0 supB=26.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Philippines" ],
+    "121" : [ "kb=dbo:location Germany", "AllConf=0.00928381962864721", "triple=e dbo:location Germany", "class=Museum", "{AllConf=0.00928381962864721 condAB=0.00928381962864721 condBA=0.0813953488372093 supA=754.0 supB=86.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Germany" ],
+    "122" : [ "kb=dbo:location Russia", "AllConf=0.00347705146036161", "triple=e dbo:location Russia", "class=Museum", "{AllConf=0.00347705146036161 condAB=0.00347705146036161 condBA=0.0862068965517241 supA=1438.0 supB=58.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Russia" ],
+    "123" : [ "kb=dbo:location Sweden", "AllConf=0.00482160077145612", "triple=e dbo:location Sweden", "class=Museum", "{AllConf=0.00482160077145612 condAB=0.00482160077145612 condBA=0.303030303030303 supA=2074.0 supB=33.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Sweden" ],
+    "124" : [ "kb=dbo:location Mexico_City", "AllConf=0.00241080038572806", "triple=e dbo:location Mexico_City", "class=Museum", "{AllConf=0.00241080038572806 condAB=0.00241080038572806 condBA=0.25 supA=2074.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Mexico_City" ],
+    "125" : [ "kb=dbo:location Denmark", "AllConf=0.00530376084860174", "triple=e dbo:location Denmark", "class=Museum", "{AllConf=0.00530376084860174 condAB=0.00530376084860174 condBA=0.203703703703704 supA=2074.0 supB=54.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Denmark" ],
+    "126" : [ "kb=dbo:location South_Korea", "AllConf=0.0210084033613445", "triple=e dbo:location South_Korea", "class=Museum", "{AllConf=0.0210084033613445 condAB=0.0210084033613445 condBA=0.0961538461538462 supA=238.0 supB=52.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/South_Korea" ],
+    "127" : [ "kb=dbo:location Quebec", "AllConf=0.00486787204450626", "triple=e dbo:location Quebec", "class=Museum", "{AllConf=0.00486787204450626 condAB=0.00486787204450626 condBA=0.175 supA=1438.0 supB=40.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Quebec" ],
+    "128" : [ "kb=dbo:location Asturias", "AllConf=0.00347705146036161", "triple=e dbo:location Asturias", "class=Museum", "{AllConf=0.00347705146036161 condAB=0.00347705146036161 condBA=0.333333333333333 supA=1438.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Asturias" ],
+    "129" : [ "kb=dbo:location Brisbane", "AllConf=0.00289296046287367", "triple=e dbo:location Brisbane", "class=Museum", "{AllConf=0.00289296046287367 condAB=0.00289296046287367 condBA=1.0 supA=2074.0 supB=6.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Brisbane" ],
+    "130" : [ "kb=dbo:location Serbia", "AllConf=0.00417246175243394", "triple=e dbo:location Serbia", "class=Museum", "{AllConf=0.00417246175243394 condAB=0.00417246175243394 condBA=0.4 supA=1438.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Serbia" ],
+    "131" : [ "kb=dbo:location Wales", "AllConf=0.00417246175243394", "triple=e dbo:location Wales", "class=Museum", "{AllConf=0.00417246175243394 condAB=0.00417246175243394 condBA=0.15 supA=1438.0 supB=40.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Wales" ],
+    "132" : [ "kb=dbp:location 2^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.00427046263345196", "triple=e dbp:location 2^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Museum", "{AllConf=0.00427046263345196 condAB=0.00427046263345196 condBA=0.125 supA=1405.0 supB=48.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=\"\"\"2\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "133" : [ "kb=dbp:location United States@en", "AllConf=0.0206405693950178", "triple=e dbp:location United States@en", "class=Museum", "{AllConf=0.0206405693950178 condAB=0.0206405693950178 condBA=0.325842696629214 supA=1405.0 supB=89.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=\"\"\"United States\"\"@en\"" ],
+    "134" : [ "kb=dbp:location 9^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.00355871886120996", "triple=e dbp:location 9^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Museum", "{AllConf=0.00355871886120996 condAB=0.00355871886120996 condBA=0.333333333333333 supA=1405.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=\"\"\"9\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "135" : [ "kb=dbp:location 1^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.00538213132400431", "triple=e dbp:location 1^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Museum", "{AllConf=0.00538213132400431 condAB=0.00538213132400431 condBA=0.0617283950617284 supA=929.0 supB=81.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=\"\"\"1\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "136" : [ "kb=dbp:location 120^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.00355871886120996", "triple=e dbp:location 120^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Museum", "{AllConf=0.00355871886120996 condAB=0.00355871886120996 condBA=0.555555555555556 supA=1405.0 supB=9.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=\"\"\"120\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "137" : [ "kb=dbp:location Los_Angeles", "AllConf=0.00427046263345196", "triple=e dbp:location Los_Angeles", "class=Museum", "{AllConf=0.00427046263345196 condAB=0.00427046263345196 condBA=0.375 supA=1405.0 supB=16.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Los_Angeles" ],
+    "138" : [ "kb=dbp:location 10^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.00355871886120996", "triple=e dbp:location 10^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Museum", "{AllConf=0.00355871886120996 condAB=0.00355871886120996 condBA=0.147058823529412 supA=1405.0 supB=34.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=\"\"\"10\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "139" : [ "kb=dbp:location United Kingdom@en", "AllConf=0.00427046263345196", "triple=e dbp:location United Kingdom@en", "class=Museum", "{AllConf=0.00427046263345196 condAB=0.00427046263345196 condBA=0.127659574468085 supA=1405.0 supB=47.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=\"\"\"United Kingdom\"\"@en\"" ],
+    "140" : [ "kb=foaf:name @en", "AllConf=0.0026581605528974", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.0026581605528974 condAB=0.5 condBA=0.0026581605528974 supA=10.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "141" : [ "kb=dbp:type List_of_halls_and_walks_of_fame", "AllConf=0.0460526315789474", "triple=e dbp:type List_of_halls_and_walks_of_fame", "class=Museum", "{AllConf=0.0460526315789474 condAB=0.0460526315789474 condBA=0.0875 supA=152.0 supB=80.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/List_of_halls_and_walks_of_fame" ],
+    "142" : [ "kb=dbp:type Science_museum", "AllConf=0.040983606557377", "triple=e dbp:type Science_museum", "class=Museum", "{AllConf=0.040983606557377 condAB=0.0510204081632653 condBA=0.040983606557377 supA=98.0 supB=122.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Science_museum" ],
+    "143" : [ "kb=dbp:type Art_museum", "AllConf=0.0965986394557823", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0965986394557823 condAB=0.467105263157895 condBA=0.0965986394557823 supA=152.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "144" : [ "kb=dbp:type Natural_history_museum", "AllConf=0.0419161676646707", "triple=e dbp:type Natural_history_museum", "class=Museum", "{AllConf=0.0419161676646707 condAB=0.0419161676646707 condBA=0.0909090909090909 supA=167.0 supB=77.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Natural_history_museum" ],
+    "145" : [ "kb=dbp:type Aviation_museum", "AllConf=0.0277777777777778", "triple=e dbp:type Aviation_museum", "class=Museum", "{AllConf=0.0277777777777778 condAB=0.0277777777777778 condBA=0.0359281437125748 supA=216.0 supB=167.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Aviation_museum" ],
+    "146" : [ "kb=dbp:type Museum", "AllConf=0.0288288288288288", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0288288288288288 condAB=0.280701754385965 condBA=0.0288288288288288 supA=57.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ],
+    "147" : [ "kb=dbp:type Planetarium", "AllConf=0.0267857142857143", "triple=e dbp:type Planetarium", "class=Museum", "{AllConf=0.0267857142857143 condAB=0.0267857142857143 condBA=0.260869565217391 supA=224.0 supB=23.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Planetarium" ],
+    "148" : [ "kb=dbp:type Art_gallery", "AllConf=0.0277777777777778", "triple=e dbp:type Art_gallery", "class=Museum", "{AllConf=0.0277777777777778 condAB=0.0277777777777778 condBA=0.127659574468085 supA=216.0 supB=47.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_gallery" ],
+    "149" : [ "kb=dbp:type Archaeological@en", "AllConf=0.03125", "triple=e dbp:type Archaeological@en", "class=Museum", "{AllConf=0.03125 condAB=0.03125 condBA=0.21875 supA=224.0 supB=32.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=\"\"\"Archaeological\"\"@en\"" ],
+    "150" : [ "kb=dbp:established 1975^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0357142857142857", "triple=e dbp:established 1975^^<http://www.w3.org/2001/XMLSchema#integer>", "class=Museum", "{AllConf=0.0357142857142857 condAB=0.0357142857142857 condBA=0.0943396226415094 supA=140.0 supB=53.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/established", "object=\"\"\"1975\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "151" : [ "kb=dbo:type Children's_museum", "AllConf=0.0303030303030303", "triple=e dbo:type Children's_museum", "class=Museum", "{AllConf=0.0303030303030303 condAB=0.0303030303030303 condBA=0.0909090909090909 supA=165.0 supB=55.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/Children's_museum" ],
+    "152" : [ "kb=dbo:type Archaeological_museum", "AllConf=0.0368663594470046", "triple=e dbo:type Archaeological_museum", "class=Museum", "{AllConf=0.0368663594470046 condAB=0.0368663594470046 condBA=0.131147540983607 supA=217.0 supB=61.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/Archaeological_museum" ],
+    "153" : [ "kb=dbo:type History_museum", "AllConf=0.0566037735849057", "triple=e dbo:type History_museum", "class=Museum", "{AllConf=0.0566037735849057 condAB=0.0727272727272727 condBA=0.0566037735849057 supA=165.0 supB=212.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/History_museum" ],
+    "154" : [ "kb=dbo:type History", "AllConf=0.0279329608938547", "triple=e dbo:type History", "class=Museum", "{AllConf=0.0279329608938547 condAB=0.0279329608938547 condBA=0.108695652173913 supA=179.0 supB=46.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/History" ],
+    "155" : [ "kb=dbo:type Open-air_museum", "AllConf=0.0230414746543779", "triple=e dbo:type Open-air_museum", "class=Museum", "{AllConf=0.0230414746543779 condAB=0.0230414746543779 condBA=0.108695652173913 supA=217.0 supB=46.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/Open-air_museum" ],
+    "156" : [ "kb=dbo:type Hall_of_fame", "AllConf=0.0335195530726257", "triple=e dbo:type Hall_of_fame", "class=Museum", "{AllConf=0.0335195530726257 condAB=0.0335195530726257 condBA=0.122448979591837 supA=179.0 supB=49.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/Hall_of_fame" ],
+    "157" : [ "kb=dbo:type Historic_site", "AllConf=0.0230414746543779", "triple=e dbo:type Historic_site", "class=Museum", "{AllConf=0.0230414746543779 condAB=0.0230414746543779 condBA=0.0793650793650794 supA=217.0 supB=63.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/Historic_site" ],
+    "158" : [ "kb=dbo:type Railway_museum", "AllConf=0.0230414746543779", "triple=e dbo:type Railway_museum", "class=Museum", "{AllConf=0.0230414746543779 condAB=0.0230414746543779 condBA=0.0684931506849315 supA=217.0 supB=73.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/Railway_museum" ]
+  }
+}, {
+  "id" : 297,
+  "pattern" : "main",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.0149659863945578", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0149659863945578 condAB=0.647058823529412 condBA=0.0149659863945578 supA=17.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 298,
+  "pattern" : "major",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.00816326530612245", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00816326530612245 condAB=0.75 condBA=0.00816326530612245 supA=8.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 303,
+  "pattern" : "maltese",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Malta", "AllConf=0.375", "triple=e dbo:location Malta", "class=Museum", "{AllConf=0.375 condAB=1.0 condBA=0.375 supA=6.0 supB=16.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Malta" ]
+  }
+}, {
+  "id" : 320,
+  "pattern" : "military",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Museum", "AllConf=0.0162162162162162", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0162162162162162 condAB=0.9 condBA=0.0162162162162162 supA=10.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 325,
+  "pattern" : "modern_contemporary",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.0122448979591837", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0122448979591837 condAB=0.9 condBA=0.0122448979591837 supA=10.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 331,
+  "pattern" : "municipal",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Cuba", "AllConf=0.803571428571429", "triple=e dbo:location Cuba", "class=Museum", "{AllConf=0.803571428571429 condAB=0.9375 condBA=0.803571428571429 supA=48.0 supB=56.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Cuba" ],
+    "1" : [ "kb=dbp:type Art_museum", "AllConf=0.00680272108843537", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00680272108843537 condAB=0.625 condBA=0.00680272108843537 supA=8.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 384,
+  "pattern" : "natural",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.0373134328358209", "triple=e dbo:location United_States", "class=Museum", "{AllConf=0.0373134328358209 condAB=0.128205128205128 condBA=0.0373134328358209 supA=78.0 supB=268.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:type Science_museum", "AllConf=0.040983606557377", "triple=e dbp:type Science_museum", "class=Museum", "{AllConf=0.040983606557377 condAB=0.3125 condBA=0.040983606557377 supA=16.0 supB=122.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Science_museum" ],
+    "2" : [ "kb=dbo:type Natural_history_museum", "AllConf=0.0543478260869565", "triple=e dbo:type Natural_history_museum", "class=Museum", "{AllConf=0.0543478260869565 condAB=0.555555555555556 condBA=0.0543478260869565 supA=9.0 supB=92.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/type", "object=http://dbpedia.org/resource/Natural_history_museum" ]
+  }
+}, {
+  "id" : 396,
+  "pattern" : "non-profit",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Canada", "AllConf=0.0352112676056338", "triple=e dbo:location Canada", "class=Museum", "{AllConf=0.0352112676056338 condAB=0.0595238095238095 condBA=0.0352112676056338 supA=84.0 supB=142.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Canada" ],
+    "1" : [ "kb=dbo:location United_States", "AllConf=0.0186567164179104", "triple=e dbo:location United_States", "class=Museum", "{AllConf=0.0186567164179104 condAB=0.0595238095238095 condBA=0.0186567164179104 supA=84.0 supB=268.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "2" : [ "kb=foaf:name @en", "AllConf=0.00531632110579479", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00531632110579479 condAB=0.333333333333333 condBA=0.00531632110579479 supA=30.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "3" : [ "kb=dbp:type Children's_museum", "AllConf=0.087719298245614", "triple=e dbp:type Children's_museum", "class=Museum", "{AllConf=0.087719298245614 condAB=0.161290322580645 condBA=0.087719298245614 supA=31.0 supB=57.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Children's_museum" ],
+    "4" : [ "kb=dbp:type Art_museum", "AllConf=0.0149659863945578", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0149659863945578 condAB=0.333333333333333 condBA=0.0149659863945578 supA=33.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "5" : [ "kb=dbp:type Aviation_museum", "AllConf=0.0359281437125748", "triple=e dbp:type Aviation_museum", "class=Museum", "{AllConf=0.0359281437125748 condAB=0.133333333333333 condBA=0.0359281437125748 supA=45.0 supB=167.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Aviation_museum" ]
+  }
+}, {
+  "id" : 397,
+  "pattern" : "nonprofit",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.0186567164179104", "triple=e dbo:location United_States", "class=Museum", "{AllConf=0.0186567164179104 condAB=0.185185185185185 condBA=0.0186567164179104 supA=27.0 supB=268.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 399,
+  "pattern" : "norwegian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Norway", "AllConf=0.555555555555556", "triple=e dbo:location Norway", "class=Museum", "{AllConf=0.555555555555556 condAB=0.882352941176471 condBA=0.555555555555556 supA=17.0 supB=27.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Norway" ]
+  }
+}, {
+  "id" : 405,
+  "pattern" : "oldest",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.0261194029850746", "triple=e dbo:location United_States", "class=Museum", "{AllConf=0.0261194029850746 condAB=0.116666666666667 condBA=0.0261194029850746 supA=60.0 supB=268.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=foaf:name @en", "AllConf=0.00372142477405635", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00372142477405635 condAB=0.170731707317073 condBA=0.00372142477405635 supA=41.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "2" : [ "kb=dbp:type Art_museum", "AllConf=0.0149659863945578", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0149659863945578 condAB=0.5 condBA=0.0149659863945578 supA=22.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "3" : [ "kb=dbp:type Museum", "AllConf=0.0108108108108108", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0108108108108108 condAB=0.193548387096774 condBA=0.0108108108108108 supA=31.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 407,
+  "pattern" : "one_largest",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.0122448979591837", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0122448979591837 condAB=0.6 condBA=0.0122448979591837 supA=15.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 410,
+  "pattern" : "open-air",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Canada", "AllConf=0.0352112676056338", "triple=e dbo:location Canada", "class=Museum", "{AllConf=0.0352112676056338 condAB=0.1 condBA=0.0352112676056338 supA=50.0 supB=142.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Canada" ]
+  }
+}, {
+  "id" : 427,
+  "pattern" : "permanent",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.0122448979591837", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0122448979591837 condAB=1.0 condBA=0.0122448979591837 supA=9.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 435,
+  "pattern" : "polish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Poland", "AllConf=0.358974358974359", "triple=e dbo:location Poland", "class=Museum", "{AllConf=0.358974358974359 condAB=0.756756756756757 condBA=0.358974358974359 supA=37.0 supB=78.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Poland" ],
+    "1" : [ "kb=dbo:location Warsaw", "AllConf=0.372093023255814", "triple=e dbo:location Warsaw", "class=Museum", "{AllConf=0.372093023255814 condAB=0.432432432432432 condBA=0.372093023255814 supA=37.0 supB=43.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Warsaw" ],
+    "2" : [ "kb=dbo:location KrakÃ³w", "AllConf=0.297297297297297", "triple=e dbo:location KrakÃ³w", "class=Museum", "{AllConf=0.297297297297297 condAB=0.297297297297297 condBA=0.478260869565217 supA=37.0 supB=23.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/KrakÃ³w" ],
+    "3" : [ "kb=foaf:name @en", "AllConf=0.0026581605528974", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.0026581605528974 condAB=0.625 condBA=0.0026581605528974 supA=8.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "4" : [ "kb=dbp:type Museum", "AllConf=0.0108108108108108", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0108108108108108 condAB=0.666666666666667 condBA=0.0108108108108108 supA=9.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 440,
+  "pattern" : "portuguese_museu_de",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location SÃ£o_Paulo", "AllConf=0.277777777777778", "triple=e dbo:location SÃ£o_Paulo", "class=Museum", "{AllConf=0.277777777777778 condAB=0.5 condBA=0.277777777777778 supA=10.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/SÃ£o_Paulo" ],
+    "1" : [ "kb=dbo:location Brazil", "AllConf=0.147058823529412", "triple=e dbo:location Brazil", "class=Museum", "{AllConf=0.147058823529412 condAB=0.5 condBA=0.147058823529412 supA=10.0 supB=34.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Brazil" ]
+  }
+}, {
+  "id" : 444,
+  "pattern" : "private",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Seoul", "AllConf=0.0704225352112676", "triple=e dbo:location Seoul", "class=Museum", "{AllConf=0.0704225352112676 condAB=0.0704225352112676 condBA=0.135135135135135 supA=71.0 supB=37.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Seoul" ],
+    "1" : [ "kb=dbo:location Turkey", "AllConf=0.072289156626506", "triple=e dbo:location Turkey", "class=Museum", "{AllConf=0.072289156626506 condAB=0.1 condBA=0.072289156626506 supA=60.0 supB=83.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Turkey" ],
+    "2" : [ "kb=dbo:location South_Korea", "AllConf=0.0833333333333333", "triple=e dbo:location South_Korea", "class=Museum", "{AllConf=0.0833333333333333 condAB=0.0833333333333333 condBA=0.0961538461538462 supA=60.0 supB=52.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/South_Korea" ],
+    "3" : [ "kb=foaf:name @en", "AllConf=0.0026581605528974", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.0026581605528974 condAB=0.2 condBA=0.0026581605528974 supA=25.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "4" : [ "kb=dbp:type Art_museum", "AllConf=0.0204081632653061", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0204081632653061 condAB=0.46875 condBA=0.0204081632653061 supA=32.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ],
+    "5" : [ "kb=dbp:type Museum", "AllConf=0.00900900900900901", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.00900900900900901 condAB=0.172413793103448 condBA=0.00900900900900901 supA=29.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ]
+  }
+}, {
+  "id" : 456,
+  "pattern" : "regional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=foaf:name @en", "AllConf=0.0026581605528974", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.0026581605528974 condAB=0.357142857142857 condBA=0.0026581605528974 supA=14.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "1" : [ "kb=dbp:type Art_museum", "AllConf=0.0136054421768707", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.0136054421768707 condAB=0.714285714285714 condBA=0.0136054421768707 supA=14.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 460,
+  "pattern" : "russian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Russia", "AllConf=0.137931034482759", "triple=e dbo:location Russia", "class=Museum", "{AllConf=0.137931034482759 condAB=0.470588235294118 condBA=0.137931034482759 supA=17.0 supB=58.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Russia" ],
+    "1" : [ "kb=foaf:name @en", "AllConf=0.00478468899521531", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00478468899521531 condAB=0.346153846153846 condBA=0.00478468899521531 supA=26.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "2" : [ "kb=dbp:type Mansion", "AllConf=0.5", "triple=e dbp:type Mansion", "class=Museum", "{AllConf=0.5 condAB=0.5 condBA=0.75 supA=12.0 supB=8.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Mansion" ]
+  }
+}, {
+  "id" : 476,
+  "pattern" : "second",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.00816326530612245", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00816326530612245 condAB=0.666666666666667 condBA=0.00816326530612245 supA=9.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 483,
+  "pattern" : "significant",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.00680272108843537", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00680272108843537 condAB=1.0 condBA=0.00680272108843537 supA=5.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 485,
+  "pattern" : "simplified_chinese",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location China", "AllConf=0.12", "triple=e dbo:location China", "class=Museum", "{AllConf=0.12 condAB=0.666666666666667 condBA=0.12 supA=9.0 supB=50.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/China" ]
+  }
+}, {
+  "id" : 488,
+  "pattern" : "small",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:mapType Somerset@en", "AllConf=0.162790697674419", "triple=e dbp:mapType Somerset@en", "class=Museum", "{AllConf=0.162790697674419 condAB=0.583333333333333 condBA=0.162790697674419 supA=12.0 supB=43.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"Somerset\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Somerset", "AllConf=0.162790697674419", "triple=e dbo:location Somerset", "class=Museum", "{AllConf=0.162790697674419 condAB=0.162790697674419 condBA=0.205882352941176 supA=43.0 supB=34.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Somerset" ],
+    "2" : [ "kb=dbp:type Local_museum", "AllConf=0.12962962962963", "triple=e dbp:type Local_museum", "class=Museum", "{AllConf=0.12962962962963 condAB=1.0 condBA=0.12962962962963 supA=7.0 supB=54.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Local_museum" ]
+  }
+}, {
+  "id" : 489,
+  "pattern" : "small_local",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:mapType Somerset@en", "AllConf=0.116279069767442", "triple=e dbp:mapType Somerset@en", "class=Museum", "{AllConf=0.116279069767442 condAB=1.0 condBA=0.116279069767442 supA=5.0 supB=43.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"Somerset\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Somerset", "AllConf=0.147058823529412", "triple=e dbo:location Somerset", "class=Museum", "{AllConf=0.147058823529412 condAB=0.555555555555556 condBA=0.147058823529412 supA=9.0 supB=34.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Somerset" ]
+  }
+}, {
+  "id" : 500,
+  "pattern" : "spanish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Spain", "AllConf=0.260869565217391", "triple=e dbo:location Spain", "class=Museum", "{AllConf=0.260869565217391 condAB=0.4 condBA=0.260869565217391 supA=60.0 supB=92.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Spain" ],
+    "1" : [ "kb=dbo:location Asturias", "AllConf=0.15", "triple=e dbo:location Asturias", "class=Museum", "{AllConf=0.15 condAB=0.15 condBA=0.6 supA=60.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Asturias" ],
+    "2" : [ "kb=foaf:name @en", "AllConf=0.00318979266347687", "triple=e foaf:name @en", "class=Museum", "{AllConf=0.00318979266347687 condAB=0.162162162162162 condBA=0.00318979266347687 supA=37.0 supB=1881.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://xmlns.com/foaf/0.1/name", "object=\"\"\"\"\"@en\"" ],
+    "3" : [ "kb=dbp:type Art_museum", "AllConf=0.00952380952380952", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.00952380952380952 condAB=0.583333333333333 condBA=0.00952380952380952 supA=12.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+}, {
+  "id" : 502,
+  "pattern" : "spanish_museo_de",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location Spain", "AllConf=0.108695652173913", "triple=e dbo:location Spain", "class=Museum", "{AllConf=0.108695652173913 condAB=0.526315789473684 condBA=0.108695652173913 supA=19.0 supB=92.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Spain" ],
+    "1" : [ "kb=dbo:location Asturias", "AllConf=0.263157894736842", "triple=e dbo:location Asturias", "class=Museum", "{AllConf=0.263157894736842 condAB=0.263157894736842 condBA=0.333333333333333 supA=19.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Asturias" ]
+  }
+}, {
+  "id" : 526,
+  "pattern" : "traditional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:location China", "AllConf=0.14", "triple=e dbo:location China", "class=Museum", "{AllConf=0.14 condAB=0.411764705882353 condBA=0.14 supA=17.0 supB=50.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/China" ]
+  }
+}, {
+  "id" : 533,
+  "pattern" : "turkish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:mapType Turkey@en", "AllConf=0.344262295081967", "triple=e dbp:mapType Turkey@en", "class=Museum", "{AllConf=0.344262295081967 condAB=1.0 condBA=0.344262295081967 supA=42.0 supB=122.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapType", "object=\"\"\"Turkey\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Istanbul", "AllConf=0.243243243243243", "triple=e dbo:location Istanbul", "class=Museum", "{AllConf=0.243243243243243 condAB=0.243243243243243 condBA=0.6 supA=74.0 supB=30.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Istanbul" ],
+    "2" : [ "kb=dbo:location Ankara", "AllConf=0.175675675675676", "triple=e dbo:location Ankara", "class=Museum", "{AllConf=0.175675675675676 condAB=0.175675675675676 condBA=0.8125 supA=74.0 supB=16.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Ankara" ],
+    "3" : [ "kb=dbo:location Turkey", "AllConf=0.55421686746988", "triple=e dbo:location Turkey", "class=Museum", "{AllConf=0.55421686746988 condAB=0.621621621621622 condBA=0.55421686746988 supA=74.0 supB=83.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Turkey" ],
+    "4" : [ "kb=dbp:type Archaeology", "AllConf=0.075", "triple=e dbp:type Archaeology", "class=Museum", "{AllConf=0.075 condAB=0.214285714285714 condBA=0.075 supA=28.0 supB=80.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Archaeology" ],
+    "5" : [ "kb=dbp:type Museum", "AllConf=0.0162162162162162", "triple=e dbp:type Museum", "class=Museum", "{AllConf=0.0162162162162162 condAB=0.321428571428571 condBA=0.0162162162162162 supA=28.0 supB=555.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Museum" ],
+    "6" : [ "kb=dbp:type Ethnography", "AllConf=0.09375", "triple=e dbp:type Ethnography", "class=Museum", "{AllConf=0.09375 condAB=0.214285714285714 condBA=0.09375 supA=28.0 supB=64.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Ethnography" ],
+    "7" : [ "kb=dbp:type Historic_house_museum", "AllConf=0.0714285714285714", "triple=e dbp:type Historic_house_museum", "class=Museum", "{AllConf=0.0714285714285714 condAB=0.178571428571429 condBA=0.0714285714285714 supA=28.0 supB=70.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Historic_house_museum" ]
+  }
+}, {
+  "id" : 556,
+  "pattern" : "visual",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:type Art_museum", "AllConf=0.017687074829932", "triple=e dbp:type Art_museum", "class=Museum", "{AllConf=0.017687074829932 condAB=1.0 condBA=0.017687074829932 supA=13.0 supB=735.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/Art_museum" ]
+  }
+} ]

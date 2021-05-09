@@ -1,0 +1,477 @@
+[ {
+  "id" : 1,
+  "pattern" : "(russian:",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:nativeName @en", "AllConf=0.0934579439252336", "triple=e dbp:nativeName @en", "class=Monument", "{AllConf=0.0934579439252336 condAB=0.0934579439252336 condBA=0.192307692307692 supA=107.0 supB=52.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/nativeName", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 2,
+  "pattern" : "-on-don",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Rostov_Oblast", "AllConf=0.172413793103448", "triple=e dbp:location Rostov_Oblast", "class=Monument", "{AllConf=0.172413793103448 condAB=0.714285714285714 condBA=0.172413793103448 supA=7.0 supB=29.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Rostov_Oblast" ],
+    "1" : [ "kb=dbp:location Russia", "AllConf=0.189189189189189", "triple=e dbp:location Russia", "class=Monument", "{AllConf=0.189189189189189 condAB=1.0 condBA=0.189189189189189 supA=7.0 supB=37.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Russia" ],
+    "2" : [ "kb=dbp:location Rostov-on-Don", "AllConf=0.538461538461538", "triple=e dbp:location Rostov-on-Don", "class=Monument", "{AllConf=0.538461538461538 condAB=1.0 condBA=0.538461538461538 supA=7.0 supB=13.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Rostov-on-Don" ]
+  }
+}, {
+  "id" : 5,
+  "pattern" : "church",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0806451612903226", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0806451612903226 condAB=1.0 condBA=0.0806451612903226 supA=5.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 6,
+  "pattern" : "city",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Rostov_Oblast", "AllConf=0.172413793103448", "triple=e dbp:location Rostov_Oblast", "class=Monument", "{AllConf=0.172413793103448 condAB=0.333333333333333 condBA=0.172413793103448 supA=15.0 supB=29.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Rostov_Oblast" ],
+    "1" : [ "kb=dbp:location India", "AllConf=0.227272727272727", "triple=e dbp:location India", "class=Monument", "{AllConf=0.227272727272727 condAB=0.333333333333333 condBA=0.227272727272727 supA=15.0 supB=22.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/India" ],
+    "2" : [ "kb=dbp:location Russia", "AllConf=0.162162162162162", "triple=e dbp:location Russia", "class=Monument", "{AllConf=0.162162162162162 condAB=0.4 condBA=0.162162162162162 supA=15.0 supB=37.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Russia" ]
+  }
+}, {
+  "id" : 7,
+  "pattern" : "france",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location France", "AllConf=0.333333333333333", "triple=e dbp:location France", "class=Monument", "{AllConf=0.333333333333333 condAB=1.0 condBA=0.333333333333333 supA=6.0 supB=18.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/France" ]
+  }
+}, {
+  "id" : 8,
+  "pattern" : "george",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.131147540983607", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.131147540983607 condAB=1.0 condBA=0.131147540983607 supA=8.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.129032258064516", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.129032258064516 condAB=1.0 condBA=0.129032258064516 supA=8.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 9,
+  "pattern" : "georgia's",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Georgia_(country)", "AllConf=0.108695652173913", "triple=e dbp:location Georgia_(country)", "class=Monument", "{AllConf=0.108695652173913 condAB=0.555555555555556 condBA=0.108695652173913 supA=9.0 supB=46.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "1" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "2" : [ "kb=dbo:location Shida_Kartli", "AllConf=0.6", "triple=e dbo:location Shida_Kartli", "class=Monument", "{AllConf=0.6 condAB=0.666666666666667 condBA=0.6 supA=9.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shida_Kartli" ]
+  }
+}, {
+  "id" : 10,
+  "pattern" : "god",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0983606557377049", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0983606557377049 condAB=1.0 condBA=0.0983606557377049 supA=6.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0967741935483871", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0967741935483871 condAB=1.0 condBA=0.0967741935483871 supA=6.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 11,
+  "pattern" : "house",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Moscow", "AllConf=0.2", "triple=e dbo:location Moscow", "class=Monument", "{AllConf=0.2 condAB=1.0 condBA=0.2 supA=8.0 supB=40.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Moscow" ]
+  }
+}, {
+  "id" : 13,
+  "pattern" : "inscribed_list",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0806451612903226", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0806451612903226 condAB=1.0 condBA=0.0806451612903226 supA=5.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 15,
+  "pattern" : "istan",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Pakistan", "AllConf=0.259259259259259", "triple=e dbp:location Pakistan", "class=Monument", "{AllConf=0.259259259259259 condAB=1.0 condBA=0.259259259259259 supA=7.0 supB=27.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Pakistan" ],
+    "1" : [ "kb=dbo:location Lahore", "AllConf=0.263157894736842", "triple=e dbo:location Lahore", "class=Monument", "{AllConf=0.263157894736842 condAB=0.555555555555556 condBA=0.263157894736842 supA=9.0 supB=19.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Lahore" ]
+  }
+}, {
+  "id" : 16,
+  "pattern" : "istan.",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Pakistan", "AllConf=0.259259259259259", "triple=e dbp:location Pakistan", "class=Monument", "{AllConf=0.259259259259259 condAB=1.0 condBA=0.259259259259259 supA=7.0 supB=27.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Pakistan" ]
+  }
+}, {
+  "id" : 17,
+  "pattern" : "kartli",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0983606557377049", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0983606557377049 condAB=1.0 condBA=0.0983606557377049 supA=6.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0967741935483871", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0967741935483871 condAB=1.0 condBA=0.0967741935483871 supA=6.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "2" : [ "kb=dbo:location Shida_Kartli", "AllConf=0.6", "triple=e dbo:location Shida_Kartli", "class=Monument", "{AllConf=0.6 condAB=1.0 condBA=0.6 supA=6.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shida_Kartli" ]
+  }
+}, {
+  "id" : 18,
+  "pattern" : "list",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0806451612903226", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0806451612903226 condAB=1.0 condBA=0.0806451612903226 supA=5.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 20,
+  "pattern" : "malay",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Sandakan@en", "AllConf=0.454545454545455", "triple=e dbp:location Sandakan@en", "class=Monument", "{AllConf=0.454545454545455 condAB=0.454545454545455 condBA=1.0 supA=11.0 supB=5.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=\"\"\"Sandakan\"\"@en\"" ]
+  }
+}, {
+  "id" : 21,
+  "pattern" : "mansion",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Taganrog", "AllConf=0.106382978723404", "triple=e dbo:location Taganrog", "class=Monument", "{AllConf=0.106382978723404 condAB=0.714285714285714 condBA=0.106382978723404 supA=7.0 supB=47.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Taganrog" ]
+  }
+}, {
+  "id" : 22,
+  "pattern" : "monument",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapImage Montreal@en", "AllConf=0.4", "triple=e dbp:mapImage Montreal@en", "class=Monument", "{AllConf=0.4 condAB=0.75 condBA=0.4 supA=8.0 supB=15.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapImage", "object=\"\"\"Montreal\"\"@en\"" ],
+    "1" : [ "kb=dbp:location Russia", "AllConf=0.0684931506849315", "triple=e dbp:location Russia", "class=Monument", "{AllConf=0.0684931506849315 condAB=0.0684931506849315 condBA=0.135135135135135 supA=73.0 supB=37.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Russia" ],
+    "2" : [ "kb=dbo:location Philippines", "AllConf=0.0403225806451613", "triple=e dbo:location Philippines", "class=Monument", "{AllConf=0.0403225806451613 condAB=0.0403225806451613 condBA=0.277777777777778 supA=124.0 supB=18.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Philippines" ],
+    "3" : [ "kb=dbo:location Rostov_Oblast", "AllConf=0.0483870967741935", "triple=e dbo:location Rostov_Oblast", "class=Monument", "{AllConf=0.0483870967741935 condAB=0.0483870967741935 condBA=0.15 supA=124.0 supB=40.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Rostov_Oblast" ],
+    "4" : [ "kb=dbp:nativeName @en", "AllConf=0.115384615384615", "triple=e dbp:nativeName @en", "class=Monument", "{AllConf=0.115384615384615 condAB=0.315789473684211 condBA=0.115384615384615 supA=19.0 supB=52.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/nativeName", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 23,
+  "pattern" : "mother",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0983606557377049", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0983606557377049 condAB=1.0 condBA=0.0983606557377049 supA=6.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0967741935483871", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0967741935483871 condAB=0.857142857142857 condBA=0.0967741935483871 supA=7.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 24,
+  "pattern" : "mother_god",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0983606557377049", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0983606557377049 condAB=1.0 condBA=0.0983606557377049 supA=6.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0967741935483871", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0967741935483871 condAB=1.0 condBA=0.0967741935483871 supA=6.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 25,
+  "pattern" : "mother_god_(",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0983606557377049", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0983606557377049 condAB=1.0 condBA=0.0983606557377049 supA=6.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0967741935483871", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0967741935483871 condAB=1.0 condBA=0.0967741935483871 supA=6.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 26,
+  "pattern" : "municipality",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Georgia_(country)", "AllConf=0.152173913043478", "triple=e dbp:location Georgia_(country)", "class=Monument", "{AllConf=0.152173913043478 condAB=0.7 condBA=0.152173913043478 supA=10.0 supB=46.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "1" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "2" : [ "kb=dbo:location Shida_Kartli", "AllConf=0.416666666666667", "triple=e dbo:location Shida_Kartli", "class=Monument", "{AllConf=0.416666666666667 condAB=0.416666666666667 condBA=0.5 supA=12.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shida_Kartli" ]
+  }
+}, {
+  "id" : 27,
+  "pattern" : "municipality_georgia's",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.112903225806452", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.112903225806452 condAB=1.0 condBA=0.112903225806452 supA=7.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "2" : [ "kb=dbo:location Shida_Kartli", "AllConf=0.5", "triple=e dbo:location Shida_Kartli", "class=Monument", "{AllConf=0.5 condAB=0.714285714285714 condBA=0.5 supA=7.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shida_Kartli" ]
+  }
+}, {
+  "id" : 28,
+  "pattern" : "n_orthodox",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.114754098360656", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.114754098360656 condAB=1.0 condBA=0.114754098360656 supA=7.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.112903225806452", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.112903225806452 condAB=1.0 condBA=0.112903225806452 supA=7.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 29,
+  "pattern" : "n_orthodox_church",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0806451612903226", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0806451612903226 condAB=1.0 condBA=0.0806451612903226 supA=5.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 30,
+  "pattern" : "oblast",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Rostov_Oblast", "AllConf=0.310344827586207", "triple=e dbp:location Rostov_Oblast", "class=Monument", "{AllConf=0.310344827586207 condAB=0.9 condBA=0.310344827586207 supA=10.0 supB=29.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Rostov_Oblast" ],
+    "1" : [ "kb=dbp:location Russia", "AllConf=0.243243243243243", "triple=e dbp:location Russia", "class=Monument", "{AllConf=0.243243243243243 condAB=0.9 condBA=0.243243243243243 supA=10.0 supB=37.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Russia" ]
+  }
+}, {
+  "id" : 31,
+  "pattern" : "oblast_russia",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Rostov_Oblast", "AllConf=0.275862068965517", "triple=e dbp:location Rostov_Oblast", "class=Monument", "{AllConf=0.275862068965517 condAB=1.0 condBA=0.275862068965517 supA=8.0 supB=29.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Rostov_Oblast" ],
+    "1" : [ "kb=dbp:location Russia", "AllConf=0.216216216216216", "triple=e dbp:location Russia", "class=Monument", "{AllConf=0.216216216216216 condAB=1.0 condBA=0.216216216216216 supA=8.0 supB=37.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Russia" ]
+  }
+}, {
+  "id" : 32,
+  "pattern" : "one",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Pakistan", "AllConf=0.185185185185185", "triple=e dbp:location Pakistan", "class=Monument", "{AllConf=0.185185185185185 condAB=0.357142857142857 condBA=0.185185185185185 supA=14.0 supB=27.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Pakistan" ]
+  }
+}, {
+  "id" : 33,
+  "pattern" : "orthodox",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.114754098360656", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.114754098360656 condAB=1.0 condBA=0.114754098360656 supA=7.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.112903225806452", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.112903225806452 condAB=1.0 condBA=0.112903225806452 supA=7.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 34,
+  "pattern" : "orthodox_church",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0806451612903226", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0806451612903226 condAB=1.0 condBA=0.0806451612903226 supA=5.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 35,
+  "pattern" : "pakistan",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Lahore", "AllConf=0.294117647058824", "triple=e dbp:location Lahore", "class=Monument", "{AllConf=0.294117647058824 condAB=0.625 condBA=0.294117647058824 supA=8.0 supB=17.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Lahore" ],
+    "1" : [ "kb=dbp:location Pakistan", "AllConf=0.259259259259259", "triple=e dbp:location Pakistan", "class=Monument", "{AllConf=0.259259259259259 condAB=0.875 condBA=0.259259259259259 supA=8.0 supB=27.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Pakistan" ]
+  }
+}, {
+  "id" : 36,
+  "pattern" : "philippines",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Philippines", "AllConf=0.388888888888889", "triple=e dbo:location Philippines", "class=Monument", "{AllConf=0.388888888888889 condAB=0.875 condBA=0.388888888888889 supA=8.0 supB=18.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Philippines" ]
+  }
+}, {
+  "id" : 38,
+  "pattern" : "polish_pomnik",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Poland", "AllConf=0.217391304347826", "triple=e dbo:location Poland", "class=Monument", "{AllConf=0.217391304347826 condAB=1.0 condBA=0.217391304347826 supA=5.0 supB=23.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Poland" ]
+  }
+}, {
+  "id" : 39,
+  "pattern" : "pomnik",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Poland", "AllConf=0.217391304347826", "triple=e dbo:location Poland", "class=Monument", "{AllConf=0.217391304347826 condAB=1.0 condBA=0.217391304347826 supA=5.0 supB=23.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Poland" ]
+  }
+}, {
+  "id" : 40,
+  "pattern" : "punjab",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Pakistan", "AllConf=0.222222222222222", "triple=e dbp:location Pakistan", "class=Monument", "{AllConf=0.222222222222222 condAB=1.0 condBA=0.222222222222222 supA=6.0 supB=27.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Pakistan" ]
+  }
+}, {
+  "id" : 41,
+  "pattern" : "punjab_pakistan",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Pakistan", "AllConf=0.185185185185185", "triple=e dbp:location Pakistan", "class=Monument", "{AllConf=0.185185185185185 condAB=1.0 condBA=0.185185185185185 supA=5.0 supB=27.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Pakistan" ]
+  }
+}, {
+  "id" : 42,
+  "pattern" : "rajasthan",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Rajasthan", "AllConf=0.833333333333333", "triple=e dbp:location Rajasthan", "class=Monument", "{AllConf=0.833333333333333 condAB=1.0 condBA=0.833333333333333 supA=5.0 supB=6.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Rajasthan" ],
+    "1" : [ "kb=dbp:location India", "AllConf=0.227272727272727", "triple=e dbp:location India", "class=Monument", "{AllConf=0.227272727272727 condAB=1.0 condBA=0.227272727272727 supA=5.0 supB=22.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/India" ]
+  }
+}, {
+  "id" : 43,
+  "pattern" : "region",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Georgia_(country)", "AllConf=0.304347826086957", "triple=e dbp:location Georgia_(country)", "class=Monument", "{AllConf=0.304347826086957 condAB=0.777777777777778 condBA=0.304347826086957 supA=18.0 supB=46.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "1" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.229508196721311", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.229508196721311 condAB=1.0 condBA=0.229508196721311 supA=14.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "2" : [ "kb=dbo:location Shida_Kartli", "AllConf=0.333333333333333", "triple=e dbo:location Shida_Kartli", "class=Monument", "{AllConf=0.333333333333333 condAB=0.333333333333333 condBA=0.7 supA=21.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shida_Kartli" ]
+  }
+}, {
+  "id" : 44,
+  "pattern" : "region_shida",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0806451612903226", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0806451612903226 condAB=1.0 condBA=0.0806451612903226 supA=5.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "2" : [ "kb=dbo:location Shida_Kartli", "AllConf=0.5", "triple=e dbo:location Shida_Kartli", "class=Monument", "{AllConf=0.5 condAB=1.0 condBA=0.5 supA=5.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shida_Kartli" ]
+  }
+}, {
+  "id" : 45,
+  "pattern" : "region_shida_kartli",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0806451612903226", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0806451612903226 condAB=1.0 condBA=0.0806451612903226 supA=5.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "2" : [ "kb=dbo:location Shida_Kartli", "AllConf=0.5", "triple=e dbo:location Shida_Kartli", "class=Monument", "{AllConf=0.5 condAB=1.0 condBA=0.5 supA=5.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shida_Kartli" ]
+  }
+}, {
+  "id" : 46,
+  "pattern" : "rostov",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Rostov_Oblast", "AllConf=0.310344827586207", "triple=e dbp:location Rostov_Oblast", "class=Monument", "{AllConf=0.310344827586207 condAB=0.9 condBA=0.310344827586207 supA=10.0 supB=29.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Rostov_Oblast" ],
+    "1" : [ "kb=dbp:location Russia", "AllConf=0.216216216216216", "triple=e dbp:location Russia", "class=Monument", "{AllConf=0.216216216216216 condAB=1.0 condBA=0.216216216216216 supA=8.0 supB=37.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Russia" ],
+    "2" : [ "kb=dbp:nativeName @en", "AllConf=0.0961538461538462", "triple=e dbp:nativeName @en", "class=Monument", "{AllConf=0.0961538461538462 condAB=0.555555555555556 condBA=0.0961538461538462 supA=9.0 supB=52.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/nativeName", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 47,
+  "pattern" : "rostov-on-don",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Rostov-on-Don", "AllConf=0.116279069767442", "triple=e dbo:location Rostov-on-Don", "class=Monument", "{AllConf=0.116279069767442 condAB=1.0 condBA=0.116279069767442 supA=5.0 supB=43.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Rostov-on-Don" ]
+  }
+}, {
+  "id" : 48,
+  "pattern" : "rostov_oblast",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Rostov_Oblast", "AllConf=0.275862068965517", "triple=e dbp:location Rostov_Oblast", "class=Monument", "{AllConf=0.275862068965517 condAB=1.0 condBA=0.275862068965517 supA=8.0 supB=29.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Rostov_Oblast" ],
+    "1" : [ "kb=dbp:location Russia", "AllConf=0.243243243243243", "triple=e dbp:location Russia", "class=Monument", "{AllConf=0.243243243243243 condAB=0.9 condBA=0.243243243243243 supA=10.0 supB=37.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Russia" ]
+  }
+}, {
+  "id" : 49,
+  "pattern" : "rostov_oblast_russia",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Rostov_Oblast", "AllConf=0.275862068965517", "triple=e dbp:location Rostov_Oblast", "class=Monument", "{AllConf=0.275862068965517 condAB=1.0 condBA=0.275862068965517 supA=8.0 supB=29.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Rostov_Oblast" ],
+    "1" : [ "kb=dbp:location Russia", "AllConf=0.216216216216216", "triple=e dbp:location Russia", "class=Monument", "{AllConf=0.216216216216216 condAB=1.0 condBA=0.216216216216216 supA=8.0 supB=37.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Russia" ]
+  }
+}, {
+  "id" : 50,
+  "pattern" : "russia",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Rostov_Oblast", "AllConf=0.275862068965517", "triple=e dbp:location Rostov_Oblast", "class=Monument", "{AllConf=0.275862068965517 condAB=0.727272727272727 condBA=0.275862068965517 supA=11.0 supB=29.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Rostov_Oblast" ],
+    "1" : [ "kb=dbp:location Russia", "AllConf=0.243243243243243", "triple=e dbp:location Russia", "class=Monument", "{AllConf=0.243243243243243 condAB=1.0 condBA=0.243243243243243 supA=9.0 supB=37.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Russia" ],
+    "2" : [ "kb=dbp:nativeName @en", "AllConf=0.0961538461538462", "triple=e dbp:nativeName @en", "class=Monument", "{AllConf=0.0961538461538462 condAB=0.555555555555556 condBA=0.0961538461538462 supA=9.0 supB=52.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/nativeName", "object=\"\"\"\"\"@en\"" ]
+  }
+}, {
+  "id" : 52,
+  "pattern" : "russian_ðð¾ð¼",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Taganrog", "AllConf=0.170212765957447", "triple=e dbo:location Taganrog", "class=Monument", "{AllConf=0.170212765957447 condAB=0.571428571428571 condBA=0.170212765957447 supA=14.0 supB=47.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Taganrog" ],
+    "1" : [ "kb=dbo:location Rostov-on-Don", "AllConf=0.116279069767442", "triple=e dbo:location Rostov-on-Don", "class=Monument", "{AllConf=0.116279069767442 condAB=0.357142857142857 condBA=0.116279069767442 supA=14.0 supB=43.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Rostov-on-Don" ]
+  }
+}, {
+  "id" : 53,
+  "pattern" : "russian_ðñð¾ð±ð½ñðº",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Rostov-on-Don", "AllConf=0.13953488372093", "triple=e dbo:location Rostov-on-Don", "class=Monument", "{AllConf=0.13953488372093 condAB=0.75 condBA=0.13953488372093 supA=8.0 supB=43.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Rostov-on-Don" ]
+  }
+}, {
+  "id" : 54,
+  "pattern" : "russian_ðð°ð¼ññð½ð¸ðº",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Russia", "AllConf=0.1", "triple=e dbo:location Russia", "class=Monument", "{AllConf=0.1 condAB=0.5 condBA=0.1 supA=12.0 supB=60.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Russia" ]
+  }
+}, {
+  "id" : 55,
+  "pattern" : "saint",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.180327868852459", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.180327868852459 condAB=1.0 condBA=0.180327868852459 supA=11.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.17741935483871", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.17741935483871 condAB=1.0 condBA=0.17741935483871 supA=11.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "2" : [ "kb=dbo:location Shida_Kartli", "AllConf=0.416666666666667", "triple=e dbo:location Shida_Kartli", "class=Monument", "{AllConf=0.416666666666667 condAB=0.416666666666667 condBA=0.5 supA=12.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shida_Kartli" ]
+  }
+}, {
+  "id" : 56,
+  "pattern" : "saint_george",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.131147540983607", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.131147540983607 condAB=1.0 condBA=0.131147540983607 supA=8.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.129032258064516", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.129032258064516 condAB=1.0 condBA=0.129032258064516 supA=8.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 57,
+  "pattern" : "saint_george_(",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.131147540983607", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.131147540983607 condAB=1.0 condBA=0.131147540983607 supA=8.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.129032258064516", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.129032258064516 condAB=1.0 condBA=0.129032258064516 supA=8.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ]
+  }
+}, {
+  "id" : 58,
+  "pattern" : "shida",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0819672131147541", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0819672131147541 condAB=1.0 condBA=0.0819672131147541 supA=5.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0806451612903226", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0806451612903226 condAB=1.0 condBA=0.0806451612903226 supA=5.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "2" : [ "kb=dbo:location Shida_Kartli", "AllConf=0.6", "triple=e dbo:location Shida_Kartli", "class=Monument", "{AllConf=0.6 condAB=1.0 condBA=0.6 supA=6.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shida_Kartli" ]
+  }
+}, {
+  "id" : 59,
+  "pattern" : "shida_kartli",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:mapName Georgia@en", "AllConf=0.0983606557377049", "triple=e dbp:mapName Georgia@en", "class=Monument", "{AllConf=0.0983606557377049 condAB=1.0 condBA=0.0983606557377049 supA=6.0 supB=61.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/mapName", "object=\"\"\"Georgia\"\"@en\"" ],
+    "1" : [ "kb=dbo:location Georgia_(country)", "AllConf=0.0967741935483871", "triple=e dbo:location Georgia_(country)", "class=Monument", "{AllConf=0.0967741935483871 condAB=1.0 condBA=0.0967741935483871 supA=6.0 supB=62.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Georgia_(country)" ],
+    "2" : [ "kb=dbo:location Shida_Kartli", "AllConf=0.5", "triple=e dbo:location Shida_Kartli", "class=Monument", "{AllConf=0.5 condAB=1.0 condBA=0.5 supA=5.0 supB=10.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Shida_Kartli" ]
+  }
+}, {
+  "id" : 60,
+  "pattern" : "statue",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location United_States", "AllConf=0.227272727272727", "triple=e dbp:location United_States", "class=Monument", "{AllConf=0.227272727272727 condAB=0.227272727272727 condBA=0.384615384615385 supA=22.0 supB=13.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 62,
+  "pattern" : "united",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location United_States", "AllConf=0.384615384615385", "triple=e dbp:location United_States", "class=Monument", "{AllConf=0.384615384615385 condAB=1.0 condBA=0.384615384615385 supA=5.0 supB=13.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 63,
+  "pattern" : "urdu",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Lahore", "AllConf=0.294117647058824", "triple=e dbp:location Lahore", "class=Monument", "{AllConf=0.294117647058824 condAB=0.555555555555556 condBA=0.294117647058824 supA=9.0 supB=17.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Lahore" ],
+    "1" : [ "kb=dbp:location Pakistan", "AllConf=0.333333333333333", "triple=e dbp:location Pakistan", "class=Monument", "{AllConf=0.333333333333333 condAB=1.0 condBA=0.333333333333333 supA=9.0 supB=27.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Pakistan" ]
+  }
+}, {
+  "id" : 64,
+  "pattern" : "village",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:location Azerbaijan", "AllConf=0.135135135135135", "triple=e dbp:location Azerbaijan", "class=Monument", "{AllConf=0.135135135135135 condAB=0.555555555555556 condBA=0.135135135135135 supA=9.0 supB=37.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/location", "object=http://dbpedia.org/resource/Azerbaijan" ]
+  }
+}, {
+  "id" : 65,
+  "pattern" : "war",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:type War_memorial", "AllConf=0.416666666666667", "triple=e dbp:type War_memorial", "class=Monument", "{AllConf=0.416666666666667 condAB=0.714285714285714 condBA=0.416666666666667 supA=7.0 supB=12.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/type", "object=http://dbpedia.org/resource/War_memorial" ]
+  }
+}, {
+  "id" : 67,
+  "pattern" : "ðð¾ð¼",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Taganrog", "AllConf=0.170212765957447", "triple=e dbo:location Taganrog", "class=Monument", "{AllConf=0.170212765957447 condAB=0.571428571428571 condBA=0.170212765957447 supA=14.0 supB=47.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Taganrog" ],
+    "1" : [ "kb=dbo:location Rostov-on-Don", "AllConf=0.116279069767442", "triple=e dbo:location Rostov-on-Don", "class=Monument", "{AllConf=0.116279069767442 condAB=0.357142857142857 condBA=0.116279069767442 supA=14.0 supB=43.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Rostov-on-Don" ]
+  }
+}, {
+  "id" : 68,
+  "pattern" : "ðñð¾ð±ð½ñðº",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Rostov-on-Don", "AllConf=0.13953488372093", "triple=e dbo:location Rostov-on-Don", "class=Monument", "{AllConf=0.13953488372093 condAB=0.75 condBA=0.13953488372093 supA=8.0 supB=43.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Rostov-on-Don" ]
+  }
+}, {
+  "id" : 69,
+  "pattern" : "ðð°ð¼ññð½ð¸ðº",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location Russia", "AllConf=0.1", "triple=e dbo:location Russia", "class=Monument", "{AllConf=0.1 condAB=0.5 condBA=0.1 supA=12.0 supB=60.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/Russia" ]
+  }
+} ]

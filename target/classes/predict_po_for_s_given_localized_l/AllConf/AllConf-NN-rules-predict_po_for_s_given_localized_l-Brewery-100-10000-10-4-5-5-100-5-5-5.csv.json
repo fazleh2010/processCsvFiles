@@ -1,0 +1,53 @@
+[ {
+  "id" : 1,
+  "pattern" : "american",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.151515151515152", "triple=e dbo:location United_States", "class=Brewery", "{AllConf=0.151515151515152 condAB=0.625 condBA=0.151515151515152 supA=8.0 supB=33.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 2,
+  "pattern" : "bavaria",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:locationCountry Germany", "AllConf=0.0892857142857143", "triple=e dbp:locationCountry Germany", "class=Brewery", "{AllConf=0.0892857142857143 condAB=0.833333333333333 condBA=0.0892857142857143 supA=6.0 supB=56.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/locationCountry", "object=http://dbpedia.org/resource/Germany" ]
+  }
+}, {
+  "id" : 3,
+  "pattern" : "brewery",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.303030303030303", "triple=e dbo:location United_States", "class=Brewery", "{AllConf=0.303030303030303 condAB=0.3125 condBA=0.303030303030303 supA=32.0 supB=33.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:locationState New Jersey@en", "AllConf=0.227272727272727", "triple=e dbp:locationState New Jersey@en", "class=Brewery", "{AllConf=0.227272727272727 condAB=0.227272727272727 condBA=0.555555555555556 supA=22.0 supB=9.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/locationState", "object=\"\"\"New Jersey\"\"@en\"" ],
+    "2" : [ "kb=dbp:locationCountry Germany", "AllConf=0.142857142857143", "triple=e dbp:locationCountry Germany", "class=Brewery", "{AllConf=0.142857142857143 condAB=0.615384615384615 condBA=0.142857142857143 supA=13.0 supB=56.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/locationCountry", "object=http://dbpedia.org/resource/Germany" ]
+  }
+}, {
+  "id" : 4,
+  "pattern" : "brewery_located",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.151515151515152", "triple=e dbo:location United_States", "class=Brewery", "{AllConf=0.151515151515152 condAB=0.263157894736842 condBA=0.151515151515152 supA=19.0 supB=33.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
+    "1" : [ "kb=dbp:locationCountry Germany", "AllConf=0.107142857142857", "triple=e dbp:locationCountry Germany", "class=Brewery", "{AllConf=0.107142857142857 condAB=1.0 condBA=0.107142857142857 supA=6.0 supB=56.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/locationCountry", "object=http://dbpedia.org/resource/Germany" ]
+  }
+}, {
+  "id" : 5,
+  "pattern" : "county",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:locationState New Jersey@en", "AllConf=0.666666666666667", "triple=e dbp:locationState New Jersey@en", "class=Brewery", "{AllConf=0.666666666666667 condAB=0.75 condBA=0.666666666666667 supA=8.0 supB=9.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/locationState", "object=\"\"\"New Jersey\"\"@en\"" ]
+  }
+}, {
+  "id" : 7,
+  "pattern" : "gmbh",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbp:locationCountry Germany", "AllConf=0.0892857142857143", "triple=e dbp:locationCountry Germany", "class=Brewery", "{AllConf=0.0892857142857143 condAB=1.0 condBA=0.0892857142857143 supA=5.0 supB=56.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/locationCountry", "object=http://dbpedia.org/resource/Germany" ]
+  }
+}, {
+  "id" : 9,
+  "pattern" : "united",
+  "partsOfSpeech" : "NN",
+  "index" : {
+    "0" : [ "kb=dbo:location United_States", "AllConf=0.151515151515152", "triple=e dbo:location United_States", "class=Brewery", "{AllConf=0.151515151515152 condAB=1.0 condBA=0.151515151515152 supA=5.0 supB=33.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ]
+  }
+} ]

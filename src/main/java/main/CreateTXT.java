@@ -28,15 +28,15 @@ import java.util.logging.Logger;
 public class CreateTXT implements NullInterestingness,DirectoryLocation{
 
    
-    public static String resultStrTxt(String outputDir, String prediction,  Lemmatizer lemmatizer,String interestingness) throws Exception {
+    public static String resultStrTxt(String inputDir,String outputDirT, String prediction,  Lemmatizer lemmatizer,String interestingness) throws Exception {
         String stringAdd = "";
         Set<String> posTag=new HashSet<String>();
-        //posTag.add("JJ");
+        posTag.add("JJ");
         //posTag.add("NN");
-        posTag.add("VB");
+        //posTag.add("VB");
         
         for(String parts_of_speech:posTag){
-             List<File> files = FileFolderUtils.getSpecificFiles(outputDir, parts_of_speech);
+             List<File> files = FileFolderUtils.getSpecificFiles(inputDir, parts_of_speech);
         if (!files.isEmpty()) {
             for (File file : files) {
               
@@ -72,8 +72,8 @@ public class CreateTXT implements NullInterestingness,DirectoryLocation{
                     }
                     stringAdd += lines;
                 }
-            String csvFileName=    outputDir+file.getName().replace(".json","");
-            System.out.println(file.getName());
+            String csvFileName=    outputDirT+file.getName().replace(".json","");
+            System.out.println(csvFileName);
             FileFolderUtils.writeToTextFile(stringAdd, csvFileName);
            
             }

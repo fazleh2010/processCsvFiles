@@ -1,0 +1,275 @@
+[ {
+  "id" : 19,
+  "pattern" : "active",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.00722543352601156", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.00722543352601156 condAB=1.0 condBA=0.00722543352601156 supA=5.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 21,
+  "pattern" : "american",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0245664739884393", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0245664739884393 condAB=1.0 condBA=0.0245664739884393 supA=17.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbo:status UCI Continental", "AllConf=0.0295566502463054", "triple=e dbo:status UCI Continental", "class=CyclingTeam", "{AllConf=0.0295566502463054 condAB=1.0 condBA=0.0295566502463054 supA=6.0 supB=203.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/status", "object=\"\"\"UCI Continental\"\"\"" ],
+    "2" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.0149253731343284", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.0149253731343284 condAB=1.0 condBA=0.0149253731343284 supA=5.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 24,
+  "pattern" : "argentinian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0101156069364162", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0101156069364162 condAB=1.0 condBA=0.0101156069364162 supA=7.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.0149253731343284", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.0149253731343284 condAB=1.0 condBA=0.0149253731343284 supA=5.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 27,
+  "pattern" : "australian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0187861271676301", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0187861271676301 condAB=1.0 condBA=0.0187861271676301 supA=13.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbo:status UCI Continental", "AllConf=0.0246305418719212", "triple=e dbo:status UCI Continental", "class=CyclingTeam", "{AllConf=0.0246305418719212 condAB=1.0 condBA=0.0246305418719212 supA=5.0 supB=203.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/status", "object=\"\"\"UCI Continental\"\"\"" ],
+    "2" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.017910447761194", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.017910447761194 condAB=1.0 condBA=0.017910447761194 supA=6.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 32,
+  "pattern" : "belgian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0260115606936416", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0260115606936416 condAB=0.947368421052632 condBA=0.0260115606936416 supA=19.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 33,
+  "pattern" : "belgian_professional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0187861271676301", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0187861271676301 condAB=0.928571428571429 condBA=0.0187861271676301 supA=14.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 38,
+  "pattern" : "british",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0130057803468208", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0130057803468208 condAB=1.0 condBA=0.0130057803468208 supA=9.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.0149253731343284", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.0149253731343284 condAB=1.0 condBA=0.0149253731343284 supA=5.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 41,
+  "pattern" : "canadian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.00867052023121387", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.00867052023121387 condAB=1.0 condBA=0.00867052023121387 supA=6.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.0149253731343284", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.0149253731343284 condAB=0.833333333333333 condBA=0.0149253731343284 supA=6.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 44,
+  "pattern" : "chinese",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0187861271676301", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0187861271676301 condAB=1.0 condBA=0.0187861271676301 supA=13.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbo:status UCI Continental", "AllConf=0.0394088669950739", "triple=e dbo:status UCI Continental", "class=CyclingTeam", "{AllConf=0.0394088669950739 condAB=1.0 condBA=0.0394088669950739 supA=8.0 supB=203.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/status", "object=\"\"\"UCI Continental\"\"\"" ],
+    "2" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.026865671641791", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.026865671641791 condAB=1.0 condBA=0.026865671641791 supA=9.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ],
+    "3" : [ "kb=dbp:season 2016^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0434782608695652", "triple=e dbp:season 2016^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0434782608695652 condAB=0.555555555555556 condBA=0.0434782608695652 supA=9.0 supB=115.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"2016\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "4" : [ "kb=dbp:season 2017^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.036231884057971", "triple=e dbp:season 2017^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.036231884057971 condAB=0.454545454545455 condBA=0.036231884057971 supA=11.0 supB=138.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"2017\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "5" : [ "kb=dbp:season 2015^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0503597122302158", "triple=e dbp:season 2015^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0503597122302158 condAB=0.777777777777778 condBA=0.0503597122302158 supA=9.0 supB=139.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"2015\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 53,
+  "pattern" : "colombian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0115606936416185", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0115606936416185 condAB=1.0 condBA=0.0115606936416185 supA=8.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.0149253731343284", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.0149253731343284 condAB=1.0 condBA=0.0149253731343284 supA=5.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 83,
+  "pattern" : "dutch",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0202312138728324", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0202312138728324 condAB=1.0 condBA=0.0202312138728324 supA=14.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 92,
+  "pattern" : "former",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.00722543352601156", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.00722543352601156 condAB=1.0 condBA=0.00722543352601156 supA=5.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 93,
+  "pattern" : "former_professional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.00722543352601156", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.00722543352601156 condAB=1.0 condBA=0.00722543352601156 supA=5.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 99,
+  "pattern" : "french",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0419075144508671", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0419075144508671 condAB=0.966666666666667 condBA=0.0419075144508671 supA=30.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 100,
+  "pattern" : "french_professional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0361271676300578", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0361271676300578 condAB=0.961538461538462 condBA=0.0361271676300578 supA=26.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 105,
+  "pattern" : "german",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0101156069364162", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0101156069364162 condAB=1.0 condBA=0.0101156069364162 supA=7.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbo:status UCI Continental", "AllConf=0.0344827586206897", "triple=e dbo:status UCI Continental", "class=CyclingTeam", "{AllConf=0.0344827586206897 condAB=0.777777777777778 condBA=0.0344827586206897 supA=9.0 supB=203.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/status", "object=\"\"\"UCI Continental\"\"\"" ],
+    "2" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.017910447761194", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.017910447761194 condAB=0.857142857142857 condBA=0.017910447761194 supA=7.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 108,
+  "pattern" : "iranian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.00722543352601156", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.00722543352601156 condAB=1.0 condBA=0.00722543352601156 supA=5.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 111,
+  "pattern" : "italian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0635838150289017", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0635838150289017 condAB=1.0 condBA=0.0635838150289017 supA=44.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbp:season 1998^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.172413793103448", "triple=e dbp:season 1998^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.172413793103448 condAB=0.172413793103448 condBA=0.192307692307692 supA=29.0 supB=26.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1998\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "2" : [ "kb=dbp:season 1996^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.241379310344828", "triple=e dbp:season 1996^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.241379310344828 condAB=0.241379310344828 condBA=0.259259259259259 supA=29.0 supB=27.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1996\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "3" : [ "kb=dbp:season 1997^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.241379310344828", "triple=e dbp:season 1997^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.241379310344828 condAB=0.241379310344828 condBA=0.25 supA=29.0 supB=28.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1997\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "4" : [ "kb=dbp:season 2000^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.142857142857143", "triple=e dbp:season 2000^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.142857142857143 condAB=0.206896551724138 condBA=0.142857142857143 supA=29.0 supB=42.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"2000\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 112,
+  "pattern" : "italian_professional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0491329479768786", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0491329479768786 condAB=1.0 condBA=0.0491329479768786 supA=34.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 116,
+  "pattern" : "japanese",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0115606936416185", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0115606936416185 condAB=1.0 condBA=0.0115606936416185 supA=8.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbo:status UCI Continental", "AllConf=0.0344827586206897", "triple=e dbo:status UCI Continental", "class=CyclingTeam", "{AllConf=0.0344827586206897 condAB=1.0 condBA=0.0344827586206897 supA=7.0 supB=203.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/status", "object=\"\"\"UCI Continental\"\"\"" ],
+    "2" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.0238805970149254", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.0238805970149254 condAB=1.0 condBA=0.0238805970149254 supA=8.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 119,
+  "pattern" : "korean",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.00722543352601156", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.00722543352601156 condAB=1.0 condBA=0.00722543352601156 supA=5.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.0149253731343284", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.0149253731343284 condAB=1.0 condBA=0.0149253731343284 supA=5.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 122,
+  "pattern" : "main",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0130057803468208", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0130057803468208 condAB=1.0 condBA=0.0130057803468208 supA=9.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 124,
+  "pattern" : "malaysian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.00722543352601156", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.00722543352601156 condAB=1.0 condBA=0.00722543352601156 supA=5.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 133,
+  "pattern" : "polish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.00722543352601156", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.00722543352601156 condAB=1.0 condBA=0.00722543352601156 supA=5.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbo:status UCI Continental", "AllConf=0.0246305418719212", "triple=e dbo:status UCI Continental", "class=CyclingTeam", "{AllConf=0.0246305418719212 condAB=1.0 condBA=0.0246305418719212 supA=5.0 supB=203.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/status", "object=\"\"\"UCI Continental\"\"\"" ],
+    "2" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.017910447761194", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.017910447761194 condAB=1.0 condBA=0.017910447761194 supA=6.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 139,
+  "pattern" : "professional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.111271676300578", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.111271676300578 condAB=0.987179487179487 condBA=0.111271676300578 supA=78.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbp:registered Italy@en", "AllConf=0.0985915492957746", "triple=e dbp:registered Italy@en", "class=CyclingTeam", "{AllConf=0.0985915492957746 condAB=0.109375 condBA=0.0985915492957746 supA=64.0 supB=71.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/registered", "object=\"\"\"Italy\"\"@en\"" ],
+    "2" : [ "kb=dbp:registered Netherlands", "AllConf=0.078125", "triple=e dbp:registered Netherlands", "class=CyclingTeam", "{AllConf=0.078125 condAB=0.078125 condBA=0.333333333333333 supA=64.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/registered", "object=http://dbpedia.org/resource/Netherlands" ],
+    "3" : [ "kb=dbp:registered Italy", "AllConf=0.078125", "triple=e dbp:registered Italy", "class=CyclingTeam", "{AllConf=0.078125 condAB=0.078125 condBA=0.147058823529412 supA=64.0 supB=34.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/registered", "object=http://dbpedia.org/resource/Italy" ],
+    "4" : [ "kb=dbp:registered United States@en", "AllConf=0.078125", "triple=e dbp:registered United States@en", "class=CyclingTeam", "{AllConf=0.078125 condAB=0.078125 condBA=0.15625 supA=64.0 supB=32.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/registered", "object=\"\"\"United States\"\"@en\"" ],
+    "5" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.017910447761194", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.017910447761194 condAB=0.5 condBA=0.017910447761194 supA=12.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ],
+    "6" : [ "kb=dbp:season 1981^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0704225352112676", "triple=e dbp:season 1981^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0704225352112676 condAB=0.0704225352112676 condBA=0.333333333333333 supA=71.0 supB=15.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1981\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "7" : [ "kb=dbp:season 1998^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0845070422535211", "triple=e dbp:season 1998^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0845070422535211 condAB=0.0845070422535211 condBA=0.230769230769231 supA=71.0 supB=26.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1998\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "8" : [ "kb=dbp:season 1990^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0704225352112676", "triple=e dbp:season 1990^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0704225352112676 condAB=0.0704225352112676 condBA=0.217391304347826 supA=71.0 supB=23.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1990\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "9" : [ "kb=dbp:season 1978^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0845070422535211", "triple=e dbp:season 1978^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0845070422535211 condAB=0.0845070422535211 condBA=0.352941176470588 supA=71.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1978\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "10" : [ "kb=dbp:season 1976^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0845070422535211", "triple=e dbp:season 1976^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0845070422535211 condAB=0.0845070422535211 condBA=0.333333333333333 supA=71.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1976\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "11" : [ "kb=dbp:season 1989^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0845070422535211", "triple=e dbp:season 1989^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0845070422535211 condAB=0.0845070422535211 condBA=0.230769230769231 supA=71.0 supB=26.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1989\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "12" : [ "kb=dbp:season 1973^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0704225352112676", "triple=e dbp:season 1973^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0704225352112676 condAB=0.0704225352112676 condBA=0.384615384615385 supA=71.0 supB=13.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1973\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "13" : [ "kb=dbp:season 2005^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0641025641025641", "triple=e dbp:season 2005^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0641025641025641 condAB=0.0704225352112676 condBA=0.0641025641025641 supA=71.0 supB=78.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"2005\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "14" : [ "kb=dbp:season 1987^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0985915492957746", "triple=e dbp:season 1987^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0985915492957746 condAB=0.0985915492957746 condBA=0.304347826086957 supA=71.0 supB=23.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1987\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "15" : [ "kb=dbp:season 1999^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0845070422535211", "triple=e dbp:season 1999^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0845070422535211 condAB=0.0845070422535211 condBA=0.214285714285714 supA=71.0 supB=28.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1999\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "16" : [ "kb=dbp:season 1985^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.112676056338028", "triple=e dbp:season 1985^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.112676056338028 condAB=0.112676056338028 condBA=0.470588235294118 supA=71.0 supB=17.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1985\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "17" : [ "kb=dbp:season 1980^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0985915492957746", "triple=e dbp:season 1980^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0985915492957746 condAB=0.0985915492957746 condBA=0.388888888888889 supA=71.0 supB=18.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1980\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "18" : [ "kb=dbp:season 1982^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0985915492957746", "triple=e dbp:season 1982^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0985915492957746 condAB=0.0985915492957746 condBA=0.35 supA=71.0 supB=20.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1982\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "19" : [ "kb=dbp:season 1996^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0985915492957746", "triple=e dbp:season 1996^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0985915492957746 condAB=0.0985915492957746 condBA=0.259259259259259 supA=71.0 supB=27.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1996\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "20" : [ "kb=dbp:season 1984^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0985915492957746", "triple=e dbp:season 1984^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0985915492957746 condAB=0.0985915492957746 condBA=0.333333333333333 supA=71.0 supB=21.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1984\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "21" : [ "kb=dbp:season 1988^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0985915492957746", "triple=e dbp:season 1988^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0985915492957746 condAB=0.0985915492957746 condBA=0.318181818181818 supA=71.0 supB=22.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1988\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "22" : [ "kb=dbp:season 2004^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.126760563380282", "triple=e dbp:season 2004^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.126760563380282 condAB=0.126760563380282 condBA=0.152542372881356 supA=71.0 supB=59.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"2004\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "23" : [ "kb=dbp:season 2003^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0845070422535211", "triple=e dbp:season 2003^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0845070422535211 condAB=0.0845070422535211 condBA=0.157894736842105 supA=71.0 supB=38.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"2003\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "24" : [ "kb=dbp:season 1986^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0845070422535211", "triple=e dbp:season 1986^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.0845070422535211 condAB=0.0845070422535211 condBA=0.222222222222222 supA=71.0 supB=27.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"1986\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ],
+    "25" : [ "kb=dbp:season 2000^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.154929577464789", "triple=e dbp:season 2000^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CyclingTeam", "{AllConf=0.154929577464789 condAB=0.154929577464789 condBA=0.261904761904762 supA=71.0 supB=42.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/season", "object=\"\"\"2000\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 140,
+  "pattern" : "professional_continental",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.00867052023121387", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.00867052023121387 condAB=1.0 condBA=0.00867052023121387 supA=6.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 158,
+  "pattern" : "russian",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0101156069364162", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0101156069364162 condAB=1.0 condBA=0.0101156069364162 supA=7.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 160,
+  "pattern" : "south_african",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.0149253731343284", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.0149253731343284 condAB=1.0 condBA=0.0149253731343284 supA=5.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 161,
+  "pattern" : "south_korean",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.0149253731343284", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.0149253731343284 condAB=1.0 condBA=0.0149253731343284 supA=5.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 163,
+  "pattern" : "spanish",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0202312138728324", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0202312138728324 condAB=1.0 condBA=0.0202312138728324 supA=14.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ],
+    "1" : [ "kb=dbp:status UCI_Continental_Circuits", "AllConf=0.0149253731343284", "triple=e dbp:status UCI_Continental_Circuits", "class=CyclingTeam", "{AllConf=0.0149253731343284 condAB=0.833333333333333 condBA=0.0149253731343284 supA=6.0 supB=335.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/status", "object=http://dbpedia.org/resource/UCI_Continental_Circuits" ]
+  }
+}, {
+  "id" : 164,
+  "pattern" : "spanish_professional",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0115606936416185", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0115606936416185 condAB=1.0 condBA=0.0115606936416185 supA=8.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+}, {
+  "id" : 167,
+  "pattern" : "swiss",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:discipline Road_bicycle_racing", "AllConf=0.0101156069364162", "triple=e dbo:discipline Road_bicycle_racing", "class=CyclingTeam", "{AllConf=0.0101156069364162 condAB=1.0 condBA=0.0101156069364162 supA=7.0 supB=692.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/discipline", "object=http://dbpedia.org/resource/Road_bicycle_racing" ]
+  }
+} ]

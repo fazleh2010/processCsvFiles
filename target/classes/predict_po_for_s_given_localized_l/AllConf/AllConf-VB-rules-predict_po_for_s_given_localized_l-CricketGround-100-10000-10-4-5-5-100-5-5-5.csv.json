@@ -1,0 +1,15 @@
+[ {
+  "id" : 4,
+  "pattern" : "first_recorded",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:year 2010^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0866141732283465", "triple=e dbp:year 2010^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CricketGround", "{AllConf=0.0866141732283465 condAB=1.0 condBA=0.0866141732283465 supA=11.0 supB=127.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/year", "object=\"\"\"2010\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+}, {
+  "id" : 10,
+  "pattern" : "recorded",
+  "partsOfSpeech" : "VB",
+  "index" : {
+    "0" : [ "kb=dbp:year 2010^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.094488188976378", "triple=e dbp:year 2010^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CricketGround", "{AllConf=0.094488188976378 condAB=1.0 condBA=0.094488188976378 supA=12.0 supB=127.0}", "posTag=VB", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/year", "object=\"\"\"2010\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
+  }
+} ]

@@ -1,0 +1,15 @@
+[ {
+  "id" : 4,
+  "pattern" : "botanical",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:country United_States", "AllConf=0.0553359683794466", "triple=e dbo:country United_States", "class=Garden", "{AllConf=0.0553359683794466 condAB=1.0 condBA=0.0553359683794466 supA=14.0 supB=253.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ]
+  }
+}, {
+  "id" : 9,
+  "pattern" : "located",
+  "partsOfSpeech" : "JJ",
+  "index" : {
+    "0" : [ "kb=dbo:country United_States", "AllConf=0.122529644268775", "triple=e dbo:country United_States", "class=Garden", "{AllConf=0.122529644268775 condAB=1.0 condBA=0.122529644268775 supA=31.0 supB=253.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/country", "object=http://dbpedia.org/resource/United_States" ]
+  }
+} ]
