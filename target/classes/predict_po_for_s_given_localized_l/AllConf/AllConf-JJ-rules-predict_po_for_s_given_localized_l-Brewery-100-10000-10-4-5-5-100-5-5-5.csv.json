@@ -1,9 +1,0 @@
-[ {
-  "id" : 8,
-  "pattern" : "located",
-  "partsOfSpeech" : "JJ",
-  "index" : {
-    "0" : [ "kb=dbo:location United_States", "AllConf=0.22", "triple=e dbo:location United_States", "class=Brewery", "{AllConf=0.22 condAB=0.22 condBA=0.333333333333333 supA=50.0 supB=33.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/ontology/location", "object=http://dbpedia.org/resource/United_States" ],
-    "1" : [ "kb=dbp:locationCountry Germany", "AllConf=0.160714285714286", "triple=e dbp:locationCountry Germany", "class=Brewery", "{AllConf=0.160714285714286 condAB=0.75 condBA=0.160714285714286 supA=12.0 supB=56.0}", "posTag=JJ", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/locationCountry", "object=http://dbpedia.org/resource/Germany" ]
-  }
-} ]

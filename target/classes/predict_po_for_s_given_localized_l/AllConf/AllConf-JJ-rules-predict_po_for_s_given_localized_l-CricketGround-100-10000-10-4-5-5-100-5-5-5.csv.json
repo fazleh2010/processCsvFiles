@@ -1,8 +1,0 @@
-[ {
-  "id" : 3,
-  "pattern" : "first",
-  "partsOfSpeech" : "JJ",
-  "index" : {
-    "0" : [ "kb=dbp:year 2010^^<http://www.w3.org/2001/XMLSchema#integer>", "AllConf=0.0866141732283465", "triple=e dbp:year 2010^^<http://www.w3.org/2001/XMLSchema#integer>", "class=CricketGround", "{AllConf=0.0866141732283465 condAB=1.0 condBA=0.0866141732283465 supA=11.0 supB=127.0}", "posTag=NN", "interestingness=AllConf", "subject=e", "predicate=http://dbpedia.org/property/year", "object=\"\"\"2010\"\"^^<http://www.w3.org/2001/XMLSchema#integer>\"" ]
-  }
-} ]
