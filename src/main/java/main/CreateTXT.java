@@ -35,9 +35,9 @@ public class CreateTXT implements NullInterestingness{
     public static String resultStrTxt(String inputDir,String outputDirT, String prediction,  Lemmatizer lemmatizer,String interestingness) throws Exception {
         String stringAdd = "";
         Set<String> posTag=new HashSet<String>();
-        posTag.add("JJ");
-        //posTag.add("NN");
-        //posTag.add("VB");
+        //posTag.add("JJ");
+        posTag.add("NN");
+        posTag.add("VB");
         
         Set<String> adjectives=new TreeSet<String>();
         Set<String> verbs=new TreeSet<String>();
