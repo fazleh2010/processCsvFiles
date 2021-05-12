@@ -35,7 +35,6 @@ import java.util.logging.Handler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import main.CreateTXT;
-import main.DirectoryLocation;
 import main.Lexicon;
 import main.LineInfo;
 import main.NullInterestingness;
@@ -48,7 +47,7 @@ import main.PredictionRules;
  *
  * @author elahi //BusinessPerson malformed CSV o
  */
-public class Main implements NullInterestingness,DirectoryLocation,PredictionRules {
+public class Main implements NullInterestingness,PredictionRules {
 
     public static String createLexicon = "createLexicon";
     static String createExperimentLine = "createExperimentLine";
@@ -295,14 +294,18 @@ public class Main implements NullInterestingness,DirectoryLocation,PredictionRul
 
     public static void createExperiments() throws Exception {
         //String qald9Dir = "src/main/resources/data/";
-        String resourceDir = "src/main/resources/";
-        String baseDir = "/home/elahi/new/dbpediaFiles/unlimited/unlimited/";
+        String baseDir = "/opt/rulepatterns/results-v4/";
+        String resourceDir = "/var/www/html/ontologyLexicalization/";
+        //String baseDir = "/home/elahi/new/dbpediaFiles/unlimited/unlimited/";
+        //String resourceDir = "src/main/resources/";
+       
+
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
         String outputDir = resourceDir;
         String type = null;
         String creationType = createExperimentLine;
-         Lemmatizer lemmatizer = new Lemmatizer();
-          String  txtDir =  resourceDir + "/" + "data" +  "/"  ;
+        Lemmatizer lemmatizer = new Lemmatizer();
+        String  txtDir =  resourceDir + "/" + "nlpData" +  "/"  ;
 
 
         List<String> predictLinguisticGivenKB = new ArrayList<String>(Arrays.asList(//predict_l_for_o_given_p

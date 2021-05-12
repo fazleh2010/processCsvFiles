@@ -9,7 +9,9 @@ import analyzer.Lemmatizer;
 import utils.FileFolderUtils;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -18,6 +20,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
+import java.util.TreeSet;
+import java.util.logging.Level;
 import java.util.logging.Logger;
 
 
@@ -25,7 +29,7 @@ import java.util.logging.Logger;
  *
  * @author elahi
  */
-public class CreateTXT implements NullInterestingness,DirectoryLocation{
+public class CreateTXT implements NullInterestingness{
 
    
     public static String resultStrTxt(String inputDir,String outputDirT, String prediction,  Lemmatizer lemmatizer,String interestingness) throws Exception {
@@ -35,6 +39,11 @@ public class CreateTXT implements NullInterestingness,DirectoryLocation{
         //posTag.add("NN");
         //posTag.add("VB");
         
+        Set<String> adjectives=new TreeSet<String>();
+        Set<String> verbs=new TreeSet<String>();
+        Set<String> nouns=new TreeSet<String>();
+
+        
         for(String parts_of_speech:posTag){
              List<File> files = FileFolderUtils.getSpecificFiles(inputDir, parts_of_speech);
         if (!files.isEmpty()) {
@@ -43,6 +52,16 @@ public class CreateTXT implements NullInterestingness,DirectoryLocation{
                 Map<String, LexiconUnit> lexiconDic = getLexiconTxt(file, parts_of_speech, lemmatizer);
                 for (String lexical : lexiconDic.keySet()) {
                     LexiconUnit lexiconUnit = lexiconDic.get(lexical);
+                    String partOfSpeech = lexiconUnit.getPartsOfSpeech();
+
+                    if (partOfSpeech.contains("JJ")) {
+                        adjectives.add(partOfSpeech);
+                    } else if (partOfSpeech.contains("VB")) {
+                        verbs.add(partOfSpeech);
+                    } else if (partOfSpeech.contains("NN")) {
+                        nouns.add(partOfSpeech);
+                    }
+                    
                     lexical="\""+ lexical +"\"";
                     String lines = "";
                     for (Integer index : lexiconUnit.getEntityInfos().keySet()) {
@@ -80,6 +99,14 @@ public class CreateTXT implements NullInterestingness,DirectoryLocation{
         }
             
         }
+        String nounFileName=outputDirT+prediction+"_"+interestingness+"_"+"NN";
+        String adjectiveFileName=outputDirT+prediction+"_"+interestingness+"_"+"JJ";
+        String verbFileName=outputDirT+prediction+"_"+interestingness+"_"+"VB";
+
+        listToFiles(nouns,nounFileName);
+        listToFiles(adjectives,adjectiveFileName);
+        listToFiles(verbs,verbFileName);
+
        
          return stringAdd;
     }
@@ -116,38 +143,30 @@ public class CreateTXT implements NullInterestingness,DirectoryLocation{
 
     }
     
-    /*private static Map<String, LexiconUnit> getLexicon(File file, String posTag, Lemmatizer lemmatizer) throws IOException {
-        Map<String, LexiconUnit> lexiconDic = new TreeMap<String, LexiconUnit>();
-
-        ObjectMapper mapper = new ObjectMapper();
-        List<LexiconUnit> lexiconUnits = new ArrayList<LexiconUnit>();
-
-        lexiconUnits = mapper.readValue(file, new TypeReference<List<LexiconUnit>>() {
-        });
-        for (LexiconUnit lexiconUnit : lexiconUnits) {
-            List<LexiconUnit> modifyLexiconUnits = new ArrayList<LexiconUnit>();
-            String word = lexiconUnit.getWord();
-         
-            word = lemmatizer.getGeneralizedPosTagLemma(word, posTag);
-            word = word.replaceAll("\\d", " ");
-            word = word.replaceAll("[^a-zA-Z0-9]", " ");
-            word = word.strip().trim();
-            word = word.replaceAll(" ", "_");
-
-            if (lexiconDic.containsKey(word)) {
-                LexiconUnit existLexiconUnit = lexiconDic.get(word);
-                LexiconUnit newLexiconUnit = new LexiconUnit(existLexiconUnit, lexiconUnit);
-                lexiconDic.put(word, newLexiconUnit);
-
-            } else {
-                lexiconDic.put(word, lexiconUnit);
-            }
-
+    public static void listToFiles(Set<String> list, String fileName) {
+        String str = "";
+        Integer number = -1, index = 0;
+        if (list.isEmpty()) {
+            return;
         }
-        return lexiconDic;
+        for (String element : list) {
+            index++;
+            String line = element + "\n";
+            str += line;
+            if (index == number) {
+                break;
+            }
+        }
+        try {
+            BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
+            writer.write(str);
+            writer.close();
+        } catch (IOException ex) {
+            System.out.println("no file is found!!::"+ex.getMessage());
+            Logger.getLogger(FileFolderUtils.class.getName()).log(Level.SEVERE, null, ex);
+        }
 
-    }*/
+    }
 
- 
 
 }
