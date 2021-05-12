@@ -295,9 +295,9 @@ public class Main implements NullInterestingness,PredictionRules {
     public static void createExperiments() throws Exception {
         //String qald9Dir = "src/main/resources/data/";
         String baseDir = "/opt/rulepatterns/results-v4/";
-        String resourceDir = "/var/www/html/ontologyLexicalization/";
+        //String resourceDir = "/var/www/html/ontologyLexicalization/nlpData/";
         //String baseDir = "/home/elahi/new/dbpediaFiles/unlimited/unlimited/";
-        //String resourceDir = "src/main/resources/";
+        String resourceDir = "src/main/resources/";
        
 
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
