@@ -55,11 +55,11 @@ public class CreateTXT implements NullInterestingness{
                     String partOfSpeech = lexiconUnit.getPartsOfSpeech();
 
                     if (partOfSpeech.contains("JJ")) {
-                        adjectives.add(partOfSpeech);
+                        adjectives.add(lexical);
                     } else if (partOfSpeech.contains("VB")) {
-                        verbs.add(partOfSpeech);
+                        verbs.add(lexical);
                     } else if (partOfSpeech.contains("NN")) {
-                        nouns.add(partOfSpeech);
+                        nouns.add(lexical);
                     }
                     
                     lexical="\""+ lexical +"\"";
