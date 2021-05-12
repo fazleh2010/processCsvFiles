@@ -295,9 +295,9 @@ public class Main implements NullInterestingness,PredictionRules {
     public static void createExperiments() throws Exception {
         //String qald9Dir = "src/main/resources/data/";
         String baseDir = "/opt/rulepatterns/results-v4/";
-        //String resourceDir = "/var/www/html/ontologyLexicalization/nlpData/";
+        String resourceDir = "/var/www/html/ontologyLexicalization/resources/data/";
         //String baseDir = "/home/elahi/new/dbpediaFiles/unlimited/unlimited/";
-        String resourceDir = "src/main/resources/";
+        //String resourceDir = "src/main/resources/";
        
 
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
@@ -305,7 +305,7 @@ public class Main implements NullInterestingness,PredictionRules {
         String type = null;
         String creationType = createExperimentLine;
         Lemmatizer lemmatizer = new Lemmatizer();
-        String  txtDir =  resourceDir + "/" + "nlpData" +  "/"  ;
+        String  txtDir =  resourceDir + "/" + "txt" +  "/"  ;
 
 
         List<String> predictLinguisticGivenKB = new ArrayList<String>(Arrays.asList(//predict_l_for_o_given_p
