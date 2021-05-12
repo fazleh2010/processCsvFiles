@@ -142,7 +142,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
          try{
                 
             for (Integer i = 0; 20 > i; i++) {
-                System.out.println(i + ":" + row[i]);
+                //System.out.println(i + ":" + row[i]);
                 if (i == 0) {
                     String[] info = row[i].split("http://dbpedia.org/ontology/");
                     this.className = info[1].replace("http://dbpedia.org/ontology/", "");
@@ -188,7 +188,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
             }
 
         } catch (Exception ex) {
-            System.out.println(  "index:" + index);
+            //System.out.println(  "index:" + index);
                this.validFlag=false;
                return;
         }

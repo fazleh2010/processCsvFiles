@@ -98,6 +98,7 @@ public class Main implements NullInterestingness,PredictionRules {
             PropertyCSV propertyCSV = null;
             numberOfClass = numberOfClass + 1;
             String className = classFile.getName().replace("http%3A%2F%2Fdbpedia.org%2Fontology%2F", "");
+            System.out.println("interestingness:"+interestingness+" now running clssName::"+className+" "+dbo_prediction);
             if (classFile.getName().contains(PropertyCSV.localized)) {
                 propertyCSV = new PropertyCSV(PropertyCSV.localized);
             } else {
@@ -345,7 +346,7 @@ public class Main implements NullInterestingness,PredictionRules {
                 outputDir = resourceDir + "/" + prediction + "/" + inter+"/";
                 FileFolderUtils.createDirectory(outputDir);
                 Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv", creationType);
-                System.out.println(outputDir);
+                //System.out.println(outputDir);
                 CreateTXT.resultStrTxt(outputDir,txtDir, prediction, lemmatizer, inter);
             }
         }
