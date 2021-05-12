@@ -345,7 +345,7 @@ public class Main implements NullInterestingness,PredictionRules {
             for (String inter : interestingness) {
                 outputDir = resourceDir + "/" + prediction + "/" + inter+"/";
                 FileFolderUtils.createDirectory(outputDir);
-                Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv", creationType);
+                //Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv", creationType);
                 //System.out.println(outputDir);
                 CreateTXT.resultStrTxt(outputDir,txtDir, prediction, lemmatizer, inter);
             }

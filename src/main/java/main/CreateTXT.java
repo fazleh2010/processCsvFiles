@@ -99,10 +99,9 @@ public class CreateTXT implements NullInterestingness{
         }
             
         }
-        outputDirT=outputDirT+"pos/";
-        String nounFileName=outputDirT+prediction+"_"+interestingness+"_"+"NN";
-        String adjectiveFileName=outputDirT+prediction+"_"+interestingness+"_"+"JJ";
-        String verbFileName=outputDirT+prediction+"_"+interestingness+"_"+"VB";
+        String nounFileName=outputDirT+"z_NN_"+prediction+"_"+interestingness+".txt";
+        String adjectiveFileName=outputDirT+"z_JJ_"+prediction+"_"+interestingness+".txt";
+        String verbFileName=outputDirT+"z_VB"+prediction+"_"+interestingness+".txt";
 
         listToFiles(nouns,nounFileName);
         listToFiles(adjectives,adjectiveFileName);
