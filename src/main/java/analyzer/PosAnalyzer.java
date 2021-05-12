@@ -33,8 +33,7 @@ import org.apache.commons.lang3.StringUtils;
  */
 public class PosAnalyzer implements TextAnalyzer {
 
-    @JsonIgnore
-    private static String resources = "/var/www/html/ontologyLexicalization/resources/";
+    
     @JsonIgnore
     private static String stanfordModelFile = resources + "stanford-postagger-2015-12-09/models/english-left3words-distsim.tagger";
     @JsonIgnore

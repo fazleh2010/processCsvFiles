@@ -126,8 +126,11 @@ public interface TextAnalyzer {
     public static final Set<String> dbpPartyWords = new TreeSet<String>(Arrays.asList("american", "democratic"));
 
     //public static final Map<String,Set<String>> propertySelectedWords = new TreeMap<String,Set<String>>();
-    public String modelDir = "src/main/resources/models/";
+    
+    public static String resources = "/var/www/html/ontologyLexicalization/resources/";
+    public static String modelDir = resources + "models/";
     public static String posTagFile = "en-pos-maxent.bin";
     public static String lemmaDictionary = "en-lemmatizer.txt";
 
+    
 }

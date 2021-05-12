@@ -23,7 +23,7 @@ import org.apache.commons.lang3.StringUtils;
  * Dictionary LemmaAnalyzer Example in Apache OpenNLP
  */
 public class Lemmatizer implements TextAnalyzer {
-
+       
     private static Map<String, String> lemmasMap = new TreeMap<String, String>();
     private static Map<String, String> withOutPosTag = new TreeMap<String, String>();
     private static Map<String, String> generalizeLemma = new TreeMap<String, String>();

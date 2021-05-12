@@ -17,7 +17,6 @@ main/CsvConstants.class
 Main.class
 utils/FileFolderUtils.class
 main/PredicateParamters.class
-main/DirectoryLocation.class
 utils/StringWrap.class
 main/LineInfo.class
 utils/SortUtils$2.class
