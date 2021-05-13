@@ -73,7 +73,10 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         }
          
 
-        this.line =row[propertyCSV.getStringIndex()];
+        String string  =row[propertyCSV.getStringIndex()];
+        //string=string.replace(",", "$");
+        //System.out.println("string::"+string);
+        this.line=string;
         if(line.contains("http://www.w3.org/2001/XMLSchema#integer"))
             line="http://www.w3.org/2001/XMLSchema#integer";
         this.className = setClassName(row[propertyCSV.getClassNameIndex()]);

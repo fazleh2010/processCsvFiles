@@ -1,0 +1,1 @@
+"american","dbo:occupation Photographer", "0.24", "e dbo:occupation Photographer", "Photographer", "Coherence=0.24 condAB=0.857142857142857 condBA=0.333333333333333 supA=7.0 supB=18.0", "NN", "Coherence", "e", "http://dbpedia.org/ontology/occupation", "http://dbpedia.org/resource/Photographer", "dbo:Photographer in c_e and 'an American' in l_e(c,p,so) ", 

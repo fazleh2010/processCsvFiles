@@ -94,7 +94,8 @@ public class Main implements NullInterestingness,PredictionRules {
                 continue;
             }*/
             CsvFile csvFile = new CsvFile(classFile);
-            rows = csvFile.getRows(classFile, 1000.0, 300000);
+            //rows = csvFile.getManualRow(classFile, 1000.0, 300000);
+            rows = csvFile.getRows(classFile);
             PropertyCSV propertyCSV = null;
             numberOfClass = numberOfClass + 1;
             String className = classFile.getName().replace("http%3A%2F%2Fdbpedia.org%2Fontology%2F", "");
@@ -126,22 +127,28 @@ public class Main implements NullInterestingness,PredictionRules {
   
                  }*/
 
-                String nGram = lineInfo.getWord();
-                nGram = nGram.replace("\"", "");
-                nGram = nGram.toLowerCase().trim().strip();
-                nGram = nGram.replaceAll(" ", "_");
-                nGram = StopWordRemoval.deleteStopWord(nGram);
+                try {
+                    String nGram = lineInfo.getWord();
+                    nGram = nGram.replace("\"", "");
+                    nGram = nGram.toLowerCase().trim().strip();
+                    nGram = nGram.replaceAll(" ", "_");
+                    nGram = StopWordRemoval.deleteStopWord(nGram);
 
-                List<LineInfo> results = new ArrayList<LineInfo>();
-                if (lineLexicon.containsKey(nGram)) {
-                    results = lineLexicon.get(nGram);
-                    results.add(lineInfo);
-                    lineLexicon.put(nGram, results);
-                } else {
-                    results.add(lineInfo);
-                    lineLexicon.put(nGram, results);
+                    List<LineInfo> results = new ArrayList<LineInfo>();
+                    if (lineLexicon.containsKey(nGram)) {
+                        results = lineLexicon.get(nGram);
+                        results.add(lineInfo);
+                        lineLexicon.put(nGram, results);
+                    } else {
+                        results.add(lineInfo);
+                        lineLexicon.put(nGram, results);
 
+                    }
+                } catch (Exception ex) {
+                   // System.out.println("nGram::"+nGram);
+                    continue;
                 }
+               
             }
             Lexicon lexicon = new Lexicon(directory);
             lexicon.preparePropertyLexicon(dbo_prediction, directory, className, interestingness, lineLexicon);
@@ -295,9 +302,9 @@ public class Main implements NullInterestingness,PredictionRules {
 
     public static void createExperiments() throws Exception {
         //String qald9Dir = "src/main/resources/data/";
-        String baseDir = "/opt/rulepatterns/results-v4/";
+        //String baseDir = "/opt/rulepatterns/results-v4/";
         String resourceDir = "/var/www/html/ontologyLexicalization/resources/data/";
-        //String baseDir = "/home/elahi/new/dbpediaFiles/unlimited/unlimited/";
+        String baseDir = "/home/elahi/new/dbpediaFiles/unlimited/unlimited/";
         //String resourceDir = "src/main/resources/";
        
 
@@ -306,7 +313,8 @@ public class Main implements NullInterestingness,PredictionRules {
         String type = null;
         String creationType = createExperimentLine;
         Lemmatizer lemmatizer = new Lemmatizer();
-        String  txtDir =  resourceDir + "/" + "txt" +  "/"  ;
+        String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
+        FileFolderUtils.createDirectory(txtDir);
 
 
         List<String> predictLinguisticGivenKB = new ArrayList<String>(Arrays.asList(//predict_l_for_o_given_p
@@ -325,11 +333,11 @@ public class Main implements NullInterestingness,PredictionRules {
         ));
         List<String> interestingness = new ArrayList<String>();
         interestingness.add(Coherence);
-        interestingness.add(Cosine);
-        interestingness.add(AllConf);
-        interestingness.add(Kulczynski);
-        interestingness.add(IR);
-        interestingness.add(MaxConf);
+        //interestingness.add(Cosine);
+        //interestingness.add(AllConf);
+        //interestingness.add(Kulczynski);
+        //interestingness.add(IR);
+        //interestingness.add(MaxConf);
         for (String prediction : predictLinguisticGivenKB) {
             if (prediction.equals(PredictionRules.predict_l_for_s_given_o)) {
                 type = OBJECT;

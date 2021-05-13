@@ -35,9 +35,9 @@ public class CreateTXT implements NullInterestingness{
     public static String resultStrTxt(String inputDir,String outputDirT, String prediction,  Lemmatizer lemmatizer,String interestingness) throws Exception {
         String stringAdd = "";
         Set<String> posTag=new HashSet<String>();
-        //posTag.add("JJ");
-        posTag.add("NN");
-        posTag.add("VB");
+        posTag.add("JJ");
+        //posTag.add("NN");
+        //posTag.add("VB");
         
         Set<String> adjectives=new TreeSet<String>();
         Set<String> verbs=new TreeSet<String>();
@@ -69,13 +69,21 @@ public class CreateTXT implements NullInterestingness{
                         String line = "";
                         for (Integer i = 0; resultList.size() > i; i++) {
                             String value = resultList.get(i);
+                            
+                            
                             if(i==4){
                               value= value.replace("{", "");
                               value= value.replace("}", "");
                             }
                             
                             else if (value.contains("=")) {
+                                 String att = value.split("=")[0];
                                  value = value.split("=")[1];
+                                  if(att.contains("string")){
+                                     value=value.replace("$", "=");
+
+                                  }
+                                  System.out.println("!!!!!!!!!!!!!!!!!!!!!!!:"+value);
                             }
                             
                            /*if (i == 0) {
@@ -84,6 +92,8 @@ public class CreateTXT implements NullInterestingness{
                                 value = value.replace("kb=", key + "=");
 
                             }*/
+                           
+
                             value ="\""+ value +"\""+ ", ";
                             line += value;
                         }

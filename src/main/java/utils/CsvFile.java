@@ -116,7 +116,7 @@ public class CsvFile implements CsvConstants {
         return interestingness + "_" + thresoldValue.toString() + "-" + posTag + "-" + hitStr;
     }
 
-    public List<String[]> getRows(File qaldFile, Double limit, Integer lineLimit) {
+    public List<String[]> getManualRow(File qaldFile, Double limit, Integer lineLimit) {
         List<String[]> rows = new ArrayList<String[]>();
 
         Stack<String> stack = new Stack<String>();

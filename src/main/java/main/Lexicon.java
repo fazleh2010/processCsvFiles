@@ -82,7 +82,7 @@ public class Lexicon implements PredictionRules{
                 //System.out.println("associationType:"+associationType+" "+value);
                 //pairs.add("pair=" + lineInfo.getPredicate() + "_" + lineInfo.getObject());
                 String kb = this.getPair(lineInfo, predictionRule);
-                pairs.add("kb=" + kb);
+                pairs.add("kb"+"=" + kb);
                 pairs.add(interestingness + "=" + value);
                 pairs.add("triple" + "=" + lineInfo.getSubject() + " " + lineInfo.getPredicate() + " " + lineInfo.getObject());
                 pairs.add("class" + "=" + lineInfo.getClassName());
@@ -93,6 +93,7 @@ public class Lexicon implements PredictionRules{
                 pairs.add("subject" + "=" + lineInfo.getSubjectOriginal());
                 pairs.add("predicate" + "=" + lineInfo.getPredicateOriginal());
                 pairs.add("object" + "=" + lineInfo.getObjectOriginal());
+                pairs.add("string" + "=" +lineInfo.getLine().replace("=", "$"));
 
                 kbList.put(index, pairs);
                 index = index + 1;
