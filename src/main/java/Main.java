@@ -313,7 +313,9 @@ public class Main implements NullInterestingness,PredictionRules {
         String type = null;
         String creationType = createExperimentLine;
         Lemmatizer lemmatizer = new Lemmatizer();
-        String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
+        //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
+        String  txtDir = resourceDir + "/" + "txt" +  "/"  ;
+
         FileFolderUtils.createDirectory(txtDir);
 
 
