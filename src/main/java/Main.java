@@ -316,6 +316,7 @@ public class Main implements NullInterestingness,PredictionRules {
         //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
         //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
         String  txtDir =  resourceDir + "/" + "txt" +  "/"  ;
+        txtDir = "/var/www/html/ontologyLexicalization/data/";
 
         FileFolderUtils.createDirectory(txtDir);
 
