@@ -337,11 +337,11 @@ public class Main implements NullInterestingness,PredictionRules {
         ));
         List<String> interestingness = new ArrayList<String>();
         interestingness.add(Coherence);
-        //interestingness.add(Cosine);
-        //interestingness.add(AllConf);
-        //interestingness.add(Kulczynski);
-        //interestingness.add(IR);
-        //interestingness.add(MaxConf);
+        interestingness.add(Cosine);
+        interestingness.add(AllConf);
+        interestingness.add(Kulczynski);
+        interestingness.add(IR);
+        interestingness.add(MaxConf);
         for (String prediction : predictLinguisticGivenKB) {
             if (prediction.equals(PredictionRules.predict_l_for_s_given_o)) {
                 type = OBJECT;
