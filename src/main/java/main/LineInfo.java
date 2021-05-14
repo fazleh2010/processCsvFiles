@@ -37,6 +37,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
     private String predicateOriginal = "p";
     private String objectOriginal = "o";
     private String posTag = null;
+    private String fullPosTag = null;
     private String rule = null;
     private String word = null;
     private String wordOriginal = null;
@@ -229,11 +230,12 @@ public class LineInfo implements NullInterestingness,PredictionRules{
     }
     
     private void setProbabilityValue(Integer index, String interestingness, String[] row, PropertyCSV propertyCSV) {
-        Double givenSupA, givenSupB, givenCondAB, givenCondBA, givenAllConf, givenCoherence, givenCosine, givenIR, givenKulczynski, givenMaxConf;
+        Double givenSupA, givenSupB, givenSupAB,givenCondAB, givenCondBA, givenAllConf, givenCoherence, givenCosine, givenIR, givenKulczynski, givenMaxConf;
 
         try {
             givenSupA = Double.parseDouble(row[propertyCSV.getSupAIndex()]);
             givenSupB = Double.parseDouble(row[propertyCSV.getSupBIndex()]);
+            givenSupAB= Double.parseDouble(row[propertyCSV.getSupABIndex()]);
             givenCondAB = Double.parseDouble(row[propertyCSV.getCondABIndex()]);
             givenCondBA = Double.parseDouble(row[propertyCSV.getCondBAIndex()]);
             givenAllConf = Double.parseDouble(row[propertyCSV.getAllConfIndex()]);
@@ -244,6 +246,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
             givenMaxConf = Double.parseDouble(row[propertyCSV.getMaxConfIndex()]);
             this.probabilityValue.put(supA, givenSupA);
             this.probabilityValue.put(supB, givenSupB);
+            this.probabilityValue.put(supAB, givenSupAB);
             this.probabilityValue.put(condAB, givenCondAB);
             this.probabilityValue.put(condBA, givenCondBA);
             if (interestingness.contains(AllConf)) {
@@ -270,48 +273,6 @@ public class LineInfo implements NullInterestingness,PredictionRules{
     }
 
     
-    public LineInfo(LineInfo lineInfo, String associationRule, Double associationValue) {
-        this.line = lineInfo.getLine();
-        this.className = lineInfo.getClassName();
-        this.subject = lineInfo.getSubject();
-        this.predicate = lineInfo.getPredicate();
-        this.object = lineInfo.getObject();
-        this.wordOriginal = lineInfo.getWordOriginal();
-        this.validFlag = lineInfo.getValidFlag();
-        this.nGramNumber = lineInfo.getnGramNumber();
-        this.word = lineInfo.getWord();
-        this.posTag = lineInfo.getPosTag();
-        this.rule = lineInfo.getRule();
-        this.probabilityValue = lineInfo.getProbabilityValue();
-        this.checkedAssociationRule = associationRule;
-        this.checkedAssociationRuleValue = associationValue;
-    }
-
-
-
-    
-    public LineInfo(String className, String line, Integer wordIndex, Integer kbIndex) throws Exception {
-        this.line = line;
-        this.className = className;
-        //this.setParameters(wordIndex,kbIndex);
-        String[] rule = line.split("=>");
-        String leftRule = StringUtils.substringBetween(rule[kbIndex], "(", ")");
-        String rightRule = StringUtils.substringBetween(rule[wordIndex], "{", "}");
-        this.setTriple(leftRule);
-        this.setWord(rightRule);
-        if (this.validFlag) {
-            String str = this.processWords(this.wordOriginal);
-            String[] info = str.split(" ");
-            if (info.length > 1) {
-                this.nGramNumber = info.length;
-            }
-            this.getPosTag(str);
-            this.setRule();
-            this.setProbabilityValue(line);
-        }
-        
-    }
-    
     public static Boolean isThresoldValid(Map<String, Double> lineProbabiltyValue, Map<String, Double> givenThresold) throws Exception {
         boolean thresoldValid = true;
         Set<String> commonAtt=Sets.intersection(lineProbabiltyValue.keySet(), givenThresold.keySet());
@@ -334,27 +295,6 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         return thresoldValid;
     }
 
-   
-
-   
-    
-    private void setParameters(Integer wordIndex, Integer kbIndex) throws Exception {
-        String[] rule = line.split("=>");
-        String leftRule = StringUtils.substringBetween(rule[kbIndex], "(", ")");
-        String rightRule = StringUtils.substringBetween(rule[wordIndex], "{", "}");
-        this.setTriple(leftRule);
-        this.setWord(rightRule);
-        if (this.validFlag) {
-            String str = this.processWords(this.wordOriginal);
-            String[] info = str.split(" ");
-            if (info.length > 1) {
-                this.nGramNumber = info.length;
-            }
-            this.getPosTag(str);
-            this.setRule();
-            this.setProbabilityValue(line);
-        }
-    }
 
     private void setRule() {
         String str = "[" + this.line.replace("|", "]");
@@ -374,18 +314,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         }
     }*/
     
-    public void setProbabilityValue(String line) {
-        line = line.replace("supA=", "$supA=");
-        line = line + "$";
-        String values = StringUtils.substringBetween(line, "$", "$").replace(",", "");
-        String[] info = values.split(" ");
-        for (Integer i = 0; i < info.length; i++) {
-            Pair pair = this.setValue(info[i]);
-            double dnum = Double.parseDouble(pair.getValue());
-            this.probabilityValue.put(pair.getKey(), dnum);
-        }
-    }
-    
+  
 
     private Pair setValue(String string) {
         String[] info = string.split("=");
@@ -471,6 +400,15 @@ public class LineInfo implements NullInterestingness,PredictionRules{
             this.posTag = PosAnalyzer.VERB;
         } else {
             this.posTag = PosAnalyzer.NOUN;
+        }
+                
+        if(analyzer.posTaggerText(word)){
+        this.fullPosTag=analyzer.getFullPosTag();
+        /*System.out.println("word::" + word);
+        System.out.println("adjective::" + analyzer.getAdjectives());
+        System.out.println("noun::" + analyzer.getNouns());
+        System.out.println("verb::" + analyzer.getVerbs());
+        System.out.println("fullPosTag::" + fullPosTag);*/
         }
         this.word = word.trim().strip();
     }
@@ -620,6 +558,10 @@ public class LineInfo implements NullInterestingness,PredictionRules{
             }
         }
         return true;
+    }
+
+    public String getFullPosTag() {
+        return fullPosTag;
     }
 
     @Override

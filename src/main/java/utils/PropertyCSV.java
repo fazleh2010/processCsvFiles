@@ -37,6 +37,30 @@ public class PropertyCSV {
     public static String general="general";
     private Map<String,Integer> indexMap=new TreeMap<String,Integer> ();
     
+    /*
+0 class	
+1 ruletype_longname	
+2 ruletype_shortname	
+3 linguistic pattern	
+4 order of arguments	
+5 patterntype	
+6 subject	
+7 predicate	
+8 object	
+9 condAB	
+10 condBA
+11 supA
+12 supB	
+13 supAB	
+14 AllConf	
+15 Coherence	
+16 Cosine	
+17 IR
+18 Kulczynski	
+19 MaxConf	
+20 string
+    */
+    
     public PropertyCSV(String type) {
         if (type.contains(localized)) {
             indexMap.put(classNameIndex, 0);

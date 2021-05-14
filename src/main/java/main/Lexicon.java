@@ -93,7 +93,8 @@ public class Lexicon implements PredictionRules{
                 pairs.add("subject" + "=" + lineInfo.getSubjectOriginal());
                 pairs.add("predicate" + "=" + lineInfo.getPredicateOriginal());
                 pairs.add("object" + "=" + lineInfo.getObjectOriginal());
-                pairs.add("string" + "=" +lineInfo.getLine().replace("=", "$"));
+                pairs.add("fullPosTag" + "=" + lineInfo.getFullPosTag());
+                pairs.add("string" + "=" +lineInfo.getLine().replace("=", "$").replace(",", "&"));
 
                 kbList.put(index, pairs);
                 index = index + 1;

@@ -40,6 +40,10 @@ public class PosAnalyzer implements TextAnalyzer {
     private static MaxentTagger taggerModel = new MaxentTagger(stanfordModelFile);
     @JsonIgnore
     private Integer numberOfSentences = 0;
+     @JsonIgnore
+    private Boolean posTagFound = false;
+    @JsonIgnore
+    private String fullPosTag = null;
     
     static {
         taggerModel = new MaxentTagger(stanfordModelFile);
@@ -104,9 +108,23 @@ public class PosAnalyzer implements TextAnalyzer {
                 
         sentenwisePosSeperated(sentenceWords, sentencePosTags);
     }
+    
+    public Boolean posTaggerText(String inputText) throws Exception {
+        BufferedReader reader = new BufferedReader(new StringReader(inputText));
+        List<List<HasWord>> sentences = MaxentTagger.tokenizeText(reader);
+        for (List<HasWord> sentence : sentences) {
+            List<TaggedWord> tSentence = taggerModel.tagSentence(sentence);
+            //System.out.println(tSentence);
+            String taggedText = getSentenceFromWordListTagged(tSentence);
+            String taggs = this.setTaggs(tSentence);
+            this.fullPosTag = taggs;
+            return true;
+        }
+        return false;
+    }
 
 
-    public String[] posTaggerText(String inputText) throws Exception {
+   /* public String[] posTaggerText(String inputText) throws Exception {
         BufferedReader reader = new BufferedReader(new StringReader(inputText));
         List<List<HasWord>> sentences = MaxentTagger.tokenizeText(reader);
         for (List<HasWord> sentence : sentences) {
@@ -114,10 +132,12 @@ public class PosAnalyzer implements TextAnalyzer {
             //System.out.println(tSentence);
             String taggedText= getSentenceFromWordListTagged(tSentence);
             String taggs=this.setTaggs(tSentence);
+            this.posTagFound=true;
+            this.fullPosTag=taggedText;
             return new String[]{inputText, taggedText, taggs};
         }
         return null;
-    }
+    }*/
 
     private String getSentenceFromWordListTagged(List<TaggedWord> tSentence) {
         String str="";
@@ -186,6 +206,10 @@ public class PosAnalyzer implements TextAnalyzer {
         return inputText;
     }
 
+    public String getFullPosTag() {
+        return fullPosTag;
+    }
+
     /*public List<HashMap<String, Set<String>>> getSenetences() {
         return sentences;
     }*/
@@ -250,6 +274,10 @@ public class PosAnalyzer implements TextAnalyzer {
 
     public Set<String> getPronouns() {
         return pronouns;
+    }
+
+    public Boolean getPosTagFound() {
+        return posTagFound;
     }
 
    

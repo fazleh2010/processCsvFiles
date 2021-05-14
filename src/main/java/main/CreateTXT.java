@@ -83,7 +83,6 @@ public class CreateTXT implements NullInterestingness{
                                      value=value.replace("$", "=");
 
                                   }
-                                  System.out.println("!!!!!!!!!!!!!!!!!!!!!!!:"+value);
                             }
                             
                            /*if (i == 0) {

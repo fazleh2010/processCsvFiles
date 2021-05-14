@@ -302,9 +302,9 @@ public class Main implements NullInterestingness,PredictionRules {
 
     public static void createExperiments() throws Exception {
         //String qald9Dir = "src/main/resources/data/";
-        //String baseDir = "/opt/rulepatterns/results-v4/";
+        String baseDir = "/opt/rulepatterns/results-v5/";
         String resourceDir = "/var/www/html/ontologyLexicalization/resources/data/";
-        String baseDir = "/home/elahi/new/dbpediaFiles/unlimited/unlimited/";
+        //String baseDir = "/home/elahi/new/dbpediaFiles/unlimited/unlimited/";
         //String resourceDir = "src/main/resources/";
        
 
@@ -314,7 +314,8 @@ public class Main implements NullInterestingness,PredictionRules {
         String creationType = createExperimentLine;
         Lemmatizer lemmatizer = new Lemmatizer();
         //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
-        String  txtDir = resourceDir + "/" + "txt" +  "/"  ;
+        //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
+        String  txtDir =  resourceDir + "/" + "txt" +  "/"  ;
 
         FileFolderUtils.createDirectory(txtDir);
 
