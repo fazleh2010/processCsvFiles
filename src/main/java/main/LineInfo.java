@@ -30,9 +30,9 @@ import java.util.Comparator;
 public class LineInfo implements NullInterestingness,PredictionRules{
 
     private String line = null;
-    private String subject = "e";
-    private String predicate = "p";
-    private String object = "o";
+    private String subject = "";
+    private String predicate = "";
+    private String object = "";
     private String subjectOriginal = "e";
     private String predicateOriginal = "p";
     private String objectOriginal = "o";
@@ -66,17 +66,22 @@ public class LineInfo implements NullInterestingness,PredictionRules{
     }
     
     public LineInfo(Integer index,String[] row,String prediction,String interestingness,PropertyCSV propertyCSV) throws Exception {
-        
+         String string  ="";
         if (row.length < propertyCSV.getStringIndex()) {
             this.validFlag = false;
             //LOGGER.log(Level.INFO, "line No ::" + index + " line does not work!!!!!!!!!!");
             return;
         }
          
-
-        String string  =row[propertyCSV.getStringIndex()];
+        try{
+        string  =row[propertyCSV.getStringIndex()];
         //string=string.replace(",", "$");
         //System.out.println("string::"+string);
+        }
+        catch(ArrayIndexOutOfBoundsException ex){
+            validFlag=false;
+            return;
+        }
         this.line=string;
         if(line.contains("http://www.w3.org/2001/XMLSchema#integer"))
             line="http://www.w3.org/2001/XMLSchema#integer";
