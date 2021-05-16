@@ -25,9 +25,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.TreeMap;
 import java.util.logging.ConsoleHandler;
 import java.util.logging.FileHandler;
@@ -306,6 +308,11 @@ public class Main implements NullInterestingness,PredictionRules {
         String resourceDir = "/var/www/html/ontologyLexicalization/resources/data/";
         //String baseDir = "/home/elahi/new/dbpediaFiles/unlimited/unlimited/";
         //String resourceDir = "src/main/resources/";
+        
+        Set<String> posTag=new HashSet<String>();
+        //posTag.add("JJ");
+        posTag.add("NN");
+        posTag.add("VB");
        
 
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
@@ -359,7 +366,7 @@ public class Main implements NullInterestingness,PredictionRules {
                 FileFolderUtils.createDirectory(outputDir);
                 Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv", creationType);
                 //System.out.println(outputDir);
-                CreateTXT.resultStrTxt(outputDir,txtDir, prediction, lemmatizer, inter);
+                CreateTXT.resultStrTxt(posTag,outputDir,txtDir, prediction, lemmatizer, inter);
             }
         }
         
