@@ -328,9 +328,11 @@ public class Main implements NullInterestingness,PredictionRules {
         //txtDir = "/var/www/html/ontologyLexicalization/data/";
 
         FileFolderUtils.createDirectory(txtDir);
+        
+       /* 
 
-
-        List<String> predictLinguisticGivenKB = new ArrayList<String>(Arrays.asList(//predict_l_for_o_given_p
+       /* List<String> predictLinguisticGivenKB = new ArrayList<String>(Arrays.asList(
+                //predict_sp_for_o_given_localized_l
                 //predict_l_for_s_given_po
                 //predict_l_for_s_given_o
                 //predict_l_for_o_given_p,
@@ -341,9 +343,11 @@ public class Main implements NullInterestingness,PredictionRules {
                 //predict_localized_l_for_s_given_p 
                 //predict_po_for_s_given_l
                 //PredictionRules.predict_po_for_s_given_localized_l,
-                PredictionRules.predict_p_for_s_given_localized_l
+                //PredictionRules.predict_p_for_s_given_localized_l
                // PredictionRules.predict_p_for_o_given_localized_l
-        ));
+        ));*/
+       
+        
         List<String> interestingness = new ArrayList<String>();
         interestingness.add(Coherence);
         interestingness.add(Cosine);
@@ -351,13 +355,19 @@ public class Main implements NullInterestingness,PredictionRules {
         interestingness.add(Kulczynski);
         interestingness.add(IR);
         interestingness.add(MaxConf);
-        for (String prediction : predictLinguisticGivenKB) {
-            if (prediction.equals(PredictionRules.predict_l_for_s_given_o)) {
+        for (String prediction : predictKBGivenLInguistic) {
+            if (prediction.equals(PredictionRules.predict_l_for_s_given_o)
+                ||prediction.equals(PredictionRules.predict_o_for_s_given_l)) {
                 type = OBJECT;
-            } else if (prediction.equals(PredictionRules.predict_po_for_s_given_l)
+            } else if (
+                    prediction.equals(PredictionRules.predict_po_for_s_given_l)
+                    ||prediction.equals(PredictionRules.predict_p_for_s_given_l)
+                    ||prediction.equals(PredictionRules.predict_p_for_o_given_l)
+                    ||prediction.equals(PredictionRules.predict_sp_for_o_given_l)
                     || prediction.equals(PredictionRules.predict_po_for_s_given_localized_l)
                     || prediction.equals(PredictionRules.predict_p_for_s_given_localized_l)
-                    || prediction.equals(PredictionRules.predict_p_for_o_given_localized_l)) {
+                    || prediction.equals(PredictionRules.predict_p_for_o_given_localized_l)
+                    || prediction.equals(PredictionRules.predict_sp_for_o_given_localized_l)) {
                 type = PREDICATE;
             }
             
@@ -518,6 +528,32 @@ public class Main implements NullInterestingness,PredictionRules {
     public Boolean isPredict_p_for_o_given_localized_l(String predictionRule) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+    
+    
+/*
+<option value="2">c_s,ll_s => po (predict_po_for_s_given_localized_l) </option>
+<option value="7">c_o,ll_o=>sp (predict_sp_for_o_given_localized_l)</option>
+<option value="10">c_o,ll_o=>p (predict_p_for_o_given_localized_l)</option>
+<option value="4">c_s,ll_s=> p (predict_p_for_s_given_localized_l)</option>
+<option value="1">c_s,l_s => po (predict_po_for_s_given_l)</option>
+<option value="3">c_s,l_s => p (predict_p_for_s_given_l)</option>
+<option value="5">c_s,l_s => o (predict_o_for_s_given_l)</option>
+<option value="6">c_o,l_o=>sp (predict_sp_for_o_given_l)</option>
+<option value="8">c_o,l_o=>s (predict_s_for_o_given_l)</option>
+<option value="9">c_o,l_o=>p (predict_p_for_o_given_l)</option>
+    
+    
+<option value="11">c_s,po=>l_s (predict_l_for_s_given_po)</option>
+<option value="12">c_s,po=>ll_s (predict_localized_l_for_s_given_po)</option>
+<option value="13">c_s,p=>l_s (predict_l_for_s_given_p)</option>
+<option value="14">c_s,p=>ll_s (predict_localized_l_for_s_given_p)</option>
+<option value="15">c_s,o=>l_s (predict_l_for_s_given_o)</option>
+<option value="16">c_o,sp=>l_o (predict_l_for_o_given_sp)</option>
+<option value="17">c_o,sp=>ll_o (predict_localized_l_for_o_given_sp)</option>
+<option value="18">c_o,s=>l_o (predict_l_for_o_given_s)</option>
+<option value="19">c_o,p=>l_o (predict_l_for_o_given_p)</option>
+<option value="20">c_o,p=>ll_o (predict_localized_l_for_o_given_p)</option>
+    */
 
 }
 
