@@ -319,7 +319,6 @@ public class Main implements NullInterestingness,PredictionRules {
 
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
         String outputDir = resourceDir;
-        String type = null;
         String creationType = createExperimentLine;
         Lemmatizer lemmatizer = new Lemmatizer();
         //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
@@ -347,6 +346,19 @@ public class Main implements NullInterestingness,PredictionRules {
                // PredictionRules.predict_p_for_o_given_localized_l
         ));*/
        
+        List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
+                predict_p_for_o_given_localized_l,
+                predict_po_for_s_given_l,
+                predict_p_for_o_given_l,
+                predict_p_for_s_given_l,
+                predict_o_for_s_given_l,
+                predict_s_for_o_given_l,
+                predict_sp_for_o_given_localized_l,
+                predict_sp_for_o_given_l
+        ));
+
+        
+      
         
         List<String> interestingness = new ArrayList<String>();
         interestingness.add(Coherence);
@@ -356,21 +368,6 @@ public class Main implements NullInterestingness,PredictionRules {
         interestingness.add(IR);
         interestingness.add(MaxConf);
         for (String prediction : predictKBGivenLInguistic) {
-            if (prediction.equals(PredictionRules.predict_l_for_s_given_o)
-                ||prediction.equals(PredictionRules.predict_o_for_s_given_l)) {
-                type = OBJECT;
-            } else if (
-                    prediction.equals(PredictionRules.predict_po_for_s_given_l)
-                    ||prediction.equals(PredictionRules.predict_p_for_s_given_l)
-                    ||prediction.equals(PredictionRules.predict_p_for_o_given_l)
-                    ||prediction.equals(PredictionRules.predict_sp_for_o_given_l)
-                    || prediction.equals(PredictionRules.predict_po_for_s_given_localized_l)
-                    || prediction.equals(PredictionRules.predict_p_for_s_given_localized_l)
-                    || prediction.equals(PredictionRules.predict_p_for_o_given_localized_l)
-                    || prediction.equals(PredictionRules.predict_sp_for_o_given_localized_l)) {
-                type = PREDICATE;
-            }
-            
             //String inputDir = baseDir + prediction + "/" ;
              String inputDir = baseDir + "/" ;
            
