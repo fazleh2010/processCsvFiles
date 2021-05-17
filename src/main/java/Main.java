@@ -310,7 +310,7 @@ public class Main implements NullInterestingness,PredictionRules {
         //String resourceDir = "src/main/resources/";
         
         Set<String> posTag=new HashSet<String>();
-        //posTag.add("JJ");
+        posTag.add("JJ");
         posTag.add("NN");
         posTag.add("VB");
        
@@ -323,7 +323,7 @@ public class Main implements NullInterestingness,PredictionRules {
         //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
         //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
         String  txtDir =  resourceDir + "/" + "txt" +  "/"  ;
-        txtDir = "/var/www/html/ontologyLexicalization/data/";
+        //txtDir = "/var/www/html/ontologyLexicalization/data/";
 
         FileFolderUtils.createDirectory(txtDir);
 
@@ -338,9 +338,9 @@ public class Main implements NullInterestingness,PredictionRules {
                 //predict_l_for_o_given_sp
                 //predict_localized_l_for_s_given_p 
                 //predict_po_for_s_given_l
-                PredictionRules.predict_po_for_s_given_localized_l
-        //PredictionRules.predict_p_for_s_given_localized_l
-        //PredictionRules.predict_p_for_o_given_localized_l
+                //PredictionRules.predict_po_for_s_given_localized_l,
+                PredictionRules.predict_p_for_s_given_localized_l,
+                PredictionRules.predict_p_for_o_given_localized_l
         ));
         List<String> interestingness = new ArrayList<String>();
         interestingness.add(Coherence);
