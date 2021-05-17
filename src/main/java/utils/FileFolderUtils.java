@@ -86,11 +86,9 @@ public class FileFolderUtils implements TextAnalyzer {
 
     public static List<File> getSpecificFiles(String fileDir, String category, String extension) {
         List<File> selectedFiles = new ArrayList<File>();
-        System.out.println(category+"  "+extension);
         try {
             String[] files = new File(fileDir).list();
             for (String fileName : files) {
-                  System.out.println("fileName:  "+fileName);
                 if (fileName.contains(category) && fileName.contains(extension)) {
                     selectedFiles.add(new File(fileDir + fileName));
                 }

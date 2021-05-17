@@ -72,7 +72,7 @@ public class Main implements NullInterestingness,PredictionRules {
                 if (creationType.contains(createExperimentLine)) {
                     
                     //files = FileFolderUtils.getSpecificFiles(rawFileDir, ".csv");
-                      files = FileFolderUtils.getSpecificFiles(rawFileDir, givenPrediction, givenInterestingness);
+                      files = FileFolderUtils.getSpecificFiles(rawFileDir, givenPrediction, ".csv");
                     if (!files.isEmpty()) {
                         //createExperimentLinesCsv(outputDir, prediction, rule, files, creationType);
                     } else {
