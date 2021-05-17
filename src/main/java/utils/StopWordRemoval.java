@@ -27,7 +27,7 @@ public class StopWordRemoval {
 
             }
             Integer length=tokenStr.length() - 1;
-            System.out.println(nGramStr+" "+length);
+            //System.out.println(nGramStr+" "+length);
             if(length>1) {
                return tokenStr.substring(0, tokenStr.length() - 1);    
             }
@@ -43,7 +43,7 @@ public class StopWordRemoval {
     public static void main(String[] args) {
         String string = "a_australian";
         String modString = deleteStopWord(string);
-        System.out.println("modString:"+modString);
+        //System.out.println("modString:"+modString);
 
     }
 

@@ -51,13 +51,13 @@ public class CreateTXT implements NullInterestingness{
                     LexiconUnit lexiconUnit = lexiconDic.get(lexical);
                     String partOfSpeech = lexiconUnit.getPartsOfSpeech();
 
-                    if (partOfSpeech.contains("JJ")) {
+                    /*if (partOfSpeech.contains("JJ")) {
                         adjectives.add(lexical);
                     } else if (partOfSpeech.contains("VB")) {
                         verbs.add(lexical);
                     } else if (partOfSpeech.contains("NN")) {
                         nouns.add(lexical);
-                    }
+                    }*/
                     
                     lexical="\""+ lexical +"\"";
                     String lines = "";
@@ -105,13 +105,13 @@ public class CreateTXT implements NullInterestingness{
         }
             
         }
-        String nounFileName=outputDirT+"z_NN_"+prediction+"_"+interestingness+".txt";
+        /*String nounFileName=outputDirT+"z_NN_"+prediction+"_"+interestingness+".txt";
         String adjectiveFileName=outputDirT+"z_JJ_"+prediction+"_"+interestingness+".txt";
         String verbFileName=outputDirT+"z_VB"+prediction+"_"+interestingness+".txt";
 
         listToFiles(nouns,nounFileName);
         listToFiles(adjectives,adjectiveFileName);
-        listToFiles(verbs,verbFileName);
+        listToFiles(verbs,verbFileName);*/
 
        
          return stringAdd;

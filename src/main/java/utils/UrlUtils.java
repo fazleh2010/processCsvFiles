@@ -20,7 +20,7 @@ public class UrlUtils {
         URL url = new URL("http://dbpedia.org/page/Donald_Trump");
         Path path = Paths.get("example/path/to/file");
         String lastSegment = path.getFileName().toString();
-        System.out.println(getLastPartOfUrl("http://dbpedia.org/resource/The_Trump_Organization"));
+        //System.out.println(getLastPartOfUrl("http://dbpedia.org/resource/The_Trump_Organization"));
 
     }
     

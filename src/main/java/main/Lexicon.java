@@ -45,10 +45,7 @@ public class Lexicon implements PredictionRules{
             Integer index = 0;
             List<LineInfo> LineInfos = lineLexicon.get(word);
             //Collections.sort(LineInfos,new LineInfo());  
-            //System.out.println("word:"+word);
 
-            //System.out.println("postagOfWord:"+postagOfWord);
-            //System.out.println("associationType:"+associationType);
             Set<String> duplicateCheck = new HashSet<String>();
 
             /*if(postagOfWord.contains(Analyzer.NOUN))
@@ -78,8 +75,7 @@ public class Lexicon implements PredictionRules{
                     value = lineInfo.getProbabilityValue(interestingness).toString();
                 }
 
-                //System.out.println("pair="+lineInfo.getObject());
-                //System.out.println("associationType:"+associationType+" "+value);
+               
                 //pairs.add("pair=" + lineInfo.getPredicate() + "_" + lineInfo.getObject());
                 String kb = this.getPair(lineInfo, predictionRule);
                 pairs.add("kb"+"=" + kb);

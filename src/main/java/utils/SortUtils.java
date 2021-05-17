@@ -136,23 +136,23 @@ public class SortUtils {
         double myvalue = 0.00000021d;
 
         //Option 1 Print bare double.
-        System.out.println(myvalue);
+        //System.out.println(myvalue);
 
         //Option2, use decimalFormat.
         DecimalFormat df = new DecimalFormat("#");
         df.setMaximumFractionDigits(8);
-        System.out.println(df.format(myvalue));
+        //System.out.println(df.format(myvalue));
 
         //Option 3, use printf.
-        System.out.printf("%.9f", myvalue);
-        System.out.println();
+        //System.out.printf("%.9f", myvalue);
+        //System.out.println();
 
         //Option 4, convert toBigDecimal and ask for toPlainString().
-        System.out.print(new BigDecimal(myvalue).toPlainString());
-        System.out.println();
+        //System.out.print(new BigDecimal(myvalue).toPlainString());
+        //System.out.println();
 
         //Option 5, String.format 
-        System.out.println(String.format("%.12f", myvalue));
+        //System.out.println(String.format("%.12f", myvalue));
     }
 
 

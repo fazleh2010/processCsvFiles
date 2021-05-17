@@ -124,7 +124,7 @@ public class Main implements NullInterestingness,PredictionRules {
                 }
                /*for(String string:row){
                      if(string.contains("real")){
-                      System.out.println(string);
+                      //System.out.println(string);
   
                      }
              

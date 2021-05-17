@@ -72,7 +72,6 @@ public class FileFolderUtils implements TextAnalyzer {
     }
 
     public static List<File> getFiles(String fileDir, String ntriple) throws Exception {
-        System.out.println(fileDir);
         try {
             File dir = new File(fileDir);
             FileFilter fileFilter = new WildcardFileFilter("*" + ntriple);
