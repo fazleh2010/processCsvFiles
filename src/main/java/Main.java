@@ -74,7 +74,7 @@ public class Main implements NullInterestingness,PredictionRules {
                     //files = FileFolderUtils.getSpecificFiles(rawFileDir, ".csv");
                       files = FileFolderUtils.getSpecificFiles(rawFileDir, givenPrediction, ".csv");
                     if (!files.isEmpty()) {
-                        //createExperimentLinesCsv(outputDir, prediction, rule, files, creationType);
+                        createExperimentLinesCsv(outputDir, prediction, rule, files, creationType);
                     } else {
                         throw new Exception("NO files found for " + prediction + " " + rawFileDir);
                     }
@@ -93,6 +93,7 @@ public class Main implements NullInterestingness,PredictionRules {
         for (File classFile : classFiles) {
             Map<String, List<LineInfo>> lineLexicon = new TreeMap<String, List<LineInfo>>();
             String fileName = classFile.getName();
+            System.out.println("fileName:"+fileName);
             /*if (!fileName.contains("AcademicJournal")) {
                 continue;
             }*/
