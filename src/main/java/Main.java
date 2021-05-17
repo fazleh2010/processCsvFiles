@@ -71,9 +71,10 @@ public class Main implements NullInterestingness,PredictionRules {
                 }
                 if (creationType.contains(createExperimentLine)) {
                     
-                    files = FileFolderUtils.getSpecificFiles(rawFileDir, ".csv");
+                    //files = FileFolderUtils.getSpecificFiles(rawFileDir, ".csv");
+                      files = FileFolderUtils.getSpecificFiles(rawFileDir, givenPrediction, givenInterestingness);
                     if (!files.isEmpty()) {
-                        createExperimentLinesCsv(outputDir, prediction, rule, files, creationType);
+                        //createExperimentLinesCsv(outputDir, prediction, rule, files, creationType);
                     } else {
                         throw new Exception("NO files found for " + prediction + " " + rawFileDir);
                     }
@@ -339,8 +340,8 @@ public class Main implements NullInterestingness,PredictionRules {
                 //predict_localized_l_for_s_given_p 
                 //predict_po_for_s_given_l
                 //PredictionRules.predict_po_for_s_given_localized_l,
-                PredictionRules.predict_p_for_s_given_localized_l,
-                PredictionRules.predict_p_for_o_given_localized_l
+                PredictionRules.predict_p_for_s_given_localized_l
+               // PredictionRules.predict_p_for_o_given_localized_l
         ));
         List<String> interestingness = new ArrayList<String>();
         interestingness.add(Coherence);
@@ -359,7 +360,8 @@ public class Main implements NullInterestingness,PredictionRules {
                 type = PREDICATE;
             }
             
-            String inputDir = baseDir + prediction + "/" ;
+            //String inputDir = baseDir + prediction + "/" ;
+             String inputDir = baseDir + "/" ;
            
             for (String inter : interestingness) {
                 outputDir = resourceDir + "/" + prediction + "/" + inter+"/";
