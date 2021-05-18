@@ -42,15 +42,15 @@ public class CreateTXT implements NullInterestingness{
 
         
         for(String parts_of_speech:posTag){
-             List<File> files = FileFolderUtils.getSpecificFiles(inputDir, parts_of_speech);
+             List<File> files = FileFolderUtils.getSpecificFiles(inputDir, "-"+parts_of_speech+"-");
         if (!files.isEmpty()) {
             for (File file : files) {
-                //System.out.println("file:"+file.getName());
+                System.out.println("file:"+file.getName());
               
                 Map<String, LexiconUnit> lexiconDic = getLexiconTxt(file, parts_of_speech, lemmatizer);
                 for (String lexical : lexiconDic.keySet()) {
                     LexiconUnit lexiconUnit = lexiconDic.get(lexical);
-                    //System.out.println("lexical:"+lexical+" postag:"+lexiconUnit.getPartsOfSpeech());
+                    System.out.println("lexical:"+lexical+" postag:"+lexiconUnit.getPartsOfSpeech());
                     //String partOfSpeech = lexiconUnit.getPartsOfSpeech();
 
                     /*if (partOfSpeech.contains("JJ")) {
