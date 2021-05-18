@@ -311,8 +311,8 @@ public class Main implements NullInterestingness,PredictionRules {
         //String resourceDir = "src/main/resources/";
         
         Set<String> posTag=new HashSet<String>();
-        posTag.add("JJ");
-        posTag.add("NN");
+       // posTag.add("JJ");
+       // posTag.add("NN");
         posTag.add("VB");
        
 
@@ -346,8 +346,8 @@ public class Main implements NullInterestingness,PredictionRules {
         ));*/
        
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
-                //PredictionRules.predict_p_for_s_given_localized_l
-                predict_p_for_o_given_localized_l 
+                predict_p_for_o_given_localized_l ,
+                predict_p_for_s_given_localized_l,
                 /*predict_po_for_s_given_l,
                 predict_p_for_o_given_l,
                 predict_p_for_s_given_l,
