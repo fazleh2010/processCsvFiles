@@ -93,7 +93,6 @@ public class Main implements NullInterestingness,PredictionRules {
         for (File classFile : classFiles) {
             Map<String, List<LineInfo>> lineLexicon = new TreeMap<String, List<LineInfo>>();
             String fileName = classFile.getName();
-            System.out.println("fileName:"+fileName);
             /*if (!fileName.contains("AcademicJournal")) {
                 continue;
             }*/
