@@ -49,7 +49,7 @@ public class CreateTXT implements NullInterestingness{
                 Map<String, LexiconUnit> lexiconDic = getLexiconTxt(file, parts_of_speech, lemmatizer);
                 for (String lexical : lexiconDic.keySet()) {
                     LexiconUnit lexiconUnit = lexiconDic.get(lexical);
-                    String partOfSpeech = lexiconUnit.getPartsOfSpeech();
+                    //String partOfSpeech = lexiconUnit.getPartsOfSpeech();
 
                     /*if (partOfSpeech.contains("JJ")) {
                         adjectives.add(lexical);
