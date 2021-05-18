@@ -311,8 +311,8 @@ public class Main implements NullInterestingness,PredictionRules {
         //String resourceDir = "src/main/resources/";
         
         Set<String> posTag=new HashSet<String>();
-        //posTag.add("JJ");
-        //posTag.add("NN");
+        posTag.add("JJ");
+        posTag.add("NN");
         posTag.add("VB");
        
 
