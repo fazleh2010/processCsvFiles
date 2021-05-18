@@ -45,6 +45,7 @@ public class CreateTXT implements NullInterestingness{
              List<File> files = FileFolderUtils.getSpecificFiles(inputDir, "-"+parts_of_speech+"-");
         if (!files.isEmpty()) {
             for (File file : files) {
+                stringAdd = "";
                 System.out.println("file:"+file.getName());
               
                 Map<String, LexiconUnit> lexiconDic = getLexiconTxt(file, parts_of_speech, lemmatizer);
