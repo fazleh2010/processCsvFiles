@@ -348,22 +348,22 @@ public class Main implements NullInterestingness,PredictionRules {
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
                 //predict_p_for_o_given_localized_l 
                 //predict_p_for_s_given_localized_l
-                predict_p_for_o_given_l,
+                /*predict_p_for_o_given_l,
                 predict_p_for_s_given_l,
                 predict_sp_for_o_given_localized_l,
                 predict_sp_for_o_given_l,
                 predict_o_for_s_given_l,
-                predict_s_for_o_given_l
-                //predict_po_for_s_given_l,
+                predict_s_for_o_given_l*/
+                predict_po_for_s_given_l
         ));
 
         
       
         
         List<String> interestingness = new ArrayList<String>();
+        interestingness.add(AllConf);
         interestingness.add(Coherence);
         interestingness.add(Cosine);
-        interestingness.add(AllConf);
         interestingness.add(Kulczynski);
         interestingness.add(IR);
         interestingness.add(MaxConf);
