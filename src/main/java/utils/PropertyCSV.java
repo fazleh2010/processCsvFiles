@@ -61,6 +61,8 @@ public class PropertyCSV {
 20 string
     */
     
+
+    
     public PropertyCSV(String type) {
         if (type.contains(localized)) {
             indexMap.put(classNameIndex, 0);

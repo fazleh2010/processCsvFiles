@@ -87,12 +87,12 @@ public class LineInfo implements NullInterestingness,PredictionRules{
             line="http://www.w3.org/2001/XMLSchema#integer";
         
         this.className = setClassName(row[propertyCSV.getClassNameIndex()]);
-        this.subject=this.setSubject(row[propertyCSV.getStringIndex()]);
+        this.subject=this.setSubject(row[propertyCSV.getSubjectIndex()]);
         this.predicate=this.setProperty(row[propertyCSV.getPredicateIndex()]);
         this.object=this.setObject(row[propertyCSV.getObjectIndex()]);
-        System.out.println("subject"+ this.subject);
-        System.out.println("predicate"+ this.predicate);
-        System.out.println("object"+ this.object);
+        System.out.println("subject"+ this.subjectOriginal);
+        System.out.println("predicate"+ this.predicateOriginal);
+        System.out.println("object"+ this.objectOriginal);
 
         /*if (isPredict_l_for_s_given_po(prediction)
                 || isPredict_po_for_s_given_l(prediction)
@@ -367,6 +367,28 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         return object;
 
     }
+    private String setProperty(String property) {
+        this.predicateOriginal=property;
+        String prefix = "prefix:";
+        if (property.contains("http:")) {
+            if (property.contains("http://dbpedia.org/ontology/")) {
+                property=property.replace("http://dbpedia.org/ontology/", "");
+                prefix = "dbo:";
+            } else if (property.contains("http://dbpedia.org/property/")) {
+                property=property.replace("http://dbpedia.org/property/", "");
+                prefix = "dbp:";
+            }
+            else if (property.contains("http://xmlns.com/foaf/0.1/")) {
+                property=property.replace("http://xmlns.com/foaf/0.1/", "");
+                prefix = "foaf:";
+            }
+            
+
+            property = prefix + property;
+
+        }
+        return property;
+    }
     
      private String setSubject(String subject) {
         this.subjectOriginal=subject;
@@ -508,29 +530,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         return "LineInfo{"+this.className+" ," + subject + ", predicate=" + predicate + ", object=" + object + ", word=" + word + ", probabilityValue=" + probabilityValue + '}';
     }
 
-  
-    private String setProperty(String property) {
-        this.predicateOriginal=property;
-        String prefix = "prefix:";
-        if (property.contains("http:")) {
-            if (property.contains("http://dbpedia.org/ontology/")) {
-                property=property.replace("http://dbpedia.org/ontology/", "");
-                prefix = "dbo:";
-            } else if (property.contains("http://dbpedia.org/property/")) {
-                property=property.replace("http://dbpedia.org/property/", "");
-                prefix = "dbp:";
-            }
-            else if (property.contains("http://xmlns.com/foaf/0.1/")) {
-                property=property.replace("http://xmlns.com/foaf/0.1/", "");
-                prefix = "foaf:";
-            }
-            
-
-            property = prefix + property;
-
-        }
-        return property;
-    }
+ 
     private String setClassName(String className) {
         String prefix = null;
         if (className.contains("/")) {
