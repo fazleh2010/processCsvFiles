@@ -33,9 +33,9 @@ public class LineInfo implements NullInterestingness,PredictionRules{
     private String subject = "";
     private String predicate = "";
     private String object = "";
-    private String subjectOriginal = "e";
-    private String predicateOriginal = "p";
-    private String objectOriginal = "o";
+    private String subjectOriginal = "";
+    private String predicateOriginal = "";
+    private String objectOriginal = "";
     private String posTag = null;
     private String fullPosTag = null;
     private String rule = null;
@@ -85,9 +85,16 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         this.line=string;
         if(line.contains("http://www.w3.org/2001/XMLSchema#integer"))
             line="http://www.w3.org/2001/XMLSchema#integer";
+        
         this.className = setClassName(row[propertyCSV.getClassNameIndex()]);
+        this.subject=this.setSubject(row[propertyCSV.getStringIndex()]);
+        this.predicate=this.setProperty(row[propertyCSV.getPredicateIndex()]);
+        this.object=this.setObject(row[propertyCSV.getObjectIndex()]);
+        System.out.println("subject"+ this.subject);
+        System.out.println("predicate"+ this.predicate);
+        System.out.println("object"+ this.object);
 
-        if (isPredict_l_for_s_given_po(prediction)
+        /*if (isPredict_l_for_s_given_po(prediction)
                 || isPredict_po_for_s_given_l(prediction)
                 || isPredict_po_for_s_given_localized_l(prediction)) {
             this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
@@ -106,7 +113,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
             this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
         } else if (isPredict_localized_l_for_s_given_p(prediction)) {
             this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
-        }
+        }*/
 
 
         if(!isKBValid()){

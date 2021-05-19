@@ -112,6 +112,8 @@ public class Main implements NullInterestingness,PredictionRules {
             for (String[] row : rows) {
                  
                 LineInfo lineInfo = new LineInfo(index, row, dbo_prediction, interestingness, propertyCSV);
+                                    System.out.println("lineInfo::"+lineInfo);
+
               
                 if (lineInfo.getLine() != null) {
                     if (lineInfo.getLine().contains("XMLSchema#integer")||lineInfo.getLine().contains("XMLSchema#gYear")) {
@@ -136,7 +138,6 @@ public class Main implements NullInterestingness,PredictionRules {
                     nGram = nGram.toLowerCase().trim().strip();
                     nGram = nGram.replaceAll(" ", "_");
                     nGram = StopWordRemoval.deleteStopWord(nGram);
-                    System.out.println("nGram::"+nGram);
 
                     List<LineInfo> results = new ArrayList<LineInfo>();
                     if (lineLexicon.containsKey(nGram)) {
