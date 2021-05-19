@@ -108,7 +108,7 @@ public class Main implements NullInterestingness,PredictionRules {
             for (String[] row : rows) {
                  
                 LineInfo lineInfo = new LineInfo(index, row, dbo_prediction, interestingness, propertyCSV);
-                                    System.out.println("lineInfo::"+lineInfo);
+                                    //System.out.println("lineInfo::"+lineInfo);
 
               
                 if (lineInfo.getLine() != null) {
@@ -163,16 +163,11 @@ public class Main implements NullInterestingness,PredictionRules {
         Map<String, List<LineInfo>> lineLexicon = new TreeMap<String, List<LineInfo>>();
         List<String[]> rows = new ArrayList<String[]>();
         PropertyCSV propertyCSV = new PropertyCSV();
-        /*if (dbo_prediction.contains(PropertyCSV.localized)) {
-            propertyCSV = new PropertyCSV(PropertyCSV.localized);
-        } else {
-            propertyCSV = new PropertyCSV(PropertyCSV.general);
-        }*/
 
         File file = new File(directory + "/" + experimentID);
         CsvFile csvFile = new CsvFile(file);
         rows = csvFile.getRows(file);
-        System.out.println("number of rows:"+rows.size());
+        //System.out.println("number of rows:"+rows.size());
         //rows = csvFile.getRows(file, 1000.0, 300000);
 
         Integer index = 0, rowCount = 0;
@@ -291,7 +286,7 @@ public class Main implements NullInterestingness,PredictionRules {
         ));*/
        
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
-                predict_s_for_o_given_l
+                //predict_s_for_o_given_l
                 //predict_p_for_o_given_localized_l 
                 //predict_p_for_s_given_localized_l
                 /*predict_p_for_o_given_l,
@@ -300,7 +295,7 @@ public class Main implements NullInterestingness,PredictionRules {
                 predict_sp_for_o_given_l,
                 predict_o_for_s_given_l,
                 predict_s_for_o_given_l*/
-                //predict_po_for_s_given_l
+                predict_po_for_s_given_l
         ));
 
         
