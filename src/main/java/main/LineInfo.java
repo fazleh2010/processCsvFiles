@@ -90,9 +90,9 @@ public class LineInfo implements NullInterestingness,PredictionRules{
          this.setSubject(row[propertyCSV.getSubjectIndex()]);
         this.setProperty(row[propertyCSV.getPredicateIndex()]);
        this.setObject(row[propertyCSV.getObjectIndex()]);
-        System.out.println("subject" + this.subjectOriginal);
-        System.out.println("predicate" + this.predicateOriginal);
-        System.out.println("object" + this.objectOriginal);
+        //System.out.println("subject" + this.subjectOriginal);
+        //System.out.println("predicate" + this.predicateOriginal);
+        //System.out.println("object" + this.objectOriginal);
 
         if (!isKBValid()) {
             this.validFlag = false;

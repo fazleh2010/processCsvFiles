@@ -69,7 +69,7 @@ public class CreateTXT implements NullInterestingness{
                         String line = "";
                         for (Integer i = 0; resultList.size() > i; i++) {
                             String value = resultList.get(i);
-                            System.out.println("value:"+value);
+                            //System.out.println("value:"+value);
                             
                             if(i==4){
                               value= value.replace("{", "");
