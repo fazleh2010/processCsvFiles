@@ -33,9 +33,9 @@ public class LineInfo implements NullInterestingness,PredictionRules{
     private String subject = "e";
     private String predicate = "p";
     private String object = "o";
-    private String subjectOriginal = "";
-    private String predicateOriginal = "";
-    private String objectOriginal = "";
+    private String subjectOriginal = "e";
+    private String predicateOriginal = "p";
+    private String objectOriginal = "o";
     private String posTag = null;
     private String fullPosTag = null;
     private String rule = null;
