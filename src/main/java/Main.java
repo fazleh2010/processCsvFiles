@@ -252,8 +252,9 @@ public class Main implements NullInterestingness,PredictionRules {
         
         Set<String> posTag=new HashSet<String>();
         posTag.add("JJ");
-        posTag.add("NN");
-        posTag.add("VB");
+        //posTag.add("NN");
+        //posTag.add("VB");
+        String txt="txtPo";
        
 
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
@@ -262,7 +263,7 @@ public class Main implements NullInterestingness,PredictionRules {
         Lemmatizer lemmatizer = new Lemmatizer();
         //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
         //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
-        String  txtDir =  resourceDir + "/" + "txt" +  "/"  ;
+        String  txtDir =  resourceDir + "/" +txt +  "/"  ;
         //txtDir = "/var/www/html/ontologyLexicalization/data/";
 
         FileFolderUtils.createDirectory(txtDir);
@@ -287,10 +288,10 @@ public class Main implements NullInterestingness,PredictionRules {
        
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
                 //predict_s_for_o_given_l,
-                predict_o_for_s_given_l,
-                //predict_po_for_s_given_l,
-                predict_sp_for_o_given_l,
-                predict_sp_for_o_given_localized_l
+                //predict_o_for_s_given_l,
+                predict_po_for_s_given_l
+                //predict_sp_for_o_given_l,
+                //predict_sp_for_o_given_localized_l
                 //predict_p_for_o_given_localized_l 
                 //predict_p_for_s_given_localized_l
                 //predict_p_for_o_given_l
@@ -303,7 +304,11 @@ public class Main implements NullInterestingness,PredictionRules {
                 //predict_po_for_s_given_l
         ));
 
-        
+        //now running
+          //predict_s_for_o_given_l,
+                //predict_o_for_s_given_l,
+                //predict_sp_for_o_given_l,
+                //predict_sp_for_o_given_localized_l
       
         
         List<String> interestingness = new ArrayList<String>();
