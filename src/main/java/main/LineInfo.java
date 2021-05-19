@@ -87,12 +87,12 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         }
 
         this.className = setClassName(row[propertyCSV.getClassNameIndex()]);
-        this.subject = this.setSubject(row[propertyCSV.getSubjectIndex()]);
-        this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
-        this.object = this.setObject(row[propertyCSV.getObjectIndex()]);
-        //System.out.println("subject" + this.subjectOriginal);
-        //System.out.println("predicate" + this.predicateOriginal);
-        //System.out.println("object" + this.objectOriginal);
+         this.setSubject(row[propertyCSV.getSubjectIndex()]);
+        this.setProperty(row[propertyCSV.getPredicateIndex()]);
+       this.setObject(row[propertyCSV.getObjectIndex()]);
+        System.out.println("subject" + this.subjectOriginal);
+        System.out.println("predicate" + this.predicateOriginal);
+        System.out.println("object" + this.objectOriginal);
 
         if (!isKBValid()) {
             this.validFlag = false;
@@ -116,7 +116,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         }
     }
 
-    public LineInfo(Integer index,String[] row,String prediction,String interestingness,PropertyCSV propertyCSV,Boolean flag) throws Exception {
+    /*public LineInfo(Integer index,String[] row,String prediction,String interestingness,PropertyCSV propertyCSV,Boolean flag) throws Exception {
         if (row.length < propertyCSV.getStringIndex()) {
             this.validFlag = false;
             //LOGGER.log(Level.INFO, "line No ::" + index + " line does not work!!!!!!!!!!");
@@ -196,7 +196,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
             this.getPosTag(str);
             this.setRule();
         }
-    }
+    }*/
     
     private Integer setNGram(String[] row, Integer patterntypeIndex) {
         String patternType = row[patterntypeIndex];
@@ -319,16 +319,39 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         }
     }
 
-    private void setTriple(String leftRule) {
-        leftRule = leftRule.replace(",", " , ");
-        String[] info = leftRule.split(",");
-        this.correct(leftRule);
-        this.subject = this.correct(info[0]);
-        this.predicate = this.correct(info[1]);
-        this.object =this.setObject(this.correct(info[2]));       
+   
+     
+    private void setObject(String object) {
+        if (object.isEmpty()) {
+            this.objectOriginal = "o";
+            this.object = "o";
+        } else {
+            this.objectOriginal = object;
+            this.object = object;
+        }
+    }
+    private void setProperty(String property) {
+         if (property.isEmpty()) {
+            this.predicateOriginal = "p";
+            this.predicate = "p";
+        } else {
+            this.predicateOriginal=property;
+            this.predicate=property;
+        }
     }
     
-    private String setObject(String object) {
+     private void setSubject(String subject) {
+          if (subject.isEmpty()) {
+            this.subjectOriginal = "e";
+            this.subject = "e";
+        } else {
+            this.subjectOriginal=subject;
+            this.subject=subject;
+        }
+       
+    }
+    
+    /*private String setObject(String object) {
         this.objectOriginal=object;
         if (object.contains("http:")) {
             if (object.contains("http://dbpedia.org/resource/")) {
@@ -378,7 +401,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
 
         return subject;
 
-    }
+    }*/
 
 
     private String processWords(String nGram) throws Exception {
