@@ -65,82 +65,57 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         
     }
     
-    public LineInfo(Integer index,String[] row,String prediction,String interestingness,PropertyCSV propertyCSV) throws Exception {
-         String string  ="";
+    public LineInfo(Integer index, String[] row, String prediction, String interestingness, PropertyCSV propertyCSV) throws Exception {
+        String string = "";
         if (row.length < propertyCSV.getStringIndex()) {
             this.validFlag = false;
             //LOGGER.log(Level.INFO, "line No ::" + index + " line does not work!!!!!!!!!!");
             return;
         }
-         
-        try{
-        string  =row[propertyCSV.getStringIndex()];
-        //string=string.replace(",", "$");
-        //System.out.println("string::"+string);
-        }
-        catch(ArrayIndexOutOfBoundsException ex){
-            validFlag=false;
+
+        try {
+            string = row[propertyCSV.getStringIndex()];
+            //string=string.replace(",", "$");
+            //System.out.println("string::"+string);
+        } catch (ArrayIndexOutOfBoundsException ex) {
+            validFlag = false;
             return;
         }
-        this.line=string;
-        if(line.contains("http://www.w3.org/2001/XMLSchema#integer"))
-            line="http://www.w3.org/2001/XMLSchema#integer";
-        
-        this.className = setClassName(row[propertyCSV.getClassNameIndex()]);
-        this.subject=this.setSubject(row[propertyCSV.getSubjectIndex()]);
-        this.predicate=this.setProperty(row[propertyCSV.getPredicateIndex()]);
-        this.object=this.setObject(row[propertyCSV.getObjectIndex()]);
-        System.out.println("subject"+ this.subjectOriginal);
-        System.out.println("predicate"+ this.predicateOriginal);
-        System.out.println("object"+ this.objectOriginal);
-
-        /*if (isPredict_l_for_s_given_po(prediction)
-                || isPredict_po_for_s_given_l(prediction)
-                || isPredict_po_for_s_given_localized_l(prediction)) {
-            this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
-            this.object = this.setObject(row[propertyCSV.getObjectIndex()]);
-        } else if (isPredict_l_for_s_given_o(prediction)) {
-            this.object = this.setObject(row[propertyCSV.getObjectIndex()]);
-        } else if (isPredict_l_for_o_given_s(prediction)) {
-            //this.subject = this.setSubject(rule);
-        } else if (isPredict_l_for_o_given_sp(prediction)) {
-            //this.subject = this.setSubject(rule);
-            //this.predicate = this.setProperty(rule);
-        } else if (isPredict_l_for_o_given_p(prediction)
-                || isPredict_l_for_s_given_p(prediction)
-                || isPredict_p_for_s_given_localized_l(prediction)
-                || isPredict_p_for_o_given_localized_l(prediction)) {
-            this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
-        } else if (isPredict_localized_l_for_s_given_p(prediction)) {
-            this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
-        }*/
-
-
-        if(!isKBValid()){
-            this.validFlag=false;
-            return; 
+        this.line = string;
+        if (line.contains("http://www.w3.org/2001/XMLSchema#integer")) {
+            line = "http://www.w3.org/2001/XMLSchema#integer";
         }
-            
-        
+
+        this.className = setClassName(row[propertyCSV.getClassNameIndex()]);
+        this.subject = this.setSubject(row[propertyCSV.getSubjectIndex()]);
+        this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
+        this.object = this.setObject(row[propertyCSV.getObjectIndex()]);
+        System.out.println("subject" + this.subjectOriginal);
+        System.out.println("predicate" + this.predicateOriginal);
+        System.out.println("object" + this.objectOriginal);
+
+        if (!isKBValid()) {
+            this.validFlag = false;
+            return;
+        }
 
         this.wordOriginal = row[propertyCSV.getLinguisticPatternIndex()];
         /*if(this.wordOriginal.contains("ustralian"))
             System.out.println("@@@@@@@@@@@@@@@22:"+wordOriginal);*/
-        
+
         if (wordOriginal != null) {
             this.validFlag = true;
         }
-        this.nGramNumber=this.setNGram(row,propertyCSV.getPatterntypeIndex());
-       
-       
+        this.nGramNumber = this.setNGram(row, propertyCSV.getPatterntypeIndex());
+
         if (this.validFlag) {
             String str = this.processWords(this.wordOriginal);
             this.getPosTag(str);
             this.setRule();
-            this.setProbabilityValue(index,interestingness,row,propertyCSV);
+            this.setProbabilityValue(index, interestingness, row, propertyCSV);
         }
     }
-    
+
     public LineInfo(Integer index,String[] row,String prediction,String interestingness,PropertyCSV propertyCSV,Boolean flag) throws Exception {
         if (row.length < propertyCSV.getStringIndex()) {
             this.validFlag = false;
@@ -652,7 +627,26 @@ public class LineInfo implements NullInterestingness,PredictionRules{
 
     }*/
 
-    
+     /*if (isPredict_l_for_s_given_po(prediction)
+                || isPredict_po_for_s_given_l(prediction)
+                || isPredict_po_for_s_given_localized_l(prediction)) {
+            this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
+            this.object = this.setObject(row[propertyCSV.getObjectIndex()]);
+        } else if (isPredict_l_for_s_given_o(prediction)) {
+            this.object = this.setObject(row[propertyCSV.getObjectIndex()]);
+        } else if (isPredict_l_for_o_given_s(prediction)) {
+            //this.subject = this.setSubject(rule);
+        } else if (isPredict_l_for_o_given_sp(prediction)) {
+            //this.subject = this.setSubject(rule);
+            //this.predicate = this.setProperty(rule);
+        } else if (isPredict_l_for_o_given_p(prediction)
+                || isPredict_l_for_s_given_p(prediction)
+                || isPredict_p_for_s_given_localized_l(prediction)
+                || isPredict_p_for_o_given_localized_l(prediction)) {
+            this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
+        } else if (isPredict_localized_l_for_s_given_p(prediction)) {
+            this.predicate = this.setProperty(row[propertyCSV.getPredicateIndex()]);
+        }*/
 
 
 }

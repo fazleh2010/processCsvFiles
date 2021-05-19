@@ -99,15 +99,11 @@ public class Main implements NullInterestingness,PredictionRules {
             CsvFile csvFile = new CsvFile(classFile);
             //rows = csvFile.getManualRow(classFile, 1000.0, 300000);
             rows = csvFile.getRows(classFile);
-            PropertyCSV propertyCSV = null;
+            PropertyCSV propertyCSV = new PropertyCSV();
             numberOfClass = numberOfClass + 1;
             String className = classFile.getName().replace("http%3A%2F%2Fdbpedia.org%2Fontology%2F", "");
             System.out.println("interestingness:"+interestingness+" now running clssName::"+className+" "+dbo_prediction);
-            if (classFile.getName().contains(PropertyCSV.localized)) {
-                propertyCSV = new PropertyCSV(PropertyCSV.localized);
-            } else {
-                propertyCSV = new PropertyCSV(PropertyCSV.general);
-            }
+           
             Integer index = 0;
             for (String[] row : rows) {
                  
@@ -166,16 +162,17 @@ public class Main implements NullInterestingness,PredictionRules {
     private static Lexicon createLexicon(String qald9Dir,String directory, String dbo_prediction, String interestingness, String experimentID, Integer numberOfRules) throws Exception {
         Map<String, List<LineInfo>> lineLexicon = new TreeMap<String, List<LineInfo>>();
         List<String[]> rows = new ArrayList<String[]>();
-        PropertyCSV propertyCSV = null;
-        if (dbo_prediction.contains(PropertyCSV.localized)) {
+        PropertyCSV propertyCSV = new PropertyCSV();
+        /*if (dbo_prediction.contains(PropertyCSV.localized)) {
             propertyCSV = new PropertyCSV(PropertyCSV.localized);
         } else {
             propertyCSV = new PropertyCSV(PropertyCSV.general);
-        }
+        }*/
 
         File file = new File(directory + "/" + experimentID);
         CsvFile csvFile = new CsvFile(file);
         rows = csvFile.getRows(file);
+        System.out.println("number of rows:"+rows.size());
         //rows = csvFile.getRows(file, 1000.0, 300000);
 
         Integer index = 0, rowCount = 0;
@@ -219,60 +216,6 @@ public class Main implements NullInterestingness,PredictionRules {
         return lexicon;
     }
 
-    private static Lexicon createExperimentGrep(String qald9Dir,String directory, String dbo_prediction, String interestingness, String experimentID, Integer numberOfRules) throws Exception {
-        Map<String, List<LineInfo>> lineLexicon = new TreeMap<String, List<LineInfo>>();
-        List<String[]> rows = new ArrayList<String[]>();
-        PropertyCSV propertyCSV = null;
-        if (dbo_prediction.contains(PropertyCSV.localized)) {
-            propertyCSV = new PropertyCSV(PropertyCSV.localized);
-        } else {
-            propertyCSV = new PropertyCSV(PropertyCSV.general);
-        }
-
-        File file = new File(directory + "/" + experimentID);
-        CsvFile csvFile = new CsvFile(file);
-        rows = csvFile.getRows(file);
-
-        Integer index = 0, rowCount = 0;
-        for (String[] row : rows) {
-            if (rowCount == 0) {
-                rowCount = rowCount + 1;
-                continue;
-            } else {
-                rowCount = rowCount + 1;
-            }
-            LineInfo lineInfo = new LineInfo(index, row, dbo_prediction, interestingness, propertyCSV);
-            index = index + 1;
-
-            if (index >= numberOfRules) {
-                break;
-            }
-            if (!lineInfo.getValidFlag()) {
-                continue;
-            }
-
-            String nGram = lineInfo.getWord();
-            nGram = nGram.replace("\"", "");
-            nGram = nGram.toLowerCase().trim().strip();
-            nGram = nGram.replaceAll(" ", "_");
-            nGram = StopWordRemoval.deleteStopWord(nGram);
-
-            List<LineInfo> results = new ArrayList<LineInfo>();
-            if (lineLexicon.containsKey(nGram)) {
-                results = lineLexicon.get(nGram);
-                results.add(lineInfo);
-                lineLexicon.put(nGram, results);
-            } else {
-                results.add(lineInfo);
-                lineLexicon.put(nGram, results);
-
-            }
-
-        }
-        Lexicon lexicon = new Lexicon(qald9Dir);
-        lexicon.preparePropertyLexicon(dbo_prediction, directory, experimentID, interestingness, lineLexicon);
-        return lexicon;
-    }
 
     private static String[] findParameter(String[] info) {
         String[] parameters = new String[3];

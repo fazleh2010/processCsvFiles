@@ -63,30 +63,27 @@ public class PropertyCSV {
     
 
     
-    public PropertyCSV(String type) {
-        if (type.contains(localized)) {
-            indexMap.put(classNameIndex, 0);
-            indexMap.put(ruletypeIndex, 1);
-            indexMap.put(linguisticPatternIndex, 3);
-            indexMap.put(orderOfArgumentsIndex, 4);
-            indexMap.put(patterntypeIndex, 5);
-            indexMap.put(subjectIndex, 6);
-            indexMap.put(predicateIndex, 7);
-            indexMap.put(objectIndex, 8);
-            indexMap.put(condABIndex, 9);
-            indexMap.put(condBAIndex, 10);
-            indexMap.put(supAIndex, 11);
-            indexMap.put(supBIndex, 12);
-            indexMap.put(supABIndex, 13);
-            indexMap.put(AllConfIndex, 14);
-            indexMap.put(CoherenceIndex, 15);
-            indexMap.put(CosineIndex, 16);
-            indexMap.put(IRIndex, 17);
-            indexMap.put(KulczynskiIndex, 18);
-            indexMap.put(MaxConfIndex, 19);
-            indexMap.put(stringIndex, 20);
-        }
-
+    public PropertyCSV() {
+        indexMap.put(classNameIndex, 0);
+        indexMap.put(ruletypeIndex, 1);
+        indexMap.put(linguisticPatternIndex, 3);
+        indexMap.put(orderOfArgumentsIndex, 4);
+        indexMap.put(patterntypeIndex, 5);
+        indexMap.put(subjectIndex, 6);
+        indexMap.put(predicateIndex, 7);
+        indexMap.put(objectIndex, 8);
+        indexMap.put(condABIndex, 9);
+        indexMap.put(condBAIndex, 10);
+        indexMap.put(supAIndex, 11);
+        indexMap.put(supBIndex, 12);
+        indexMap.put(supABIndex, 13);
+        indexMap.put(AllConfIndex, 14);
+        indexMap.put(CoherenceIndex, 15);
+        indexMap.put(CosineIndex, 16);
+        indexMap.put(IRIndex, 17);
+        indexMap.put(KulczynskiIndex, 18);
+        indexMap.put(MaxConfIndex, 19);
+        indexMap.put(stringIndex, 20);
     }
 
     public Integer getClassNameIndex() {
