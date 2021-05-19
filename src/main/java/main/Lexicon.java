@@ -146,27 +146,7 @@ public class Lexicon implements PredictionRules{
     }
 
     private String getPair(LineInfo lineInfo, String predictionRule) throws Exception {
-        if (predictionRule.equals(predict_l_for_s_given_po)
-                || predictionRule.equals(predict_po_for_s_given_l)
-                || predictionRule.equals(predict_po_for_s_given_localized_l)) {
-            return lineInfo.getPredicate() + " " + lineInfo.getObject();
-        } else if (predictionRule.equals(predict_l_for_s_given_o)) {
-            return lineInfo.getObject();
-        } else if (predictionRule.equals(predict_l_for_o_given_s)) {
-            return lineInfo.getSubject();
-        } else if (predictionRule.equals(predict_l_for_o_given_sp)) {
-            return lineInfo.getSubject() + " " + lineInfo.getPredicate();
-        } else if (predictionRule.equals(predict_l_for_o_given_p)) {
-            return lineInfo.getPredicate();
-        } else if (predictionRule.equals(predict_l_for_s_given_p)) {
-            return lineInfo.getPredicate();
-        } else if (predictionRule.equals(predict_localized_l_for_s_given_p)
-                || predictionRule.equals(PredictionRules.predict_p_for_s_given_localized_l)
-                || predictionRule.equals(PredictionRules.predict_p_for_o_given_localized_l)) {
-            return lineInfo.getPredicate();
-        } else {
-            throw new Exception("can not create key, check the KB!!");
-        }
+        return lineInfo.getSubject() + " " + lineInfo.getPredicate()+ lineInfo.getObject();
     }
 
     @Override
