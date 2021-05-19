@@ -103,7 +103,7 @@ public class Lexicon implements PredictionRules{
         for (String postag : posTaggedLex.keySet()) {
             //String fileName = qald9Dir+ OBJECT + "/"+postag + "-" + key  + ".json";
             String fileName = directory + "/" + interestingness + "-" + postag + "-" + key + ".json";
-            System.out.println(fileName);
+            //System.out.println(fileName);
             List<LexiconUnit> lexiconUnts = posTaggedLex.get(postag);
             this.lexiconPosTaggged.put(postag, lexiconUnts);
             ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
