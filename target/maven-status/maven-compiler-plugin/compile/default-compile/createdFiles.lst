@@ -17,6 +17,7 @@ main/LineInfo.class
 utils/SortUtils$2.class
 analyzer/Lemmatizer.class
 main/PredictionRules.class
+Main1.class
 main/Lexicon.class
 utils/Pair.class
 utils/PropertyCSV.class
