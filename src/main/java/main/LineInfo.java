@@ -30,9 +30,9 @@ import java.util.Comparator;
 public class LineInfo implements NullInterestingness,PredictionRules{
 
     private String line = null;
-    private String subject = "";
-    private String predicate = "";
-    private String object = "";
+    private String subject = "e";
+    private String predicate = "p";
+    private String object = "o";
     private String subjectOriginal = "";
     private String predicateOriginal = "";
     private String objectOriginal = "";
