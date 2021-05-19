@@ -254,7 +254,7 @@ public class Main implements NullInterestingness,PredictionRules {
         posTag.add("JJ");
         posTag.add("NN");
         posTag.add("VB");
-        String txt="txtO";
+        String txt="txtS";
        
 
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
@@ -291,8 +291,8 @@ public class Main implements NullInterestingness,PredictionRules {
                 //predict_o_for_s_given_l,
                 //predict_sp_for_o_given_l,
                 //predict_sp_for_o_given_localized_l
-                 predict_p_for_o_given_l
-                //predict_p_for_s_given_l,
+                //predict_p_for_o_given_l
+                 predict_p_for_s_given_l
         ));
 
         //now running
@@ -303,6 +303,9 @@ public class Main implements NullInterestingness,PredictionRules {
                 
          //second running
            //predict_po_for_s_given_l
+         
+         //third running
+           //predict_p_for_o_given_l
 
          
          //done
