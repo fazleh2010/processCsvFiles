@@ -51,7 +51,7 @@ public class CreateTXT implements NullInterestingness{
                 Map<String, LexiconUnit> lexiconDic = getLexiconTxt(file, parts_of_speech, lemmatizer);
                 for (String lexical : lexiconDic.keySet()) {
                     LexiconUnit lexiconUnit = lexiconDic.get(lexical);
-                    //System.out.println("lexical:"+lexical+" postag:"+lexiconUnit.getPartsOfSpeech());
+                    System.out.println("lexical:"+lexical+" postag:"+lexiconUnit.getPartsOfSpeech());
                     //String partOfSpeech = lexiconUnit.getPartsOfSpeech();
 
                     /*if (partOfSpeech.contains("JJ")) {
@@ -69,13 +69,12 @@ public class CreateTXT implements NullInterestingness{
                         String line = "";
                         for (Integer i = 0; resultList.size() > i; i++) {
                             String value = resultList.get(i);
-                            
+                            System.out.println("value:"+value);
                             
                             if(i==4){
                               value= value.replace("{", "");
                               value= value.replace("}", "");
                             }
-                            
                             else if (value.contains("=")) {
                                  String att = value.split("=")[0];
                                  value = value.split("=")[1];
