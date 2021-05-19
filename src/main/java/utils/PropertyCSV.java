@@ -85,29 +85,6 @@ public class PropertyCSV {
             indexMap.put(KulczynskiIndex, 18);
             indexMap.put(MaxConfIndex, 19);
             indexMap.put(stringIndex, 20);
-
-        } else {
-            indexMap.put(classNameIndex, 0);
-            indexMap.put(ruletypeIndex, 1);
-            indexMap.put(linguisticPatternIndex, 2);
-            indexMap.put(orderOfArgumentsIndex, -1);
-            indexMap.put(patterntypeIndex, 3);
-            indexMap.put(subjectIndex, 4);
-            indexMap.put(predicateIndex, 5);
-            indexMap.put(objectIndex, 6);
-            indexMap.put(condABIndex, 7);
-            indexMap.put(condBAIndex, 8);
-            indexMap.put(supAIndex, 9);
-            indexMap.put(supBIndex, 10);
-            indexMap.put(supABIndex, 11);
-            indexMap.put(AllConfIndex, 12);
-            indexMap.put(CoherenceIndex, 13);
-            indexMap.put(CosineIndex, 14);
-            indexMap.put(IRIndex, 15);
-            indexMap.put(KulczynskiIndex, 16);
-            indexMap.put(MaxConfIndex, 17);
-            indexMap.put(stringIndex, 18);
-
         }
 
     }
