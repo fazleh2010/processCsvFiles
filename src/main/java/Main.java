@@ -230,9 +230,9 @@ public class Main implements NullInterestingness,PredictionRules {
         
         Set<String> posTag=new HashSet<String>();
         posTag.add("JJ");
-        //posTag.add("NN");
-        //posTag.add("VB");
-        String txt="txtPO";
+        posTag.add("NN");
+        posTag.add("VB");
+        String txt="txt";
        
 
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
@@ -255,7 +255,7 @@ public class Main implements NullInterestingness,PredictionRules {
         ));*/
 
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
-            predict_l_for_s_given_po
+            predict_l_for_s_given_o
         ));
 
     // first running
@@ -297,10 +297,10 @@ public class Main implements NullInterestingness,PredictionRules {
         List<String> interestingness = new ArrayList<String>();
         interestingness.add(AllConf);
         interestingness.add(Coherence);
-        interestingness.add(Cosine);
-        interestingness.add(Kulczynski);
-        interestingness.add(IR);
-        interestingness.add(MaxConf);
+        //interestingness.add(Cosine);
+        //interestingness.add(Kulczynski);
+        //interestingness.add(IR);
+        //interestingness.add(MaxConf);
         for (String prediction : predictKBGivenLInguistic) {
             //String inputDir = baseDir + prediction + "/" ;
              String inputDir = baseDir + "/" ;
@@ -308,7 +308,7 @@ public class Main implements NullInterestingness,PredictionRules {
             for (String inter : interestingness) {
                 outputDir = resourceDir + "/" + prediction + "/" + inter+"/";
                 FileFolderUtils.createDirectory(outputDir);
-                Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv");
+                //Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv");
                 //System.out.println(outputDir);
                 CreateTXT.resultStrTxt(posTag,outputDir,txtDir, prediction, lemmatizer, inter);
             }
