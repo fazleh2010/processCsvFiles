@@ -56,19 +56,10 @@ public class Main implements NullInterestingness,PredictionRules {
 
     public Main(String rawFileDir, String outputDir, String givenPrediction, String givenInterestingness, Logger givenLOGGER, String fileType, String creationType) throws Exception {
         // this.lemmatizer=lemmatizer;
+        String prediction=givenPrediction;
 
-        for (String prediction : PredictionRules.predictKBGivenLInguistic) {
-           
-            if (!prediction.equals(givenPrediction)) {
-                continue;
-            }
             for (String rule : interestingness) {
                 List<File> files = new  ArrayList<File>();
-                if (givenInterestingness != null) {
-                    if (!rule.contains(givenInterestingness)) {
-                        continue;
-                    }
-                }
                 if (creationType.contains(createExperimentLine)) {
                     
                     //files = FileFolderUtils.getSpecificFiles(rawFileDir, ".csv");
@@ -81,7 +72,7 @@ public class Main implements NullInterestingness,PredictionRules {
 
                 }
             }
-        }
+        
     }
 
     private static void createExperimentLinesCsv(String directory, String dbo_prediction, String interestingness, List<File> classFiles, String creationType) throws Exception {
@@ -329,7 +320,7 @@ public class Main implements NullInterestingness,PredictionRules {
                 FileFolderUtils.createDirectory(outputDir);
                 Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv", creationType);
                 //System.out.println(outputDir);
-                CreateTXT.resultStrTxt(posTag,outputDir,txtDir, prediction, lemmatizer, inter);
+                //CreateTXT.resultStrTxt(posTag,outputDir,txtDir, prediction, lemmatizer, inter);
             }
         } 
 
