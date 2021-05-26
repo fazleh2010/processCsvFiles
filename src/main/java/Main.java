@@ -232,7 +232,7 @@ public class Main implements NullInterestingness,PredictionRules {
         posTag.add("JJ");
         posTag.add("NN");
         posTag.add("VB");
-        String txt="txt";
+        String txt="txt_PoSP";
        
 
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
@@ -245,33 +245,22 @@ public class Main implements NullInterestingness,PredictionRules {
 
         FileFolderUtils.createDirectory(txtDir);
         
-       /* 
 
-       /* List<String> predictLinguisticGivenKB = new ArrayList<String>(Arrays.asList(
-                //predict_sp_for_o_given_localized_l
-                //predict_l_for_s_given_po
-                //predict_l_for_s_given_o
-                //predict_l_for_o_given_p,
-                //predict_l_for_o_given_s,
-                //predict_l_for_s_given_p,
-                //predict_localized_l_for_o_given_p
-                //predict_l_for_o_given_sp
-                //predict_localized_l_for_s_given_p 
-                //predict_po_for_s_given_l
-                //PredictionRules.predict_po_for_s_given_localized_l,
-                //PredictionRules.predict_p_for_s_given_localized_l
-               // PredictionRules.predict_p_for_o_given_localized_l
-        ));*/
        
-        List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
+        /*List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
              PredictionRules.predict_localized_l_for_o_given_sp,
              PredictionRules.predict_localized_l_for_s_given_po,
              PredictionRules.predict_localized_l_for_s_given_p,
              PredictionRules.predict_localized_l_for_o_given_p
-            /*predict_localized_l_for_s_given_p,
-            predict_localized_l_for_s_given_po,
-            predict_localized_l_for_o_given_p */ 
+        ));*/
+
+        List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
+             PredictionRules.predict_l_for_s_given_p,
+             PredictionRules.predict_l_for_s_given_o,
+             PredictionRules.predict_l_for_o_given_sp
         ));
+
+
 
         //now running
           //predict_s_for_o_given_l,
