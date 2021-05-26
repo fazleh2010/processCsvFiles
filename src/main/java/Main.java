@@ -320,7 +320,7 @@ public class Main implements NullInterestingness,PredictionRules {
                 FileFolderUtils.createDirectory(outputDir);
                 Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv", creationType);
                 //System.out.println(outputDir);
-                //CreateTXT.resultStrTxt(posTag,outputDir,txtDir, prediction, lemmatizer, inter);
+                CreateTXT.resultStrTxt(posTag,outputDir,txtDir, prediction, lemmatizer, inter);
             }
         } 
 
