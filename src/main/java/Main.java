@@ -255,8 +255,7 @@ public class Main implements NullInterestingness,PredictionRules {
         ));*/
 
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
-             predict_l_for_o_given_s,
-             predict_l_for_o_given_sp
+            predict_l_for_o_given_p
         ));
 
     // first running
@@ -269,7 +268,7 @@ public class Main implements NullInterestingness,PredictionRules {
      // predict_l_for_s_given_o txtO
 
      // fourth running
-     // predict_l_for_o_given_sp predict_l_for_o_given_s txtSSP
+     // predict_l_for_o_given_p txtOP
 
      // fifth running generate txt
      //  predict_localized_l_for_s_given_po,
@@ -312,7 +311,7 @@ public class Main implements NullInterestingness,PredictionRules {
             for (String inter : interestingness) {
                 outputDir = resourceDir + "/" + prediction + "/" + inter+"/";
                 FileFolderUtils.createDirectory(outputDir);
-                //Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv");
+                Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv");
                 //System.out.println(outputDir);
                 CreateTXT.resultStrTxt(posTag,outputDir,txtDir, prediction, lemmatizer, inter);
             }
