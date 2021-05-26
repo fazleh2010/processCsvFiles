@@ -51,31 +51,18 @@ import main.PredictionRules;
  */
 public class Main implements NullInterestingness,PredictionRules {
 
-    public static String createLexicon = "createLexicon";
-    static String createExperimentLine = "createExperimentLine";
 
-    public Main(String rawFileDir, String outputDir, String givenPrediction, String givenInterestingness, Logger givenLOGGER, String fileType, String creationType) throws Exception {
-        // this.lemmatizer=lemmatizer;
-        String prediction=givenPrediction;
-
-            for (String rule : interestingness) {
-                List<File> files = new  ArrayList<File>();
-                if (creationType.contains(createExperimentLine)) {
-                    
-                    //files = FileFolderUtils.getSpecificFiles(rawFileDir, ".csv");
-                      files = FileFolderUtils.getSpecificFiles(rawFileDir, givenPrediction+"-", ".csv");
-                    if (!files.isEmpty()) {
-                        createExperimentLinesCsv(outputDir, prediction, rule, files, creationType);
-                    } else {
+    public Main(String rawFileDir, String outputDir, String prediction, String givenInterestingness, Logger givenLOGGER, String fileType) throws Exception {
+              List<File> files = FileFolderUtils.getSpecificFiles(rawFileDir, prediction+"-", ".csv");
+                if (!files.isEmpty()) {
+                        createExperimentLinesCsv(outputDir, prediction, givenInterestingness, files);
+                } 
+                else {
                         throw new Exception("NO files found for " + prediction + " " + rawFileDir);
-                    }
-
-                }
-            }
-        
+                 }
     }
 
-    private static void createExperimentLinesCsv(String directory, String dbo_prediction, String interestingness, List<File> classFiles, String creationType) throws Exception {
+    private static void createExperimentLinesCsv(String directory, String dbo_prediction, String interestingness, List<File> classFiles) throws Exception {
 
         List<String[]> rows = new ArrayList<String[]>();
         Integer numberOfClass = 0;
@@ -250,7 +237,6 @@ public class Main implements NullInterestingness,PredictionRules {
 
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
         String outputDir = resourceDir;
-        String creationType = createExperimentLine;
         Lemmatizer lemmatizer = new Lemmatizer();
         //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
         //String  txtDir =  "src/main/resources/data" + "/" + "txt" +  "/"  ;
@@ -278,10 +264,10 @@ public class Main implements NullInterestingness,PredictionRules {
         ));*/
        
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
-             //PredictionRules.predict_localized_l_for_o_given_sp
-               PredictionRules.predict_po_for_s_given_localized_l,
-               PredictionRules.predict_p_for_s_given_localized_l,
-               PredictionRules.predict_p_for_o_given_localized_l
+             PredictionRules.predict_localized_l_for_o_given_sp
+            /*predict_localized_l_for_s_given_p,
+            predict_localized_l_for_s_given_po,
+            predict_localized_l_for_o_given_p */ 
         ));
 
         //now running
@@ -318,9 +304,9 @@ public class Main implements NullInterestingness,PredictionRules {
             for (String inter : interestingness) {
                 outputDir = resourceDir + "/" + prediction + "/" + inter+"/";
                 FileFolderUtils.createDirectory(outputDir);
-                Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv", creationType);
+                Main ProcessFile = new Main(inputDir, outputDir, prediction, inter, LOGGER, ".csv");
                 //System.out.println(outputDir);
-                CreateTXT.resultStrTxt(posTag,outputDir,txtDir, prediction, lemmatizer, inter);
+                //CreateTXT.resultStrTxt(posTag,outputDir,txtDir, prediction, lemmatizer, inter);
             }
         } 
 
