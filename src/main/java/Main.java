@@ -232,7 +232,7 @@ public class Main implements NullInterestingness,PredictionRules {
         posTag.add("JJ");
         posTag.add("NN");
         posTag.add("VB");
-        String txt="txtPo";
+        String txt="txtP";
        
 
         Logger LOGGER = Logger.getLogger(CreateTXT.class.getName());
@@ -255,9 +255,14 @@ public class Main implements NullInterestingness,PredictionRules {
         ));*/
 
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
-             predict_l_for_s_given_po
+             predict_l_for_s_given_p
         ));
 
+    // first running
+    // predict_l_for_s_given_po txtPo
+
+    // second running
+    // predict_l_for_s_given_p txtP
 
 
         //now running
