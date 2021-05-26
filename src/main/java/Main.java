@@ -287,7 +287,10 @@ public class Main implements NullInterestingness,PredictionRules {
         ));*/
        
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
-            predict_localized_l_for_s_given_po  
+            predict_localized_l_for_o_given_sp
+            /*predict_localized_l_for_s_given_p,
+            predict_localized_l_for_s_given_po,
+            predict_localized_l_for_o_given_p */ 
         ));
 
         //now running
