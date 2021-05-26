@@ -574,60 +574,7 @@ public class LineInfo implements NullInterestingness,PredictionRules{
         return fullPosTag;
     }
 
-    @Override
-    public Boolean isPredict_l_for_s_given_po(String predictionRule) {
-        return predictionRule.equals(predict_l_for_s_given_po);
-    }
-
-    @Override
-    public Boolean isPredict_l_for_s_given_o(String predictionRule) {
-        return predictionRule.equals(predict_l_for_s_given_o);
-    }
-
-    @Override
-    public Boolean isPredict_l_for_o_given_s(String predictionRule) {
-         return predictionRule.equals(predict_l_for_o_given_s);
-    }
-
-    @Override
-    public Boolean isPredict_l_for_o_given_sp(String predictionRule) {
-         return predictionRule.equals(predict_l_for_o_given_sp);
-    }
-
-    @Override
-    public Boolean isPredict_l_for_o_given_p(String predictionRule) {
-         return predictionRule.equals(predict_l_for_o_given_p);
-    }
-
-    @Override
-    public Boolean isPredict_l_for_s_given_p(String predictionRule) {
-         return predictionRule.equals(predict_l_for_s_given_p);
-    }
-
-    @Override
-    public Boolean isPredict_localized_l_for_s_given_p(String predictionRule) {
-         return predictionRule.equals(predict_localized_l_for_s_given_p);
-    }
-
-    @Override
-    public Boolean isPredict_po_for_s_given_l(String predictionRule) {
-         return predictionRule.equals(predict_po_for_s_given_l);
-    }
-
-    @Override
-    public Boolean isPredict_po_for_s_given_localized_l(String predictionRule) {
-        return predictionRule.equals(predict_po_for_s_given_localized_l);
-    }
-
-    @Override
-    public Boolean isPredict_p_for_s_given_localized_l(String predictionRule) {
-        return predictionRule.equals(predict_p_for_s_given_localized_l);
-    }
-
-    @Override
-    public Boolean isPredict_p_for_o_given_localized_l(String predictionRule) {
-       return predictionRule.equals(predict_p_for_o_given_localized_l);
-    }
+  
 
     public Double getCheckedAssociationRuleValue() {
         return checkedAssociationRuleValue;

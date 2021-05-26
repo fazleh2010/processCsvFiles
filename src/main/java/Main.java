@@ -287,7 +287,7 @@ public class Main implements NullInterestingness,PredictionRules {
         ));*/
        
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
-            predict_localized_l_for_o_given_sp
+             PredictionRules.predict_localized_l_for_o_given_sp
             /*predict_localized_l_for_s_given_p,
             predict_localized_l_for_s_given_po,
             predict_localized_l_for_o_given_p */ 
@@ -331,66 +331,10 @@ public class Main implements NullInterestingness,PredictionRules {
                 //System.out.println(outputDir);
                 CreateTXT.resultStrTxt(posTag,outputDir,txtDir, prediction, lemmatizer, inter);
             }
-        }
-        
-        
+        } 
 
     }
-    
-    @Override
-    public Boolean isPredict_l_for_s_given_po(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
 
-    @Override
-    public Boolean isPredict_l_for_s_given_o(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    @Override
-    public Boolean isPredict_l_for_o_given_s(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    @Override
-    public Boolean isPredict_l_for_o_given_sp(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    @Override
-    public Boolean isPredict_l_for_o_given_p(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    @Override
-    public Boolean isPredict_l_for_s_given_p(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    @Override
-    public Boolean isPredict_localized_l_for_s_given_p(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    @Override
-    public Boolean isPredict_po_for_s_given_l(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    @Override
-    public Boolean isPredict_po_for_s_given_localized_l(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    @Override
-    public Boolean isPredict_p_for_s_given_localized_l(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    @Override
-    public Boolean isPredict_p_for_o_given_localized_l(String predictionRule) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
     
     
 /*
