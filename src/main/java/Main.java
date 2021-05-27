@@ -255,7 +255,7 @@ public class Main implements NullInterestingness,PredictionRules {
         ));*/
 
         List<String> predictKBGivenLInguistic = new ArrayList<String>(Arrays.asList(
-            predict_l_for_s_given_o
+            predict_l_for_s_given_p
         ));
 
     // first running
@@ -299,11 +299,11 @@ public class Main implements NullInterestingness,PredictionRules {
         
         List<String> interestingness = new ArrayList<String>();
         //interestingness.add(AllConf);
-        //interestingness.add(Coherence);
+         interestingness.add(Coherence);
          interestingness.add(Cosine);
          interestingness.add(Kulczynski);
-         interestingness.add(IR);
-         interestingness.add(MaxConf);
+        //interestingness.add(IR);
+        //interestingness.add(MaxConf);
         for (String prediction : predictKBGivenLInguistic) {
             //String inputDir = baseDir + prediction + "/" ;
              String inputDir = baseDir + "/" ;
